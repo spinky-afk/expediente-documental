@@ -1,5 +1,5 @@
 {
-  "verified_at_utc": "2026-10-01T19:26:53.955165+00:00",
+  "verified_at_utc": "2026-10-01T19:29:32.740455+00:00",
   "observations": 84642,
   "source_files_verified_unchanged": 508,
   "account_provenance_files_verified": 2,
@@ -8,21 +8,21 @@
   "pdf_editions": [
     {
       "pdf": "/home/deep-logic/ai-lab/research/vapid-webpush/historial-cruzado.pdf",
-      "pages": 5645,
+      "pages": 5646,
       "timeline_records": 84642,
       "ids_exact_and_chronological": true,
       "private_key_values_absent": true,
       "account_scope_correction_present": true,
-      "sha256": "2555ab13753d6b9e4d678ab5dc9a98243908bf6827e3b5a9a28d4567698eb138"
+      "sha256": "2500386b46e824e70e97265bb84a551adca4582d018f9003d77ae0d46a0227df"
     },
     {
       "pdf": "/home/deep-logic/ai-lab/research/expediente-documental/sitio/historial-cruzado.pdf",
-      "pages": 5645,
+      "pages": 5646,
       "timeline_records": 84642,
       "ids_exact_and_chronological": true,
       "private_key_values_absent": true,
       "account_scope_correction_present": true,
-      "sha256": "d544b4639a40ca25a54a938891743d9455c0849236719814f574f23bbdb1d5ab"
+      "sha256": "44caf843106bc3dd0053ef8cf06eb786ea1e7aa8bdb820ee6db7eabb8df55186"
     }
   ],
   "site_checks": {
@@ -35,10 +35,10 @@
     "missing_anchors_count": 0,
     "missing_anchor_samples": [],
     "javascript_blocks_checked": 3,
-    "pdf_link_annotations": 109606,
+    "pdf_link_annotations": 109611,
     "pdf_external_or_machine_specific_links": [],
     "account": {
-      "updated_at_utc": "2026-10-01T19:25:36.484367+00:00",
+      "updated_at_utc": "2026-10-01T19:28:15.123900+00:00",
       "preferred_account_name": "spinky-afk",
       "account_created": true,
       "github_connected": true,

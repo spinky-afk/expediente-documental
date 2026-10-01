@@ -1,10 +1,10 @@
 {
-  "created_at_utc": "2026-10-01T19:29:34.487499+00:00",
+  "created_at_utc": "2026-10-01T19:31:07.608020+00:00",
   "visibility_required": "private",
   "private_data_exclusions": [],
   "original_files": 858,
   "research_files": 1633,
-  "bytes": 643708048,
+  "bytes": 643708299,
   "files": [
     {
       "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Actividad del registro de acceso/Dispositivos_ Una lista de los dispositivos (p. ej., Nest, Pixel, iPhone, Galaxy, etc.) que accedieron a tu Cuenta de Google durante los últimos 270 días.csv",
@@ -17342,8 +17342,8 @@
       "source_path": "/home/deep-logic/ai-lab/research/vapid-webpush/scripts/construir_sitio.py",
       "repository_path": "evidencia/investigacion/scripts/construir_sitio.py",
       "kind": "research",
-      "bytes": 39368,
-      "sha256": "d6dbfa6052568f21beb2d7e99331ed7df11133b8d1c7cb1eaad0b426d9c8d1c8"
+      "bytes": 39517,
+      "sha256": "2d22991f45872112da7d1b602f5fff8fb611f5d0d982bdac314a6953cebf0bfb"
     },
     {
       "source_path": "/home/deep-logic/ai-lab/research/vapid-webpush/scripts/documentar.py",
@@ -17412,8 +17412,8 @@
       "source_path": "/home/deep-logic/ai-lab/research/vapid-webpush/scripts/publicar_github.py",
       "repository_path": "evidencia/investigacion/scripts/publicar_github.py",
       "kind": "research",
-      "bytes": 4080,
-      "sha256": "3c9815f3a5ce2f7748d0c9c93db42fc0f3c6b71d657ac2b905fb4b6598670270"
+      "bytes": 4182,
+      "sha256": "93d81976893285f064ae09d75d4156093d9917a83a501f2e14b71d794b612b3c"
     },
     {
       "source_path": "/home/deep-logic/ai-lab/research/vapid-webpush/scripts/revisar_metadatos_imagenes.py",

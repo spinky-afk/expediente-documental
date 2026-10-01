@@ -23,6 +23,7 @@ ref=json.loads(cmd([str(GH),'api','repos/'+name+'/git/ref/heads/main']).stdout)
 assert ref['object']['sha']==head
 verified=json.loads(cmd([str(GH),'api','repos/'+name]).stdout);assert verified['private'] is True
 p=ROOT/'estado-publicacion.json';state=json.loads(p.read_text());state.update(github_connected=True,verified_github_login=login,remote_repository=repo['html_url'],remote_visibility='private',uploaded_at_utc=datetime.now(timezone.utc).isoformat(),verified_uploaded_commit=head,site_publication='local_in_private_repository',pages_enabled=False,full_private_evidence_uploaded=True);p.write_text(json.dumps(state,ensure_ascii=False,indent=2)+'\n')
+(ROOT/'sitio/estado-publicacion.json').write_text(json.dumps(state,ensure_ascii=False,indent=2)+'\n')
 # Conservar el hecho de publicación en el registro, sin incluir credenciales.
 p=R/'registro.md';s=p.read_text();s+='\n\nPublicación GitHub comprobada: '+repo['html_url']+' · privado · '+state['uploaded_at_utc']+' · commit '+head+'. Git y LFS terminaron correctamente; la referencia remota main coincide.\n';p.write_text(s)
 for target in [ROOT/'sitio/registro.md',ROOT/'sitio/investigacion/registro.md',ROOT/'evidencia/investigacion/registro.md']:
