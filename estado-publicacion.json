@@ -3,9 +3,9 @@
   "preferred_account_name": "spinky-afk",
   "account_created": true,
   "github_connected": true,
-  "remote_repository": null,
+  "remote_repository": "https://github.com/spinky-afk/expediente-documental",
   "repository_required_visibility": "private",
-  "site_publication": "local",
+  "site_publication": "local_in_private_repository",
   "pages_enabled": false,
   "raw_originals": 858,
   "plain_originals": 857,
@@ -13,5 +13,9 @@
   "timeline_observations": 84642,
   "timeline_sources": 508,
   "known_private_key_files_encrypted": 4,
-  "verified_github_login": "spinky-afk"
+  "verified_github_login": "spinky-afk",
+  "remote_visibility": "private",
+  "uploaded_at_utc": "2026-10-01T19:46:08.573148+00:00",
+  "verified_uploaded_commit": "60c2b1c5ec861583068127ac9871910d853b3f04",
+  "full_private_evidence_uploaded": true
 }

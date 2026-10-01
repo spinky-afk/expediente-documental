@@ -1939,3 +1939,6 @@ La carpeta evidencia del repositorio conserva todos los originales investigados 
 
 El estado remoto verificado y la hora de publicación se registran en estado-publicacion.json. Fuentes técnicas consultadas: G03 GitHub CLI oficial, G04 Git LFS oficial, G05 gh auth login, G06 límites de archivos GitHub. Las fichas y enlaces se conservan en datos/github-fuentes-web.json.
 <!-- FIN_RESULTADOS_SESION_11 -->
+
+
+Publicación GitHub comprobada: https://github.com/spinky-afk/expediente-documental · privado · 2026-10-01T19:46:08.573148+00:00 · commit 60c2b1c5ec861583068127ac9871910d853b3f04. Git y LFS terminaron correctamente; la referencia remota main coincide.

@@ -23,3 +23,6 @@ El registro se conserva en research y en el sitio. Las fuentes originales incluy
 La carpeta `evidencia/originales` contiene todos los originales sin excluir datos privados, incluida la configuración Chrome. `evidencia/investigacion` conserva todo research, las claves recuperadas y la clave de respaldo, según autorización del propietario. El sitio conserva adicionalmente su respaldo cifrado y vistas de lectura. Los archivos grandes usan Git LFS: descarga mediante `git clone` y `git lfs pull` para recuperar sus bytes completos. Las credenciales de la conexión GitHub están fuera del expediente.
 
 La carta reproduce un testimonio personal solicitado. Las acusaciones no son conclusiones verificadas del análisis. No se envió a sus destinatarios.
+
+
+Repositorio verificado: [spinky-afk/expediente-documental](https://github.com/spinky-afk/expediente-documental). Visibilidad privada. La subida incluye evidencia íntegra y objetos LFS. El sitio se consulta localmente después de clonar; GitHub Pages permanece desactivado.
