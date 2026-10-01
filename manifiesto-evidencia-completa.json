@@ -4,7 +4,7 @@
   "private_data_exclusions": [],
   "original_files": 858,
   "research_files": 1633,
-  "bytes": 643709240,
+  "bytes": 643709347,
   "files": [
     {
       "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Actividad del registro de acceso/Dispositivos_ Una lista de los dispositivos (p. ej., Nest, Pixel, iPhone, Galaxy, etc.) que accedieron a tu Cuenta de Google durante los últimos 270 días.csv",
@@ -17300,8 +17300,8 @@
       "source_path": "/home/deep-logic/ai-lab/research/vapid-webpush/scripts/ampliar_iphone.py",
       "repository_path": "evidencia/investigacion/scripts/ampliar_iphone.py",
       "kind": "research",
-      "bytes": 5315,
-      "sha256": "01a0f97d67898250286bd0685e495666648fb1ce04cf3ed4dead489595cfef39"
+      "bytes": 5422,
+      "sha256": "944bc2af4124733302e6fbf4277d11f28faa0d22b79a76c1aa98be591dc0a326"
     },
     {
       "source_path": "/home/deep-logic/ai-lab/research/vapid-webpush/scripts/ampliar_noche_dispositivos.py",
