@@ -212,6 +212,61 @@
     "consulted_on": "2026-10-01"
   },
   {
+    "id": "N01",
+    "title": "Ficha del desarrollador: HomeKit App for Android Hints",
+    "url": "https://play.google.com/store/apps/details?id=com.snailhd.inara.app",
+    "notes": "La ficha actual del paquete encontrado en el historial lo describe como guía educativa independiente, sin afiliación con Apple. Su descripción o presencia en Play no constituye una auditoría del APK ni demuestra malware.",
+    "status": "contenido actual verificado",
+    "consulted_on": "2026-10-01",
+    "relationship": "Consulta técnica actual; la evidencia personal se conserva por separado en las exportaciones locales."
+  },
+  {
+    "id": "N02",
+    "title": "Google: respaldo y restauración de Android",
+    "url": "https://support.google.com/android/answer/2819582?hl=es-419",
+    "notes": "Android puede respaldar apps, datos, configuración y mensajes automáticamente. Al agregar la cuenta a un teléfono configurado puede recuperar datos guardados. El uso de componentes de respaldo por sí solo no prueba un ataque.",
+    "status": "contenido actual verificado",
+    "consulted_on": "2026-10-01",
+    "relationship": "Consulta técnica actual; la evidencia personal se conserva por separado en las exportaciones locales."
+  },
+  {
+    "id": "N03",
+    "title": "Google: dispositivos y sesiones de cuenta",
+    "url": "https://support.google.com/accounts/answer/3067630?hl=es-419",
+    "notes": "Un mismo dispositivo puede tener varias sesiones. Las horas incluyen comunicación en segundo plano y sincronización; no deben confundirse con una nueva autenticación exitosa o una persona usando el teléfono.",
+    "status": "contenido actual verificado",
+    "consulted_on": "2026-10-01",
+    "relationship": "Consulta técnica actual; la evidencia personal se conserva por separado en las exportaciones locales."
+  },
+  {
+    "id": "N04",
+    "title": "Google: restablecimiento de fábrica Android",
+    "url": "https://support.google.com/android/answer/6088915?hl=es-419",
+    "notes": "Referencia del procedimiento general y requisitos de credenciales. No se ejecutó un restablecimiento. Esta ayuda no identifica la causa del problema concreto referido por el usuario.",
+    "status": "página oficial consultada",
+    "consulted_on": "2026-10-01",
+    "relationship": "Consulta técnica actual; la evidencia personal se conserva por separado en las exportaciones locales."
+  },
+  {
+    "id": "N05",
+    "title": "Apple: app Home oficial",
+    "url": "https://www.apple.com/home-app/",
+    "notes": "Apple describe Home para sus dispositivos y accesorios. Es una referencia sobre el producto, sin demostrar que existan automatizaciones en una cuenta concreta del usuario.",
+    "status": "resultado oficial consultado",
+    "consulted_on": "2026-10-01",
+    "relationship": "Consulta técnica actual; la evidencia personal se conserva por separado en las exportaciones locales."
+  },
+  {
+    "id": "O01",
+    "consulted_on": "2026-10-01",
+    "title": "OpenAI Docs: proyectos y conversaciones",
+    "url": "https://learn.chatgpt.com/docs/projects",
+    "opened_url": "https://learn.chatgpt.com/docs/projects?translationFallback=fr-FR",
+    "notes": "Cada conversación conserva su transcripción. Las conversaciones de un proyecto local pueden trabajar con los mismos archivos. Esta referencia explica el funcionamiento de la herramienta y no constituye evidencia de actividad en las cuentas personales.",
+    "query": "Codex app threads shared workspace worktrees",
+    "status": "contenido oficial abierto y verificado"
+  },
+  {
     "id": "G01",
     "title": "GitHub: creación de cuenta",
     "url": "https://docs.github.com/en/account-and-profile/how-tos/account-management/creating-an-account-on-github",

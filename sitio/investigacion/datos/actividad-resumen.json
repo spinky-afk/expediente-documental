@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-10-01T14:48:53.591600+00:00",
+  "generated_at_utc": "2026-10-01T16:05:15.527423+00:00",
   "timezone": "America/Mexico_City",
-  "dated_observations": 26871,
+  "dated_observations": 27044,
   "undated_observations": 38,
   "earliest": "2022-08-15T18:50:51.000000-05:00",
   "latest": "2026-09-27T00:29:06.000000-06:00",
-  "source_files": 482,
+  "source_files": 495,
   "source_counts": [
     {
       "family": "Facebook",
@@ -439,6 +439,16 @@
     },
     {
       "family": "Google",
+      "channel": "Chrome · información de dispositivos",
+      "count": 4
+    },
+    {
+      "family": "Google",
+      "channel": "Configuración de dispositivos Android",
+      "count": 161
+    },
+    {
+      "family": "Google",
       "channel": "Discover",
       "count": 151
     },
@@ -644,6 +654,11 @@
     },
     {
       "family": "Google",
+      "channel": "Servicios de juego de Google Play",
+      "count": 8
+    },
+    {
+      "family": "Google",
       "channel": "Takeout",
       "count": 88
     },
@@ -745,30 +760,30 @@
     }
   ],
   "coppel_event_ids": [
-    "E016950",
-    "E017165",
-    "E017507",
-    "E017653",
-    "E018106",
-    "E018122",
-    "E021395",
-    "E021396",
-    "E021434"
+    "E016957",
+    "E017172",
+    "E017515",
+    "E017661",
+    "E018115",
+    "E018131",
+    "E021442",
+    "E021443",
+    "E021481"
   ],
   "epazote_event_ids": [
-    "E019344",
-    "E019331",
-    "E019319"
+    "E019355",
+    "E019342",
+    "E019330"
   ],
   "google_business_event_ids": [
-    "E026747",
-    "E026748",
-    "E026749",
-    "E026750",
-    "E026751",
-    "E026752",
-    "E026753",
-    "E026754",
-    "E026755"
+    "E026920",
+    "E026921",
+    "E026922",
+    "E026923",
+    "E026924",
+    "E026925",
+    "E026926",
+    "E026927",
+    "E026928"
   ]
 }

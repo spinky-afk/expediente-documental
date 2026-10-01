@@ -4819,5 +4819,135 @@
     "records": 219,
     "original_local": "originales/facebook/your_facebook_activity/stories/story_reactions.html",
     "view_local": "paginas/facebook/your_facebook_activity/stories/story_reactions.html"
+  },
+  {
+    "code": "S483",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Servicio de configuración de dispositivos Android/Device-3644671859603123984.html",
+    "family": "Google",
+    "sha256": "f0e1eccb17543176b5135f2e967d3b504eed5f61beb130e1d6c51056c45beb33",
+    "bytes": 24470,
+    "records": 25,
+    "original_local": "originales/google/Servicio%20de%20configuraci%C3%B3n%20de%20dispositivos%20Android/Device-3644671859603123984.html",
+    "view_local": "paginas/google/Servicio%20de%20configuraci%C3%B3n%20de%20dispositivos%20Android/Device-3644671859603123984.html"
+  },
+  {
+    "code": "S484",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Servicio de configuración de dispositivos Android/Device-3778158131092576330.html",
+    "family": "Google",
+    "sha256": "99e398960aa7d812a8433b72b9f0f23529eeecedf8c2affc34fdb263e406557e",
+    "bytes": 21902,
+    "records": 8,
+    "original_local": "originales/google/Servicio%20de%20configuraci%C3%B3n%20de%20dispositivos%20Android/Device-3778158131092576330.html",
+    "view_local": "paginas/google/Servicio%20de%20configuraci%C3%B3n%20de%20dispositivos%20Android/Device-3778158131092576330.html"
+  },
+  {
+    "code": "S485",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Servicio de configuración de dispositivos Android/Device-3975241346881164962.html",
+    "family": "Google",
+    "sha256": "c5373ac02f9b5ea35baf614050fe9d2fe3975a08e50f785a4eea8a80825bbda3",
+    "bytes": 25790,
+    "records": 33,
+    "original_local": "originales/google/Servicio%20de%20configuraci%C3%B3n%20de%20dispositivos%20Android/Device-3975241346881164962.html",
+    "view_local": "paginas/google/Servicio%20de%20configuraci%C3%B3n%20de%20dispositivos%20Android/Device-3975241346881164962.html"
+  },
+  {
+    "code": "S486",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Servicio de configuración de dispositivos Android/Device-4247182940332696163.html",
+    "family": "Google",
+    "sha256": "613432ffa6ff52ad675c7cb6e1bb88b8a489f1fb16518999429d99130c6c3c3e",
+    "bytes": 25264,
+    "records": 32,
+    "original_local": "originales/google/Servicio%20de%20configuraci%C3%B3n%20de%20dispositivos%20Android/Device-4247182940332696163.html",
+    "view_local": "paginas/google/Servicio%20de%20configuraci%C3%B3n%20de%20dispositivos%20Android/Device-4247182940332696163.html"
+  },
+  {
+    "code": "S487",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Servicio de configuración de dispositivos Android/Device-4511226476644240739.html",
+    "family": "Google",
+    "sha256": "d76016b25286c658321ff6de56bbb347f004529b441476b23de26e6222634001",
+    "bytes": 31754,
+    "records": 63,
+    "original_local": "originales/google/Servicio%20de%20configuraci%C3%B3n%20de%20dispositivos%20Android/Device-4511226476644240739.html",
+    "view_local": "paginas/google/Servicio%20de%20configuraci%C3%B3n%20de%20dispositivos%20Android/Device-4511226476644240739.html"
+  },
+  {
+    "code": "S488",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Servicios de juego de Google Play/Global/Player.html",
+    "family": "Google",
+    "sha256": "56f97bf2d32dc332986facb94294d758a4568b348e3cee3bba6f4ede53302b06",
+    "bytes": 1029,
+    "records": 2,
+    "original_local": "originales/google/Servicios%20de%20juego%20de%20Google%20Play/Global/Player.html",
+    "view_local": "paginas/google/Servicios%20de%20juego%20de%20Google%20Play/Global/Player.html"
+  },
+  {
+    "code": "S489",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Servicios de juego de Google Play/Global/Playtime.html",
+    "family": "Google",
+    "sha256": "67e8cd31a6c70e417fe687d523880f24c2d99d25abb06b86651457fff684a76d",
+    "bytes": 839,
+    "records": 2,
+    "original_local": "originales/google/Servicios%20de%20juego%20de%20Google%20Play/Global/Playtime.html",
+    "view_local": "paginas/google/Servicios%20de%20juego%20de%20Google%20Play/Global/Playtime.html"
+  },
+  {
+    "code": "S490",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Servicios de juego de Google Play/Global/Streaks.html",
+    "family": "Google",
+    "sha256": "107f440916ccca88c63b089f8188afcd6e273401cd0d3efa722f22116d4edf43",
+    "bytes": 409,
+    "records": 0,
+    "original_local": "originales/google/Servicios%20de%20juego%20de%20Google%20Play/Global/Streaks.html",
+    "view_local": "paginas/google/Servicios%20de%20juego%20de%20Google%20Play/Global/Streaks.html"
+  },
+  {
+    "code": "S491",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Servicios de juego de Google Play/Google Games/Words of Wonders_ Crucigrama/Actividad.html",
+    "family": "Google",
+    "sha256": "784c59e51ef151fbbb8206b2b12da71f99bc1d17c279f4400b6716e06893258f",
+    "bytes": 551,
+    "records": 2,
+    "original_local": "originales/google/Servicios%20de%20juego%20de%20Google%20Play/Google%20Games/Words%20of%20Wonders_%20Crucigrama/Actividad.html",
+    "view_local": "paginas/google/Servicios%20de%20juego%20de%20Google%20Play/Google%20Games/Words%20of%20Wonders_%20Crucigrama/Actividad.html"
+  },
+  {
+    "code": "S492",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Servicios de juego de Google Play/Google Games/Words of Wonders_ Crucigrama/Recall.html",
+    "family": "Google",
+    "sha256": "2ea92fa118507f45f3da14fdcfd82bd519d4eb8b787e367f0c9245ea41a8405c",
+    "bytes": 317,
+    "records": 0,
+    "original_local": "originales/google/Servicios%20de%20juego%20de%20Google%20Play/Google%20Games/Words%20of%20Wonders_%20Crucigrama/Recall.html",
+    "view_local": "paginas/google/Servicios%20de%20juego%20de%20Google%20Play/Google%20Games/Words%20of%20Wonders_%20Crucigrama/Recall.html"
+  },
+  {
+    "code": "S493",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Servicios de juego de Google Play/Google Games/Words of Wonders_ Crucigrama/Saved Games/ALF.FugoID/Metadatos.html",
+    "family": "Google",
+    "sha256": "be524573c0a30d5b34697510c58a35547879ba222d381e429d6d96951b9006b4",
+    "bytes": 633,
+    "records": 1,
+    "original_local": "originales/google/Servicios%20de%20juego%20de%20Google%20Play/Google%20Games/Words%20of%20Wonders_%20Crucigrama/Saved%20Games/ALF.FugoID/Metadatos.html",
+    "view_local": "paginas/google/Servicios%20de%20juego%20de%20Google%20Play/Google%20Games/Words%20of%20Wonders_%20Crucigrama/Saved%20Games/ALF.FugoID/Metadatos.html"
+  },
+  {
+    "code": "S494",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Servicios de juego de Google Play/Google Games/Words of Wonders_ Crucigrama/Saved Games/com.fugo.wow.cloudData/Metadatos.html",
+    "family": "Google",
+    "sha256": "954a0adefe8160a40bb059ca7be936d8f65cf787fdb38dc2cec3a7272cda4bb9",
+    "bytes": 645,
+    "records": 1,
+    "original_local": "originales/google/Servicios%20de%20juego%20de%20Google%20Play/Google%20Games/Words%20of%20Wonders_%20Crucigrama/Saved%20Games/com.fugo.wow.cloudData/Metadatos.html",
+    "view_local": "paginas/google/Servicios%20de%20juego%20de%20Google%20Play/Google%20Games/Words%20of%20Wonders_%20Crucigrama/Saved%20Games/com.fugo.wow.cloudData/Metadatos.html"
+  },
+  {
+    "code": "S495",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Chrome/Información del dispositivo.json",
+    "family": "Google",
+    "sha256": "006bd0958d7c75b9d41b925cf6404ecab64c8c2c140f9469e556edd4e0b9d854",
+    "bytes": 6877,
+    "records": 4,
+    "original_local": "originales/google/Chrome/Informaci%C3%B3n%20del%20dispositivo.json",
+    "view_local": "paginas/google/Chrome/Informaci%C3%B3n%20del%20dispositivo.json.html"
   }
 ]

@@ -1,0 +1,57 @@
+{
+  "verified_at_utc": "2026-10-01T18:02:00.239524+00:00",
+  "observations": 27044,
+  "source_files_verified_unchanged": 495,
+  "account_provenance_files_verified": 2,
+  "sorted_by_utc": true,
+  "unique_observation_ids": true,
+  "pdf_editions": [
+    {
+      "pdf": "/home/deep-logic/ai-lab/research/vapid-webpush/historial-cruzado.pdf",
+      "pages": 2370,
+      "timeline_records": 27044,
+      "ids_exact_and_chronological": true,
+      "private_key_values_absent": true,
+      "account_scope_correction_present": true,
+      "sha256": "3f62f80ec339dbb84f1e8422a298837e1a663ed10cec832d4eff2ae8ba92b851"
+    },
+    {
+      "pdf": "/home/deep-logic/ai-lab/research/expediente-documental/sitio/historial-cruzado.pdf",
+      "pages": 2370,
+      "timeline_records": 27044,
+      "ids_exact_and_chronological": true,
+      "private_key_values_absent": true,
+      "account_scope_correction_present": true,
+      "sha256": "2f528b7b0fcae0e5304180174d512532994a4cf320f163c50ccc955e56d47b7d"
+    }
+  ],
+  "site_checks": {
+    "original_copies_verified": 844,
+    "encrypted_files_restored_in_memory": 4,
+    "private_key_leaks": [],
+    "external_navigation_in_site_pages": [],
+    "missing_local_links": [],
+    "anchored_observations": 24649,
+    "missing_anchors_count": 0,
+    "missing_anchor_samples": [],
+    "javascript_blocks_checked": 3,
+    "pdf_link_annotations": 51845,
+    "pdf_external_or_machine_specific_links": [],
+    "account": {
+      "updated_at_utc": "2026-10-01T17:55:13.913278+00:00",
+      "preferred_account_name": "spinky-afk",
+      "account_created": true,
+      "github_connected": false,
+      "remote_repository": null,
+      "repository_required_visibility": "private",
+      "site_publication": "pending",
+      "pages_enabled": false,
+      "raw_originals": 845,
+      "plain_originals": 844,
+      "encrypted_originals": 1,
+      "timeline_observations": 27044,
+      "timeline_sources": 495,
+      "known_private_key_files_encrypted": 4
+    }
+  }
+}

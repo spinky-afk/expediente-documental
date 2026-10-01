@@ -1,0 +1,9 @@
+{
+  "checked_on": "2026-10-01",
+  "requested_email": "hadilene116@gmail.com",
+  "interpretation": "El perfil y la información del suscriptor del Takeout local incluyen la cuenta solicitada. La conexión actual de Drive es una fuente distinta. Esto identifica el conjunto exportado, sin atribuir cada acción a una persona ni validar el contenido actual en línea.",
+  "files": [
+    {"path": "/home/deep-logic/Documentos/Registro/Takeout/Perfil/Perfil.json", "sha256": "87977268ece5c2f4c6396530e20b99390a3e48df329c9594ed1473aa27b07ed8", "requested_email_present": true},
+    {"path": "/home/deep-logic/Documentos/Registro/Takeout/Cuenta de Google/hadilene116.SubscriberInfo.html", "sha256": "dbe735ab004b8585d98df76c5be3645d420890ad645c159cf86a60e53bf5b2f4", "requested_email_present": true}
+  ]
+}

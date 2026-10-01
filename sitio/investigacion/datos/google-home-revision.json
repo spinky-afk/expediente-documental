@@ -1,0 +1,154 @@
+{
+  "files": [
+    {
+      "source": {
+        "code": "S029",
+        "path": "/home/deep-logic/Documentos/Registro/Takeout/App de Home/ApplicationPermissions.json",
+        "family": "Google",
+        "sha256": "a1742f1e1a7b8b0588727b781d81075c3e3261991dfdf33eef018b11de733d4d",
+        "bytes": 74,
+        "records": 0
+      },
+      "top_level_keys": [
+        "Home Platform Application Permissions Grants"
+      ],
+      "content_empty": true,
+      "structure": {
+        "Home Platform Application Permissions Grants": [
+          {}
+        ]
+      }
+    },
+    {
+      "source": {
+        "code": "S030",
+        "path": "/home/deep-logic/Documentos/Registro/Takeout/App de Home/Automations.json",
+        "family": "Google",
+        "sha256": "7f4ec41fb8cb5fcff679e673a315688a1abe324ad70271b674f31feffb08a4ff",
+        "bytes": 46,
+        "records": 0
+      },
+      "top_level_keys": [
+        "Automations Data"
+      ],
+      "content_empty": true,
+      "structure": {
+        "Automations Data": [
+          {}
+        ]
+      }
+    },
+    {
+      "source": {
+        "code": "S031",
+        "path": "/home/deep-logic/Documentos/Registro/Takeout/App de Home/GoogleNestConnect.json",
+        "family": "Google",
+        "sha256": "8734a4047d581a3277ff93164e4b8df5aa6557180c281990a0b3d9513f41eca0",
+        "bytes": 54,
+        "records": 0
+      },
+      "top_level_keys": [
+        "Google Nest Connect Data"
+      ],
+      "content_empty": true,
+      "structure": {
+        "Google Nest Connect Data": [
+          {}
+        ]
+      }
+    },
+    {
+      "source": {
+        "code": "S032",
+        "path": "/home/deep-logic/Documentos/Registro/Takeout/App de Home/GoogleNestPartnerConnections.json",
+        "family": "Google",
+        "sha256": "5188689334fab9f413e8a31365ffa39ebc3afd6a0ec3df207e75a06bbaaf3095",
+        "bytes": 66,
+        "records": 0
+      },
+      "top_level_keys": [
+        "Google Nest Partner Connections Data"
+      ],
+      "content_empty": true,
+      "structure": {
+        "Google Nest Partner Connections Data": [
+          {}
+        ]
+      }
+    },
+    {
+      "source": {
+        "code": "S033",
+        "path": "/home/deep-logic/Documentos/Registro/Takeout/App de Home/HomeApp.json",
+        "family": "Google",
+        "sha256": "8e88ae0bff979a142e989131c3f901e9734b93d76d0a2d455855004471890022",
+        "bytes": 43,
+        "records": 0
+      },
+      "top_level_keys": [
+        "Home App Data"
+      ],
+      "content_empty": true,
+      "structure": {
+        "Home App Data": [
+          {}
+        ]
+      }
+    },
+    {
+      "source": {
+        "code": "S034",
+        "path": "/home/deep-logic/Documentos/Registro/Takeout/App de Home/HomeHistory.json",
+        "family": "Google",
+        "sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+        "bytes": 2,
+        "records": 0
+      },
+      "top_level_keys": [],
+      "content_empty": true,
+      "structure": {}
+    },
+    {
+      "source": {
+        "code": "S035",
+        "path": "/home/deep-logic/Documentos/Registro/Takeout/App de Home/SecurityAlarmClips.json",
+        "family": "Google",
+        "sha256": "aef023b9de0e311aa4f8c1f2dd73821cb68e592a9ae79eedc860845dc86659a3",
+        "bytes": 55,
+        "records": 0
+      },
+      "top_level_keys": [
+        "Security Alarm Clips Data"
+      ],
+      "content_empty": true,
+      "structure": {
+        "Security Alarm Clips Data": [
+          {}
+        ]
+      }
+    },
+    {
+      "source": {
+        "code": "S036",
+        "path": "/home/deep-logic/Documentos/Registro/Takeout/App de Home/SoundSensing.json",
+        "family": "Google",
+        "sha256": "556abad90f1b14cee24b76fd3e3d023e10d82254365f4811176079ae75438b3b",
+        "bytes": 46,
+        "records": 0
+      },
+      "top_level_keys": [
+        "SoundSensingData"
+      ],
+      "content_empty": true,
+      "structure": {
+        "SoundSensingData": [
+          {}
+        ]
+      }
+    }
+  ],
+  "automation_commands_recovered": 0,
+  "permissions_recovered": 0,
+  "home_members_recovered": 0,
+  "limitation": "Estructuras vacías en esta exportación. No permite afirmar que se ejecutaron automatizaciones ni que nunca existieron. No hay exportación de Apple Home disponible; el usuario la deja pendiente."
+}

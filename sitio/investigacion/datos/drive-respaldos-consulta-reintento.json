@@ -1,0 +1,89 @@
+{
+  "consulted_at_utc": "2026-10-01T17:31:43.006Z",
+  "requested_file_ids": [
+    "1iO7scCcYFZiCkEFrMaqHI2BwIAIxEy9L",
+    "1NFjcPODI2jUo-vE2lHQ1wu5u6_ZQcXyX",
+    "162S6duHuzm46xYBdRR4SghL9hSuWlte2",
+    "17AKwvJEmxqHevoSzfNU0Ef0yqIK_mSmf"
+  ],
+  "results": [
+    {
+      "status": "fulfilled",
+      "value": {
+        "content": [
+          {
+            "type": "text",
+            "text": "Action completed."
+          }
+        ],
+        "structuredContent": {
+          "id": "1iO7scCcYFZiCkEFrMaqHI2BwIAIxEy9L",
+          "title": "Cloud Backup and Restore",
+          "mime_type": "application/vnd.google-apps.folder",
+          "size": null,
+          "url": "https://drive.google.com/drive/folders/1iO7scCcYFZiCkEFrMaqHI2BwIAIxEy9L",
+          "display_url": "https://drive.google.com/drive/folders/1iO7scCcYFZiCkEFrMaqHI2BwIAIxEy9L",
+          "file_or_folder": "folder",
+          "created_time": "2026-09-20T13:01:59.315Z",
+          "modified_time": "2026-09-27T00:29:43.649Z",
+          "parent_ids": null,
+          "drive_id": null,
+          "current_user_can_share": null,
+          "has_augmented_permissions": null,
+          "shared": null,
+          "permissions": null,
+          "source_visibility_status": "access_not_verified"
+        },
+        "isError": false
+      }
+    },
+    {
+      "status": "fulfilled",
+      "value": {
+        "content": [
+          {
+            "type": "text",
+            "text": "HTTPError: 404: \n\n\n\nNot Found\n\nContent:\n{'code': 404,\n 'errors': [{'domain': 'global',\n             'location': 'fileId',\n             'locationType': 'parameter',\n             'message': 'File not found: 1NFjcPODI2jUo-vE2lHQ1wu5u6_ZQcXyX.',\n             'reason': 'notFound'}],\n 'message': 'File not found: 1NFjcPODI2jUo-vE2lHQ1wu5u6_ZQcXyX.'}\n\nRequest URL:\nhttps://www.googleapis.com/drive/v3/files/1NFjcPODI2jUo-vE2lHQ1wu5u6_ZQcXyX?supportsAllDrives=True&fields=id%2Cname%2CmimeType%2CcreatedTime%2CmodifiedTime%2Csize%2Cmd5Checksum%2Cparents%2Ctrashed%2CwebViewLink%2CownedByMe (Response: {'error': {'code': 404, 'message': 'File not found: 1NFjcPODI2jUo-vE2lHQ1wu5u6_ZQcXyX.', 'errors': [{'message': 'File not found: 1NFjcPODI2jUo-vE2lHQ1wu5u6_ZQcXyX.', 'domain': 'global', 'reason': 'notFound', 'location': 'fileId', 'locationType': 'parameter'}]}})"
+          }
+        ],
+        "structuredContent": {
+          "error": "HTTPError: 404: \n\n\n\nNot Found\n\nContent:\n{'code': 404,\n 'errors': [{'domain': 'global',\n             'location': 'fileId',\n             'locationType': 'parameter',\n             'message': 'File not found: 1NFjcPODI2jUo-vE2lHQ1wu5u6_ZQcXyX.',\n             'reason': 'notFound'}],\n 'message': 'File not found: 1NFjcPODI2jUo-vE2lHQ1wu5u6_ZQcXyX.'}\n\nRequest URL:\nhttps://www.googleapis.com/drive/v3/files/1NFjcPODI2jUo-vE2lHQ1wu5u6_ZQcXyX?supportsAllDrives=True&fields=id%2Cname%2CmimeType%2CcreatedTime%2CmodifiedTime%2Csize%2Cmd5Checksum%2Cparents%2Ctrashed%2CwebViewLink%2CownedByMe (Response: {'error': {'code': 404, 'message': 'File not found: 1NFjcPODI2jUo-vE2lHQ1wu5u6_ZQcXyX.', 'errors': [{'message': 'File not found: 1NFjcPODI2jUo-vE2lHQ1wu5u6_ZQcXyX.', 'domain': 'global', 'reason': 'notFound', 'location': 'fileId', 'locationType': 'parameter'}]}})",
+          "error_code": "NOT_FOUND"
+        },
+        "isError": true
+      }
+    },
+    {
+      "status": "fulfilled",
+      "value": {
+        "content": [
+          {
+            "type": "text",
+            "text": "HTTPError: 404: \n\n\n\nNot Found\n\nContent:\n{'code': 404,\n 'errors': [{'domain': 'global',\n             'location': 'fileId',\n             'locationType': 'parameter',\n             'message': 'File not found: 162S6duHuzm46xYBdRR4SghL9hSuWlte2.',\n             'reason': 'notFound'}],\n 'message': 'File not found: 162S6duHuzm46xYBdRR4SghL9hSuWlte2.'}\n\nRequest URL:\nhttps://www.googleapis.com/drive/v3/files/162S6duHuzm46xYBdRR4SghL9hSuWlte2?supportsAllDrives=True&fields=id%2Cname%2CmimeType%2CcreatedTime%2CmodifiedTime%2Csize%2Cmd5Checksum%2Cparents%2Ctrashed%2CwebViewLink%2CownedByMe (Response: {'error': {'code': 404, 'message': 'File not found: 162S6duHuzm46xYBdRR4SghL9hSuWlte2.', 'errors': [{'message': 'File not found: 162S6duHuzm46xYBdRR4SghL9hSuWlte2.', 'domain': 'global', 'reason': 'notFound', 'location': 'fileId', 'locationType': 'parameter'}]}})"
+          }
+        ],
+        "structuredContent": {
+          "error": "HTTPError: 404: \n\n\n\nNot Found\n\nContent:\n{'code': 404,\n 'errors': [{'domain': 'global',\n             'location': 'fileId',\n             'locationType': 'parameter',\n             'message': 'File not found: 162S6duHuzm46xYBdRR4SghL9hSuWlte2.',\n             'reason': 'notFound'}],\n 'message': 'File not found: 162S6duHuzm46xYBdRR4SghL9hSuWlte2.'}\n\nRequest URL:\nhttps://www.googleapis.com/drive/v3/files/162S6duHuzm46xYBdRR4SghL9hSuWlte2?supportsAllDrives=True&fields=id%2Cname%2CmimeType%2CcreatedTime%2CmodifiedTime%2Csize%2Cmd5Checksum%2Cparents%2Ctrashed%2CwebViewLink%2CownedByMe (Response: {'error': {'code': 404, 'message': 'File not found: 162S6duHuzm46xYBdRR4SghL9hSuWlte2.', 'errors': [{'message': 'File not found: 162S6duHuzm46xYBdRR4SghL9hSuWlte2.', 'domain': 'global', 'reason': 'notFound', 'location': 'fileId', 'locationType': 'parameter'}]}})",
+          "error_code": "NOT_FOUND"
+        },
+        "isError": true
+      }
+    },
+    {
+      "status": "fulfilled",
+      "value": {
+        "content": [
+          {
+            "type": "text",
+            "text": "HTTPError: 404: \n\n\n\nNot Found\n\nContent:\n{'code': 404,\n 'errors': [{'domain': 'global',\n             'location': 'fileId',\n             'locationType': 'parameter',\n             'message': 'File not found: 17AKwvJEmxqHevoSzfNU0Ef0yqIK_mSmf.',\n             'reason': 'notFound'}],\n 'message': 'File not found: 17AKwvJEmxqHevoSzfNU0Ef0yqIK_mSmf.'}\n\nRequest URL:\nhttps://www.googleapis.com/drive/v3/files/17AKwvJEmxqHevoSzfNU0Ef0yqIK_mSmf?supportsAllDrives=True&fields=id%2Cname%2CmimeType%2CcreatedTime%2CmodifiedTime%2Csize%2Cmd5Checksum%2Cparents%2Ctrashed%2CwebViewLink%2CownedByMe (Response: {'error': {'code': 404, 'message': 'File not found: 17AKwvJEmxqHevoSzfNU0Ef0yqIK_mSmf.', 'errors': [{'message': 'File not found: 17AKwvJEmxqHevoSzfNU0Ef0yqIK_mSmf.', 'domain': 'global', 'reason': 'notFound', 'location': 'fileId', 'locationType': 'parameter'}]}})"
+          }
+        ],
+        "structuredContent": {
+          "error": "HTTPError: 404: \n\n\n\nNot Found\n\nContent:\n{'code': 404,\n 'errors': [{'domain': 'global',\n             'location': 'fileId',\n             'locationType': 'parameter',\n             'message': 'File not found: 17AKwvJEmxqHevoSzfNU0Ef0yqIK_mSmf.',\n             'reason': 'notFound'}],\n 'message': 'File not found: 17AKwvJEmxqHevoSzfNU0Ef0yqIK_mSmf.'}\n\nRequest URL:\nhttps://www.googleapis.com/drive/v3/files/17AKwvJEmxqHevoSzfNU0Ef0yqIK_mSmf?supportsAllDrives=True&fields=id%2Cname%2CmimeType%2CcreatedTime%2CmodifiedTime%2Csize%2Cmd5Checksum%2Cparents%2Ctrashed%2CwebViewLink%2CownedByMe (Response: {'error': {'code': 404, 'message': 'File not found: 17AKwvJEmxqHevoSzfNU0Ef0yqIK_mSmf.', 'errors': [{'message': 'File not found: 17AKwvJEmxqHevoSzfNU0Ef0yqIK_mSmf.', 'domain': 'global', 'reason': 'notFound', 'location': 'fileId', 'locationType': 'parameter'}]}})",
+          "error_code": "NOT_FOUND"
+        },
+        "isError": true
+      }
+    }
+  ]
+}

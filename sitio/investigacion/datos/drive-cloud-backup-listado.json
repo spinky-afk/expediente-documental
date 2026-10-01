@@ -1,0 +1,46 @@
+{
+  "consulted_at_utc": "2026-10-01T17:32:06.749Z",
+  "source_url": "https://drive.google.com/drive/folders/1iO7scCcYFZiCkEFrMaqHI2BwIAIxEy9L",
+  "result": {
+    "content": [
+      {
+        "type": "text",
+        "text": "Action completed."
+      }
+    ],
+    "structuredContent": {
+      "content": "{\n  \"files\": []\n}",
+      "title": "Cloud Backup and Restore",
+      "url": "https://drive.google.com/drive/folders/1iO7scCcYFZiCkEFrMaqHI2BwIAIxEy9L",
+      "file_name": null,
+      "mime_type": "application/vnd.google-apps.folder",
+      "file_ext": null,
+      "b64_string": null,
+      "id": "1iO7scCcYFZiCkEFrMaqHI2BwIAIxEy9L",
+      "parent_ids": null,
+      "drive_id": null,
+      "created_time": null,
+      "modified_time": null,
+      "is_empty": true,
+      "file_uri": null,
+      "file_size_bytes": null,
+      "display_url": "https://drive.google.com/drive/folders/1iO7scCcYFZiCkEFrMaqHI2BwIAIxEy9L",
+      "display_title": "Cloud Backup and Restore",
+      "structuredContent": {
+        "title": "Cloud Backup and Restore",
+        "content": "{\n  \"files\": []\n}",
+        "id": "1iO7scCcYFZiCkEFrMaqHI2BwIAIxEy9L",
+        "parent_ids": null,
+        "drive_id": null,
+        "created_time": null,
+        "modified_time": null,
+        "is_empty": true,
+        "mime_type": "application/vnd.google-apps.folder",
+        "file_name": null,
+        "file_size_bytes": null,
+        "url": "https://drive.google.com/drive/folders/1iO7scCcYFZiCkEFrMaqHI2BwIAIxEy9L"
+      }
+    },
+    "isError": false
+  }
+}

@@ -126,6 +126,8 @@ def gather_references():
         if isinstance(d,dict): d=d.get('consulted_sources',[])
         for i,item in enumerate(d,1):
             r=dict(item);r.setdefault('id',f'I{i:02}');r.setdefault('title',r.get('role',r['url']));refs.append(r)
+    if (RESEARCH/'datos/noche-dispositivos-fuentes-web.json').exists():refs.extend(read('noche-dispositivos-fuentes-web.json'))
+    if (RESEARCH/'datos/sesiones-fuentes-web.json').exists():refs.extend(read('sesiones-fuentes-web.json'))
     refs.extend([
       {'id':'G01','title':'GitHub: creación de cuenta','url':'https://docs.github.com/en/account-and-profile/how-tos/account-management/creating-an-account-on-github','notes':'Una cuenta personal requiere correo verificado. No se ha creado una cuenta desde este entorno.','consulted_on':'2026-10-01'},
       {'id':'G02','title':'GitHub Pages: visibilidad y control de acceso','url':'https://docs.github.com/en/enterprise-cloud%40latest/pages/getting-started-with-github-pages/changing-the-visibility-of-your-github-pages-site','notes':'Pages privado requiere un sitio de proyecto de una organización con GitHub Enterprise Cloud; un repositorio privado por sí solo no restringe el sitio.','consulted_on':'2026-10-01'}])
@@ -140,6 +142,7 @@ def local_url(url, source_by_path, refs):
             if p==SECRET_CONFIG: return 'respaldo.html'
             return href(Path('paginas')/rel)+('' if p.suffix=='.html' else '.html') if p.suffix in {'.html','.json','.csv','.txt','.vcf'} else href(Path('originales')/rel)
         if p.name=='historial-cruzado.html': return 'cronologia.html'
+        if p.is_relative_to(RESEARCH):return href(Path('investigacion')/p.relative_to(RESEARCH))
         return 'registro.html'
     match=next((r for r in refs if r['url']==url),None)
     return 'referencias.html#'+quote(match['id']) if match else 'cronologia.html?buscar='+quote(str(url),safe='')
@@ -172,7 +175,7 @@ def prepare():
 
 Solicitud: conservar las páginas locales de los datos, preparar GitHub y una carta personal. Cuenta indicada por el usuario: spinky-afk. La declaración del usuario no equivale a una conclusión del análisis.
 
-Se prepara un sitio privado local con cronología, 482 fuentes, copias originales y vistas derivadas sin navegación externa. El usuario confirmó la cuenta spinky-afk. No se ha publicado un repositorio; falta conexión autorizada de GitHub.
+Se prepara un sitio privado local con cronología, catálogo de fuentes actualizado, copias originales y vistas derivadas sin navegación externa. El usuario confirmó la cuenta spinky-afk. No se ha publicado un repositorio; falta conexión autorizada de GitHub.
 
 GitHub Pages no se habilita automáticamente: la privacidad del repositorio no garantiza la privacidad de Pages. Referencia local G02 en referencias.html. Consulta del 1 de octubre de 2026.
 

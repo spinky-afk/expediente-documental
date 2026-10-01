@@ -1,0 +1,113 @@
+{
+  "generated_at_utc": "2026-10-01T17:54:26.991442+00:00",
+  "configuration_records": [
+    {
+      "source": {
+        "code": "S483",
+        "path": "/home/deep-logic/Documentos/Registro/Takeout/Servicio de configuración de dispositivos Android/Device-3644671859603123984.html",
+        "family": "Google",
+        "sha256": "f0e1eccb17543176b5135f2e967d3b504eed5f61beb130e1d6c51056c45beb33",
+        "bytes": 24470,
+        "records": 25
+      },
+      "android_id": "3644671859603123984",
+      "model": "23129RA5FL",
+      "imei_suffix": "0505",
+      "serial_sha256": "b708538213e7f98f51e2a5cb24d8e982941063df5ab3218a24cb69fb64182adb",
+      "imei_sha256": "0157df87f69df32de53f48ca0500a2eedf303593d14a365d2121e928a9ed66bc",
+      "partner_client_id": "android-xiaomi",
+      "registration_original": "26 sept 2026, 5:42:46 a.m. UTC",
+      "first_connection_original": "26 sept 2026, 5:42:46 a.m. UTC",
+      "last_connection_original": "27 sept 2026, 4:18:19 a.m. UTC",
+      "last_connection_reason": "Account Changed",
+      "trigger_package": "unspecified"
+    },
+    {
+      "source": {
+        "code": "S484",
+        "path": "/home/deep-logic/Documentos/Registro/Takeout/Servicio de configuración de dispositivos Android/Device-3778158131092576330.html",
+        "family": "Google",
+        "sha256": "99e398960aa7d812a8433b72b9f0f23529eeecedf8c2affc34fdb263e406557e",
+        "bytes": 21902,
+        "records": 8
+      },
+      "android_id": "3778158131092576330",
+      "model": "23129RA5FL",
+      "imei_suffix": "0505",
+      "serial_sha256": "b708538213e7f98f51e2a5cb24d8e982941063df5ab3218a24cb69fb64182adb",
+      "imei_sha256": "0157df87f69df32de53f48ca0500a2eedf303593d14a365d2121e928a9ed66bc",
+      "partner_client_id": "android-google",
+      "registration_original": "11 sept 2026, 5:03:08 p.m. UTC",
+      "first_connection_original": "11 sept 2026, 5:03:08 p.m. UTC",
+      "last_connection_original": "11 sept 2026, 5:04:08 p.m. UTC",
+      "last_connection_reason": "Account Changed",
+      "trigger_package": "unspecified"
+    },
+    {
+      "source": {
+        "code": "S485",
+        "path": "/home/deep-logic/Documentos/Registro/Takeout/Servicio de configuración de dispositivos Android/Device-3975241346881164962.html",
+        "family": "Google",
+        "sha256": "c5373ac02f9b5ea35baf614050fe9d2fe3975a08e50f785a4eea8a80825bbda3",
+        "bytes": 25790,
+        "records": 33
+      },
+      "android_id": "3975241346881164962",
+      "model": "23129RA5FL",
+      "imei_suffix": "0505",
+      "serial_sha256": "b708538213e7f98f51e2a5cb24d8e982941063df5ab3218a24cb69fb64182adb",
+      "imei_sha256": "0157df87f69df32de53f48ca0500a2eedf303593d14a365d2121e928a9ed66bc",
+      "partner_client_id": "android-xiaomi",
+      "registration_original": "12 sept 2026, 3:20:34 p.m. UTC",
+      "first_connection_original": "12 sept 2026, 3:20:34 p.m. UTC",
+      "last_connection_original": "21 sept 2026, 8:00:06 p.m. UTC",
+      "last_connection_reason": "Device Booted",
+      "trigger_package": "unspecified"
+    },
+    {
+      "source": {
+        "code": "S486",
+        "path": "/home/deep-logic/Documentos/Registro/Takeout/Servicio de configuración de dispositivos Android/Device-4247182940332696163.html",
+        "family": "Google",
+        "sha256": "613432ffa6ff52ad675c7cb6e1bb88b8a489f1fb16518999429d99130c6c3c3e",
+        "bytes": 25264,
+        "records": 32
+      },
+      "android_id": "4247182940332696163",
+      "model": "23129RA5FL",
+      "imei_suffix": "0505",
+      "serial_sha256": "b708538213e7f98f51e2a5cb24d8e982941063df5ab3218a24cb69fb64182adb",
+      "imei_sha256": "0157df87f69df32de53f48ca0500a2eedf303593d14a365d2121e928a9ed66bc",
+      "partner_client_id": "android-xiaomi",
+      "registration_original": "23 sept 2026, 6:38:57 p.m. UTC",
+      "first_connection_original": "23 sept 2026, 6:38:58 p.m. UTC",
+      "last_connection_original": "26 sept 2026, 4:06:35 a.m. UTC",
+      "last_connection_reason": "Internal Trigger",
+      "trigger_package": "unspecified"
+    },
+    {
+      "source": {
+        "code": "S487",
+        "path": "/home/deep-logic/Documentos/Registro/Takeout/Servicio de configuración de dispositivos Android/Device-4511226476644240739.html",
+        "family": "Google",
+        "sha256": "d76016b25286c658321ff6de56bbb347f004529b441476b23de26e6222634001",
+        "bytes": 31754,
+        "records": 63
+      },
+      "android_id": "4511226476644240739",
+      "model": "23129RA5FL",
+      "imei_suffix": "0505",
+      "serial_sha256": "b708538213e7f98f51e2a5cb24d8e982941063df5ab3218a24cb69fb64182adb",
+      "imei_sha256": "0157df87f69df32de53f48ca0500a2eedf303593d14a365d2121e928a9ed66bc",
+      "partner_client_id": "android-xiaomi",
+      "registration_original": "11 ene 2025, 8:45:54 p.m. UTC",
+      "first_connection_original": "11 ene 2025, 8:45:55 p.m. UTC",
+      "last_connection_original": "12 sept 2026, 12:45:45 p.m. UTC",
+      "last_connection_reason": "Unknown",
+      "trigger_package": "unspecified"
+    }
+  ],
+  "hardware_groups": 1,
+  "same_imei_and_serial": true,
+  "interpretation": "Los cinco registros comparten modelo, IMEI primario y serie. Esto agrupa registros de configuración; no demuestra cinco teléfonos físicos, clonación, restablecimiento de fábrica ni la causa del cambio de ID. Las instalaciones de Play solo se pueden relacionar por atributos de modelo, fabricante y operador en este export."
+}

@@ -1,5 +1,5 @@
 {
-  "created_at_utc": "2026-10-01T14:54:40.759862+00:00",
+  "created_at_utc": "2026-10-01T16:13:25.440854+00:00",
   "user_clues": [
     "21 de septiembre, etsi",
     "se envió algo al número de la empresa",
@@ -56,7 +56,7 @@
   "same_filename_suffix": true,
   "events": [
     {
-      "id": "E024402",
+      "id": "E024503",
       "family": "Facebook",
       "channel": "Actividad fuera de Meta",
       "kind": "evento recibido",
@@ -82,7 +82,7 @@
       "event_type": "VIEW_CONTENT"
     },
     {
-      "id": "E024403",
+      "id": "E024504",
       "family": "Facebook",
       "channel": "Actividad fuera de Meta",
       "kind": "evento recibido",
@@ -108,7 +108,7 @@
       "event_type": "VIEW_CONTENT"
     },
     {
-      "id": "E024404",
+      "id": "E024505",
       "family": "Facebook",
       "channel": "Actividad fuera de Meta",
       "kind": "evento recibido",
@@ -134,7 +134,7 @@
       "event_type": "PAGE_VIEW"
     },
     {
-      "id": "E024405",
+      "id": "E024506",
       "family": "Facebook",
       "channel": "Actividad fuera de Meta",
       "kind": "evento recibido",
@@ -160,7 +160,7 @@
       "event_type": "PAGE_VIEW"
     },
     {
-      "id": "E024408",
+      "id": "E024509",
       "family": "Facebook",
       "channel": "Actividad fuera de Meta",
       "kind": "evento recibido",
@@ -186,7 +186,7 @@
       "event_type": "VIEW_CONTENT"
     },
     {
-      "id": "E024409",
+      "id": "E024510",
       "family": "Facebook",
       "channel": "Actividad fuera de Meta",
       "kind": "evento recibido",
@@ -212,7 +212,7 @@
       "event_type": "VIEW_CONTENT"
     },
     {
-      "id": "E024410",
+      "id": "E024511",
       "family": "Facebook",
       "channel": "Actividad fuera de Meta",
       "kind": "evento recibido",
@@ -238,7 +238,7 @@
       "event_type": "PAGE_VIEW"
     },
     {
-      "id": "E024411",
+      "id": "E024512",
       "family": "Facebook",
       "channel": "Actividad fuera de Meta",
       "kind": "evento recibido",
@@ -264,7 +264,7 @@
       "event_type": "PAGE_VIEW"
     },
     {
-      "id": "E024427",
+      "id": "E024528",
       "family": "Facebook",
       "channel": "Actividad fuera de Meta",
       "kind": "evento recibido",
@@ -290,7 +290,7 @@
       "event_type": "PAGE_VIEW"
     },
     {
-      "id": "E024428",
+      "id": "E024529",
       "family": "Facebook",
       "channel": "Actividad fuera de Meta",
       "kind": "evento recibido",
@@ -316,7 +316,7 @@
       "event_type": "PAGE_VIEW"
     },
     {
-      "id": "E024429",
+      "id": "E024530",
       "family": "Facebook",
       "channel": "Actividad fuera de Meta",
       "kind": "evento recibido",
@@ -342,7 +342,7 @@
       "event_type": "PAGE_VIEW"
     },
     {
-      "id": "E024430",
+      "id": "E024531",
       "family": "Facebook",
       "channel": "Actividad fuera de Meta",
       "kind": "evento recibido",
@@ -368,7 +368,7 @@
       "event_type": "PAGE_VIEW"
     },
     {
-      "id": "E024466",
+      "id": "E024567",
       "family": "Google",
       "channel": "Búsqueda",
       "kind": "consulta",
@@ -388,7 +388,7 @@
       "url": "https://www.google.com/search?q=6850175308"
     },
     {
-      "id": "E024467",
+      "id": "E024568",
       "family": "Google",
       "channel": "Google Analytics",
       "kind": "visita",
@@ -408,7 +408,7 @@
       "url": "http://portal.nousresearch.com/cloud"
     },
     {
-      "id": "E024468",
+      "id": "E024569",
       "family": "Google",
       "channel": "Google Analytics",
       "kind": "visita",
@@ -428,7 +428,7 @@
       "url": "http://portal.nousresearch.com/orgs/3d6ba8ff/billing"
     },
     {
-      "id": "E024469",
+      "id": "E024570",
       "family": "Google",
       "channel": "Google Analytics",
       "kind": "visita",
@@ -448,7 +448,7 @@
       "url": "http://portal.nousresearch.com/"
     },
     {
-      "id": "E024470",
+      "id": "E024571",
       "family": "Google",
       "channel": "Búsqueda",
       "kind": "consulta",
@@ -468,7 +468,7 @@
       "url": "https://www.google.com/search?q=inwebo+authenticator"
     },
     {
-      "id": "E024471",
+      "id": "E024572",
       "family": "Google",
       "channel": "Búsqueda",
       "kind": "visita",
@@ -488,7 +488,7 @@
       "url": "https://inwebo-authenticator-6.softonic.com/android"
     },
     {
-      "id": "E024472",
+      "id": "E024573",
       "family": "Google",
       "channel": "Búsqueda",
       "kind": "consulta",
@@ -508,7 +508,7 @@
       "url": "https://www.google.com/search?q=my+inwebo+authenticator"
     },
     {
-      "id": "E024473",
+      "id": "E024574",
       "family": "Google",
       "channel": "Búsqueda",
       "kind": "visita",
@@ -528,7 +528,7 @@
       "url": "https://myinwebo.com/"
     },
     {
-      "id": "E024474",
+      "id": "E024575",
       "family": "Google",
       "channel": "Búsqueda",
       "kind": "consulta",
@@ -548,7 +548,7 @@
       "url": "https://www.google.com/search?q=inwebo+admin"
     },
     {
-      "id": "E024475",
+      "id": "E024576",
       "family": "Google",
       "channel": "Búsqueda",
       "kind": "visita",
@@ -568,7 +568,7 @@
       "url": "https://www.myinwebo.com/console/logon"
     },
     {
-      "id": "E024476",
+      "id": "E024577",
       "family": "Google",
       "channel": "Google Analytics",
       "kind": "visita",
@@ -588,7 +588,7 @@
       "url": "http://portal.nousresearch.com/login"
     },
     {
-      "id": "E024553",
+      "id": "E024654",
       "family": "Google",
       "channel": "Chat",
       "kind": "consulta",
@@ -608,7 +608,7 @@
       "url": "https://mail.google.com/chat/#search/6850175308"
     },
     {
-      "id": "E024564",
+      "id": "E024665",
       "family": "Google",
       "channel": "Gmail",
       "kind": "consulta",
@@ -628,7 +628,7 @@
       "url": "https://mail.google.com/mail/#search/hermes"
     },
     {
-      "id": "E024567",
+      "id": "E024668",
       "family": "Google",
       "channel": "Búsqueda",
       "kind": "consulta",
@@ -648,7 +648,7 @@
       "url": "https://www.google.com/search?q=6850175308"
     },
     {
-      "id": "E024568",
+      "id": "E024669",
       "family": "Facebook",
       "channel": "Actividad fuera de Meta",
       "kind": "evento recibido",
@@ -674,7 +674,7 @@
       "event_type": "VIEW_CONTENT"
     },
     {
-      "id": "E024569",
+      "id": "E024670",
       "family": "Facebook",
       "channel": "Actividad fuera de Meta",
       "kind": "evento recibido",
@@ -700,7 +700,7 @@
       "event_type": "PAGE_VIEW"
     },
     {
-      "id": "E024570",
+      "id": "E024671",
       "family": "Facebook",
       "channel": "Actividad fuera de Meta",
       "kind": "evento recibido",
@@ -726,7 +726,7 @@
       "event_type": "VIEW_CONTENT"
     },
     {
-      "id": "E024571",
+      "id": "E024672",
       "family": "Facebook",
       "channel": "Actividad fuera de Meta",
       "kind": "evento recibido",
@@ -752,7 +752,7 @@
       "event_type": "PAGE_VIEW"
     },
     {
-      "id": "E024572",
+      "id": "E024673",
       "family": "Google",
       "channel": "Búsqueda",
       "kind": "visita",
@@ -772,7 +772,7 @@
       "url": "https://www.etsy.com/es/listing/4303042674/pendiente-de-sol-en-oro-macizo-piercing"
     },
     {
-      "id": "E024573",
+      "id": "E024674",
       "family": "Google",
       "channel": "Google Analytics",
       "kind": "visita",
@@ -792,7 +792,7 @@
       "url": "http://www.etsy.com/es/listing/4303042674/pendiente-de-sol-en-oro-macizo-piercing"
     },
     {
-      "id": "E024574",
+      "id": "E024675",
       "family": "Google",
       "channel": "Google Analytics",
       "kind": "visita",
@@ -812,7 +812,7 @@
       "url": "http://www.etsy.com/es/etsy-purchase-protection"
     },
     {
-      "id": "E024575",
+      "id": "E024676",
       "family": "Google",
       "channel": "Búsqueda",
       "kind": "consulta",
@@ -832,7 +832,7 @@
       "url": "https://www.google.com/search?q=g.co%2Fsc"
     },
     {
-      "id": "E024578",
+      "id": "E024679",
       "family": "Google",
       "channel": "Google Analytics",
       "kind": "visita",
@@ -852,7 +852,7 @@
       "url": "http://miperfil.clarin.com/"
     },
     {
-      "id": "E024579",
+      "id": "E024680",
       "family": "Google",
       "channel": "Búsqueda",
       "kind": "consulta",
@@ -872,7 +872,7 @@
       "url": "https://www.google.com/search?q=clarin"
     },
     {
-      "id": "E024580",
+      "id": "E024681",
       "family": "Google",
       "channel": "Búsqueda",
       "kind": "visita",
@@ -892,7 +892,7 @@
       "url": "https://www.clarin.com/"
     },
     {
-      "id": "E024581",
+      "id": "E024682",
       "family": "Google",
       "channel": "Google Analytics",
       "kind": "visita",
@@ -912,7 +912,7 @@
       "url": "http://365.clarin.com/"
     },
     {
-      "id": "E024582",
+      "id": "E024683",
       "family": "Google",
       "channel": "Google Analytics",
       "kind": "visita",
@@ -932,7 +932,7 @@
       "url": "http://365.clarin.com/cerca-mio"
     },
     {
-      "id": "E024583",
+      "id": "E024684",
       "family": "Google",
       "channel": "Búsqueda",
       "kind": "consulta",
@@ -952,7 +952,7 @@
       "url": "https://www.google.com/search?q=hermes"
     },
     {
-      "id": "E024584",
+      "id": "E024685",
       "family": "Google",
       "channel": "Búsqueda",
       "kind": "consulta",
@@ -972,7 +972,7 @@
       "url": "https://www.google.com/search?q=inwebo+authenticator"
     },
     {
-      "id": "E024585",
+      "id": "E024686",
       "family": "Google",
       "channel": "Búsqueda",
       "kind": "visita",
@@ -992,7 +992,7 @@
       "url": "https://www.myinwebo.com/"
     },
     {
-      "id": "E024586",
+      "id": "E024687",
       "family": "Google",
       "channel": "Búsqueda",
       "kind": "visita",
@@ -1012,7 +1012,7 @@
       "url": "https://www.hermes.com/mx/es/"
     },
     {
-      "id": "E024587",
+      "id": "E024688",
       "family": "Google",
       "channel": "Google Analytics",
       "kind": "visita",
@@ -1032,7 +1032,7 @@
       "url": "http://www.hermes.com/mx/es/"
     },
     {
-      "id": "E024588",
+      "id": "E024689",
       "family": "Google",
       "channel": "Google Analytics",
       "kind": "visita",
@@ -1052,7 +1052,7 @@
       "url": "http://www.hermes.com/mx/es/login/"
     },
     {
-      "id": "E024589",
+      "id": "E024690",
       "family": "Google",
       "channel": "Búsqueda",
       "kind": "visita",
@@ -1072,7 +1072,7 @@
       "url": "https://www.hermes.com/mx/es/"
     },
     {
-      "id": "E024590",
+      "id": "E024691",
       "family": "Google",
       "channel": "Búsqueda",
       "kind": "consulta",
@@ -1092,7 +1092,7 @@
       "url": "https://www.google.com/search?q=hermes+us"
     },
     {
-      "id": "E024591",
+      "id": "E024692",
       "family": "Google",
       "channel": "Búsqueda",
       "kind": "visita",
@@ -1112,7 +1112,7 @@
       "url": "https://www.hermes.cn/cn/en/find-store/united-states/"
     },
     {
-      "id": "E024592",
+      "id": "E024693",
       "family": "Google",
       "channel": "Búsqueda",
       "kind": "visita",
@@ -1132,7 +1132,7 @@
       "url": "https://www.hermes.com/mx/es/category/maquillaje/manos/"
     },
     {
-      "id": "E024593",
+      "id": "E024694",
       "family": "Google",
       "channel": "Google Analytics",
       "kind": "visita",
@@ -1152,7 +1152,7 @@
       "url": "http://www.hermes.com/mx/es/category/maquillaje/manos/"
     },
     {
-      "id": "E024594",
+      "id": "E024695",
       "family": "Google",
       "channel": "Traductor de Google",
       "kind": "visita",
@@ -1172,7 +1172,7 @@
       "url": "https://hermes--agent-nousresearch-com.translate.goog/docs/user-guide/messaging?_x_tr_sl=auto&_x_tr_tl=es&_x_tr_hl=es-419&_x_tr_pto=tc"
     },
     {
-      "id": "E024595",
+      "id": "E024696",
       "family": "Google",
       "channel": "Google Analytics",
       "kind": "visita",
@@ -1192,7 +1192,7 @@
       "url": "http://postlogin.clarin.com/post-login"
     },
     {
-      "id": "E024596",
+      "id": "E024697",
       "family": "Google",
       "channel": "Publicidad",
       "kind": "visita",
@@ -1212,7 +1212,7 @@
       "url": "https://www.clarin.com/"
     },
     {
-      "id": "E024597",
+      "id": "E024698",
       "family": "Google",
       "channel": "Google Analytics",
       "kind": "visita",
@@ -1232,7 +1232,7 @@
       "url": "http://www.clarin.com/"
     },
     {
-      "id": "E024598",
+      "id": "E024699",
       "family": "Google",
       "channel": "Google Analytics",
       "kind": "visita",
@@ -1252,7 +1252,7 @@
       "url": "http://www.clarin.com/economia/apagon-investigan-causas-gobierno-advierte-aplicara-sanciones_0_KJuCGV2Qfa.html"
     },
     {
-      "id": "E024599",
+      "id": "E024700",
       "family": "Google",
       "channel": "Publicidad",
       "kind": "visita",
@@ -1272,7 +1272,7 @@
       "url": "https://www.clarin.com/economia/apagon-investigan-causas-gobierno-advierte-aplicara-sanciones_0_KJuCGV2Qfa.html"
     },
     {
-      "id": "E024600",
+      "id": "E024701",
       "family": "Google",
       "channel": "Google Play Store · Installs",
       "kind": "fecha de firstInstallationTime",
@@ -1291,7 +1291,7 @@
       "attachment_links": []
     },
     {
-      "id": "E024601",
+      "id": "E024702",
       "family": "Google",
       "channel": "Google Play Store · Installs",
       "kind": "fecha de lastUpdateTime",
@@ -1310,7 +1310,7 @@
       "attachment_links": []
     },
     {
-      "id": "E024603",
+      "id": "E024704",
       "family": "Google",
       "channel": "Google Play Store",
       "kind": "visita",
@@ -1330,7 +1330,7 @@
       "url": "https://play.google.com/store/apps/details?id=com.inwebo.near.prod"
     },
     {
-      "id": "E024604",
+      "id": "E024705",
       "family": "Facebook",
       "channel": "Actividad fuera de Meta",
       "kind": "evento recibido",
@@ -1356,7 +1356,7 @@
       "event_type": "PAGE_VIEW"
     },
     {
-      "id": "E024605",
+      "id": "E024706",
       "family": "Facebook",
       "channel": "Actividad fuera de Meta",
       "kind": "evento recibido",
@@ -1382,7 +1382,7 @@
       "event_type": "PAGE_VIEW"
     },
     {
-      "id": "E024606",
+      "id": "E024707",
       "family": "Google",
       "channel": "Google Analytics",
       "kind": "visita",
@@ -1402,7 +1402,7 @@
       "url": "http://www.etsy.com/es/r/similar/4303042674"
     },
     {
-      "id": "E024607",
+      "id": "E024708",
       "family": "Google",
       "channel": "Google Analytics",
       "kind": "visita",
@@ -1422,7 +1422,7 @@
       "url": "http://www.etsy.com/es/listing/4303042674/pendiente-de-sol-en-oro-macizo-piercing"
     },
     {
-      "id": "E024608",
+      "id": "E024709",
       "family": "Google",
       "channel": "Google Analytics",
       "kind": "visita",
@@ -1442,7 +1442,7 @@
       "url": "http://portal.nousresearch.com/manage-subscription"
     },
     {
-      "id": "E024609",
+      "id": "E024710",
       "family": "Google",
       "channel": "Google Analytics",
       "kind": "visita",
@@ -1462,7 +1462,7 @@
       "url": "http://portal.nousresearch.com/orgs/3d6ba8ff/billing"
     },
     {
-      "id": "E024610",
+      "id": "E024711",
       "family": "Google",
       "channel": "Google Analytics",
       "kind": "visita",
@@ -1482,7 +1482,7 @@
       "url": "http://portal.nousresearch.com/orgs/3d6ba8ff/api-keys"
     },
     {
-      "id": "E024611",
+      "id": "E024712",
       "family": "Google",
       "channel": "Google Analytics",
       "kind": "visita",
@@ -1502,7 +1502,7 @@
       "url": "http://portal.nousresearch.com/cloud"
     },
     {
-      "id": "E024612",
+      "id": "E024713",
       "family": "Google",
       "channel": "Google Analytics",
       "kind": "visita",
@@ -1522,7 +1522,7 @@
       "url": "http://portal.nousresearch.com/orgs/3d6ba8ff/agents"
     },
     {
-      "id": "E024617",
+      "id": "E024718",
       "family": "Google",
       "channel": "Google Analytics",
       "kind": "visita",
@@ -1542,7 +1542,7 @@
       "url": "http://www.clarin.com/economia/apagon-investigan-causas-gobierno-advierte-aplicara-sanciones_0_KJuCGV2Qfa.html"
     },
     {
-      "id": "E024618",
+      "id": "E024719",
       "family": "Google",
       "channel": "Publicidad",
       "kind": "visita",
@@ -1562,7 +1562,7 @@
       "url": "https://www.clarin.com/economia/apagon-investigan-causas-gobierno-advierte-aplicara-sanciones_0_KJuCGV2Qfa.html"
     },
     {
-      "id": "E024619",
+      "id": "E024720",
       "family": "Google",
       "channel": "Google Analytics",
       "kind": "visita",
@@ -1582,7 +1582,7 @@
       "url": "http://365.clarin.com/cerca-mio"
     },
     {
-      "id": "E024620",
+      "id": "E024721",
       "family": "Google",
       "channel": "Publicidad",
       "kind": "visita",
@@ -1602,7 +1602,7 @@
       "url": "https://www.clarin.com/"
     },
     {
-      "id": "E024621",
+      "id": "E024722",
       "family": "Google",
       "channel": "Google Analytics",
       "kind": "visita",
@@ -1622,7 +1622,7 @@
       "url": "http://www.clarin.com/|https://www.clarin.com/modal-experiencia-suscriptor_nuevos_2"
     },
     {
-      "id": "E024622",
+      "id": "E024723",
       "family": "Google",
       "channel": "Google Analytics",
       "kind": "visita",
@@ -1642,7 +1642,7 @@
       "url": "http://www.clarin.com/"
     },
     {
-      "id": "E024623",
+      "id": "E024724",
       "family": "Google",
       "channel": "Búsqueda",
       "kind": "visita",
@@ -1662,7 +1662,7 @@
       "url": "https://www.hermes.com/mx/es/category/maquillaje/manos/"
     },
     {
-      "id": "E024624",
+      "id": "E024725",
       "family": "Google",
       "channel": "Búsqueda",
       "kind": "visita",
@@ -1682,7 +1682,7 @@
       "url": "https://www.hermes.com/mx/es/category/maquillaje/manos/"
     },
     {
-      "id": "E024625",
+      "id": "E024726",
       "family": "Google",
       "channel": "Google Analytics",
       "kind": "visita",
@@ -1702,7 +1702,7 @@
       "url": "http://www.hermes.com/mx/es/category/maquillaje/manos/"
     },
     {
-      "id": "E024626",
+      "id": "E024727",
       "family": "Google",
       "channel": "Búsqueda",
       "kind": "visita",
@@ -1722,7 +1722,7 @@
       "url": "https://www.hermes.com/mx/es/category/mujer/pret-a-porter/coleccion-primavera-verano/#|?utm_source=google&utm_medium=cpc&utm_campaign=MX_ES_DEFENSIVE_CATD_READY_TO_WEAR_WOMEN&utm_term=Generic_[Women]_[Broad]"
     },
     {
-      "id": "E024627",
+      "id": "E024728",
       "family": "Google",
       "channel": "Google Analytics",
       "kind": "visita",
@@ -1742,7 +1742,7 @@
       "url": "http://www.hermes.com/mx/es/login/"
     },
     {
-      "id": "E024628",
+      "id": "E024729",
       "family": "Google",
       "channel": "Búsqueda",
       "kind": "consulta",
@@ -1762,7 +1762,7 @@
       "url": "https://www.google.com/search?q=hermes+us"
     },
     {
-      "id": "E024629",
+      "id": "E024730",
       "family": "Google",
       "channel": "Google Analytics",
       "kind": "visita",
@@ -1782,7 +1782,7 @@
       "url": "http://www.hermes.com/mx/es/category/mujer/pret-a-porter/coleccion-primavera-verano/"
     },
     {
-      "id": "E024630",
+      "id": "E024731",
       "family": "Google",
       "channel": "Búsqueda",
       "kind": "visita",
@@ -1802,7 +1802,7 @@
       "url": "https://www.hermes.com/"
     },
     {
-      "id": "E024631",
+      "id": "E024732",
       "family": "Google",
       "channel": "Búsqueda",
       "kind": "consulta",
@@ -1822,7 +1822,7 @@
       "url": "https://www.google.com/search?q=hermes+us+model"
     },
     {
-      "id": "E024632",
+      "id": "E024733",
       "family": "Google",
       "channel": "Búsqueda",
       "kind": "visita",
@@ -1842,7 +1842,7 @@
       "url": "https://www.hermes.com/us/en/"
     },
     {
-      "id": "E024633",
+      "id": "E024734",
       "family": "Google",
       "channel": "Google Analytics",
       "kind": "visita",
@@ -1862,7 +1862,7 @@
       "url": "http://www.hermes.com/us/en/account/create/"
     },
     {
-      "id": "E024634",
+      "id": "E024735",
       "family": "Google",
       "channel": "Google Analytics",
       "kind": "visita",
@@ -1882,7 +1882,7 @@
       "url": "http://www.hermes.com/mx/es/"
     },
     {
-      "id": "E024635",
+      "id": "E024736",
       "family": "Google",
       "channel": "Búsqueda",
       "kind": "visita",
@@ -1902,7 +1902,7 @@
       "url": "https://hermes-agent.nousresearch.com/"
     },
     {
-      "id": "E024636",
+      "id": "E024737",
       "family": "Google",
       "channel": "Búsqueda",
       "kind": "consulta",
@@ -1922,7 +1922,7 @@
       "url": "https://www.google.com/search?q=hermes+agent"
     },
     {
-      "id": "E024637",
+      "id": "E024738",
       "family": "Google",
       "channel": "Google Analytics",
       "kind": "visita",
@@ -1942,7 +1942,7 @@
       "url": "http://portal.nousresearch.com/cloud"
     },
     {
-      "id": "E024638",
+      "id": "E024739",
       "family": "Google",
       "channel": "Google Analytics",
       "kind": "visita",
@@ -1962,7 +1962,7 @@
       "url": "http://www.hermes.com/us/en/login/"
     },
     {
-      "id": "E024640",
+      "id": "E024741",
       "family": "Google",
       "channel": "Búsqueda",
       "kind": "visita",
@@ -1982,7 +1982,7 @@
       "url": "https://portal.nousresearch.com/"
     },
     {
-      "id": "E024641",
+      "id": "E024742",
       "family": "Google",
       "channel": "Google Analytics",
       "kind": "visita",
@@ -2002,7 +2002,7 @@
       "url": "http://portal.nousresearch.com/"
     },
     {
-      "id": "E024644",
+      "id": "E024745",
       "family": "Google",
       "channel": "Google Analytics",
       "kind": "visita",
@@ -2022,7 +2022,7 @@
       "url": "http://www.hermes.com/us/en/"
     },
     {
-      "id": "E024645",
+      "id": "E024746",
       "family": "Google",
       "channel": "Google Analytics",
       "kind": "visita",
@@ -2042,7 +2042,7 @@
       "url": "http://www.hermes.com/us/en/cart/"
     },
     {
-      "id": "E024646",
+      "id": "E024747",
       "family": "Google",
       "channel": "Google Analytics",
       "kind": "visita",
@@ -2062,7 +2062,7 @@
       "url": "http://portal.nousresearch.com/orgs/3d6ba8ff/usage"
     },
     {
-      "id": "E024681",
+      "id": "E024782",
       "family": "Google",
       "channel": "Google Play Store",
       "kind": "uso de app",
@@ -2084,7 +2084,7 @@
   ],
   "authenticator_events": [
     {
-      "id": "E024470",
+      "id": "E024571",
       "family": "Google",
       "channel": "Búsqueda",
       "kind": "consulta",
@@ -2104,7 +2104,7 @@
       "url": "https://www.google.com/search?q=inwebo+authenticator"
     },
     {
-      "id": "E024471",
+      "id": "E024572",
       "family": "Google",
       "channel": "Búsqueda",
       "kind": "visita",
@@ -2124,7 +2124,7 @@
       "url": "https://inwebo-authenticator-6.softonic.com/android"
     },
     {
-      "id": "E024472",
+      "id": "E024573",
       "family": "Google",
       "channel": "Búsqueda",
       "kind": "consulta",
@@ -2144,7 +2144,7 @@
       "url": "https://www.google.com/search?q=my+inwebo+authenticator"
     },
     {
-      "id": "E024473",
+      "id": "E024574",
       "family": "Google",
       "channel": "Búsqueda",
       "kind": "visita",
@@ -2164,7 +2164,7 @@
       "url": "https://myinwebo.com/"
     },
     {
-      "id": "E024474",
+      "id": "E024575",
       "family": "Google",
       "channel": "Búsqueda",
       "kind": "consulta",
@@ -2184,7 +2184,7 @@
       "url": "https://www.google.com/search?q=inwebo+admin"
     },
     {
-      "id": "E024475",
+      "id": "E024576",
       "family": "Google",
       "channel": "Búsqueda",
       "kind": "visita",
@@ -2204,7 +2204,7 @@
       "url": "https://www.myinwebo.com/console/logon"
     },
     {
-      "id": "E024584",
+      "id": "E024685",
       "family": "Google",
       "channel": "Búsqueda",
       "kind": "consulta",
@@ -2224,7 +2224,7 @@
       "url": "https://www.google.com/search?q=inwebo+authenticator"
     },
     {
-      "id": "E024585",
+      "id": "E024686",
       "family": "Google",
       "channel": "Búsqueda",
       "kind": "visita",
@@ -2244,7 +2244,7 @@
       "url": "https://www.myinwebo.com/"
     },
     {
-      "id": "E024600",
+      "id": "E024701",
       "family": "Google",
       "channel": "Google Play Store · Installs",
       "kind": "fecha de firstInstallationTime",
@@ -2263,7 +2263,7 @@
       "attachment_links": []
     },
     {
-      "id": "E024601",
+      "id": "E024702",
       "family": "Google",
       "channel": "Google Play Store · Installs",
       "kind": "fecha de lastUpdateTime",
@@ -2282,7 +2282,7 @@
       "attachment_links": []
     },
     {
-      "id": "E024603",
+      "id": "E024704",
       "family": "Google",
       "channel": "Google Play Store",
       "kind": "visita",
@@ -2302,7 +2302,7 @@
       "url": "https://play.google.com/store/apps/details?id=com.inwebo.near.prod"
     },
     {
-      "id": "E024681",
+      "id": "E024782",
       "family": "Google",
       "channel": "Google Play Store",
       "kind": "uso de app",
@@ -2324,23 +2324,23 @@
   ],
   "preceding_number": "6850175308",
   "preceding_number_events": [
-    "E023172",
-    "E023182",
-    "E023230",
-    "E023275",
-    "E023311",
-    "E023338",
-    "E023476",
-    "E023488",
-    "E024466",
-    "E024553",
+    "E023264",
+    "E023274",
+    "E023324",
+    "E023369",
+    "E023405",
+    "E023433",
+    "E023571",
+    "E023584",
     "E024567",
-    "E025875",
-    "E025876",
-    "E025879",
-    "E025880",
-    "E025881",
-    "E025882"
+    "E024654",
+    "E024668",
+    "E026012",
+    "E026013",
+    "E026016",
+    "E026017",
+    "E026018",
+    "E026019"
   ],
   "conclusion": "La secuencia de visitas es comprobable. No se demuestra que un identificador de Etsy autentique en Clarín, Hermès, Hermes Agent o Google.",
   "date_explanation": "20 de septiembre 21:13:29 UTC-06:00 corresponde a 21 de septiembre 03:13:29 UTC.",

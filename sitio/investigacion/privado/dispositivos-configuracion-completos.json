@@ -1,0 +1,112 @@
+[
+  {
+    "source": {
+      "code": "S483",
+      "path": "/home/deep-logic/Documentos/Registro/Takeout/Servicio de configuración de dispositivos Android/Device-3644671859603123984.html",
+      "family": "Google",
+      "sha256": "f0e1eccb17543176b5135f2e967d3b504eed5f61beb130e1d6c51056c45beb33",
+      "bytes": 24470,
+      "records": 25
+    },
+    "fields": {
+      "ID de Android": "3644671859603123984",
+      "IMEI": "865776075900505",
+      "Números de serie": "sapphire:f95d80a9",
+      "Modelo": "23129RA5FL",
+      "ID de cliente socio": "android-xiaomi",
+      "Hora del registro": "26 sept 2026, 5:42:46 a.m. UTC",
+      "Hora de la primera conexión de datos": "26 sept 2026, 5:42:46 a.m. UTC",
+      "Hora de la última conexión de datos": "27 sept 2026, 4:18:19 a.m. UTC",
+      "Motivo de la última conexión de datos": "Account Changed",
+      "Paquete de apps que activó la última conexión de datos": "unspecified"
+    }
+  },
+  {
+    "source": {
+      "code": "S484",
+      "path": "/home/deep-logic/Documentos/Registro/Takeout/Servicio de configuración de dispositivos Android/Device-3778158131092576330.html",
+      "family": "Google",
+      "sha256": "99e398960aa7d812a8433b72b9f0f23529eeecedf8c2affc34fdb263e406557e",
+      "bytes": 21902,
+      "records": 8
+    },
+    "fields": {
+      "ID de Android": "3778158131092576330",
+      "IMEI": "865776075900505",
+      "Números de serie": "sapphire:f95d80a9",
+      "Modelo": "23129RA5FL",
+      "ID de cliente socio": "android-google",
+      "Hora del registro": "11 sept 2026, 5:03:08 p.m. UTC",
+      "Hora de la primera conexión de datos": "11 sept 2026, 5:03:08 p.m. UTC",
+      "Hora de la última conexión de datos": "11 sept 2026, 5:04:08 p.m. UTC",
+      "Motivo de la última conexión de datos": "Account Changed",
+      "Paquete de apps que activó la última conexión de datos": "unspecified"
+    }
+  },
+  {
+    "source": {
+      "code": "S485",
+      "path": "/home/deep-logic/Documentos/Registro/Takeout/Servicio de configuración de dispositivos Android/Device-3975241346881164962.html",
+      "family": "Google",
+      "sha256": "c5373ac02f9b5ea35baf614050fe9d2fe3975a08e50f785a4eea8a80825bbda3",
+      "bytes": 25790,
+      "records": 33
+    },
+    "fields": {
+      "ID de Android": "3975241346881164962",
+      "IMEI": "865776075900505",
+      "Números de serie": "sapphire:f95d80a9",
+      "Modelo": "23129RA5FL",
+      "ID de cliente socio": "android-xiaomi",
+      "Hora del registro": "12 sept 2026, 3:20:34 p.m. UTC",
+      "Hora de la primera conexión de datos": "12 sept 2026, 3:20:34 p.m. UTC",
+      "Hora de la última conexión de datos": "21 sept 2026, 8:00:06 p.m. UTC",
+      "Motivo de la última conexión de datos": "Device Booted",
+      "Paquete de apps que activó la última conexión de datos": "unspecified"
+    }
+  },
+  {
+    "source": {
+      "code": "S486",
+      "path": "/home/deep-logic/Documentos/Registro/Takeout/Servicio de configuración de dispositivos Android/Device-4247182940332696163.html",
+      "family": "Google",
+      "sha256": "613432ffa6ff52ad675c7cb6e1bb88b8a489f1fb16518999429d99130c6c3c3e",
+      "bytes": 25264,
+      "records": 32
+    },
+    "fields": {
+      "ID de Android": "4247182940332696163",
+      "IMEI": "865776075900505",
+      "Números de serie": "sapphire:f95d80a9",
+      "Modelo": "23129RA5FL",
+      "ID de cliente socio": "android-xiaomi",
+      "Hora del registro": "23 sept 2026, 6:38:57 p.m. UTC",
+      "Hora de la primera conexión de datos": "23 sept 2026, 6:38:58 p.m. UTC",
+      "Hora de la última conexión de datos": "26 sept 2026, 4:06:35 a.m. UTC",
+      "Motivo de la última conexión de datos": "Internal Trigger",
+      "Paquete de apps que activó la última conexión de datos": "unspecified"
+    }
+  },
+  {
+    "source": {
+      "code": "S487",
+      "path": "/home/deep-logic/Documentos/Registro/Takeout/Servicio de configuración de dispositivos Android/Device-4511226476644240739.html",
+      "family": "Google",
+      "sha256": "d76016b25286c658321ff6de56bbb347f004529b441476b23de26e6222634001",
+      "bytes": 31754,
+      "records": 63
+    },
+    "fields": {
+      "ID de Android": "4511226476644240739",
+      "IMEI": "865776075900505, 865776075900513",
+      "Números de serie": "sapphire:f95d80a9",
+      "Modelo": "23129RA5FL",
+      "ID de cliente socio": "android-xiaomi",
+      "Hora del registro": "11 ene 2025, 8:45:54 p.m. UTC",
+      "Hora de la primera conexión de datos": "11 ene 2025, 8:45:55 p.m. UTC",
+      "Hora de la última conexión de datos": "12 sept 2026, 12:45:45 p.m. UTC",
+      "Motivo de la última conexión de datos": "Unknown",
+      "Paquete de apps que activó la última conexión de datos": "unspecified"
+    }
+  }
+]

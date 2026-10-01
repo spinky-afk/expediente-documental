@@ -52,7 +52,7 @@ def register(path, family):
     return sources[key]['code']
 
 
-def safe_url(s):
+def safe_url(s, depth=0):
     if not s:return None
     s=m.canonical(s)
     u=urlsplit(s)
@@ -60,11 +60,14 @@ def safe_url(s):
         return None
     if u.hostname in ('accounts.google.com','login.yahoo.com'):
         return urlunsplit((u.scheme,u.netloc,u.path,'',''))
-    forbidden=re.compile(r'^(?:password|passwd|pass|secret|token|access_token|refresh_token|id_token|code|auth|authkey|key|api_key|signature|sig|rart|TL|dsh|usg|sjid|visit_id|search_session_id|js_request_id|omec|fbclid)$',re.I)
+    forbidden=re.compile(r'^(?:password|passwd|pass|secret|token|session_token|instance_id_token|access_token|refresh_token|id_token|code|auth|authkey|key|api_key|signature|sig|rapt|rart|TL|dsh|usg|sjid|visit_id|search_session_id|js_request_id|omec|fbclid)$',re.I)
     params=[]
     for k,values in parse_qs(u.query,keep_blank_values=True).items():
         if forbidden.match(k) or k.startswith(('utm_','gad_','gclid','gbraid','wbraid')):continue
-        params.extend((k,v) for v in values)
+        for v in values:
+            if v.startswith(('http://','https://')):
+                v=safe_url(v,depth+1) if depth<4 else urlunsplit((*urlsplit(v)[:3],'',''))
+            params.append((k,v))
     return urlunsplit((u.scheme,u.netloc,u.path,urlencode(params),u.fragment))
 
 
@@ -298,6 +301,73 @@ def collect_facebook():
                   attachment_links=all_urls,**metadata)
 
 
+def collect_device_and_game_records():
+    """Fechas explícitas antes omitidas de HTML Android/Juegos y Chrome Device Info.
+
+    Se llama después de Facebook para conservar los códigos S de fuentes anteriores.
+    Los IDs E se vuelven a asignar al ordenar esta nueva versión.
+    """
+    def date(value):
+        value=value.replace('\u202f',' ').replace('\xa0',' ').strip()
+        if re.fullmatch(r'\d{4}-\d{2}-\d{2}T[^ ]+(?:Z|[+-]\d{2}:\d{2})',value):
+            return datetime.fromisoformat(value.replace('Z','+00:00'))
+        _,dt=m.html_date(value)
+        if dt:return dt
+        long=re.fullmatch(r'(\d{1,2}) de ([a-záéíóú]+) de (\d{4}) a las (\d{1,2}:\d{2}:\d{2})\s*([ap])\.?\s*m\.?\s*UTC',value,re.I)
+        if long:
+            day,month,year,clock,ap=long.groups()
+            mon={'septiembre':'sept','enero':'ene','febrero':'feb','marzo':'mar','abril':'abr','mayo':'may','junio':'jun','julio':'jul','agosto':'ago','octubre':'oct','noviembre':'nov','diciembre':'dic'}.get(month.lower(),month)
+            return m.html_date(f'{day} {mon} {year}, {clock} {ap}.m. UTC')[1]
+    paths=sorted((m.ROOT/'Servicio de configuración de dispositivos Android').glob('*.html'))+sorted((m.ROOT/'Servicios de juego de Google Play').rglob('*.html'))
+    for path in paths:
+        doc=Document(path.read_text());text=doc.root.clean();is_device=path.parent.name=='Servicio de configuración de dispositivos Android'
+        channel='Configuración de dispositivos Android' if is_device else 'Servicios de juego de Google Play'
+        register(path,'Google');identifiers={}
+        if is_device:
+            for field,key in [('ID de Android','android_configuration_id'),('Modelo','model')]:
+                match=re.search(r'^'+re.escape(field)+r':\s*(.*)$',text,re.M)
+                if match:identifiers[key]=match[1]
+            raw=path.read_text()
+            for field in ['Hora del registro','Hora de la primera conexión de datos','Hora de la última conexión de datos']:
+                match=re.search(re.escape(field)+r':\s*([^<]+)(<br\s*/?>)',raw,re.I)
+                if not match:continue
+                dt=date(match[1])
+                if not dt:continue
+                # Ancla en el br que sigue al campo original, sin alterar su texto.
+                off=match.start(2);line=raw.count('\n',0,off)+1;col=off-(raw.rfind('\n',0,off)+1)
+                event(path,'Google',channel,'campo de dispositivo',f"{field} · Android {identifiers.get('android_configuration_id')} · modelo {identifiers.get('model')}",dt,
+                      {'field':field,'html_line_1based':line,'html_column_0based':col},original_date=match[1],identifiers=identifiers)
+        heading='';table_index=0
+        for node in doc.root.nodes():
+            if node.tag in ('h2','h3'):heading=node.clean()
+            if node.tag!='table':continue
+            table_index+=1;headers=[];rows=[n for n in node.children if isinstance(n,Node) and n.tag=='tr']
+            for row_index,row in enumerate(rows,1):
+                cells=[c for c in row.children if isinstance(c,Node) and c.tag in ('td','th')]
+                if cells and all(c.tag=='th' for c in cells):headers=[c.clean() for c in cells];continue
+                values=[c.clean() for c in cells]
+                for ci,cell in enumerate(cells):
+                    if any(True for _ in cell.nodes('table')):continue
+                    dt=date(values[ci])
+                    if not dt:continue
+                    field=headers[ci] if ci<len(headers) else 'fecha'
+                    if len(values)==2 and ci==1:field=values[0]
+                    subject=f'{path.stem} · {heading} · {field}'
+                    if is_device:subject=f'Conexión de configuración Android · {identifiers.get("android_configuration_id")} · {heading}'
+                    elif values and ci>0:subject+=' · '+values[0]
+                    event(path,'Google',channel,'conexión de configuración registrada' if is_device else 'campo de juego',subject,dt,
+                          {'table_index_1based':table_index,'row_index_1based':row_index,'column':field,'html_line_1based':row.pos[0],'html_column_0based':row.pos[1]},
+                          text=json.dumps(dict(zip(headers,values)) if len(headers)==len(values) else values,ensure_ascii=False),original_date=values[ci],identifiers=identifiers)
+    path=m.ROOT/'Chrome/Información del dispositivo.json';obj=json.loads(path.read_text())
+    for i,device in enumerate(obj.get('Device Info',[])):
+        stamp=device.get('last_updated_timestamp')
+        if not isinstance(stamp,int):continue
+        dt=datetime(1970,1,1,tzinfo=timezone.utc)+timedelta(milliseconds=stamp)
+        event(path,'Google','Chrome · información de dispositivos','actualización del registro de sincronización',f"Registro de Chrome {i+1} · {device.get('client_name','')} · {device.get('chrome_version',device.get('google_play_services_version_info',{}).get('apk_version_name',''))}",dt,
+              {'json_pointer':f'/Device Info/{i}/last_updated_timestamp'},original_date=str(stamp),precision='milisegundo',
+              identifiers={'model':device.get('model'),'cache_guid':device.get('cache_guid')})
+
+
 def finish():
     raw_events.sort(key=lambda r:(r['time_utc'],r['source_code'],json.dumps(r['locator'],sort_keys=True)))
     for i,r in enumerate(raw_events,1):r['id']=f'E{i:06}'
@@ -402,4 +472,5 @@ if __name__=='__main__':
     collect_google()
     collect_google_structured()
     collect_facebook()
+    collect_device_and_game_records()
     finish()
