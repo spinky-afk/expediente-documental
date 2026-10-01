@@ -27,5 +27,10 @@
     "known_private_key_files_encrypted": 4
   },
   "pdf_timeline_complete_and_ordered": true,
-  "letter_text_complete_in_pdf": true
+  "letter_text_complete_in_pdf": true,
+  "browser_verified": [
+    "inicio",
+    "cronologia_filtrada_numero_6850175308",
+    "visor_pagina_original_google"
+  ]
 }

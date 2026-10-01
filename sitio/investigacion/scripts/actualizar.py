@@ -10,6 +10,7 @@ for executable,name in [
     (sys.executable,'preparar_informe.py'),
     (sys.executable,'ampliar_pistas.py'),
     (sys.executable,'generar_pdf.py'),
+    (sys.executable,'construir_sitio.py'),
 ]:
     subprocess.run([executable,str(HERE/name)],check=True)
-print('Actualizados: historial-cruzado.pdf, historial-cruzado.html, actividad-cronologica.csv, registro.md')
+print('Actualizados: historial-cruzado.pdf, historial-cruzado.html, actividad-cronologica.csv, registro.md y sitio local. No se publica en internet automáticamente.')
