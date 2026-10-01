@@ -1,0 +1,139 @@
+{
+    "Device Info": [
+        {
+            "cache_guid": "yZT3ISrfRQICIMRAvaPRbA==",
+            "google_play_services_version_info": {"apk_version_name": "252431035"},
+            "device_form_factor": "DEVICE_FORM_FACTOR_PHONE",
+            "pulse_interval_in_minutes": 10080,
+            "invalidation_fields": {
+                        "instance_id_token": "cFMrvzMvGU0:APA91bFHTSJs-sTdaSR7nhT3mJcNeO9Lm3zrN3ZfY_YgHF0PpDPiu6z72tQi7Tchey12CTjdpnIXfiuDa6GbpQD1VlRH71l8N9XKj-Nu_WZxU5lMQk2P3_E",
+                        "interested_data_type_ids": [
+                                    163425,
+                                    45873,
+                                    895275,
+                                    1141935,
+                                    47745
+                        ]
+            },
+            "os_type": "OS_TYPE_ANDROID",
+            "last_updated_timestamp": 1790313571127,
+            "device_type": "TYPE_PHONE",
+            "model": "23129RA5FL",
+            "client_name": "23129RA5FL",
+            "manufacturer": "Xiaomi"
+},
+        {
+            "server_determined_model_name": "Redmi Note 13",
+            "sync_user_agent": "Chrome ANDROID-PHONE 153.0.8010.52 (78e5e45d4bb41035e17ea4da2cc257f496416ac9-refs/branch-heads/8010@{#1443}) channel(stable)",
+            "device_type": "TYPE_PHONE",
+            "chrome_version_info": {"version_number": "153.0.8010.52"},
+            "signin_scoped_device_id": "e89b0867-5242-4164-8da9-6a716a92e323",
+            "manufacturer": "Xiaomi",
+            "cache_guid": "VS5WpVcwXBEcrNbQvpeo3g==",
+            "android_os_build_fingerprint_prefix": "Redmi/sapphire_global/sapphire",
+            "device_form_factor": "DEVICE_FORM_FACTOR_PHONE",
+            "pulse_interval_in_minutes": 1440,
+            "feature_fields": {
+                        "send_tab_to_self_receiving_type": "SEND_TAB_RECEIVING_TYPE_CHROME_OR_UNSPECIFIED",
+                        "desktop_to_ios_promo_receiving_enabled": false,
+                        "send_tab_to_self_receiving_enabled": true,
+                        "glic_experimental_triggering_state": "UNAVAILABLE"
+            },
+            "invalidation_fields": {
+                        "instance_id_token": "co1J7htNfwE:APA91bHD2ZPmoP2fniq6X63pvEMvOZzkA_iO1GpvvNONUVwDkEBTIKw1DZUlt8-0RPOVLHjAuJgJ-hs22UbFWNEqze6aHGW-fucXFYMuM_weISMboKoTgqo",
+                        "interested_data_type_ids": [
+                                    32904,
+                                    37702,
+                                    50119,
+                                    150251,
+                                    154522,
+                                    163425,
+                                    411028,
+                                    601980,
+                                    1034378,
+                                    1004874,
+                                    1419865,
+                                    1438954,
+                                    1520954,
+                                    47745
+                        ]
+            },
+            "os_type": "OS_TYPE_ANDROID",
+            "last_updated_timestamp": 1790326880801,
+            "model": "23129RA5FL",
+            "client_name": "23129RA5FL",
+            "chrome_version": "153.0.8010.52"
+},
+        {
+            "server_determined_model_name": "Redmi Note 13",
+            "sync_user_agent": "Chrome ANDROID-PHONE 154.0.8037.57 (73c14f6228d7cd537c855007e8f88678969cc0eb-refs/branch-heads/8037@{#1293}) channel(stable)",
+            "device_type": "TYPE_PHONE",
+            "chrome_version_info": {"version_number": "154.0.8037.57"},
+            "signin_scoped_device_id": "ba197b5a-272a-4ff7-99b9-6d9af81558c1",
+            "manufacturer": "Xiaomi",
+            "cache_guid": "Gh4ZgFvjfBPTuf+gjrfk6w==",
+            "android_os_build_fingerprint_prefix": "Redmi/sapphire_global/sapphire",
+            "device_form_factor": "DEVICE_FORM_FACTOR_PHONE",
+            "pulse_interval_in_minutes": 1440,
+            "feature_fields": {
+                        "send_tab_to_self_receiving_type": "SEND_TAB_RECEIVING_TYPE_CHROME_OR_UNSPECIFIED",
+                        "desktop_to_ios_promo_receiving_enabled": false,
+                        "send_tab_to_self_receiving_enabled": true,
+                        "glic_experimental_triggering_state": "UNAVAILABLE"
+            },
+            "invalidation_fields": {
+                        "instance_id_token": "eJwYVurtbl4:APA91bHgG9tD09VfwJNRY7T17xfkNSTw_oycL_SR14t3Zf9TxxBEFXvZu5srRdID9LKAndQNOF-58I7XxDkyPnS_pWmtc-zQXdvNXKW3a7J6ef8xhNRsWPQ",
+                        "interested_data_type_ids": [
+                                    32904,
+                                    37702,
+                                    50119,
+                                    150251,
+                                    154522,
+                                    163425,
+                                    411028,
+                                    601980,
+                                    1034378,
+                                    1004874,
+                                    1239418,
+                                    1259076,
+                                    1419865,
+                                    1429255,
+                                    1438954,
+                                    1520954,
+                                    47745
+                        ]
+            },
+            "os_type": "OS_TYPE_ANDROID",
+            "last_updated_timestamp": 1790480046650,
+            "model": "23129RA5FL",
+            "client_name": "23129RA5FL",
+            "chrome_version": "154.0.8037.57"
+},
+        {
+            "cache_guid": "nRpme0Lsl7PLjBdKxYhMAg==",
+            "google_play_services_version_info": {"apk_version_name": "263436035"},
+            "device_form_factor": "DEVICE_FORM_FACTOR_PHONE",
+            "pulse_interval_in_minutes": 10080,
+            "invalidation_fields": {
+                        "instance_id_token": "dgJdp2TSLpw:APA91bFcOHA-ScvJUEeEZULR7990p8AvelvirrbKTz6lrJeUwvNavYh0IR7eOpaxja6a6f_q1npInUwIN61jE2Ig2bJ7gE3mf-MVfb64brRaeIhYBUhR-Q4",
+                        "interested_data_type_ids": [
+                                    163425,
+                                    45873,
+                                    306270,
+                                    662827,
+                                    895275,
+                                    330441,
+                                    1419865,
+                                    1164238,
+                                    47745
+                        ]
+            },
+            "os_type": "OS_TYPE_ANDROID",
+            "last_updated_timestamp": 1790482679707,
+            "device_type": "TYPE_PHONE",
+            "model": "23129RA5FL",
+            "client_name": "23129RA5FL",
+            "manufacturer": "Xiaomi"
+}
+    ]
+}

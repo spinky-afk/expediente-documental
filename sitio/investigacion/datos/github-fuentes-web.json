@@ -14,6 +14,34 @@
       "url": "https://docs.github.com/en/enterprise-cloud%40latest/pages/getting-started-with-github-pages/changing-the-visibility-of-your-github-pages-site",
       "notes": "Pages privado requiere un sitio de proyecto de una organización con GitHub Enterprise Cloud; un repositorio privado por sí solo no restringe el sitio.",
       "consulted_on": "2026-10-01"
+    },
+    {
+      "id": "G03",
+      "title": "GitHub CLI oficial",
+      "url": "https://github.com/cli/cli",
+      "notes": "Se instalaron binarios oficiales con verificación SHA-256.",
+      "consulted_on": "2026-10-01"
+    },
+    {
+      "id": "G04",
+      "title": "Git LFS oficial",
+      "url": "https://git-lfs.com/",
+      "notes": "Los objetos grandes se conservan con Git LFS.",
+      "consulted_on": "2026-10-01"
+    },
+    {
+      "id": "G05",
+      "title": "GitHub CLI: autorización de cuenta",
+      "url": "https://cli.github.com/manual/gh_auth_login",
+      "notes": "Se completó autorización OAuth y se verificó spinky-afk mediante API user; los secretos de conexión no se registran.",
+      "consulted_on": "2026-10-01"
+    },
+    {
+      "id": "G06",
+      "title": "GitHub: archivos grandes",
+      "url": "https://docs.github.com/en/repositories/working-with-files/managing-large-files/about-large-files-on-github",
+      "notes": "GitHub bloquea archivos Git mayores de 100 MiB; LFS permite conservarlos completos.",
+      "consulted_on": "2026-10-01"
     }
   ],
   "queries": [

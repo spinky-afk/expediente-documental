@@ -1,0 +1,47 @@
+[{
+  "userSetting": {
+    "receiveReplyToReviewEmail": false
+  }
+},
+{
+  "userSetting": {
+    "testingProgramListItem": {
+      "doc": {
+        "documentType": "Android Apps",
+        "title": "Piano Fire: Edm Music \u0026 Piano"
+      }
+    }
+  }
+},
+{
+  "userSetting": {
+    "testingProgramListItem": {
+      "doc": {
+        "documentType": "Android Apps",
+        "title": "Facebook"
+      }
+    }
+  }
+},
+{
+  "userSetting": {
+    "testingProgramListItem": {
+      "doc": {
+        "documentType": "Android Apps",
+        "title": "Piano Fun: Music Beat Game"
+      }
+    }
+  }
+},
+{
+  "userSetting": {
+    "marketingPreferences": {
+      "wantsMultiContentEmail": true
+    }
+  }
+},
+{
+  "userSetting": {
+    "userCountryCode": "MX"
+  }
+}]

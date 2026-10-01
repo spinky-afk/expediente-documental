@@ -1,0 +1,71 @@
+[
+  {
+    "source": "/home/deep-logic/Documentos/facebook/preferences/preferences/notification_settings.html",
+    "sha256": "fcfeca5625ea4de9ee50719f0e0a0e324ac0fcf00a54c349f5ec7f49cc45655f",
+    "match_count": 54,
+    "matched_terms": {
+      "Notificaciones push": 54
+    },
+    "limited_contexts": [
+      "sajes\nCorreo electrónico\nVerdadero\nNotificaciones push\nVerdadero\nSMS\nVerdadero\nCategoría\nFacebook\nTipo\nSolicitudes de amistad\nCor",
+      "istad\nCorreo electrónico\nVerdadero\nNotificaciones push\nVerdadero\nSMS\nVerdadero\nCategoría\nFacebook\nTipo\nConfirmaciones de amigos\nC",
+      "migos\nCorreo electrónico\nVerdadero\nNotificaciones push\nVerdadero\nSMS\nVerdadero\nCategoría\nFacebook\nTipo\nPublicaciones en tu biogra",
+      "rafía\nCorreo electrónico\nVerdadero\nNotificaciones push\nVerdadero\nSMS\nVerdadero\nCategoría\nFacebook\nTipo\nToques\nCorreo electrónico\n",
+      "oques\nCorreo electrónico\nVerdadero\nNotificaciones push\nVerdadero\nSMS\nVerdadero\nCategoría\nFacebook\nTipo\nPróximos cumpleaños\nCorreo",
+      "eaños\nCorreo electrónico\nVerdadero\nNotificaciones push\nVerdadero\nSMS\nVerdadero\nCategoría\nFacebook\nTipo\nEtiquetas en publicaciones"
+    ],
+    "classification": "Configuración o registro genérico de notificaciones push; sin mención explícita de VAPID o Web Push."
+  },
+  {
+    "source": "/home/deep-logic/Documentos/facebook/start_here.html",
+    "sha256": "e97256b7f4435c5568a8fc4eb5a3f38d2cb31fe4dd287c80543efc09027af382",
+    "match_count": 1,
+    "matched_terms": {
+      "notificaciones push": 1
+    },
+    "limited_contexts": [
+      " inicio de sesión\nConfiguración de notificaciones push de tu dispositivo\nTus historias destacadas\nConfiguración de privacidad\nCon"
+    ],
+    "classification": "Configuración o registro genérico de notificaciones push; sin mención explícita de VAPID o Web Push."
+  },
+  {
+    "source": "/home/deep-logic/Documentos/facebook/preferences/preferences/your_device_push_settings.html",
+    "sha256": "82873103f9ebd9c163266450e963047f94e394bc10eed522e4884cf5d3e4165c",
+    "match_count": 3,
+    "matched_terms": {
+      "notificaciones push": 3
+    },
+    "limited_contexts": [
+      "Configuración de notificaciones push de tu dispositivo\nConfiguración de notificaciones push de tu dispositivo\nC",
+      "de tu dispositivo\nConfiguración de notificaciones push de tu dispositivo\nConfiguración de tu sistema operativo para notificacione",
+      "ación de tu sistema operativo para notificaciones push\nGenerado por Adilenee Razo el Domingo, 27 de septiembre de 2026 a las 12:3"
+    ],
+    "classification": "Configuración o registro genérico de notificaciones push; sin mención explícita de VAPID o Web Push."
+  },
+  {
+    "source": "/home/deep-logic/Documentos/facebook/logged_information/notifications/your_notifications_tab_activity.html",
+    "sha256": "78753442ca830d7ddd93bae9dcc92ddc2247d3e52c8271f77d84c1a5a6604ed0",
+    "match_count": 1,
+    "matched_terms": {
+      "notificaciones push": 1
+    },
+    "limited_contexts": [
+      "026 12:10:10 am\nNúmero más alto de notificaciones push recibidas de amigos en un día\n0"
+    ],
+    "classification": "Configuración o registro genérico de notificaciones push; sin mención explícita de VAPID o Web Push."
+  },
+  {
+    "source": "/home/deep-logic/Documentos/facebook/personal_information/profile_information/the_ways_we_can_send_you_notifications.html",
+    "sha256": "031438a661b5c33853daefd78fa9055427c939b6e1effede7f51fa94b472221f",
+    "match_count": 2,
+    "matched_terms": {
+      "notificaciones push": 1,
+      "Notificaciones push": 1
+    },
+    "limited_contexts": [
+      "o no por correo electrónico, SMS o notificaciones push\nGenerado por Adilenee Razo el Domingo, 27 de septiembre de 2026 a las 12:3",
+      ". m.\nCorreo electrónico\nYes\nSMS\nNo\nNotificaciones push\nYes"
+    ],
+    "classification": "Configuración o registro genérico de notificaciones push; sin mención explícita de VAPID o Web Push."
+  }
+]

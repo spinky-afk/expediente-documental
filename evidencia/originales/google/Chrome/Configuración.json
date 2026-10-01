@@ -1,0 +1,152 @@
+{
+    "App Settings": [],
+    "App Lists": [],
+    "Search Engines": [],
+    "Apps": [],
+    "Preferences": [
+        {
+            "name": "safebrowsing.enhanced",
+            "value": "true"
+},
+        {
+            "name": "translate_auto_always_count",
+            "value": "{\"en\":1}"
+},
+        {
+            "name": "sharing.vapid_key",
+            "value": "{\"vapid_creation_timestamp\":\"13408324752095937\",\"vapid_private_key\":\"MIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgwG6IKUZSOUrtWEKMps55nb7dbfOthJamqZmisLvLKwShRANCAATawcQx+NtXXMKiBb8IUCccwIsrBRa2dMW2np9GDZ7Z9SSJAnYdWyeGhkPprLti+I8MWF1jmxqpx6Q/jVyB+3ty\"}"
+},
+        {
+            "name": "intl.accept_languages",
+            "value": "\"es-US,es-419,es\""
+},
+        {
+            "name": "intl.selected_languages",
+            "value": "\"es-US,es-419,es\""
+},
+        {
+            "name": "translate_accepted_count",
+            "value": "{\"en\":0,\"zh-CN\":0}"
+},
+        {
+            "name": "https_only_mode_enabled",
+            "value": "false"
+},
+        {
+            "name": "translate_allowlists",
+            "value": "{\"en\":\"es\"}"
+},
+        {
+            "name": "translate_recent_target",
+            "value": "\"es\""
+},
+        {
+            "name": "cross_device.omnibox.is_in_bottom_position",
+            "value": "{\"Gh4ZgFvjfBPTuf+gjrfk6w==\":{\"update_time\":\"13434954559555642\",\"value\":false},\"VS5WpVcwXBEcrNbQvpeo3g==\":{\"update_time\":\"13434836564832681\",\"value\":false}}"
+},
+        {
+            "name": "safebrowsing.enabled",
+            "value": "true"
+},
+        {
+            "name": "translate_site_blocklist_with_time",
+            "value": "{}"
+},
+        {
+            "name": "autofill.credit_card_enabled",
+            "value": "false"
+},
+        {
+            "name": "payments.can_make_payment_enabled",
+            "value": "true"
+},
+        {
+            "name": "autofill.ai_last_version_deduped",
+            "value": "154"
+},
+        {
+            "name": "translate_site_blacklist",
+            "value": "[]"
+},
+        {
+            "name": "download.prompt_for_download_android",
+            "value": "1"
+},
+        {
+            "name": "https_first_balanced_mode_enabled",
+            "value": "true"
+},
+        {
+            "name": "profile.cookie_controls_mode",
+            "value": "2"
+},
+        {
+            "name": "enable_do_not_track",
+            "value": "false"
+},
+        {
+            "name": "search.contextual_search_fully_opted_in",
+            "value": "false"
+},
+        {
+            "name": "translate_denied_count_for_language",
+            "value": "{\"en\":2,\"zh-CN\":2}"
+},
+        {
+            "name": "autofill.last_version_deduped",
+            "value": "154"
+},
+        {
+            "name": "translate_site_blacklist_with_time",
+            "value": "{}"
+}
+    ],
+    "Themes": [],
+    "Priority Preferences": [
+        {"preference": {
+            "name": "credentials_enable_autosignin",
+            "value": "true"
+}},
+        {"preference": {
+            "name": "safebrowsing.aesb_update_time_windows_epoch_micros",
+            "value": "\"13432462170035173\""
+}},
+        {"preference": {
+            "name": "credentials_enable_passwordalerts",
+            "value": "true"
+}},
+        {"preference": {
+            "name": "credentials_disable_saved_password_safety_alerts",
+            "value": "true"
+}},
+        {"preference": {
+            "name": "autofill.name_and_email_profile_not_selected_counter",
+            "value": "8"
+}},
+        {"preference": {
+            "name": "credentials_password_manager_warm_welcome_last_seen",
+            "value": "2026-08-09T01:03:38.122017Z"
+}},
+        {"preference": {
+            "name": "sync.demographics",
+            "value": "{\"gender\":2,\"birth_year\":1998}"
+}},
+        {"preference": {
+            "name": "autofill.was_name_and_email_profile_used",
+            "value": "true"
+}},
+        {"preference": {
+            "name": "credentials_enable_service",
+            "value": "false"
+}},
+        {"preference": {
+            "name": "credentials_enable_automatic_passkey_upgrades",
+            "value": "true"
+}},
+        {"preference": {
+            "name": "autofill.name_and_email_profile_signature",
+            "value": "\"458899843\""
+}}
+    ],
+    "Web Apps": []
+}

@@ -1,0 +1,129 @@
+{
+  "window_local": [
+    "2026-09-20T18:00:00-06:00",
+    "2026-09-22T00:00:00-06:00"
+  ],
+  "messages": [
+    {
+      "id": "E075330",
+      "family": "Facebook",
+      "channel": "Messenger",
+      "kind": "mensaje",
+      "time_utc": "2026-09-21T20:03:05.000000+00:00",
+      "time_local": "2026-09-21T14:03:05.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "sep 21, 2026 2:03:05 pm",
+      "source_code": "S447",
+      "source_path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/messages/inbox/soymason_28808961795357693/message_1.html",
+      "locator": {
+        "message_index_1based": 7,
+        "html_line_1based": 36,
+        "html_column_0based": 3914
+      },
+      "identifiers": {
+        "folder_suffix": "28808961795357693",
+        "explicit_fields": [
+          {
+            "field": "id",
+            "value": "61553075107468"
+          },
+          {
+            "field": "post_id",
+            "value": "61553075107468"
+          }
+        ]
+      },
+      "subject": "SOY MASON · SOY MASON: SOY MASON envió un archivo adjunto.\nEncuentra nuestra BIBLIOTECA Masónica dentro de nuestra Página de Facebook o en el primer comentario... Siempre trabajando a favor del estudio constante...\nS.F.U.\nhttps://www.facebook.com/story.php?story_fbid=pfbid0CdtKxNkKRfhcygRRcFnyr2Grw1gTobzmSbAs2KUnAS4QEsAcViEMjSyS9BRProgdl&id=61553075107468&post_id=61553075107468_pfbid0CdtKxNkKRfhcygRRcFnyr2Grw1gTobzmSbAs2KUnAS4QEsAcViEMjSyS9BRProgdl\n478547315650144\n478547315650144\n478547315650144\n478547315650144\n478547315650144\n1635855486666999\n1635855486666999\n1635855486666999\n1635855486666999\n1635855486666999\n1635855486666999\n1635855486666999\n1635855486666999\n1635855486666999\n1635855486666999\n1635855486666999\n1635855486666999\n1635855486666999\n1635855486666999\n1635855486666999\n1635855486666999\n1635855486666999\n1635855486666999\n1635855486666999\n1635855486666999\n1635855486666999\n1635855486666999\n1635855486666999\n1635855486666999\n1678524932434102\n1678524932434102\n1678524932434102\n1678524932434102\n1678524932434102\n1678524932434102\n1678524932434102\n1678524932434102\n1678524932434102\n1678524932434102\n1678524932434102\n1678524932434102\n1678524932434102\n1678524932434102\n1678524932434102\n1678524932434102\n1678524932434102\n1678524932434102\n1678524932434102\n1678524932434102\n1678524932434102\n1678524932434102\n1678524932434102\n1678524932434102\n1678524932434102\n1678524932434102\n1678524932434102\n1678524932434102\n1678524932434102\n1678524932434102\n1678524932434102\n1678524932434102\n1678524932434102\n1678524932434102\n1678524932434102\n1678524932434102\n1678524932434102\n1678524932434102\n1678524932434102\n1678524932434102\n1678524932434102\n1678524932434102\n1678524932434102\n1678524932434102\n1678524932434102\n1678524932434102\n1678524932434102\n1678524932434102\n1678524932434102\n1678524932434102\n1678524932434102\n1678524932434102\n1678524932434102\n1678524932434102\n1678524932434102\n1678524932434102\n1678524932434102",
+      "url": "https://www.facebook.com/story.php?story_fbid=pfbid0CdtKxNkKRfhcygRRcFnyr2Grw1gTobzmSbAs2KUnAS4QEsAcViEMjSyS9BRProgdl&id=61553075107468&post_id=61553075107468_pfbid0CdtKxNkKRfhcygRRcFnyr2Grw1gTobzmSbAs2KUnAS4QEsAcViEMjSyS9BRProgdl",
+      "thread": "SOY MASON",
+      "sender": "SOY MASON",
+      "attachment_links": [
+        "https://www.facebook.com/story.php?story_fbid=pfbid0CdtKxNkKRfhcygRRcFnyr2Grw1gTobzmSbAs2KUnAS4QEsAcViEMjSyS9BRProgdl&id=61553075107468&post_id=61553075107468_pfbid0CdtKxNkKRfhcygRRcFnyr2Grw1gTobzmSbAs2KUnAS4QEsAcViEMjSyS9BRProgdl"
+      ]
+    },
+    {
+      "id": "E075331",
+      "family": "Facebook",
+      "channel": "Messenger",
+      "kind": "mensaje",
+      "time_utc": "2026-09-21T20:03:05.000000+00:00",
+      "time_local": "2026-09-21T14:03:05.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "sep 21, 2026 2:03:05 pm",
+      "source_code": "S449",
+      "source_path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/messages/inbox/uneternoaprendiz_9189181051139059/message_1.html",
+      "locator": {
+        "message_index_1based": 7,
+        "html_line_1based": 36,
+        "html_column_0based": 2888
+      },
+      "identifiers": {
+        "folder_suffix": "9189181051139059",
+        "explicit_fields": [
+          {
+            "field": "id",
+            "value": "61553075107468"
+          },
+          {
+            "field": "post_id",
+            "value": "61553075107468"
+          }
+        ]
+      },
+      "subject": "UN ETERNO APRENDIZ · SOY MASON: SOY MASON envió un archivo adjunto.\nEncuentra nuestra BIBLIOTECA Masónica dentro de nuestra Página de Facebook o en el primer comentario... Siempre trabajando a favor del estudio constante...\nS.F.U.\nhttps://www.facebook.com/story.php?story_fbid=pfbid0CdtKxNkKRfhcygRRcFnyr2Grw1gTobzmSbAs2KUnAS4QEsAcViEMjSyS9BRProgdl&id=61553075107468&post_id=61553075107468_pfbid0CdtKxNkKRfhcygRRcFnyr2Grw1gTobzmSbAs2KUnAS4QEsAcViEMjSyS9BRProgdl\n1635855486666999\n1635855486666999\n1635855486666999\n1635855486666999\n1635855486666999\n1635855486666999\n1635855486666999\n1635855486666999\n1635855486666999\n1635855486666999\n1635855486666999\n1635855486666999\n1635855486666999\n1635855486666999\n1635855486666999\n1635855486666999\n1635855486666999\n1635855486666999\n1635855486666999\n1635855486666999\n1635855486666999\n1635855486666999\n1635855486666999\n1635855486666999\n1635855486666999\n1635855486666999\n1635855486666999\n1635855486666999\n1635855486666999\n1635855486666999\n1635855486666999\n1635855486666999\n1635855486666999\n1678524932434102\n1678524932434102\n1678524932434102\n1678524932434102\n1678524932434102\n1678524932434102\n1678524932434102\n1678524932434102\n1678524932434102\n1678524932434102\n1678524932434102\n1678524932434102\n1678524932434102\n1678524932434102\n1678524932434102\n1678524932434102\n1678524932434102\n1678524932434102\n1678524932434102",
+      "url": "https://www.facebook.com/story.php?story_fbid=pfbid0CdtKxNkKRfhcygRRcFnyr2Grw1gTobzmSbAs2KUnAS4QEsAcViEMjSyS9BRProgdl&id=61553075107468&post_id=61553075107468_pfbid0CdtKxNkKRfhcygRRcFnyr2Grw1gTobzmSbAs2KUnAS4QEsAcViEMjSyS9BRProgdl",
+      "thread": "UN ETERNO APRENDIZ",
+      "sender": "SOY MASON",
+      "attachment_links": [
+        "https://www.facebook.com/story.php?story_fbid=pfbid0CdtKxNkKRfhcygRRcFnyr2Grw1gTobzmSbAs2KUnAS4QEsAcViEMjSyS9BRProgdl&id=61553075107468&post_id=61553075107468_pfbid0CdtKxNkKRfhcygRRcFnyr2Grw1gTobzmSbAs2KUnAS4QEsAcViEMjSyS9BRProgdl"
+      ]
+    }
+  ],
+  "numeric_matches": {
+    "61553075107468": {
+      "observations": [
+        "E075330",
+        "E075331"
+      ],
+      "source_files_with_literal_value": [
+        "your_facebook_activity/messages/inbox/soymason_28808961795357693/message_1.html",
+        "your_facebook_activity/messages/inbox/uneternoaprendiz_9189181051139059/message_1.html"
+      ],
+      "appears_in_gaming_sources": false
+    },
+    "478547315650144": {
+      "observations": [
+        "E075330"
+      ],
+      "source_files_with_literal_value": [
+        "your_facebook_activity/messages/inbox/soymason_28808961795357693/message_1.html",
+        "your_facebook_activity/messages/inbox/uneternoaprendiz_9189181051139059/message_1.html"
+      ],
+      "appears_in_gaming_sources": false
+    },
+    "1635855486666999": {
+      "observations": [
+        "E075330",
+        "E075331"
+      ],
+      "source_files_with_literal_value": [
+        "your_facebook_activity/messages/inbox/soymason_28808961795357693/message_1.html",
+        "your_facebook_activity/messages/inbox/uneternoaprendiz_9189181051139059/message_1.html"
+      ],
+      "appears_in_gaming_sources": false
+    },
+    "1678524932434102": {
+      "observations": [
+        "E075330",
+        "E075331"
+      ],
+      "source_files_with_literal_value": [
+        "your_facebook_activity/messages/inbox/soymason_28808961795357693/message_1.html",
+        "your_facebook_activity/messages/inbox/uneternoaprendiz_9189181051139059/message_1.html"
+      ],
+      "appears_in_gaming_sources": false
+    }
+  },
+  "outgoing_business_message_confirmed": false,
+  "interpretation": "Dos representaciones en los chats SOY MASON y UN ETERNO APRENDIZ de un adjunto enviado por SOY MASON a las 14:03:05 del 21. El texto anuncia una biblioteca, no identifica un ataque ni un evento de juego. Los números repetidos no aparecen en otros HTML de Facebook fuera de estas dos conversaciones; su función exacta no se deduce del export."
+}

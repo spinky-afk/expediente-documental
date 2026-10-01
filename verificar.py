@@ -50,7 +50,7 @@ class Links(HTMLParser):
             if d.get(k):self.attrs.append((t,k,d[k]))
 
 external=[];missing=[];cache={};js_checked=0
-for p in list((S/'paginas').rglob('*.html'))+list(S.glob('*.html')):
+for p in list((S/'paginas').rglob('*.html'))+list(S.glob('*.html'))+list((S/'investigacion/correos').glob('*.html')):
     parser=Links();text=p.read_text();parser.feed(text);cache[str(p)]=parser
     for tag,k,url in parser.attrs:
         parts=urlsplit(url)
@@ -69,6 +69,13 @@ for e in events:
     if 'html_line_1based' in loc:
         p=S/unquote(by_code[e['source_code']]['view_local']);anchor='pos-'+str(loc['html_line_1based'])+'-'+str(loc['html_column_0based']);anchor_count+=1
         if anchor not in cache[str(p)].ids:missing_anchors.append(e['id'])
+    elif 'csv_line_1based' in loc:
+        p=S/unquote(by_code[e['source_code']]['view_local']);anchor='linea-'+str(loc['csv_line_1based']);anchor_count+=1
+        if anchor not in cache[str(p)].ids:missing_anchors.append(e['id'])
+    elif 'mbox_message_index_1based' in loc:
+        p=S/'investigacion/correos'/(loc['mail_id']+'.html') if 'mail_id' in loc else S/'investigacion/correos'/(e['identifiers']['mail_id']+'.html')
+        anchor_count+=1
+        if not p.exists():missing_anchors.append(e['id'])
 pdf=(S/'historial-cruzado.pdf').read_bytes();uris=re.findall(rb'/URI\s*\((.*?)\)',pdf)
 external_pdf=[u[:140].decode(errors='replace') for u in uris if u.startswith((b'https:',b'http:',b'file:'))]
 report={'original_copies_verified':verified,'encrypted_files_restored_in_memory':len(restored['files']),'private_key_leaks':leaks,'external_navigation_in_site_pages':external[:20],'missing_local_links':missing[:30],'anchored_observations':anchor_count,'missing_anchors_count':len(missing_anchors),'missing_anchor_samples':missing_anchors[:10],'javascript_blocks_checked':js_checked,'pdf_link_annotations':len(uris),'pdf_external_or_machine_specific_links':external_pdf,'account':json.loads((ROOT/'estado-publicacion.json').read_text())}

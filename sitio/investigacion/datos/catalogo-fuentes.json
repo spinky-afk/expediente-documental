@@ -3959,5 +3959,109 @@
     "sha256": "006bd0958d7c75b9d41b925cf6404ecab64c8c2c140f9469e556edd4e0b9d854",
     "bytes": 6877,
     "records": 4
+  },
+  {
+    "code": "S496",
+    "path": "/home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Account and Profile/communications_sent-0.csv",
+    "family": "Uber",
+    "sha256": "c97d756ea5341ebc7ce19657865aadd5e952908f07f050e8f0d076c1b65aa3fa",
+    "bytes": 389,
+    "records": 6
+  },
+  {
+    "code": "S497",
+    "path": "/home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Account and Profile/customer_support_tickets-0.csv",
+    "family": "Uber",
+    "sha256": "c9acb7ef27c24560ef7897eadeeb3d9881ec5b04470e760a776477b3cead5a8b",
+    "bytes": 2691,
+    "records": 9
+  },
+  {
+    "code": "S498",
+    "path": "/home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Account and Profile/driver_profile-0.csv",
+    "family": "Uber",
+    "sha256": "875f40f290cb77f16a28ee0a64ef27f7bfe084e54458a3e256077d1a171f4d3e",
+    "bytes": 476,
+    "records": 1
+  },
+  {
+    "code": "S499",
+    "path": "/home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Account and Profile/payment_methods-0.csv",
+    "family": "Uber",
+    "sha256": "cdfaedf1fbbd789e4e9b6193c973095e2075b406e3b820ec5d922fbf2003fd1d",
+    "bytes": 746,
+    "records": 7
+  },
+  {
+    "code": "S500",
+    "path": "/home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Account and Profile/rider_eater_saved_locations.csv",
+    "family": "Uber",
+    "sha256": "1003eb0bfb2a65f8490515a3c126483dfd44b82589186afa720c7b3a49576f4d",
+    "bytes": 155,
+    "records": 1
+  },
+  {
+    "code": "S501",
+    "path": "/home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Account and Profile/user_profile-0.csv",
+    "family": "Uber",
+    "sha256": "3ff5c80b819be98f0af75a518b86a2d8b143857c09bf45521e9ceeb3f700b255",
+    "bytes": 441,
+    "records": 1
+  },
+  {
+    "code": "S502",
+    "path": "/home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Eats/eats_app_analytics-0.csv",
+    "family": "Uber",
+    "sha256": "2efd4662b503ed13aa3508f5216d40c7cfca8b054928fc8cc7608661ef9f7a4a",
+    "bytes": 6289342,
+    "records": 45178
+  },
+  {
+    "code": "S503",
+    "path": "/home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Eats/user_orders-0.csv",
+    "family": "Uber",
+    "sha256": "545a36db0fead5835f51b0a44a323c3a897ec4a5a3c15ae606caa272e7657dd3",
+    "bytes": 4295,
+    "records": 46
+  },
+  {
+    "code": "S504",
+    "path": "/home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Rider/rider_app_analytics-0.csv",
+    "family": "Uber",
+    "sha256": "7a17993c9f38183a805a4d416bead302e4277d9dd0ea4499d1c30697bd8c4be9",
+    "bytes": 2384633,
+    "records": 10833
+  },
+  {
+    "code": "S505",
+    "path": "/home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Rider/rider_lifetime_ratings_received-0.csv",
+    "family": "Uber",
+    "sha256": "78f459c3dcf4dbbd8851d28e1ab4016f2875335bf39094c586a8e521b81253e8",
+    "bytes": 19,
+    "records": 1
+  },
+  {
+    "code": "S506",
+    "path": "/home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Rider/rider_lifetime_trips-0.csv",
+    "family": "Uber",
+    "sha256": "d190f60e8be8a48ee153e1fa6bbae59adaa901780ea61c72c38fea52c95b0a23",
+    "bytes": 3062,
+    "records": 4
+  },
+  {
+    "code": "S507",
+    "path": "/home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/readme.html",
+    "family": "Uber",
+    "sha256": "a6b491bf7cd30e9623327723a7c3406d4b1a60294a667f1e29f97b408ac3ca9d",
+    "bytes": 2910,
+    "records": 0
+  },
+  {
+    "code": "S508",
+    "path": "/home/deep-logic/Documentos/Todo el correo, con Spam y Papelera incluidos.mbox",
+    "family": "Correo",
+    "sha256": "a2c0b40d481a02e6829c9aba9f61d7874c1da23bf3e3d8bca83e1474d58f674d",
+    "bytes": 104855969,
+    "records": 1527
   }
 ]

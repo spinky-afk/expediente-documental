@@ -61,7 +61,7 @@ class PDF:
         # con decenas de miles de anotaciones de enlace.
         restrict_version(self.surface,0)
         self.fonts={};self.page=1;self.y=48;self.label='Historial cruzado';self.lines=0;self.page_records={};self.event_pages={}
-        metadata(self.surface,0,'Historial cruzado — Google y Facebook'.encode())
+        metadata(self.surface,0,'Historial cruzado — Google, Facebook, Uber y correo'.encode())
         metadata(self.surface,1,'Investigación local para el propietario de los datos'.encode())
         metadata(self.surface,4,b'Investigacion local: Python, Pango y Cairo')
         metadata(self.surface,5,datetime.now(timezone.utc).isoformat().encode())
@@ -72,7 +72,7 @@ class PDF:
         return self.fonts[key]
     def header(self):
         rgb(self.ctx,*TEAL);rect(self.ctx,self.M,28,self.W-2*self.M,2);fill(self.ctx)
-        self.fixed('INVESTIGACIÓN LOCAL  /  GOOGLE + FACEBOOK',self.M,14,7,MUTED)
+        self.fixed('INVESTIGACIÓN LOCAL  /  GOOGLE + FACEBOOK + UBER + CORREO',self.M,14,7,MUTED)
     def fixed(self,text,x,y,size=7,color=MUTED):
         l=self.layout(text,size,self.W-2*self.M);line=get_line(l,0);r=Rectangle();line_extents(line,None,C.byref(r))
         rgb(self.ctx,*color);move(self.ctx,x,y-r.y/1024);show_line(self.ctx,line);unref(l)
@@ -115,14 +115,19 @@ class PDF:
         self.page_records.setdefault(str(self.page),[]).append(r['id'])
         stamp=r['time_local'];clock=stamp[11:19]
         if r['time_precision']=='microsegundo':clock=stamp[11:26]
+        if r['time_precision']=='milisegundo':clock=stamp[11:23]
         if r['time_precision']=='minuto':clock=stamp[11:16]+' (minuto)'
         color=PURPLE if r['family']=='Facebook' else TEAL
         self.text(f"{r['id']}  |  {clock}  |  {r['family']} / {r['channel']}  |  {r['kind']}",7.7,color,True,gap=1)
         self.text(re.sub(r'\s+',' ',r['subject']).strip(),8.4,gap=1)
         loc=r['locator'];key=next((f'{k}={v}' for k,v in loc.items() if 'index' in k or 'pointer' in k),'')
-        pos=f"; L{loc['html_line_1based']}:C{loc['html_column_0based']}" if 'html_line_1based' in loc else ''
+        pos=f"; L{loc['html_line_1based']}:C{loc['html_column_0based']}" if 'html_line_1based' in loc else (f"; línea CSV {loc['csv_line_1based']}" if 'csv_line_1based' in loc else '')
+        source_url=Path(r['source_path']).as_uri()+('#linea-'+str(loc['csv_line_1based']) if 'csv_line_1based' in loc else ('#correo-'+str(loc['mbox_message_index_1based']) if 'mbox_message_index_1based' in loc else ''))
         self.text(f"Fuente {r['source_code']} · {key}{pos} · precisión: {r['time_precision']}",6.8,MUTED,gap=1,
-                  url=Path(r['source_path']).as_uri())
+                  url=source_url)
+        if r['family']=='Uber' and r['channel'].endswith(' · Analytics'):
+            self.y+=4
+            return
         if r.get('url'):
             uri=r['url'];label=uri if len(uri)<=170 else uri[:165]+'… [enlace completo]'
             self.link(label,uri,7.2)
@@ -163,7 +168,7 @@ def main():
     temp=OUT/'historial-cruzado.en-proceso.pdf';target=OUT/'historial-cruzado.pdf'
     pdf=PDF(temp)
     pdf.y=95;pdf.text('Tu historial,\nen orden cronológico',31,INK,True,gap=18)
-    pdf.text('Google · Chrome · Google Play · Facebook · Messenger',13,TEAL,gap=20)
+    pdf.text('Google · Chrome · Google Play · Facebook · Messenger · Uber · Correo',13,TEAL,gap=20)
     pdf.text(f"{len(events):,} registros fechados\n{sm['source_files']} archivos consultados\n{sm['conversation_files']} conversaciones de Messenger\n87 entidades de actividad fuera de Meta",14,gap=22)
     pdf.text('Versión actualizada: 1 de octubre de 2026\nPeriodo observado: '+sm['earliest'][:10]+' → '+sm['latest'][:10]+'\nZona de visualización: America/Mexico_City',10,MUTED,gap=25)
     pdf.text('Este documento reúne hallazgos, preguntas y enlaces, cronología completa de las observaciones extraídas, catálogo de identificadores y referencias a los archivos originales. Cada observación conserva su procedencia.',11,gap=18)
@@ -186,6 +191,7 @@ def main():
         elif part['type']=='evidence':
             pdf.text(part['event_id']+' · '+part['text'],8.5,gap=6)
             if part.get('url'):pdf.link(part['url'],part['url'],7.5)
+        elif part['type']=='link':pdf.link(part['text'],part['url'],9)
         else:pdf.text(part['text'],9.4,gap=8)
     pdf.new_page('Cobertura');pdf.heading('Cobertura por servicio')
     for r in sm['source_counts']:pdf.text(f"{r['family']} / {r['channel']}: {r['count']:,}",8.5,gap=3)

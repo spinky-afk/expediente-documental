@@ -1,0 +1,74 @@
+[
+  {
+    "id": "P01",
+    "title": "Google Fotos: metadatos al exportar",
+    "url": "https://support.google.com/photos/answer/3024190?hl=es",
+    "status": "contenido verificado",
+    "relationship": "Consulta actual; no visita recuperada del historial.",
+    "notes": "Distingue la fecha de archivo que puede asignar el sistema al descargar, metadatos originales insertados y datos adicionales en un JSON secundario.",
+    "consulted_on": "2026-10-01"
+  },
+  {
+    "id": "P02",
+    "title": "Google: medios de una ubicación de Perfil de Negocio",
+    "url": "https://developers.google.com/my-business/reference/rest/v4/accounts.locations.media",
+    "status": "contenido verificado",
+    "relationship": "Consulta actual de API oficial; no prueba una vinculación particular del usuario.",
+    "notes": "El recurso MediaItem tiene un nombre con accountId, locationId y mediaKey; la asociación de medios a una ubicación se representa explícitamente.",
+    "consulted_on": "2026-10-01"
+  },
+  {
+    "id": "P03",
+    "title": "Meta: información de actividad compartida por apps y sitios",
+    "url": "https://about.fb.com/news/2019/08/off-facebook-activity/",
+    "status": "contenido verificado",
+    "relationship": "Consulta actual para interpretar actividad fuera de Meta.",
+    "notes": "Los sitios y apps envían información de interacción a Meta mediante herramientas empresariales, que puede asociarse a una cuenta para publicidad. No equivale al texto de un mensaje al comercio.",
+    "consulted_on": "2026-10-01"
+  },
+  {
+    "id": "P04",
+    "title": "Hermes Agent: pasarela de mensajería y autorizaciones",
+    "url": "https://hermes-agent.nousresearch.com/docs/user-guide/messaging",
+    "status": "contenido verificado",
+    "relationship": "El destino sí aparece en el historial del 20-09-2026 21:44:31; se leyó el contenido actual.",
+    "notes": "La pasarela utiliza listas de usuarios autorizados o emparejamiento. Los IDs se interpretan dentro de cada plataforma, sin una equivalencia documentada con IDs de Etsy o Clarín.",
+    "consulted_on": "2026-10-01"
+  },
+  {
+    "id": "P05",
+    "title": "TrustBuilder Authenticator móvil: QR y activación",
+    "url": "https://docs.trustbuilder.com/mfa/trustbuilder-authenticator-mobile-app",
+    "status": "contenido verificado",
+    "relationship": "Referencia adicional actual; la aplicación y myinwebo.com sí figuran en el historial.",
+    "notes": "Permite autenticación mediante QR, notificación u OTP según configuración; para añadir una cuenta requiere un código o QR de activación válido.",
+    "consulted_on": "2026-10-01"
+  },
+  {
+    "id": "P06",
+    "title": "TrustBuilder: parámetros de la autenticación con QR",
+    "url": "https://docs.trustbuilder.com/mfa/web-sdk-qr-code-authentication",
+    "status": "contenido verificado",
+    "relationship": "Referencia adicional actual; no visita recuperada del historial.",
+    "notes": "El SDK usa sessionId, login y serviceId. Son parámetros propios del servicio de autenticación; no se ha encontrado un serviceId del usuario en esta exportación.",
+    "consulted_on": "2026-10-01"
+  },
+  {
+    "id": "P07",
+    "title": "Google Fotos: información IPTC/IA",
+    "url": "https://support.google.com/photos/answer/15532903?hl=en",
+    "status": "resultado de búsqueda oficial revisado; apertura en español fallida",
+    "relationship": "Consulta adicional; no usada para confirmar asociaciones a negocios.",
+    "notes": "El resultado oficial menciona información IPTC editable. La apertura de la variante española devolvió error.",
+    "consulted_on": "2026-10-01"
+  },
+  {
+    "id": "P08",
+    "title": "Meta: ayuda sobre actividad fuera de Meta",
+    "url": "https://www.facebook.com/help/2207256696182627",
+    "status": "redirección a inicio de sesión; sin contenido verificado",
+    "relationship": "Intento actual; la interpretación se apoya en P03.",
+    "notes": "No se usa como evidencia del funcionamiento interno de los identificadores.",
+    "consulted_on": "2026-10-01"
+  }
+]

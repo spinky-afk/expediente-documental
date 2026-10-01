@@ -1,0 +1,296 @@
+{
+  "createdTime": "2025-10-18T20:28:21.829Z",
+  "modifiedTime": "2026-09-26T12:37:25.963Z",
+  "deviceSettings": [{
+    "deviceTag": 244656450,
+    "reportingEnabled": false,
+    "devicePrettyName": "23129RA5FL",
+    "platformType": "ANDROID",
+    "deviceCreationTime": "2026-09-26T06:17:54.132Z",
+    "latestLocationReportingSettingChange": {
+      "reportingEnabledModificationTime": "2026-09-26T06:17:54.132Z"
+    },
+    "androidOsLevel": 35,
+    "deviceSpec": {
+      "manufacturer": "Xiaomi",
+      "brand": "Redmi",
+      "product": "sapphire_global",
+      "device": "sapphire",
+      "model": "23129RA5FL",
+      "isLowRam": false
+    },
+    "deviceActiveness": {
+      "hasSavedTimelineData": true,
+      "observedPlaceVisitsFor30PercentOfTheLast7d": false
+    }
+  }, {
+    "deviceTag": 1556730742,
+    "reportingEnabled": false,
+    "devicePrettyName": "23129RA5FL",
+    "platformType": "ANDROID",
+    "deviceCreationTime": "2026-09-24T23:43:31.546Z",
+    "latestLocationReportingSettingChange": {
+      "reportingEnabledModificationTime": "2026-09-24T23:43:31.546Z"
+    },
+    "androidOsLevel": 35,
+    "deviceSpec": {
+      "manufacturer": "Xiaomi",
+      "brand": "Redmi",
+      "product": "sapphire_global",
+      "device": "sapphire",
+      "model": "23129RA5FL",
+      "isLowRam": false
+    },
+    "deviceActiveness": {
+      "hasSavedTimelineData": false
+    }
+  }, {
+    "deviceTag": -1638562979,
+    "reportingEnabled": false,
+    "devicePrettyName": "23129RA5FL",
+    "platformType": "ANDROID",
+    "deviceCreationTime": "2026-09-12T15:42:29.434Z",
+    "latestLocationReportingSettingChange": {
+      "reportingEnabledModificationTime": "2026-09-12T15:42:29.434Z"
+    },
+    "androidOsLevel": 35,
+    "deviceSpec": {
+      "manufacturer": "Xiaomi",
+      "brand": "Redmi",
+      "product": "sapphire_global",
+      "device": "sapphire",
+      "model": "23129RA5FL",
+      "isLowRam": false
+    },
+    "deviceActiveness": {
+      "hasSavedTimelineData": true,
+      "observedPlaceVisitsFor30PercentOfTheLast7d": true
+    }
+  }, {
+    "deviceTag": 1771016167,
+    "reportingEnabled": false,
+    "devicePrettyName": "23129RA5FL",
+    "platformType": "ANDROID",
+    "deviceCreationTime": "2026-09-11T17:04:08.309Z",
+    "latestLocationReportingSettingChange": {
+      "reportingEnabledModificationTime": "2026-09-11T17:04:08.309Z"
+    },
+    "androidOsLevel": 35,
+    "deviceSpec": {
+      "manufacturer": "Xiaomi",
+      "brand": "Redmi",
+      "product": "sapphire_global",
+      "device": "sapphire",
+      "model": "23129RA5FL",
+      "isLowRam": false
+    }
+  }, {
+    "deviceTag": -1503442849,
+    "reportingEnabled": false,
+    "devicePrettyName": "23129RA5FL",
+    "platformType": "ANDROID",
+    "deviceCreationTime": "2026-05-19T00:44:10.421Z",
+    "latestLocationReportingSettingChange": {
+      "reportingEnabledModificationTime": "2026-05-19T00:44:10.421Z"
+    },
+    "androidOsLevel": 35,
+    "deviceSpec": {
+      "manufacturer": "Xiaomi",
+      "brand": "Redmi",
+      "product": "sapphire_global",
+      "device": "sapphire",
+      "model": "23129RA5FL",
+      "isLowRam": false
+    },
+    "deviceActiveness": {
+      "hasSavedTimelineData": true,
+      "observedPlaceVisitsFor30PercentOfTheLast7d": true
+    }
+  }, {
+    "deviceTag": -1739283382,
+    "reportingEnabled": false,
+    "devicePrettyName": "X5",
+    "platformType": "ANDROID",
+    "deviceCreationTime": "2026-01-12T22:56:57.828Z",
+    "latestLocationReportingSettingChange": {
+      "reportingEnabledModificationTime": "2026-01-12T22:56:57.828Z"
+    },
+    "androidOsLevel": 33,
+    "deviceSpec": {
+      "manufacturer": "TEM",
+      "brand": "LANIX",
+      "product": "X5",
+      "device": "X5",
+      "model": "X5",
+      "isLowRam": true
+    }
+  }, {
+    "deviceTag": 692942553,
+    "reportingEnabled": false,
+    "devicePrettyName": "220733SFG",
+    "platformType": "ANDROID",
+    "deviceCreationTime": "2026-01-12T21:59:50.549Z",
+    "latestLocationReportingSettingChange": {
+      "reportingEnabledModificationTime": "2026-01-12T21:59:50.549Z"
+    },
+    "androidOsLevel": 31,
+    "deviceSpec": {
+      "manufacturer": "Xiaomi",
+      "brand": "Redmi",
+      "product": "snow_global",
+      "device": "snow",
+      "model": "220733SFG",
+      "isLowRam": true
+    }
+  }, {
+    "deviceTag": -1287276222,
+    "reportingEnabled": false,
+    "devicePrettyName": "220733SFG",
+    "platformType": "ANDROID",
+    "deviceCreationTime": "2026-01-12T14:04:35.558Z",
+    "latestLocationReportingSettingChange": {
+      "reportingEnabledModificationTime": "2026-01-12T14:04:35.558Z"
+    },
+    "androidOsLevel": 31,
+    "deviceSpec": {
+      "manufacturer": "Xiaomi",
+      "brand": "Redmi",
+      "product": "snow_global",
+      "device": "snow",
+      "model": "220733SFG",
+      "isLowRam": true
+    }
+  }, {
+    "deviceTag": 699662754,
+    "reportingEnabled": false,
+    "devicePrettyName": "X5",
+    "platformType": "ANDROID",
+    "deviceCreationTime": "2026-01-12T13:45:45.966Z",
+    "latestLocationReportingSettingChange": {
+      "reportingEnabledModificationTime": "2026-01-12T13:45:45.966Z"
+    },
+    "androidOsLevel": 33,
+    "deviceSpec": {
+      "manufacturer": "TEM",
+      "brand": "LANIX",
+      "product": "X5",
+      "device": "X5",
+      "model": "X5",
+      "isLowRam": true
+    }
+  }, {
+    "deviceTag": -457018426,
+    "reportingEnabled": false,
+    "devicePrettyName": "X5",
+    "platformType": "ANDROID",
+    "deviceCreationTime": "2026-01-12T10:27:21.339Z",
+    "latestLocationReportingSettingChange": {
+      "reportingEnabledModificationTime": "2026-01-12T10:27:21.339Z"
+    },
+    "androidOsLevel": 33,
+    "deviceSpec": {
+      "manufacturer": "TEM",
+      "brand": "LANIX",
+      "product": "X5",
+      "device": "X5",
+      "model": "X5",
+      "isLowRam": true
+    }
+  }, {
+    "deviceTag": -1938330704,
+    "reportingEnabled": false,
+    "devicePrettyName": "X5",
+    "platformType": "ANDROID",
+    "deviceCreationTime": "2025-11-22T21:16:17.009Z",
+    "latestLocationReportingSettingChange": {
+      "reportingEnabledModificationTime": "2025-11-22T21:16:17.009Z"
+    },
+    "androidOsLevel": 33,
+    "deviceSpec": {
+      "manufacturer": "TEM",
+      "brand": "LANIX",
+      "product": "X5",
+      "device": "X5",
+      "model": "X5",
+      "isLowRam": true
+    }
+  }, {
+    "deviceTag": -1525446695,
+    "reportingEnabled": false,
+    "devicePrettyName": "220733SFG",
+    "platformType": "ANDROID",
+    "deviceCreationTime": "2025-10-18T20:28:21.829Z",
+    "latestLocationReportingSettingChange": {
+      "reportingEnabledModificationTime": "2025-10-18T20:28:21.829Z"
+    },
+    "androidOsLevel": 31,
+    "deviceSpec": {
+      "manufacturer": "Xiaomi",
+      "brand": "Redmi",
+      "product": "snow_global",
+      "device": "snow",
+      "model": "220733SFG",
+      "isLowRam": true
+    }
+  }],
+  "hasReportedLocations": false,
+  "hasSetRetention": true,
+  "storeVisitControl": {
+    "enabled": true,
+    "updateTime": "2025-10-18T20:28:21.829417809Z"
+  },
+  "timelineEditUploadsControl": {
+    "enabled": true,
+    "updateTime": "2026-01-15T10:00:32.294539339Z"
+  },
+  "encryptedBackupsControls": {
+    "244656450": {
+      "enabled": false
+    },
+    "-1503442849": {
+      "enabled": false
+    },
+    "-457018426": {
+      "enabled": false
+    },
+    "1771016167": {
+      "enabled": false
+    },
+    "692942553": {
+      "enabled": false
+    },
+    "699662754": {
+      "enabled": false
+    },
+    "-1638562979": {
+      "enabled": false
+    },
+    "1556730742": {
+      "enabled": false
+    },
+    "-1739283382": {
+      "enabled": false
+    },
+    "-1938330704": {
+      "enabled": false
+    },
+    "-1525446695": {
+      "enabled": false
+    },
+    "-1287276222": {
+      "enabled": false
+    }
+  },
+  "retentionControl": {
+    "retentionWindowDays": 2147483647,
+    "updateTime": "2026-09-12T08:07:28.025876164Z"
+  },
+  "timelineEnabled": true,
+  "latestTimelineSettingChange": {
+    "timelineEnabledModificationTime": "2026-01-11T22:35:46.943Z"
+  },
+  "googleOpinionRewardsControl": {
+    "enabled": false,
+    "updateTime": "2025-10-18T20:28:21.829417809Z"
+  }
+}

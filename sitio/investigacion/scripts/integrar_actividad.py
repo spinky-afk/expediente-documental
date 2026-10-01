@@ -410,6 +410,8 @@ def finish():
         if len({r['representation'] for r in rows})>1:
             correlations.append({'type':'Meta: detalle y resumen del mismo nombre, evento, identificador y minuto',
                                  'event_ids':[r['id'] for r in rows]})
+    from uber_util import cross_correlations
+    correlations.extend(cross_correlations(raw_events))
     package='com.coppel.coppelapp'
     coppel=[r for r in raw_events if package in (r.get('text_original') or '')+' '+(r.get('url_original') or '')+' '+r['subject']]
     epazote=[r for r in messages if 'epazote' in norm(r.get('thread','')) and any(t in norm(r['subject']) for t in ['google','confirmar pago'])]
@@ -437,7 +439,7 @@ def finish():
         p={k:r[k] for k in ['id','family','channel','kind','time_utc','time_local','time_precision',
                             'date_original','source_code','source_path','locator','identifiers']}
         p.update(subject=safe_text(r['subject']),url=r['url_public'])
-        for key in ['thread','sender','business_name','representation','event_type','footer_date_original','date_selection','timezone_basis']:
+        for key in ['thread','sender','business_name','representation','event_type','footer_date_original','date_selection','timezone_basis','body_search','mail_page']:
             if key in r:p[key]=r[key]
         # Solo vínculos a adjuntos locales o direcciones web depuradas.
         if 'attachment_links' in r:
@@ -473,4 +475,9 @@ if __name__=='__main__':
     collect_google_structured()
     collect_facebook()
     collect_device_and_game_records()
+    import sys
+    from uber_util import collect
+    collect(sys.modules[__name__])
+    from mail_util import collect as collect_mail
+    collect_mail(sys.modules[__name__])
     finish()

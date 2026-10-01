@@ -1,0 +1,725 @@
+{
+  "user_clue": "en google preguntas o algo asi siempre apunta a bydefault alli hay algo escondido no recuerdo como lo vi",
+  "matches": [
+    {
+      "id": "E003920",
+      "family": "Google",
+      "channel": "Ayuda",
+      "kind": "consulta",
+      "time_utc": "2026-01-12T17:42:25.000000+00:00",
+      "time_local": "2026-01-12T11:42:25.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "12 ene 2026, 11:42:25 a.m. CST",
+      "source_code": "S002",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Ayuda/MiActividad.html",
+      "locator": {
+        "record_index_1based": 814,
+        "html_line_1based": 33,
+        "html_column_0based": 1076301
+      },
+      "identifiers": {},
+      "subject": "open by default",
+      "url": "https://support.google.com/android/search?q=open+by+default"
+    },
+    {
+      "id": "E004149",
+      "family": "Google",
+      "channel": "Chrome",
+      "kind": "visita",
+      "time_utc": "2026-01-13T00:58:48.000000+00:00",
+      "time_local": "2026-01-12T18:58:48.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "12 ene 2026, 6:58:48 p.m. CST",
+      "source_code": "S008",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Chrome/MiActividad.html",
+      "locator": {
+        "record_index_1based": 233,
+        "html_line_1based": 33,
+        "html_column_0based": 256029
+      },
+      "identifiers": {},
+      "subject": "Resultados de la búsqueda - Ayuda de Android",
+      "url": "https://support.google.com/android/search?q=open+by+default"
+    },
+    {
+      "id": "E004150",
+      "family": "Google",
+      "channel": "Historial de Chrome",
+      "kind": "visita",
+      "time_utc": "2026-01-13T00:58:48.969625+00:00",
+      "time_local": "2026-01-12T18:58:48.969625-06:00",
+      "time_precision": "microsegundo",
+      "date_original": "1768265928969625",
+      "source_code": "S028",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Chrome/Historial.json",
+      "locator": {
+        "record_index_1based": 758,
+        "json_pointer": "/Browser History/757"
+      },
+      "identifiers": {},
+      "subject": "Resultados de la búsqueda - Ayuda de Android",
+      "url": "https://support.google.com/android/search?q=open+by+default"
+    },
+    {
+      "id": "E004151",
+      "family": "Google",
+      "channel": "Ayuda",
+      "kind": "consulta",
+      "time_utc": "2026-01-13T00:58:49.000000+00:00",
+      "time_local": "2026-01-12T18:58:49.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "12 ene 2026, 6:58:49 p.m. CST",
+      "source_code": "S002",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Ayuda/MiActividad.html",
+      "locator": {
+        "record_index_1based": 813,
+        "html_line_1based": 33,
+        "html_column_0based": 1075328
+      },
+      "identifiers": {},
+      "subject": "open by default",
+      "url": "https://support.google.com/android/search?q=open+by+default"
+    },
+    {
+      "id": "E084190",
+      "family": "Google",
+      "channel": "Ayuda",
+      "kind": "consulta",
+      "time_utc": "2026-09-27T02:59:15.000000+00:00",
+      "time_local": "2026-09-26T20:59:15.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "26 sept 2026, 8:59:15 p.m. CST",
+      "source_code": "S002",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Ayuda/MiActividad.html",
+      "locator": {
+        "record_index_1based": 29,
+        "html_line_1based": 33,
+        "html_column_0based": 43845
+      },
+      "identifiers": {},
+      "subject": "open by default",
+      "url": "https://support.google.com/android/search?q=open+by+default"
+    },
+    {
+      "id": "E084191",
+      "family": "Google",
+      "channel": "Ayuda",
+      "kind": "consulta",
+      "time_utc": "2026-09-27T02:59:39.000000+00:00",
+      "time_local": "2026-09-26T20:59:39.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "26 sept 2026, 8:59:39 p.m. CST",
+      "source_code": "S002",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Ayuda/MiActividad.html",
+      "locator": {
+        "record_index_1based": 28,
+        "html_line_1based": 33,
+        "html_column_0based": 41981
+      },
+      "identifiers": {},
+      "subject": "open by default",
+      "url": "https://support.google.com/apis/search?hl=es-419&request_source=1&mendel_ids=10800112%2C1706538%2C1714258%2C10800561%2C10800589%2C10800672%2C10800695%2C10800700%2C10800707%2C10800738%2C10800761%2C10800848%2C10800922%2C10800950%2C10800957%2C10801032%2C10801042%2C10801150%2C10801288%2C10801345%2C10801510%2C10801539%2C10801601%2C10801704%2C10801736%2C10801757%2C10802277%2C10802281%2C10802310%2C10802381%2C10802419%2C10802571%2C10802616%2C10802781%2C10803154%2C10803751%2C10803805%2C10803950%2C10804405%2C10804428%2C10805116%2C10805121%2C10806296%2C10806491%2C10806832%2C10806936%2C10808927%2C10808938%2C10809124%2C10809176%2C10809415%2C48766772%2C93859477%2C97470712%2C106144468%2C106630123&authuser=0&helpcenter=android&query=open+by+default&v=1&max_results=8&next_page_token=CiQyNzUyYzZhYS0wNmUwLWUwZmQtMTAxYi04ZmM4NDcyMWI2MDgQABjwASAIKAgyAQA6AQBACVACWAA"
+    },
+    {
+      "id": "E084192",
+      "family": "Google",
+      "channel": "Ayuda",
+      "kind": "consulta",
+      "time_utc": "2026-09-27T02:59:44.000000+00:00",
+      "time_local": "2026-09-26T20:59:44.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "26 sept 2026, 8:59:44 p.m. CST",
+      "source_code": "S002",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Ayuda/MiActividad.html",
+      "locator": {
+        "record_index_1based": 27,
+        "html_line_1based": 33,
+        "html_column_0based": 40114
+      },
+      "identifiers": {},
+      "subject": "open by default",
+      "url": "https://support.google.com/apis/search?hl=es-419&request_source=1&mendel_ids=10800112%2C1706538%2C1714258%2C10800561%2C10800589%2C10800672%2C10800695%2C10800700%2C10800707%2C10800738%2C10800761%2C10800848%2C10800922%2C10800950%2C10800957%2C10801032%2C10801042%2C10801150%2C10801288%2C10801345%2C10801510%2C10801539%2C10801601%2C10801704%2C10801736%2C10801757%2C10802277%2C10802281%2C10802310%2C10802381%2C10802419%2C10802571%2C10802616%2C10802781%2C10803154%2C10803751%2C10803805%2C10803950%2C10804405%2C10804428%2C10805116%2C10805121%2C10806296%2C10806491%2C10806832%2C10806936%2C10808927%2C10808938%2C10809124%2C10809176%2C10809415%2C48766772%2C93859477%2C97470712%2C106144468%2C106630123&authuser=0&helpcenter=android&query=open+by+default&v=1&max_results=8&next_page_token=CiQyNzUyYzZhYS0wNmUwLWUwZmQtMTAxYi04ZmM4NDcyMWI2MDgQABjwASAQKAgyAgAAOgIACEARUANYAA"
+    },
+    {
+      "id": "E084193",
+      "family": "Google",
+      "channel": "Ayuda",
+      "kind": "consulta",
+      "time_utc": "2026-09-27T02:59:47.000000+00:00",
+      "time_local": "2026-09-26T20:59:47.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "26 sept 2026, 8:59:47 p.m. CST",
+      "source_code": "S002",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Ayuda/MiActividad.html",
+      "locator": {
+        "record_index_1based": 26,
+        "html_line_1based": 33,
+        "html_column_0based": 38245
+      },
+      "identifiers": {},
+      "subject": "open by default",
+      "url": "https://support.google.com/apis/search?hl=es-419&request_source=1&mendel_ids=10800112%2C1706538%2C1714258%2C10800561%2C10800589%2C10800672%2C10800695%2C10800700%2C10800707%2C10800738%2C10800761%2C10800848%2C10800922%2C10800950%2C10800957%2C10801032%2C10801042%2C10801150%2C10801288%2C10801345%2C10801510%2C10801539%2C10801601%2C10801704%2C10801736%2C10801757%2C10802277%2C10802281%2C10802310%2C10802381%2C10802419%2C10802571%2C10802616%2C10802781%2C10803154%2C10803751%2C10803805%2C10803950%2C10804405%2C10804428%2C10805116%2C10805121%2C10806296%2C10806491%2C10806832%2C10806936%2C10808927%2C10808938%2C10809124%2C10809176%2C10809415%2C48766772%2C93859477%2C97470712%2C106144468%2C106630123&authuser=0&helpcenter=android&query=open+by+default&v=1&max_results=8&next_page_token=CiQyNzUyYzZhYS0wNmUwLWUwZmQtMTAxYi04ZmM4NDcyMWI2MDgQABjwASAYKAgyAwAAADoDAAgQQBlQBFgA"
+    },
+    {
+      "id": "E084194",
+      "family": "Google",
+      "channel": "Ayuda",
+      "kind": "consulta",
+      "time_utc": "2026-09-27T02:59:53.000000+00:00",
+      "time_local": "2026-09-26T20:59:53.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "26 sept 2026, 8:59:53 p.m. CST",
+      "source_code": "S002",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Ayuda/MiActividad.html",
+      "locator": {
+        "record_index_1based": 25,
+        "html_line_1based": 33,
+        "html_column_0based": 36373
+      },
+      "identifiers": {},
+      "subject": "open by default",
+      "url": "https://support.google.com/apis/search?hl=es-419&request_source=1&mendel_ids=10800112%2C1706538%2C1714258%2C10800561%2C10800589%2C10800672%2C10800695%2C10800700%2C10800707%2C10800738%2C10800761%2C10800848%2C10800922%2C10800950%2C10800957%2C10801032%2C10801042%2C10801150%2C10801288%2C10801345%2C10801510%2C10801539%2C10801601%2C10801704%2C10801736%2C10801757%2C10802277%2C10802281%2C10802310%2C10802381%2C10802419%2C10802571%2C10802616%2C10802781%2C10803154%2C10803751%2C10803805%2C10803950%2C10804405%2C10804428%2C10805116%2C10805121%2C10806296%2C10806491%2C10806832%2C10806936%2C10808927%2C10808938%2C10809124%2C10809176%2C10809415%2C48766772%2C93859477%2C97470712%2C106144468%2C106630123&authuser=0&helpcenter=android&query=open+by+default&v=1&max_results=8&next_page_token=CiQyNzUyYzZhYS0wNmUwLWUwZmQtMTAxYi04ZmM4NDcyMWI2MDgQABjwASAgKAgyBAAAAAA6BAAIEBhAIVAFWAA"
+    },
+    {
+      "id": "E084195",
+      "family": "Google",
+      "channel": "Ayuda",
+      "kind": "consulta",
+      "time_utc": "2026-09-27T02:59:56.000000+00:00",
+      "time_local": "2026-09-26T20:59:56.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "26 sept 2026, 8:59:56 p.m. CST",
+      "source_code": "S002",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Ayuda/MiActividad.html",
+      "locator": {
+        "record_index_1based": 24,
+        "html_line_1based": 33,
+        "html_column_0based": 34498
+      },
+      "identifiers": {},
+      "subject": "open by default",
+      "url": "https://support.google.com/apis/search?hl=es-419&request_source=1&mendel_ids=10800112%2C1706538%2C1714258%2C10800561%2C10800589%2C10800672%2C10800695%2C10800700%2C10800707%2C10800738%2C10800761%2C10800848%2C10800922%2C10800950%2C10800957%2C10801032%2C10801042%2C10801150%2C10801288%2C10801345%2C10801510%2C10801539%2C10801601%2C10801704%2C10801736%2C10801757%2C10802277%2C10802281%2C10802310%2C10802381%2C10802419%2C10802571%2C10802616%2C10802781%2C10803154%2C10803751%2C10803805%2C10803950%2C10804405%2C10804428%2C10805116%2C10805121%2C10806296%2C10806491%2C10806832%2C10806936%2C10808927%2C10808938%2C10809124%2C10809176%2C10809415%2C48766772%2C93859477%2C97470712%2C106144468%2C106630123&authuser=0&helpcenter=android&query=open+by+default&v=1&max_results=8&next_page_token=CiQyNzUyYzZhYS0wNmUwLWUwZmQtMTAxYi04ZmM4NDcyMWI2MDgQABjwASAoKAgyBQAAAAAAOgUACBAYIEApUAZYAA"
+    },
+    {
+      "id": "E084196",
+      "family": "Google",
+      "channel": "Ayuda",
+      "kind": "consulta",
+      "time_utc": "2026-09-27T03:00:01.000000+00:00",
+      "time_local": "2026-09-26T21:00:01.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "26 sept 2026, 9:00:01 p.m. CST",
+      "source_code": "S002",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Ayuda/MiActividad.html",
+      "locator": {
+        "record_index_1based": 23,
+        "html_line_1based": 33,
+        "html_column_0based": 32621
+      },
+      "identifiers": {},
+      "subject": "open by default",
+      "url": "https://support.google.com/apis/search?hl=es-419&request_source=1&mendel_ids=10800112%2C1706538%2C1714258%2C10800561%2C10800589%2C10800672%2C10800695%2C10800700%2C10800707%2C10800738%2C10800761%2C10800848%2C10800922%2C10800950%2C10800957%2C10801032%2C10801042%2C10801150%2C10801288%2C10801345%2C10801510%2C10801539%2C10801601%2C10801704%2C10801736%2C10801757%2C10802277%2C10802281%2C10802310%2C10802381%2C10802419%2C10802571%2C10802616%2C10802781%2C10803154%2C10803751%2C10803805%2C10803950%2C10804405%2C10804428%2C10805116%2C10805121%2C10806296%2C10806491%2C10806832%2C10806936%2C10808927%2C10808938%2C10809124%2C10809176%2C10809415%2C48766772%2C93859477%2C97470712%2C106144468%2C106630123&authuser=0&helpcenter=android&query=open+by+default&v=1&max_results=8&next_page_token=CiQyNzUyYzZhYS0wNmUwLWUwZmQtMTAxYi04ZmM4NDcyMWI2MDgQABjwASAwKAgyBgAAAAAAADoGAAgQGCAoQDFQB1gA"
+    },
+    {
+      "id": "E084197",
+      "family": "Google",
+      "channel": "Ayuda",
+      "kind": "consulta",
+      "time_utc": "2026-09-27T03:00:05.000000+00:00",
+      "time_local": "2026-09-26T21:00:05.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "26 sept 2026, 9:00:05 p.m. CST",
+      "source_code": "S002",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Ayuda/MiActividad.html",
+      "locator": {
+        "record_index_1based": 22,
+        "html_line_1based": 33,
+        "html_column_0based": 30741
+      },
+      "identifiers": {},
+      "subject": "open by default",
+      "url": "https://support.google.com/apis/search?hl=es-419&request_source=1&mendel_ids=10800112%2C1706538%2C1714258%2C10800561%2C10800589%2C10800672%2C10800695%2C10800700%2C10800707%2C10800738%2C10800761%2C10800848%2C10800922%2C10800950%2C10800957%2C10801032%2C10801042%2C10801150%2C10801288%2C10801345%2C10801510%2C10801539%2C10801601%2C10801704%2C10801736%2C10801757%2C10802277%2C10802281%2C10802310%2C10802381%2C10802419%2C10802571%2C10802616%2C10802781%2C10803154%2C10803751%2C10803805%2C10803950%2C10804405%2C10804428%2C10805116%2C10805121%2C10806296%2C10806491%2C10806832%2C10806936%2C10808927%2C10808938%2C10809124%2C10809176%2C10809415%2C48766772%2C93859477%2C97470712%2C106144468%2C106630123&authuser=0&helpcenter=android&query=open+by+default&v=1&max_results=8&next_page_token=CiQyNzUyYzZhYS0wNmUwLWUwZmQtMTAxYi04ZmM4NDcyMWI2MDgQABjwASA4KAgyBwAAAAAAAAA6BwAIEBggKDBAOVAIWAA"
+    },
+    {
+      "id": "E084198",
+      "family": "Google",
+      "channel": "Ayuda",
+      "kind": "consulta",
+      "time_utc": "2026-09-27T03:00:08.000000+00:00",
+      "time_local": "2026-09-26T21:00:08.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "26 sept 2026, 9:00:08 p.m. CST",
+      "source_code": "S002",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Ayuda/MiActividad.html",
+      "locator": {
+        "record_index_1based": 21,
+        "html_line_1based": 33,
+        "html_column_0based": 28858
+      },
+      "identifiers": {},
+      "subject": "open by default",
+      "url": "https://support.google.com/apis/search?hl=es-419&request_source=1&mendel_ids=10800112%2C1706538%2C1714258%2C10800561%2C10800589%2C10800672%2C10800695%2C10800700%2C10800707%2C10800738%2C10800761%2C10800848%2C10800922%2C10800950%2C10800957%2C10801032%2C10801042%2C10801150%2C10801288%2C10801345%2C10801510%2C10801539%2C10801601%2C10801704%2C10801736%2C10801757%2C10802277%2C10802281%2C10802310%2C10802381%2C10802419%2C10802571%2C10802616%2C10802781%2C10803154%2C10803751%2C10803805%2C10803950%2C10804405%2C10804428%2C10805116%2C10805121%2C10806296%2C10806491%2C10806832%2C10806936%2C10808927%2C10808938%2C10809124%2C10809176%2C10809415%2C48766772%2C93859477%2C97470712%2C106144468%2C106630123&authuser=0&helpcenter=android&query=open+by+default&v=1&max_results=8&next_page_token=CiQyNzUyYzZhYS0wNmUwLWUwZmQtMTAxYi04ZmM4NDcyMWI2MDgQABjwASBAKAgyCAAAAAAAAAAAOggACBAYICgwOEBBUAlYAA"
+    },
+    {
+      "id": "E084199",
+      "family": "Google",
+      "channel": "Ayuda",
+      "kind": "consulta",
+      "time_utc": "2026-09-27T03:00:11.000000+00:00",
+      "time_local": "2026-09-26T21:00:11.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "26 sept 2026, 9:00:11 p.m. CST",
+      "source_code": "S002",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Ayuda/MiActividad.html",
+      "locator": {
+        "record_index_1based": 20,
+        "html_line_1based": 33,
+        "html_column_0based": 26973
+      },
+      "identifiers": {},
+      "subject": "open by default",
+      "url": "https://support.google.com/apis/search?hl=es-419&request_source=1&mendel_ids=10800112%2C1706538%2C1714258%2C10800561%2C10800589%2C10800672%2C10800695%2C10800700%2C10800707%2C10800738%2C10800761%2C10800848%2C10800922%2C10800950%2C10800957%2C10801032%2C10801042%2C10801150%2C10801288%2C10801345%2C10801510%2C10801539%2C10801601%2C10801704%2C10801736%2C10801757%2C10802277%2C10802281%2C10802310%2C10802381%2C10802419%2C10802571%2C10802616%2C10802781%2C10803154%2C10803751%2C10803805%2C10803950%2C10804405%2C10804428%2C10805116%2C10805121%2C10806296%2C10806491%2C10806832%2C10806936%2C10808927%2C10808938%2C10809124%2C10809176%2C10809415%2C48766772%2C93859477%2C97470712%2C106144468%2C106630123&authuser=0&helpcenter=android&query=open+by+default&v=1&max_results=8&next_page_token=CiQyNzUyYzZhYS0wNmUwLWUwZmQtMTAxYi04ZmM4NDcyMWI2MDgQABjwASBIKAgyCQAAAAAAAAAAADoJAAgQGCAoMDhAQElQClgA"
+    },
+    {
+      "id": "E084200",
+      "family": "Google",
+      "channel": "Ayuda",
+      "kind": "consulta",
+      "time_utc": "2026-09-27T03:00:17.000000+00:00",
+      "time_local": "2026-09-26T21:00:17.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "26 sept 2026, 9:00:17 p.m. CST",
+      "source_code": "S002",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Ayuda/MiActividad.html",
+      "locator": {
+        "record_index_1based": 19,
+        "html_line_1based": 33,
+        "html_column_0based": 25085
+      },
+      "identifiers": {},
+      "subject": "open by default",
+      "url": "https://support.google.com/apis/search?hl=es-419&request_source=1&mendel_ids=10800112%2C1706538%2C1714258%2C10800561%2C10800589%2C10800672%2C10800695%2C10800700%2C10800707%2C10800738%2C10800761%2C10800848%2C10800922%2C10800950%2C10800957%2C10801032%2C10801042%2C10801150%2C10801288%2C10801345%2C10801510%2C10801539%2C10801601%2C10801704%2C10801736%2C10801757%2C10802277%2C10802281%2C10802310%2C10802381%2C10802419%2C10802571%2C10802616%2C10802781%2C10803154%2C10803751%2C10803805%2C10803950%2C10804405%2C10804428%2C10805116%2C10805121%2C10806296%2C10806491%2C10806832%2C10806936%2C10808927%2C10808938%2C10809124%2C10809176%2C10809415%2C48766772%2C93859477%2C97470712%2C106144468%2C106630123&authuser=0&helpcenter=android&query=open+by+default&v=1&max_results=8&next_page_token=CiQyNzUyYzZhYS0wNmUwLWUwZmQtMTAxYi04ZmM4NDcyMWI2MDgQABjwASBQKAgyCgAAAAAAAAAAAAA6CgAIEBggKDA4QEhAUVALWAA"
+    },
+    {
+      "id": "E084201",
+      "family": "Google",
+      "channel": "Ayuda",
+      "kind": "consulta",
+      "time_utc": "2026-09-27T03:00:21.000000+00:00",
+      "time_local": "2026-09-26T21:00:21.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "26 sept 2026, 9:00:21 p.m. CST",
+      "source_code": "S002",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Ayuda/MiActividad.html",
+      "locator": {
+        "record_index_1based": 18,
+        "html_line_1based": 33,
+        "html_column_0based": 23194
+      },
+      "identifiers": {},
+      "subject": "open by default",
+      "url": "https://support.google.com/apis/search?hl=es-419&request_source=1&mendel_ids=10800112%2C1706538%2C1714258%2C10800561%2C10800589%2C10800672%2C10800695%2C10800700%2C10800707%2C10800738%2C10800761%2C10800848%2C10800922%2C10800950%2C10800957%2C10801032%2C10801042%2C10801150%2C10801288%2C10801345%2C10801510%2C10801539%2C10801601%2C10801704%2C10801736%2C10801757%2C10802277%2C10802281%2C10802310%2C10802381%2C10802419%2C10802571%2C10802616%2C10802781%2C10803154%2C10803751%2C10803805%2C10803950%2C10804405%2C10804428%2C10805116%2C10805121%2C10806296%2C10806491%2C10806832%2C10806936%2C10808927%2C10808938%2C10809124%2C10809176%2C10809415%2C48766772%2C93859477%2C97470712%2C106144468%2C106630123&authuser=0&helpcenter=android&query=open+by+default&v=1&max_results=8&next_page_token=CiQyNzUyYzZhYS0wNmUwLWUwZmQtMTAxYi04ZmM4NDcyMWI2MDgQARjwASAAKAgyCwAAAAAAAAAAAAAAOgsACBAYICgwOEBIUEBZUAxYBw"
+    }
+  ],
+  "source_checks": [
+    {
+      "path": "/home/deep-logic/Documentos/Registro/Takeout/Chrome/Historial.json",
+      "sha256": "b919cb5217d871480ef9dd3b76ce093f60e028cc14cc756b57a404dafac3b38f",
+      "literal_bydefault_occurrences": 0,
+      "decoded_open_by_default_occurrences": 1
+    },
+    {
+      "path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Chrome/MiActividad.html",
+      "sha256": "5052f54fdd5cb57d369b1fe1f246a82735e22f404470256644223cd697023bb2",
+      "literal_bydefault_occurrences": 0,
+      "decoded_open_by_default_occurrences": 1
+    },
+    {
+      "path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Ayuda/MiActividad.html",
+      "sha256": "db5c0e59003f68750e23690780c769e29eede7e3d54b08c184c5193514e19d86",
+      "literal_bydefault_occurrences": 0,
+      "decoded_open_by_default_occurrences": 28
+    }
+  ],
+  "chrome_matches": [
+    {
+      "path": "/home/deep-logic/Documentos/Registro/Takeout/Chrome/Historial.json",
+      "record_index_1based": 758,
+      "original": {
+        "favicon_url": "https://support.google.com/favicon.png",
+        "page_transition_qualifier": "CLIENT_REDIRECT",
+        "title": "Resultados de la búsqueda - Ayuda de Android",
+        "url": "https://support.google.com/android/search?q=open+by+default",
+        "time_usec": 1768265928969625,
+        "client_id": "7vTXjOqi4CkIMgfp6fLDEQ=="
+      },
+      "time_utc": "2026-01-13T00:58:48.969625+00:00"
+    }
+  ],
+  "api_search_parameters": [
+    {
+      "event_id": "E084191",
+      "time_local": "2026-09-26T20:59:39.000000-06:00",
+      "query_parameters": {
+        "hl": [
+          "es-419"
+        ],
+        "request_source": [
+          "1"
+        ],
+        "mendel_ids": [
+          "10800112,1706538,1714258,10800561,10800589,10800672,10800695,10800700,10800707,10800738,10800761,10800848,10800922,10800950,10800957,10801032,10801042,10801150,10801288,10801345,10801510,10801539,10801601,10801704,10801736,10801757,10802277,10802281,10802310,10802381,10802419,10802571,10802616,10802781,10803154,10803751,10803805,10803950,10804405,10804428,10805116,10805121,10806296,10806491,10806832,10806936,10808927,10808938,10809124,10809176,10809415,48766772,93859477,97470712,106144468,106630123"
+        ],
+        "authuser": [
+          "0"
+        ],
+        "helpcenter": [
+          "android"
+        ],
+        "query": [
+          "open by default"
+        ],
+        "v": [
+          "1"
+        ],
+        "max_results": [
+          "8"
+        ],
+        "next_page_token": [
+          "CiQyNzUyYzZhYS0wNmUwLWUwZmQtMTAxYi04ZmM4NDcyMWI2MDgQABjwASAIKAgyAQA6AQBACVACWAA"
+        ]
+      }
+    },
+    {
+      "event_id": "E084192",
+      "time_local": "2026-09-26T20:59:44.000000-06:00",
+      "query_parameters": {
+        "hl": [
+          "es-419"
+        ],
+        "request_source": [
+          "1"
+        ],
+        "mendel_ids": [
+          "10800112,1706538,1714258,10800561,10800589,10800672,10800695,10800700,10800707,10800738,10800761,10800848,10800922,10800950,10800957,10801032,10801042,10801150,10801288,10801345,10801510,10801539,10801601,10801704,10801736,10801757,10802277,10802281,10802310,10802381,10802419,10802571,10802616,10802781,10803154,10803751,10803805,10803950,10804405,10804428,10805116,10805121,10806296,10806491,10806832,10806936,10808927,10808938,10809124,10809176,10809415,48766772,93859477,97470712,106144468,106630123"
+        ],
+        "authuser": [
+          "0"
+        ],
+        "helpcenter": [
+          "android"
+        ],
+        "query": [
+          "open by default"
+        ],
+        "v": [
+          "1"
+        ],
+        "max_results": [
+          "8"
+        ],
+        "next_page_token": [
+          "CiQyNzUyYzZhYS0wNmUwLWUwZmQtMTAxYi04ZmM4NDcyMWI2MDgQABjwASAQKAgyAgAAOgIACEARUANYAA"
+        ]
+      }
+    },
+    {
+      "event_id": "E084193",
+      "time_local": "2026-09-26T20:59:47.000000-06:00",
+      "query_parameters": {
+        "hl": [
+          "es-419"
+        ],
+        "request_source": [
+          "1"
+        ],
+        "mendel_ids": [
+          "10800112,1706538,1714258,10800561,10800589,10800672,10800695,10800700,10800707,10800738,10800761,10800848,10800922,10800950,10800957,10801032,10801042,10801150,10801288,10801345,10801510,10801539,10801601,10801704,10801736,10801757,10802277,10802281,10802310,10802381,10802419,10802571,10802616,10802781,10803154,10803751,10803805,10803950,10804405,10804428,10805116,10805121,10806296,10806491,10806832,10806936,10808927,10808938,10809124,10809176,10809415,48766772,93859477,97470712,106144468,106630123"
+        ],
+        "authuser": [
+          "0"
+        ],
+        "helpcenter": [
+          "android"
+        ],
+        "query": [
+          "open by default"
+        ],
+        "v": [
+          "1"
+        ],
+        "max_results": [
+          "8"
+        ],
+        "next_page_token": [
+          "CiQyNzUyYzZhYS0wNmUwLWUwZmQtMTAxYi04ZmM4NDcyMWI2MDgQABjwASAYKAgyAwAAADoDAAgQQBlQBFgA"
+        ]
+      }
+    },
+    {
+      "event_id": "E084194",
+      "time_local": "2026-09-26T20:59:53.000000-06:00",
+      "query_parameters": {
+        "hl": [
+          "es-419"
+        ],
+        "request_source": [
+          "1"
+        ],
+        "mendel_ids": [
+          "10800112,1706538,1714258,10800561,10800589,10800672,10800695,10800700,10800707,10800738,10800761,10800848,10800922,10800950,10800957,10801032,10801042,10801150,10801288,10801345,10801510,10801539,10801601,10801704,10801736,10801757,10802277,10802281,10802310,10802381,10802419,10802571,10802616,10802781,10803154,10803751,10803805,10803950,10804405,10804428,10805116,10805121,10806296,10806491,10806832,10806936,10808927,10808938,10809124,10809176,10809415,48766772,93859477,97470712,106144468,106630123"
+        ],
+        "authuser": [
+          "0"
+        ],
+        "helpcenter": [
+          "android"
+        ],
+        "query": [
+          "open by default"
+        ],
+        "v": [
+          "1"
+        ],
+        "max_results": [
+          "8"
+        ],
+        "next_page_token": [
+          "CiQyNzUyYzZhYS0wNmUwLWUwZmQtMTAxYi04ZmM4NDcyMWI2MDgQABjwASAgKAgyBAAAAAA6BAAIEBhAIVAFWAA"
+        ]
+      }
+    },
+    {
+      "event_id": "E084195",
+      "time_local": "2026-09-26T20:59:56.000000-06:00",
+      "query_parameters": {
+        "hl": [
+          "es-419"
+        ],
+        "request_source": [
+          "1"
+        ],
+        "mendel_ids": [
+          "10800112,1706538,1714258,10800561,10800589,10800672,10800695,10800700,10800707,10800738,10800761,10800848,10800922,10800950,10800957,10801032,10801042,10801150,10801288,10801345,10801510,10801539,10801601,10801704,10801736,10801757,10802277,10802281,10802310,10802381,10802419,10802571,10802616,10802781,10803154,10803751,10803805,10803950,10804405,10804428,10805116,10805121,10806296,10806491,10806832,10806936,10808927,10808938,10809124,10809176,10809415,48766772,93859477,97470712,106144468,106630123"
+        ],
+        "authuser": [
+          "0"
+        ],
+        "helpcenter": [
+          "android"
+        ],
+        "query": [
+          "open by default"
+        ],
+        "v": [
+          "1"
+        ],
+        "max_results": [
+          "8"
+        ],
+        "next_page_token": [
+          "CiQyNzUyYzZhYS0wNmUwLWUwZmQtMTAxYi04ZmM4NDcyMWI2MDgQABjwASAoKAgyBQAAAAAAOgUACBAYIEApUAZYAA"
+        ]
+      }
+    },
+    {
+      "event_id": "E084196",
+      "time_local": "2026-09-26T21:00:01.000000-06:00",
+      "query_parameters": {
+        "hl": [
+          "es-419"
+        ],
+        "request_source": [
+          "1"
+        ],
+        "mendel_ids": [
+          "10800112,1706538,1714258,10800561,10800589,10800672,10800695,10800700,10800707,10800738,10800761,10800848,10800922,10800950,10800957,10801032,10801042,10801150,10801288,10801345,10801510,10801539,10801601,10801704,10801736,10801757,10802277,10802281,10802310,10802381,10802419,10802571,10802616,10802781,10803154,10803751,10803805,10803950,10804405,10804428,10805116,10805121,10806296,10806491,10806832,10806936,10808927,10808938,10809124,10809176,10809415,48766772,93859477,97470712,106144468,106630123"
+        ],
+        "authuser": [
+          "0"
+        ],
+        "helpcenter": [
+          "android"
+        ],
+        "query": [
+          "open by default"
+        ],
+        "v": [
+          "1"
+        ],
+        "max_results": [
+          "8"
+        ],
+        "next_page_token": [
+          "CiQyNzUyYzZhYS0wNmUwLWUwZmQtMTAxYi04ZmM4NDcyMWI2MDgQABjwASAwKAgyBgAAAAAAADoGAAgQGCAoQDFQB1gA"
+        ]
+      }
+    },
+    {
+      "event_id": "E084197",
+      "time_local": "2026-09-26T21:00:05.000000-06:00",
+      "query_parameters": {
+        "hl": [
+          "es-419"
+        ],
+        "request_source": [
+          "1"
+        ],
+        "mendel_ids": [
+          "10800112,1706538,1714258,10800561,10800589,10800672,10800695,10800700,10800707,10800738,10800761,10800848,10800922,10800950,10800957,10801032,10801042,10801150,10801288,10801345,10801510,10801539,10801601,10801704,10801736,10801757,10802277,10802281,10802310,10802381,10802419,10802571,10802616,10802781,10803154,10803751,10803805,10803950,10804405,10804428,10805116,10805121,10806296,10806491,10806832,10806936,10808927,10808938,10809124,10809176,10809415,48766772,93859477,97470712,106144468,106630123"
+        ],
+        "authuser": [
+          "0"
+        ],
+        "helpcenter": [
+          "android"
+        ],
+        "query": [
+          "open by default"
+        ],
+        "v": [
+          "1"
+        ],
+        "max_results": [
+          "8"
+        ],
+        "next_page_token": [
+          "CiQyNzUyYzZhYS0wNmUwLWUwZmQtMTAxYi04ZmM4NDcyMWI2MDgQABjwASA4KAgyBwAAAAAAAAA6BwAIEBggKDBAOVAIWAA"
+        ]
+      }
+    },
+    {
+      "event_id": "E084198",
+      "time_local": "2026-09-26T21:00:08.000000-06:00",
+      "query_parameters": {
+        "hl": [
+          "es-419"
+        ],
+        "request_source": [
+          "1"
+        ],
+        "mendel_ids": [
+          "10800112,1706538,1714258,10800561,10800589,10800672,10800695,10800700,10800707,10800738,10800761,10800848,10800922,10800950,10800957,10801032,10801042,10801150,10801288,10801345,10801510,10801539,10801601,10801704,10801736,10801757,10802277,10802281,10802310,10802381,10802419,10802571,10802616,10802781,10803154,10803751,10803805,10803950,10804405,10804428,10805116,10805121,10806296,10806491,10806832,10806936,10808927,10808938,10809124,10809176,10809415,48766772,93859477,97470712,106144468,106630123"
+        ],
+        "authuser": [
+          "0"
+        ],
+        "helpcenter": [
+          "android"
+        ],
+        "query": [
+          "open by default"
+        ],
+        "v": [
+          "1"
+        ],
+        "max_results": [
+          "8"
+        ],
+        "next_page_token": [
+          "CiQyNzUyYzZhYS0wNmUwLWUwZmQtMTAxYi04ZmM4NDcyMWI2MDgQABjwASBAKAgyCAAAAAAAAAAAOggACBAYICgwOEBBUAlYAA"
+        ]
+      }
+    },
+    {
+      "event_id": "E084199",
+      "time_local": "2026-09-26T21:00:11.000000-06:00",
+      "query_parameters": {
+        "hl": [
+          "es-419"
+        ],
+        "request_source": [
+          "1"
+        ],
+        "mendel_ids": [
+          "10800112,1706538,1714258,10800561,10800589,10800672,10800695,10800700,10800707,10800738,10800761,10800848,10800922,10800950,10800957,10801032,10801042,10801150,10801288,10801345,10801510,10801539,10801601,10801704,10801736,10801757,10802277,10802281,10802310,10802381,10802419,10802571,10802616,10802781,10803154,10803751,10803805,10803950,10804405,10804428,10805116,10805121,10806296,10806491,10806832,10806936,10808927,10808938,10809124,10809176,10809415,48766772,93859477,97470712,106144468,106630123"
+        ],
+        "authuser": [
+          "0"
+        ],
+        "helpcenter": [
+          "android"
+        ],
+        "query": [
+          "open by default"
+        ],
+        "v": [
+          "1"
+        ],
+        "max_results": [
+          "8"
+        ],
+        "next_page_token": [
+          "CiQyNzUyYzZhYS0wNmUwLWUwZmQtMTAxYi04ZmM4NDcyMWI2MDgQABjwASBIKAgyCQAAAAAAAAAAADoJAAgQGCAoMDhAQElQClgA"
+        ]
+      }
+    },
+    {
+      "event_id": "E084200",
+      "time_local": "2026-09-26T21:00:17.000000-06:00",
+      "query_parameters": {
+        "hl": [
+          "es-419"
+        ],
+        "request_source": [
+          "1"
+        ],
+        "mendel_ids": [
+          "10800112,1706538,1714258,10800561,10800589,10800672,10800695,10800700,10800707,10800738,10800761,10800848,10800922,10800950,10800957,10801032,10801042,10801150,10801288,10801345,10801510,10801539,10801601,10801704,10801736,10801757,10802277,10802281,10802310,10802381,10802419,10802571,10802616,10802781,10803154,10803751,10803805,10803950,10804405,10804428,10805116,10805121,10806296,10806491,10806832,10806936,10808927,10808938,10809124,10809176,10809415,48766772,93859477,97470712,106144468,106630123"
+        ],
+        "authuser": [
+          "0"
+        ],
+        "helpcenter": [
+          "android"
+        ],
+        "query": [
+          "open by default"
+        ],
+        "v": [
+          "1"
+        ],
+        "max_results": [
+          "8"
+        ],
+        "next_page_token": [
+          "CiQyNzUyYzZhYS0wNmUwLWUwZmQtMTAxYi04ZmM4NDcyMWI2MDgQABjwASBQKAgyCgAAAAAAAAAAAAA6CgAIEBggKDA4QEhAUVALWAA"
+        ]
+      }
+    },
+    {
+      "event_id": "E084201",
+      "time_local": "2026-09-26T21:00:21.000000-06:00",
+      "query_parameters": {
+        "hl": [
+          "es-419"
+        ],
+        "request_source": [
+          "1"
+        ],
+        "mendel_ids": [
+          "10800112,1706538,1714258,10800561,10800589,10800672,10800695,10800700,10800707,10800738,10800761,10800848,10800922,10800950,10800957,10801032,10801042,10801150,10801288,10801345,10801510,10801539,10801601,10801704,10801736,10801757,10802277,10802281,10802310,10802381,10802419,10802571,10802616,10802781,10803154,10803751,10803805,10803950,10804405,10804428,10805116,10805121,10806296,10806491,10806832,10806936,10808927,10808938,10809124,10809176,10809415,48766772,93859477,97470712,106144468,106630123"
+        ],
+        "authuser": [
+          "0"
+        ],
+        "helpcenter": [
+          "android"
+        ],
+        "query": [
+          "open by default"
+        ],
+        "v": [
+          "1"
+        ],
+        "max_results": [
+          "8"
+        ],
+        "next_page_token": [
+          "CiQyNzUyYzZhYS0wNmUwLWUwZmQtMTAxYi04ZmM4NDcyMWI2MDgQARjwASAAKAgyCwAAAAAAAAAAAAAAOgsACBAYICgwOEBIUEBZUAxYBw"
+        ]
+      }
+    }
+  ],
+  "interpretation": "Hay búsquedas open by default, y una secuencia de la misma consulta en Ayuda Android con tokens de página diferentes. La función de los parámetros se infiere por sus nombres y su cambio; el historial no conserva las respuestas de la API. No demuestra contenido oculto ni que todas las búsquedas se redirijan allí."
+}

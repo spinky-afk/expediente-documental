@@ -1,0 +1,412 @@
+{
+  "events": [
+    {
+      "id": "E047328",
+      "family": "Google",
+      "channel": "Búsqueda",
+      "kind": "consulta",
+      "time_utc": "2026-09-14T17:00:51.000000+00:00",
+      "time_local": "2026-09-14T11:00:51.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "14 sept 2026, 11:00:51 a.m. CST",
+      "source_code": "S004",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Búsqueda/MiActividad.html",
+      "locator": {
+        "record_index_1based": 311,
+        "html_line_1based": 34,
+        "html_column_0based": 297861
+      },
+      "identifiers": {},
+      "subject": "6850175308",
+      "url": "https://www.google.com/search?q=6850175308"
+    },
+    {
+      "id": "E047340",
+      "family": "Google",
+      "channel": "Búsqueda",
+      "kind": "consulta",
+      "time_utc": "2026-09-14T18:17:55.000000+00:00",
+      "time_local": "2026-09-14T12:17:55.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "14 sept 2026, 12:17:55 p.m. CST",
+      "source_code": "S004",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Búsqueda/MiActividad.html",
+      "locator": {
+        "record_index_1based": 310,
+        "html_line_1based": 34,
+        "html_column_0based": 296699
+      },
+      "identifiers": {},
+      "subject": "6850175308",
+      "url": "https://www.google.com/search?q=6850175308"
+    },
+    {
+      "id": "E058023",
+      "family": "Google",
+      "channel": "Búsqueda",
+      "kind": "consulta",
+      "time_utc": "2026-09-15T02:13:32.000000+00:00",
+      "time_local": "2026-09-14T20:13:32.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "14 sept 2026, 8:13:32 p.m. CST",
+      "source_code": "S004",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Búsqueda/MiActividad.html",
+      "locator": {
+        "record_index_1based": 307,
+        "html_line_1based": 34,
+        "html_column_0based": 293182
+      },
+      "identifiers": {},
+      "subject": "6850175308",
+      "url": "https://www.google.com/search?q=6850175308"
+    },
+    {
+      "id": "E058080",
+      "family": "Google",
+      "channel": "Búsqueda",
+      "kind": "consulta",
+      "time_utc": "2026-09-15T04:12:26.000000+00:00",
+      "time_local": "2026-09-14T22:12:26.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "14 sept 2026, 10:12:26 p.m. CST",
+      "source_code": "S004",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Búsqueda/MiActividad.html",
+      "locator": {
+        "record_index_1based": 293,
+        "html_line_1based": 34,
+        "html_column_0based": 276638
+      },
+      "identifiers": {},
+      "subject": "6850175308",
+      "url": "https://www.google.com/search?q=6850175308"
+    },
+    {
+      "id": "E058116",
+      "family": "Google",
+      "channel": "Búsqueda",
+      "kind": "consulta",
+      "time_utc": "2026-09-15T05:04:27.000000+00:00",
+      "time_local": "2026-09-14T23:04:27.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "14 sept 2026, 11:04:27 p.m. CST",
+      "source_code": "S004",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Búsqueda/MiActividad.html",
+      "locator": {
+        "record_index_1based": 292,
+        "html_line_1based": 34,
+        "html_column_0based": 275476
+      },
+      "identifiers": {},
+      "subject": "6850175308",
+      "url": "https://www.google.com/search?q=6850175308"
+    },
+    {
+      "id": "E058459",
+      "family": "Google",
+      "channel": "Búsqueda",
+      "kind": "consulta",
+      "time_utc": "2026-09-15T07:29:15.000000+00:00",
+      "time_local": "2026-09-15T01:29:15.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "15 sept 2026, 1:29:15 a.m. CST",
+      "source_code": "S004",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Búsqueda/MiActividad.html",
+      "locator": {
+        "record_index_1based": 290,
+        "html_line_1based": 34,
+        "html_column_0based": 273107
+      },
+      "identifiers": {},
+      "subject": "6850175308",
+      "url": "https://www.google.com/search?q=6850175308"
+    },
+    {
+      "id": "E058973",
+      "family": "Google",
+      "channel": "Búsqueda",
+      "kind": "consulta",
+      "time_utc": "2026-09-15T17:18:48.000000+00:00",
+      "time_local": "2026-09-15T11:18:48.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "15 sept 2026, 11:18:48 a.m. CST",
+      "source_code": "S004",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Búsqueda/MiActividad.html",
+      "locator": {
+        "record_index_1based": 274,
+        "html_line_1based": 34,
+        "html_column_0based": 254324
+      },
+      "identifiers": {},
+      "subject": "6850175308",
+      "url": "https://www.google.com/search?q=6850175308"
+    },
+    {
+      "id": "E058986",
+      "family": "Google",
+      "channel": "Búsqueda",
+      "kind": "consulta",
+      "time_utc": "2026-09-15T17:51:34.000000+00:00",
+      "time_local": "2026-09-15T11:51:34.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "15 sept 2026, 11:51:34 a.m. CST",
+      "source_code": "S004",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Búsqueda/MiActividad.html",
+      "locator": {
+        "record_index_1based": 270,
+        "html_line_1based": 34,
+        "html_column_0based": 249664
+      },
+      "identifiers": {},
+      "subject": "6850175308",
+      "url": "https://www.google.com/search?q=6850175308"
+    },
+    {
+      "id": "E071360",
+      "family": "Google",
+      "channel": "Búsqueda",
+      "kind": "consulta",
+      "time_utc": "2026-09-20T22:11:03.000000+00:00",
+      "time_local": "2026-09-20T16:11:03.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "20 sept 2026, 4:11:03 p.m. CST",
+      "source_code": "S004",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Búsqueda/MiActividad.html",
+      "locator": {
+        "record_index_1based": 177,
+        "html_line_1based": 34,
+        "html_column_0based": 145791
+      },
+      "identifiers": {},
+      "subject": "6850175308",
+      "url": "https://www.google.com/search?q=6850175308"
+    },
+    {
+      "id": "E072521",
+      "family": "Google",
+      "channel": "Chat",
+      "kind": "consulta",
+      "time_utc": "2026-09-21T02:47:22.000000+00:00",
+      "time_local": "2026-09-20T20:47:22.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "20 sept 2026, 8:47:22 p.m. CST",
+      "source_code": "S007",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Chat/MiActividad.html",
+      "locator": {
+        "record_index_1based": 1,
+        "html_line_1based": 33,
+        "html_column_0based": 43
+      },
+      "identifiers": {},
+      "subject": "6850175308",
+      "url": "https://mail.google.com/chat/#search/6850175308"
+    },
+    {
+      "id": "E072537",
+      "family": "Google",
+      "channel": "Búsqueda",
+      "kind": "consulta",
+      "time_utc": "2026-09-21T03:12:50.000000+00:00",
+      "time_local": "2026-09-20T21:12:50.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "20 sept 2026, 9:12:50 p.m. CST",
+      "source_code": "S004",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Búsqueda/MiActividad.html",
+      "locator": {
+        "record_index_1based": 170,
+        "html_line_1based": 34,
+        "html_column_0based": 137950
+      },
+      "identifiers": {},
+      "subject": "6850175308",
+      "url": "https://www.google.com/search?q=6850175308"
+    },
+    {
+      "id": "E078474",
+      "family": "Correo",
+      "channel": "MBOX · Cabeceras Date",
+      "kind": "fecha declarada del correo",
+      "time_utc": "2026-09-25T21:20:10.000000+00:00",
+      "time_local": "2026-09-25T15:20:10.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "Sat, 26 Sep 2026 05:20:10 +0800 (CST)",
+      "source_code": "S508",
+      "source_path": "/home/deep-logic/Documentos/Todo el correo, con Spam y Papelera incluidos.mbox",
+      "locator": {
+        "mbox_message_index_1based": 27,
+        "mail_id": "M000027",
+        "message_id": "<1790371210682_112866_1088606_3539.sc-10-2-255-203-inbound0@em1424.notice.xiaomi.com>"
+      },
+      "identifiers": {
+        "mail_id": "M000027",
+        "sender_domain": "notice.xiaomi.com"
+      },
+      "subject": "Correo · noreply@notice.xiaomi.com · Xiaomi Account password changed",
+      "url": null,
+      "timezone_basis": "Date de la cabecera, con zona explícita: fecha declarada por el mensaje, sin acreditar lectura, apertura de app ni validación criptográfica del remitente.",
+      "body_search": "Hi 6850175308!\n\nThe password for your Xiaomi Account 6850175308 has been changed. Details:\n\nLocation: Mexico\nIP address: 200.63.42.255\n If this wasn''t you, reset your password at id.mi.com. \nXiaomi Account team\n\nThis security notification was sent automatically, so please don''t reply to it. If you have any questions, send us an email at support.global@support.mi.com and we''ll get back to you as soon as we can.",
+      "mail_page": "correos/M000027.html"
+    },
+    {
+      "id": "E078490",
+      "family": "Google",
+      "channel": "Historial de Chrome",
+      "kind": "visita",
+      "time_utc": "2026-09-25T21:24:48.502037+00:00",
+      "time_local": "2026-09-25T15:24:48.502037-06:00",
+      "time_precision": "microsegundo",
+      "date_original": "1790371488502037",
+      "source_code": "S028",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Chrome/Historial.json",
+      "locator": {
+        "record_index_1based": 146,
+        "json_pointer": "/Browser History/145"
+      },
+      "identifiers": {},
+      "subject": "Xiaomi Account",
+      "url": "https://account.xiaomi.com/fe/service/account?cUserId=wAb6f4ntA20ZEJ6WDRaIbXk_M8I&userId=6850175308"
+    },
+    {
+      "id": "E078491",
+      "family": "Google",
+      "channel": "Historial de Chrome",
+      "kind": "visita",
+      "time_utc": "2026-09-25T21:24:49.124575+00:00",
+      "time_local": "2026-09-25T15:24:49.124575-06:00",
+      "time_precision": "microsegundo",
+      "date_original": "1790371489124575",
+      "source_code": "S028",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Chrome/Historial.json",
+      "locator": {
+        "record_index_1based": 145,
+        "json_pointer": "/Browser History/144"
+      },
+      "identifiers": {},
+      "subject": "Xiaomi Account",
+      "url": "https://account.xiaomi.com/fe/service/account?cUserId=wAb6f4ntA20ZEJ6WDRaIbXk_M8I&userId=6850175308&_locale=en_US"
+    },
+    {
+      "id": "E078495",
+      "family": "Google",
+      "channel": "Historial de Chrome",
+      "kind": "visita",
+      "time_utc": "2026-09-25T21:25:33.256443+00:00",
+      "time_local": "2026-09-25T15:25:33.256443-06:00",
+      "time_precision": "microsegundo",
+      "date_original": "1790371533256443",
+      "source_code": "S028",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Chrome/Historial.json",
+      "locator": {
+        "record_index_1based": 142,
+        "json_pointer": "/Browser History/141"
+      },
+      "identifiers": {},
+      "subject": "Xiaomi Account",
+      "url": "https://account.xiaomi.com/auth/jump?target=https%3A%2F%2Faccount.xiaomi.com%2Ffe%2Fservice%2Faccount%2Fprivacy%3FcUserId%3DwAb6f4ntA20ZEJ6WDRaIbXk_M8I%26userId%3D6850175308%26_locale%3Den_US&cUserId=wAb6f4ntA20ZEJ6WDRaIbXk_M8I&userId=6850175308"
+    },
+    {
+      "id": "E078496",
+      "family": "Google",
+      "channel": "Historial de Chrome",
+      "kind": "visita",
+      "time_utc": "2026-09-25T21:25:33.788076+00:00",
+      "time_local": "2026-09-25T15:25:33.788076-06:00",
+      "time_precision": "microsegundo",
+      "date_original": "1790371533788076",
+      "source_code": "S028",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Chrome/Historial.json",
+      "locator": {
+        "record_index_1based": 141,
+        "json_pointer": "/Browser History/140"
+      },
+      "identifiers": {},
+      "subject": "Xiaomi Account",
+      "url": "https://account.xiaomi.com/fe/service/account/privacy?cUserId=wAb6f4ntA20ZEJ6WDRaIbXk_M8I&_locale=en_US&userId=6850175308"
+    },
+    {
+      "id": "E078497",
+      "family": "Google",
+      "channel": "Chrome",
+      "kind": "visita",
+      "time_utc": "2026-09-25T21:25:38.000000+00:00",
+      "time_local": "2026-09-25T15:25:38.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "25 sept 2026, 3:25:38 p.m. CST",
+      "source_code": "S008",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Chrome/MiActividad.html",
+      "locator": {
+        "record_index_1based": 53,
+        "html_line_1based": 33,
+        "html_column_0based": 53412
+      },
+      "identifiers": {},
+      "subject": "Xiaomi Account",
+      "url": "https://account.xiaomi.com/fe/service/account/privacy/application?cUserId=wAb6f4ntA20ZEJ6WDRaIbXk_M8I&_locale=en_US&userId=6850175308"
+    },
+    {
+      "id": "E078498",
+      "family": "Google",
+      "channel": "Historial de Chrome",
+      "kind": "visita",
+      "time_utc": "2026-09-25T21:25:38.671916+00:00",
+      "time_local": "2026-09-25T15:25:38.671916-06:00",
+      "time_precision": "microsegundo",
+      "date_original": "1790371538671916",
+      "source_code": "S028",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Chrome/Historial.json",
+      "locator": {
+        "record_index_1based": 140,
+        "json_pointer": "/Browser History/139"
+      },
+      "identifiers": {},
+      "subject": "Xiaomi Account",
+      "url": "https://account.xiaomi.com/fe/service/account/privacy/application?cUserId=wAb6f4ntA20ZEJ6WDRaIbXk_M8I&_locale=en_US&userId=6850175308"
+    }
+  ],
+  "contacts": [
+    {
+      "source_code": "V01",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Contactos/Mis contactos/Mis contactos.vcf",
+      "vcard_index_1based": 46,
+      "fields": [
+        "FN:Amante Adilene",
+        "N:;Amante Adilene;;;",
+        "TEL;TYPE=CELL:+526850175308"
+      ]
+    },
+    {
+      "source_code": "V02",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Contactos/Todos los contactos/Todos los contactos.vcf",
+      "vcard_index_1based": 50,
+      "fields": [
+        "FN:Amante Adilene",
+        "N:;Amante Adilene;;;",
+        "TEL;TYPE=CELL:+526850175308"
+      ]
+    },
+    {
+      "source_code": "V02",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Contactos/Todos los contactos/Todos los contactos.vcf",
+      "vcard_index_1based": 51,
+      "fields": [
+        "FN:Amante Adilene Tu Juras",
+        "N:;Amante Adilene Tu Juras;;;",
+        "TEL;TYPE=CELL:+526850175308"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "code": "V01",
+      "path": "/home/deep-logic/Documentos/Registro/Takeout/Contactos/Mis contactos/Mis contactos.vcf",
+      "sha256": "4f8b1e310993bbd3d2bb2cbc297f3dbfec0e17902dfa96ff08fb6b6d66b5c45f",
+      "bytes": 54052
+    },
+    {
+      "code": "V02",
+      "path": "/home/deep-logic/Documentos/Registro/Takeout/Contactos/Todos los contactos/Todos los contactos.vcf",
+      "sha256": "37ee5cb20aac83ec56ce480960262770fe259e6319473525102bccc8d4e023a8",
+      "bytes": 55885
+    }
+  ],
+  "interpretation": "Número buscado antes de Etsy; también guardado como TEL y presente como userId en URLs de Xiaomi. Sin equivalencia demostrada con IDs empresariales de Etsy o Clarín."
+}

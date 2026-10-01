@@ -1,0 +1,124 @@
+[{
+  "orderHistory": {
+    "orderId": "GPA.3381-2345-2508-51898",
+    "creationTime": "2026-09-18T13:12:19.484Z",
+    "billingInstrument": {
+      "displayName": "Mercado Pago: Eduardo Velez Moreno"
+    },
+    "otherInstruments": [{
+      "displayName": "Mercado Pago: Eduardo Velez Moreno"
+    }],
+    "associatedContact": [{
+      "name": "Laura Adilene Hernández Razo",
+      "countryCode": "MX"
+    }],
+    "emailAddress": ["hadilene116@gmail.com"],
+    "ipAddress": "187.187.201.180",
+    "ipCountry": "MX",
+    "userLocale": {
+      "languageCode": "es_US",
+      "country": "MX"
+    },
+    "totalPrice": "59,00 MXN",
+    "tax": "8,14 MXN",
+    "refundAmount": "$0.00",
+    "preorder": false,
+    "lineItem": [{
+      "doc": {
+        "documentType": "In App Item",
+        "title": "DevInfo Pro (Información del dispositivo)"
+      },
+      "quantity": "1"
+    }]
+  }
+},
+{
+  "orderHistory": {
+    "orderId": "GPA.3318-7360-1304-97345..0",
+    "creationTime": "2026-07-03T04:44:59.755Z",
+    "billingInstrument": {
+      "cardClass": "DEBIT",
+      "cardType": "VISA",
+      "expiration": "4/2029",
+      "displayName": "Visa-2885"
+    },
+    "otherInstruments": [{
+      "cardClass": "DEBIT",
+      "cardType": "VISA",
+      "expiration": "4/2029",
+      "displayName": "Visa-2885"
+    }],
+    "billingContact": {
+      "name": "Laura Adilene Hernández Razo",
+      "countryCode": "MX"
+    },
+    "associatedContact": [{
+      "name": "Laura Adilene Hernández Razo",
+      "countryCode": "MX"
+    }],
+    "emailAddress": ["hadilene116@gmail.com"],
+    "ipAddress": "187.187.206.49",
+    "ipCountry": "MX",
+    "userLocale": {
+      "languageCode": "es_US",
+      "country": "MX"
+    },
+    "totalPrice": "39,00 MXN",
+    "tax": "5,38 MXN",
+    "refundAmount": "$39.00",
+    "renewalOrder": true,
+    "preorder": false,
+    "lineItem": [{
+      "doc": {
+        "documentType": "Subscription",
+        "title": "Facebook Plus (Facebook)"
+      },
+      "quantity": "1"
+    }]
+  }
+},
+{
+  "orderHistory": {
+    "orderId": "GPA.3318-7360-1304-97345",
+    "creationTime": "2026-06-03T04:44:57.785Z",
+    "billingInstrument": {
+      "cardClass": "DEBIT",
+      "cardType": "VISA",
+      "expiration": "4/2029",
+      "displayName": "Visa-2885"
+    },
+    "otherInstruments": [{
+      "cardClass": "DEBIT",
+      "cardType": "VISA",
+      "expiration": "4/2029",
+      "displayName": "Visa-2885"
+    }],
+    "billingContact": {
+      "name": "Laura Adilene Hernández Razo",
+      "countryCode": "MX"
+    },
+    "associatedContact": [{
+      "name": "Laura Adilene Hernández Razo",
+      "countryCode": "MX"
+    }],
+    "emailAddress": ["hadilene116@gmail.com"],
+    "ipAddress": "187.187.206.49",
+    "ipCountry": "MX",
+    "userLocale": {
+      "languageCode": "es_US",
+      "country": "MX"
+    },
+    "totalPrice": "0,00 MXN",
+    "tax": "0,00 MXN",
+    "refundAmount": "$0.00",
+    "renewalOrder": false,
+    "preorder": false,
+    "lineItem": [{
+      "doc": {
+        "documentType": "Subscription",
+        "title": "Facebook Plus (Facebook)"
+      },
+      "quantity": "1"
+    }]
+  }
+}]

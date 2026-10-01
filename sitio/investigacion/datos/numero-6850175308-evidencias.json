@@ -1,7 +1,7 @@
 {
   "events": [
     {
-      "id": "E023264",
+      "id": "E047328",
       "family": "Google",
       "channel": "Búsqueda",
       "kind": "consulta",
@@ -21,7 +21,7 @@
       "url": "https://www.google.com/search?q=6850175308"
     },
     {
-      "id": "E023274",
+      "id": "E047340",
       "family": "Google",
       "channel": "Búsqueda",
       "kind": "consulta",
@@ -41,7 +41,7 @@
       "url": "https://www.google.com/search?q=6850175308"
     },
     {
-      "id": "E023324",
+      "id": "E058023",
       "family": "Google",
       "channel": "Búsqueda",
       "kind": "consulta",
@@ -61,7 +61,7 @@
       "url": "https://www.google.com/search?q=6850175308"
     },
     {
-      "id": "E023369",
+      "id": "E058080",
       "family": "Google",
       "channel": "Búsqueda",
       "kind": "consulta",
@@ -81,7 +81,7 @@
       "url": "https://www.google.com/search?q=6850175308"
     },
     {
-      "id": "E023405",
+      "id": "E058116",
       "family": "Google",
       "channel": "Búsqueda",
       "kind": "consulta",
@@ -101,7 +101,7 @@
       "url": "https://www.google.com/search?q=6850175308"
     },
     {
-      "id": "E023433",
+      "id": "E058459",
       "family": "Google",
       "channel": "Búsqueda",
       "kind": "consulta",
@@ -121,7 +121,7 @@
       "url": "https://www.google.com/search?q=6850175308"
     },
     {
-      "id": "E023571",
+      "id": "E058973",
       "family": "Google",
       "channel": "Búsqueda",
       "kind": "consulta",
@@ -141,7 +141,7 @@
       "url": "https://www.google.com/search?q=6850175308"
     },
     {
-      "id": "E023584",
+      "id": "E058986",
       "family": "Google",
       "channel": "Búsqueda",
       "kind": "consulta",
@@ -161,7 +161,7 @@
       "url": "https://www.google.com/search?q=6850175308"
     },
     {
-      "id": "E024567",
+      "id": "E071360",
       "family": "Google",
       "channel": "Búsqueda",
       "kind": "consulta",
@@ -181,7 +181,7 @@
       "url": "https://www.google.com/search?q=6850175308"
     },
     {
-      "id": "E024654",
+      "id": "E072521",
       "family": "Google",
       "channel": "Chat",
       "kind": "consulta",
@@ -201,7 +201,7 @@
       "url": "https://mail.google.com/chat/#search/6850175308"
     },
     {
-      "id": "E024668",
+      "id": "E072537",
       "family": "Google",
       "channel": "Búsqueda",
       "kind": "consulta",
@@ -221,7 +221,33 @@
       "url": "https://www.google.com/search?q=6850175308"
     },
     {
-      "id": "E026012",
+      "id": "E078474",
+      "family": "Correo",
+      "channel": "MBOX · Cabeceras Date",
+      "kind": "fecha declarada del correo",
+      "time_utc": "2026-09-25T21:20:10.000000+00:00",
+      "time_local": "2026-09-25T15:20:10.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "Sat, 26 Sep 2026 05:20:10 +0800 (CST)",
+      "source_code": "S508",
+      "source_path": "/home/deep-logic/Documentos/Todo el correo, con Spam y Papelera incluidos.mbox",
+      "locator": {
+        "mbox_message_index_1based": 27,
+        "mail_id": "M000027",
+        "message_id": "<1790371210682_112866_1088606_3539.sc-10-2-255-203-inbound0@em1424.notice.xiaomi.com>"
+      },
+      "identifiers": {
+        "mail_id": "M000027",
+        "sender_domain": "notice.xiaomi.com"
+      },
+      "subject": "Correo · noreply@notice.xiaomi.com · Xiaomi Account password changed",
+      "url": null,
+      "timezone_basis": "Date de la cabecera, con zona explícita: fecha declarada por el mensaje, sin acreditar lectura, apertura de app ni validación criptográfica del remitente.",
+      "body_search": "Hi 6850175308!\n\nThe password for your Xiaomi Account 6850175308 has been changed. Details:\n\nLocation: Mexico\nIP address: 200.63.42.255\n If this wasn''t you, reset your password at id.mi.com. \nXiaomi Account team\n\nThis security notification was sent automatically, so please don''t reply to it. If you have any questions, send us an email at support.global@support.mi.com and we''ll get back to you as soon as we can.",
+      "mail_page": "correos/M000027.html"
+    },
+    {
+      "id": "E078490",
       "family": "Google",
       "channel": "Historial de Chrome",
       "kind": "visita",
@@ -240,7 +266,7 @@
       "url": "https://account.xiaomi.com/fe/service/account?cUserId=wAb6f4ntA20ZEJ6WDRaIbXk_M8I&userId=6850175308"
     },
     {
-      "id": "E026013",
+      "id": "E078491",
       "family": "Google",
       "channel": "Historial de Chrome",
       "kind": "visita",
@@ -259,7 +285,7 @@
       "url": "https://account.xiaomi.com/fe/service/account?cUserId=wAb6f4ntA20ZEJ6WDRaIbXk_M8I&userId=6850175308&_locale=en_US"
     },
     {
-      "id": "E026016",
+      "id": "E078495",
       "family": "Google",
       "channel": "Historial de Chrome",
       "kind": "visita",
@@ -278,7 +304,7 @@
       "url": "https://account.xiaomi.com/auth/jump?target=https%3A%2F%2Faccount.xiaomi.com%2Ffe%2Fservice%2Faccount%2Fprivacy%3FcUserId%3DwAb6f4ntA20ZEJ6WDRaIbXk_M8I%26userId%3D6850175308%26_locale%3Den_US&cUserId=wAb6f4ntA20ZEJ6WDRaIbXk_M8I&userId=6850175308"
     },
     {
-      "id": "E026017",
+      "id": "E078496",
       "family": "Google",
       "channel": "Historial de Chrome",
       "kind": "visita",
@@ -297,7 +323,7 @@
       "url": "https://account.xiaomi.com/fe/service/account/privacy?cUserId=wAb6f4ntA20ZEJ6WDRaIbXk_M8I&_locale=en_US&userId=6850175308"
     },
     {
-      "id": "E026018",
+      "id": "E078497",
       "family": "Google",
       "channel": "Chrome",
       "kind": "visita",
@@ -317,7 +343,7 @@
       "url": "https://account.xiaomi.com/fe/service/account/privacy/application?cUserId=wAb6f4ntA20ZEJ6WDRaIbXk_M8I&_locale=en_US&userId=6850175308"
     },
     {
-      "id": "E026019",
+      "id": "E078498",
       "family": "Google",
       "channel": "Historial de Chrome",
       "kind": "visita",

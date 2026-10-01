@@ -1,0 +1,19 @@
+{
+  "observed_at_utc": "2026-10-01T19:12:00+00:00",
+  "method": "lsusb e idevice_id/ideviceinfo mediante USB; acceso de lectura a metadatos, sin crear ni restaurar una copia",
+  "usb_vendor_product": "05ac:12a8",
+  "ProductVersion": "16.7.16",
+  "ProductType": "iPhone10,4",
+  "backup_domain": "com.apple.mobile.backup",
+  "backup_original_values": {
+    "LastCloudBackupDate": 812501783,
+    "LastCloudBackupTZ": "CST",
+    "Version": "2.0"
+  },
+  "WillEncrypt_query": "sin valor devuelto; no determina si la copia local está cifrada",
+  "safari_history_extracted": false,
+  "shortcuts_extracted": false,
+  "icloud_backup_downloaded": false,
+  "local_Manifest_db_found_in_searched_paths": false,
+  "backup_date_interpretation": "2026-09-30T16:56:23-06:00, usando CFAbsoluteTime (referencia 2001-01-01 UTC); inferencia de formato a confirmar en el teléfono. El valor no prueba disponibilidad actual del respaldo."
+}

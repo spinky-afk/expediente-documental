@@ -1,0 +1,25 @@
+{
+  "installed_at_utc": "2026-10-01T18:38:38.469866+00:00",
+  "tools": [
+    {
+      "tool": "gh",
+      "release": "v2.102.0",
+      "release_url": "https://github.com/cli/cli/releases/tag/v2.102.0",
+      "asset_url": "https://github.com/cli/cli/releases/download/v2.102.0/gh_2.102.0_linux_amd64.tar.gz",
+      "checksums_url": "https://github.com/cli/cli/releases/download/v2.102.0/gh_2.102.0_checksums.txt",
+      "archive_sha256_verified": "bb766f710eef8ede859c18578c72c327597cd4c8a85b06001b1f3843c6019386",
+      "binary_sha256": "7469124f706944133d6a169691dd1c6c3511b12e85878d255e044e2948df4c9b",
+      "path": "/home/deep-logic/ai-lab/.tools/github/bin/gh"
+    },
+    {
+      "tool": "git-lfs",
+      "release": "v3.8.0",
+      "release_url": "https://github.com/git-lfs/git-lfs/releases/tag/v3.8.0",
+      "asset_url": "https://github.com/git-lfs/git-lfs/releases/download/v3.8.0/git-lfs-linux-amd64-v3.8.0.tar.gz",
+      "checksums_url": "https://github.com/git-lfs/git-lfs/releases/download/v3.8.0/sha256sums.asc",
+      "archive_sha256_verified": "e455e00f15d9b95661b8d53498ffb0c3367962cf1ec73c31ab7369516cd6ab8d",
+      "binary_sha256": "1c636bd72c8f57f639fffbd13679066eb5fecea5c5a8212d3bda30d3a20768a5",
+      "path": "/home/deep-logic/ai-lab/.tools/github/bin/git-lfs"
+    }
+  ]
+}

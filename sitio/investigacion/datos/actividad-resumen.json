@@ -1,12 +1,17 @@
 {
-  "generated_at_utc": "2026-10-01T16:05:15.527423+00:00",
+  "generated_at_utc": "2026-10-01T18:41:31.267814+00:00",
   "timezone": "America/Mexico_City",
-  "dated_observations": 27044,
-  "undated_observations": 38,
+  "dated_observations": 84642,
+  "undated_observations": 54,
   "earliest": "2022-08-15T18:50:51.000000-05:00",
-  "latest": "2026-09-27T00:29:06.000000-06:00",
-  "source_files": 495,
+  "latest": "2026-09-27T17:35:30.739000-06:00",
+  "source_files": 508,
   "source_counts": [
+    {
+      "family": "Correo",
+      "channel": "MBOX · Cabeceras Date",
+      "count": 1527
+    },
     {
       "family": "Facebook",
       "channel": "Accesos directos eliminados de la barra de navegación de Facebook",
@@ -676,6 +681,36 @@
       "family": "Google",
       "channel": "YouTube",
       "count": 3696
+    },
+    {
+      "family": "Uber",
+      "channel": "Eats · Analytics",
+      "count": 45178
+    },
+    {
+      "family": "Uber",
+      "channel": "Eats · Pedidos",
+      "count": 46
+    },
+    {
+      "family": "Uber",
+      "channel": "Métodos de pago",
+      "count": 1
+    },
+    {
+      "family": "Uber",
+      "channel": "Rider · Analytics",
+      "count": 10833
+    },
+    {
+      "family": "Uber",
+      "channel": "Rider · Viajes",
+      "count": 4
+    },
+    {
+      "family": "Uber",
+      "channel": "Soporte",
+      "count": 9
     }
   ],
   "conversation_files": 37,
@@ -690,7 +725,7 @@
     "PNG": 180,
     "JPEG": 1
   },
-  "correlations": 684,
+  "correlations": 705,
   "google_mentions_facebook": [
     {
       "source_path": "/home/deep-logic/Documentos/facebook/ads_information/advertisers_you've_interacted_with.html",
@@ -760,30 +795,30 @@
     }
   ],
   "coppel_event_ids": [
-    "E016957",
-    "E017172",
-    "E017515",
-    "E017661",
-    "E018115",
-    "E018131",
-    "E021442",
-    "E021443",
-    "E021481"
+    "E017779",
+    "E018004",
+    "E018364",
+    "E018513",
+    "E019004",
+    "E019024",
+    "E030474",
+    "E030475",
+    "E030513"
   ],
   "epazote_event_ids": [
-    "E019355",
-    "E019342",
-    "E019330"
+    "E020331",
+    "E020318",
+    "E020306"
   ],
   "google_business_event_ids": [
-    "E026920",
-    "E026921",
-    "E026922",
-    "E026923",
-    "E026924",
-    "E026925",
-    "E026926",
-    "E026927",
-    "E026928"
+    "E084292",
+    "E084293",
+    "E084294",
+    "E084295",
+    "E084296",
+    "E084297",
+    "E084298",
+    "E084299",
+    "E084300"
   ]
 }

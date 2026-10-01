@@ -1,0 +1,58 @@
+{
+  "verified_at_utc": "2026-10-01T19:29:32.740455+00:00",
+  "observations": 84642,
+  "source_files_verified_unchanged": 508,
+  "account_provenance_files_verified": 2,
+  "sorted_by_utc": true,
+  "unique_observation_ids": true,
+  "pdf_editions": [
+    {
+      "pdf": "/home/deep-logic/ai-lab/research/vapid-webpush/historial-cruzado.pdf",
+      "pages": 5646,
+      "timeline_records": 84642,
+      "ids_exact_and_chronological": true,
+      "private_key_values_absent": true,
+      "account_scope_correction_present": true,
+      "sha256": "2500386b46e824e70e97265bb84a551adca4582d018f9003d77ae0d46a0227df"
+    },
+    {
+      "pdf": "/home/deep-logic/ai-lab/research/expediente-documental/sitio/historial-cruzado.pdf",
+      "pages": 5646,
+      "timeline_records": 84642,
+      "ids_exact_and_chronological": true,
+      "private_key_values_absent": true,
+      "account_scope_correction_present": true,
+      "sha256": "44caf843106bc3dd0053ef8cf06eb786ea1e7aa8bdb820ee6db7eabb8df55186"
+    }
+  ],
+  "site_checks": {
+    "original_copies_verified": 857,
+    "encrypted_files_restored_in_memory": 4,
+    "private_key_leaks": [],
+    "external_navigation_in_site_pages": [],
+    "missing_local_links": [],
+    "anchored_observations": 82247,
+    "missing_anchors_count": 0,
+    "missing_anchor_samples": [],
+    "javascript_blocks_checked": 3,
+    "pdf_link_annotations": 109611,
+    "pdf_external_or_machine_specific_links": [],
+    "account": {
+      "updated_at_utc": "2026-10-01T19:28:15.123900+00:00",
+      "preferred_account_name": "spinky-afk",
+      "account_created": true,
+      "github_connected": true,
+      "remote_repository": null,
+      "repository_required_visibility": "private",
+      "site_publication": "local",
+      "pages_enabled": false,
+      "raw_originals": 858,
+      "plain_originals": 857,
+      "encrypted_originals": 1,
+      "timeline_observations": 84642,
+      "timeline_sources": 508,
+      "known_private_key_files_encrypted": 4,
+      "verified_github_login": "spinky-afk"
+    }
+  }
+}

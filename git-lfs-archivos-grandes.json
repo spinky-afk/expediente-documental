@@ -1,0 +1,57 @@
+{
+  "files": [
+    {
+      "path": "evidencia/investigacion/datos/actividad-cronologica.json",
+      "bytes": 86318408
+    },
+    {
+      "path": "evidencia/investigacion/historial-cruzado.html",
+      "bytes": 73145552
+    },
+    {
+      "path": "evidencia/investigacion/historial-cruzado.pdf",
+      "bytes": 87283864
+    },
+    {
+      "path": "evidencia/investigacion/privado/actividad-observaciones-originales.json",
+      "bytes": 137166306
+    },
+    {
+      "path": "evidencia/originales/mail/Todo el correo, con Spam y Papelera incluidos.mbox",
+      "bytes": 104855969
+    },
+    {
+      "path": "sitio/cronologia.html",
+      "bytes": 73258494
+    },
+    {
+      "path": "sitio/datos/actividad-cronologica.json",
+      "bytes": 86318408
+    },
+    {
+      "path": "sitio/historial-cruzado.pdf",
+      "bytes": 81138162
+    },
+    {
+      "path": "sitio/investigacion/datos/actividad-cronologica.json",
+      "bytes": 86318408
+    },
+    {
+      "path": "sitio/investigacion/historial-cruzado.html",
+      "bytes": 73145552
+    },
+    {
+      "path": "sitio/investigacion/historial-cruzado.pdf",
+      "bytes": 87283864
+    },
+    {
+      "path": "sitio/investigacion/privado/actividad-observaciones-originales.json",
+      "bytes": 137166306
+    },
+    {
+      "path": "sitio/originales/mail/Todo el correo, con Spam y Papelera incluidos.mbox",
+      "bytes": 104855969
+    }
+  ],
+  "threshold_bytes": 52428800
+}

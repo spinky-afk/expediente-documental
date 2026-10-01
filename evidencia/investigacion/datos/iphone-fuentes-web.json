@@ -1,0 +1,51 @@
+[
+  {
+    "id": "AP01",
+    "title": "Apple: buscar archivos",
+    "url": "https://support.apple.com/es-es/102570",
+    "notes": "Archivos permite explorar En mi iPhone e iCloud Drive; no documenta acceso libre al sistema.",
+    "consulted_on": "2026-10-01"
+  },
+  {
+    "id": "AP02",
+    "title": "Apple: ver copias de seguridad iCloud",
+    "url": "https://support.apple.com/es-es/guide/icloud/mm122d3ef202/icloud",
+    "notes": "Consultar Ajustes, nombre, iCloud, Copia de seguridad de iCloud.",
+    "consulted_on": "2026-10-01"
+  },
+  {
+    "id": "AP03",
+    "title": "Apple: Safari e historial",
+    "url": "https://support.apple.com/es-es/105082",
+    "notes": "La guía actual describe el botón Historial. En iOS 16 se usa la pestaña de reloj en marcadores; las vistas varían con iOS. No se realizó borrado.",
+    "consulted_on": "2026-10-01"
+  },
+  {
+    "id": "AP04",
+    "title": "Apple: organizar Atajos",
+    "url": "https://support.apple.com/es-us/guide/shortcuts/apd113493874/ios",
+    "notes": "La app muestra Todos los atajos y sus carpetas.",
+    "consulted_on": "2026-10-01"
+  },
+  {
+    "id": "AP05",
+    "title": "Apple: copias locales cifradas",
+    "url": "https://support.apple.com/es-es/108353",
+    "notes": "El respaldo local cifrado puede incluir historial de sitios web y otros datos adicionales. No se descargó un respaldo en esta consulta.",
+    "consulted_on": "2026-10-01"
+  },
+  {
+    "id": "AP06",
+    "title": "Apple: CFAbsoluteTime",
+    "url": "https://developer.apple.com/documentation/corefoundation/cfabsolutetime?changes=_10_4&language=objc",
+    "notes": "La referencia temporal es 2001-01-01 00:00:00 GMT. Su aplicación al campo de metadatos es una interpretación explícita.",
+    "consulted_on": "2026-10-01"
+  },
+  {
+    "id": "AP07",
+    "title": "libimobiledevice oficial",
+    "url": "https://github.com/libimobiledevice/libimobiledevice",
+    "notes": "Se descargó el paquete Ubuntu libimobiledevice-utils 1.4.0-1build1 y se extrajo en .tools/iphone, sin instalación del sistema.",
+    "consulted_on": "2026-10-01"
+  }
+]

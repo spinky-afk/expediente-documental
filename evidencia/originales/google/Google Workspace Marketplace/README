@@ -1,0 +1,6 @@
+La carpeta de Takeout para Google Workspace Marketplace incluye los siguientes archivos:
+    1. Un archivo por ficha de app, en formato JSON, con el prefijo "AppListing_" en el nombre.
+       Este archivo incluye los detalles de la ficha de la app, como el nombre, la descripción, los íconos de la app, las URL de la asistencia y los detalles de los complementos.
+    2. El archivo "reviews.json" incluye las reseñas que haya publicado el usuario.
+    3. El archivo README.
+  

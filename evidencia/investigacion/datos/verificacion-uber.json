@@ -1,0 +1,18 @@
+{
+  "analytic_row_checks": [
+    {
+      "product": "Rider",
+      "original_rows": 10833,
+      "timeline_rows": 10833,
+      "every_row_time_type_model_and_locator_verified": true
+    },
+    {
+      "product": "Eats",
+      "original_rows": 45178,
+      "timeline_rows": 45178,
+      "every_row_time_type_model_and_locator_verified": true
+    }
+  ],
+  "orders_with_time_zone_conflict_labeled": 46,
+  "total_observations": 83115
+}

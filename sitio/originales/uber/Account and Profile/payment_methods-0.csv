@@ -1,0 +1,8 @@
+Profile Type,Bank/Issuer Name,Payment Method Brand,Payment Method Type,Used For Collections,Used For Disbursements,Is the Latest Version,Not Payable,Billing Country,Country,Region,Deleted At
+STORED_VALUE,,,,true,false,true,false,,,,
+CASH,,,,true,false,false,false,,,,
+CASH,,,,true,false,true,false,,,,
+BANK_CARD,BANCO AZTECA SA INSTITUCION DE BANCA MULTIPLE,VISA,DEBIT,true,false,true,false,MX,Mexico,LatAm,
+BANK_CARD,BANCO AZTECA S.A. INSTITUCION DE BANCA MULTIPLE,VISA,DEBIT,true,false,false,false,MX,Mexico,LatAm,
+BANK_CARD,BANCO AZTECA S.A. INSTITUCION DE BANCA MULTIPLE,VISA,DEBIT,true,false,true,false,MX,Mexico,LatAm,2026-09-18T11:50:32.000Z
+BANK_CARD,MERCADOLIBRE SA DE CV INSTITUC,MASTERCARD,DEBIT,true,false,true,false,MX,Mexico,LatAm,

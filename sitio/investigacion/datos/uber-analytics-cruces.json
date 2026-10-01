@@ -1,0 +1,886 @@
+{
+  "generated_at_utc": "2026-10-01T18:56:02.793855+00:00",
+  "root": "/home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data",
+  "inventory": [
+    {
+      "path": "/home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Account and Profile/communications_sent-0.csv",
+      "relative_path": "Account and Profile/communications_sent-0.csv",
+      "bytes": 389,
+      "sha256": "c97d756ea5341ebc7ce19657865aadd5e952908f07f050e8f0d076c1b65aa3fa",
+      "source_code": "S496",
+      "rows": 6
+    },
+    {
+      "path": "/home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Account and Profile/customer_support_tickets-0.csv",
+      "relative_path": "Account and Profile/customer_support_tickets-0.csv",
+      "bytes": 2691,
+      "sha256": "c9acb7ef27c24560ef7897eadeeb3d9881ec5b04470e760a776477b3cead5a8b",
+      "source_code": "S497",
+      "rows": 9
+    },
+    {
+      "path": "/home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Account and Profile/driver_profile-0.csv",
+      "relative_path": "Account and Profile/driver_profile-0.csv",
+      "bytes": 476,
+      "sha256": "875f40f290cb77f16a28ee0a64ef27f7bfe084e54458a3e256077d1a171f4d3e",
+      "source_code": "S498",
+      "rows": 1
+    },
+    {
+      "path": "/home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Account and Profile/payment_methods-0.csv",
+      "relative_path": "Account and Profile/payment_methods-0.csv",
+      "bytes": 746,
+      "sha256": "cdfaedf1fbbd789e4e9b6193c973095e2075b406e3b820ec5d922fbf2003fd1d",
+      "source_code": "S499",
+      "rows": 7
+    },
+    {
+      "path": "/home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Account and Profile/rider_eater_saved_locations.csv",
+      "relative_path": "Account and Profile/rider_eater_saved_locations.csv",
+      "bytes": 155,
+      "sha256": "1003eb0bfb2a65f8490515a3c126483dfd44b82589186afa720c7b3a49576f4d",
+      "source_code": "S500",
+      "rows": 1
+    },
+    {
+      "path": "/home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Account and Profile/user_profile-0.csv",
+      "relative_path": "Account and Profile/user_profile-0.csv",
+      "bytes": 441,
+      "sha256": "3ff5c80b819be98f0af75a518b86a2d8b143857c09bf45521e9ceeb3f700b255",
+      "source_code": "S501",
+      "rows": 1
+    },
+    {
+      "path": "/home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Eats/eats_app_analytics-0.csv",
+      "relative_path": "Eats/eats_app_analytics-0.csv",
+      "bytes": 6289342,
+      "sha256": "2efd4662b503ed13aa3508f5216d40c7cfca8b054928fc8cc7608661ef9f7a4a",
+      "source_code": "S502",
+      "rows": 45178
+    },
+    {
+      "path": "/home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Eats/user_orders-0.csv",
+      "relative_path": "Eats/user_orders-0.csv",
+      "bytes": 4295,
+      "sha256": "545a36db0fead5835f51b0a44a323c3a897ec4a5a3c15ae606caa272e7657dd3",
+      "source_code": "S503",
+      "rows": 23
+    },
+    {
+      "path": "/home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Rider/rider_app_analytics-0.csv",
+      "relative_path": "Rider/rider_app_analytics-0.csv",
+      "bytes": 2384633,
+      "sha256": "7a17993c9f38183a805a4d416bead302e4277d9dd0ea4499d1c30697bd8c4be9",
+      "source_code": "S504",
+      "rows": 10833
+    },
+    {
+      "path": "/home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Rider/rider_lifetime_ratings_received-0.csv",
+      "relative_path": "Rider/rider_lifetime_ratings_received-0.csv",
+      "bytes": 19,
+      "sha256": "78f459c3dcf4dbbd8851d28e1ab4016f2875335bf39094c586a8e521b81253e8",
+      "source_code": "S505",
+      "rows": 1
+    },
+    {
+      "path": "/home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Rider/rider_lifetime_trips-0.csv",
+      "relative_path": "Rider/rider_lifetime_trips-0.csv",
+      "bytes": 3062,
+      "sha256": "d190f60e8be8a48ee153e1fa6bbae59adaa901780ea61c72c38fea52c95b0a23",
+      "source_code": "S506",
+      "rows": 2
+    },
+    {
+      "path": "/home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/readme.html",
+      "relative_path": "readme.html",
+      "bytes": 2910,
+      "sha256": "a6b491bf7cd30e9623327723a7c3406d4b1a60294a667f1e29f97b408ac3ca9d",
+      "source_code": "S507"
+    }
+  ],
+  "statistics": {
+    "Rider": {
+      "rows": 10833,
+      "events": 10833,
+      "first_utc": "2026-08-30T04:07:08.956000+00:00",
+      "last_utc": "2026-09-19T02:56:24.228000+00:00",
+      "first_local": "2026-08-29T22:07:08.956000-06:00",
+      "last_local": "2026-09-18T20:56:24.228000-06:00",
+      "event_types": {
+        "custom": 6075,
+        "impression": 4322,
+        "lifecycle": 87,
+        "tap": 346,
+        "": 3
+      },
+      "models": {
+        "23129ra5fl": 10833
+      },
+      "window_events": 0,
+      "gps_epoch_rows": 170
+    },
+    "Eats": {
+      "rows": 45178,
+      "events": 45178,
+      "first_utc": "2026-08-29T09:53:23.184000+00:00",
+      "last_utc": "2026-09-27T23:35:30.739000+00:00",
+      "first_local": "2026-08-29T03:53:23.184000-06:00",
+      "last_local": "2026-09-27T17:35:30.739000-06:00",
+      "event_types": {
+        "custom": 26434,
+        "tap": 1168,
+        "lifecycle": 415,
+        "impression": 17161
+      },
+      "models": {
+        "23129ra5fl": 45178
+      },
+      "window_events": 2060,
+      "gps_epoch_rows": 1847
+    }
+  },
+  "device_records": [
+    {
+      "product": "Rider",
+      "device_id": "d0666f2c-f032-3cff-a5b2-bcdddd9a4c40",
+      "rows": 6796,
+      "model_variants": [
+        "23129ra5fl"
+      ],
+      "os": [
+        "android/15"
+      ],
+      "first_event_utc_original": "2026-08-30 04:07:08.956",
+      "last_event_utc_original": "2026-09-12 14:52:44.483",
+      "distinct_ip_values": 3,
+      "source_path": "/home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Rider/rider_app_analytics-0.csv",
+      "example_locator": {
+        "csv_record_index_1based": 1,
+        "csv_line_1based": 2,
+        "csv_end_line_1based": 2
+      }
+    },
+    {
+      "product": "Rider",
+      "device_id": "ac1f0639-322f-3c6d-94f2-a187112cafa1",
+      "rows": 4037,
+      "model_variants": [
+        "23129RA5FL",
+        "23129ra5fl"
+      ],
+      "os": [
+        "android/15"
+      ],
+      "first_event_utc_original": "2026-09-18 11:01:26.817",
+      "last_event_utc_original": "2026-09-19 02:56:24.228",
+      "distinct_ip_values": 3,
+      "source_path": "/home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Rider/rider_app_analytics-0.csv",
+      "example_locator": {
+        "csv_record_index_1based": 1237,
+        "csv_line_1based": 1238,
+        "csv_end_line_1based": 1238
+      }
+    },
+    {
+      "product": "Eats",
+      "device_id": "[no exportado]",
+      "rows": 45178,
+      "model_variants": [
+        "23129ra5fl"
+      ],
+      "os": [
+        "android/15"
+      ],
+      "first_event_utc_original": "2026-08-29 09:53:23.184",
+      "last_event_utc_original": "2026-09-27 23:35:30.739",
+      "distinct_ip_values": null,
+      "source_path": "/home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Eats/eats_app_analytics-0.csv",
+      "example_locator": {
+        "csv_record_index_1based": 1,
+        "csv_line_1based": 2,
+        "csv_end_line_1based": 2
+      }
+    }
+  ],
+  "cross_correlations": [
+    {
+      "type": "Uber: mismo producto y proximidad de hasta 60 segundos; candidato temporal sin ID compartido",
+      "event_ids": [
+        "E023833",
+        "E023832"
+      ],
+      "product": "Eats",
+      "seconds_signed_uber_minus_other": -0.05,
+      "uber_rows_in_60_second_window": 313,
+      "shared_event_id": false
+    },
+    {
+      "type": "Uber: mismo producto y proximidad de hasta 60 segundos; candidato temporal sin ID compartido",
+      "event_ids": [
+        "E023834",
+        "E023832"
+      ],
+      "product": "Eats",
+      "seconds_signed_uber_minus_other": -0.05,
+      "uber_rows_in_60_second_window": 313,
+      "shared_event_id": false
+    },
+    {
+      "type": "Uber: mismo producto y proximidad de hasta 60 segundos; candidato temporal sin ID compartido",
+      "event_ids": [
+        "E024632",
+        "E024638"
+      ],
+      "product": "Eats",
+      "seconds_signed_uber_minus_other": 25.202,
+      "uber_rows_in_60_second_window": 205,
+      "shared_event_id": false
+    },
+    {
+      "type": "Uber: mismo producto y proximidad de hasta 60 segundos; candidato temporal sin ID compartido",
+      "event_ids": [
+        "E024634",
+        "E024638"
+      ],
+      "product": "Eats",
+      "seconds_signed_uber_minus_other": 25.202,
+      "uber_rows_in_60_second_window": 205,
+      "shared_event_id": false
+    },
+    {
+      "type": "Uber: mismo producto y proximidad de hasta 60 segundos; candidato temporal sin ID compartido",
+      "event_ids": [
+        "E025218",
+        "E025217"
+      ],
+      "product": "Eats",
+      "seconds_signed_uber_minus_other": -0.056,
+      "uber_rows_in_60_second_window": 304,
+      "shared_event_id": false
+    },
+    {
+      "type": "Uber: mismo producto y proximidad de hasta 60 segundos; candidato temporal sin ID compartido",
+      "event_ids": [
+        "E028756",
+        "E028758"
+      ],
+      "product": "Eats",
+      "seconds_signed_uber_minus_other": 0.172,
+      "uber_rows_in_60_second_window": 59,
+      "shared_event_id": false
+    },
+    {
+      "type": "Uber: mismo producto y proximidad de hasta 60 segundos; candidato temporal sin ID compartido",
+      "event_ids": [
+        "E042063",
+        "E042062"
+      ],
+      "product": "Eats",
+      "seconds_signed_uber_minus_other": -0.044,
+      "uber_rows_in_60_second_window": 1111,
+      "shared_event_id": false
+    },
+    {
+      "type": "Uber: mismo producto y proximidad de hasta 60 segundos; candidato temporal sin ID compartido",
+      "event_ids": [
+        "E043743",
+        "E043738"
+      ],
+      "product": "Eats",
+      "seconds_signed_uber_minus_other": -0.149,
+      "uber_rows_in_60_second_window": 55,
+      "shared_event_id": false
+    },
+    {
+      "type": "Uber: mismo producto y proximidad de hasta 60 segundos; candidato temporal sin ID compartido",
+      "event_ids": [
+        "E046683",
+        "E046684"
+      ],
+      "product": "Eats",
+      "seconds_signed_uber_minus_other": 0.013,
+      "uber_rows_in_60_second_window": 8,
+      "shared_event_id": false
+    },
+    {
+      "type": "Uber: mismo producto y proximidad de hasta 60 segundos; candidato temporal sin ID compartido",
+      "event_ids": [
+        "E046743",
+        "E046744"
+      ],
+      "product": "Eats",
+      "seconds_signed_uber_minus_other": 0.27,
+      "uber_rows_in_60_second_window": 16,
+      "shared_event_id": false
+    },
+    {
+      "type": "Uber: mismo producto y proximidad de hasta 60 segundos; candidato temporal sin ID compartido",
+      "event_ids": [
+        "E047055",
+        "E047056"
+      ],
+      "product": "Eats",
+      "seconds_signed_uber_minus_other": 0.15,
+      "uber_rows_in_60_second_window": 263,
+      "shared_event_id": false
+    },
+    {
+      "type": "Uber: mismo producto y proximidad de hasta 60 segundos; candidato temporal sin ID compartido",
+      "event_ids": [
+        "E047920",
+        "E047921"
+      ],
+      "product": "Eats",
+      "seconds_signed_uber_minus_other": 0.069,
+      "uber_rows_in_60_second_window": 634,
+      "shared_event_id": false
+    },
+    {
+      "type": "Uber: mismo producto y proximidad de hasta 60 segundos; candidato temporal sin ID compartido",
+      "event_ids": [
+        "E049897",
+        "E049898"
+      ],
+      "product": "Eats",
+      "seconds_signed_uber_minus_other": 0.522,
+      "uber_rows_in_60_second_window": 42,
+      "shared_event_id": false
+    },
+    {
+      "type": "Uber: mismo producto y proximidad de hasta 60 segundos; candidato temporal sin ID compartido",
+      "event_ids": [
+        "E050814",
+        "E050813"
+      ],
+      "product": "Eats",
+      "seconds_signed_uber_minus_other": -0.084,
+      "uber_rows_in_60_second_window": 245,
+      "shared_event_id": false
+    },
+    {
+      "type": "Uber: mismo producto y proximidad de hasta 60 segundos; candidato temporal sin ID compartido",
+      "event_ids": [
+        "E056200",
+        "E056195"
+      ],
+      "product": "Eats",
+      "seconds_signed_uber_minus_other": -0.109,
+      "uber_rows_in_60_second_window": 88,
+      "shared_event_id": false
+    },
+    {
+      "type": "Uber: mismo producto y proximidad de hasta 60 segundos; candidato temporal sin ID compartido",
+      "event_ids": [
+        "E071503",
+        "E071505"
+      ],
+      "product": "Eats",
+      "seconds_signed_uber_minus_other": 1.141,
+      "uber_rows_in_60_second_window": 892,
+      "shared_event_id": false
+    },
+    {
+      "type": "Uber: mismo producto y proximidad de hasta 60 segundos; candidato temporal sin ID compartido",
+      "event_ids": [
+        "E073799",
+        "E073801"
+      ],
+      "product": "Eats",
+      "seconds_signed_uber_minus_other": 0.193,
+      "uber_rows_in_60_second_window": 445,
+      "shared_event_id": false
+    },
+    {
+      "type": "Uber: mismo producto y proximidad de hasta 60 segundos; candidato temporal sin ID compartido",
+      "event_ids": [
+        "E076641",
+        "E076643"
+      ],
+      "product": "Eats",
+      "seconds_signed_uber_minus_other": 0.121,
+      "uber_rows_in_60_second_window": 67,
+      "shared_event_id": false
+    },
+    {
+      "type": "Uber: mismo producto y proximidad de hasta 60 segundos; candidato temporal sin ID compartido",
+      "event_ids": [
+        "E077341",
+        "E077340"
+      ],
+      "product": "Eats",
+      "seconds_signed_uber_minus_other": -0.053,
+      "uber_rows_in_60_second_window": 261,
+      "shared_event_id": false
+    },
+    {
+      "type": "Uber: mismo producto y proximidad de hasta 60 segundos; candidato temporal sin ID compartido",
+      "event_ids": [
+        "E077999",
+        "E078001"
+      ],
+      "product": "Eats",
+      "seconds_signed_uber_minus_other": 0.006,
+      "uber_rows_in_60_second_window": 289,
+      "shared_event_id": false
+    },
+    {
+      "type": "Uber: mismo producto y proximidad de hasta 60 segundos; candidato temporal sin ID compartido",
+      "event_ids": [
+        "E083887",
+        "E083889"
+      ],
+      "product": "Eats",
+      "seconds_signed_uber_minus_other": 0.045,
+      "uber_rows_in_60_second_window": 73,
+      "shared_event_id": false
+    }
+  ],
+  "facebook_companies": [
+    {
+      "name": "ubereats.com",
+      "business_id": "1862931440390914",
+      "event_identifiers": [
+        "920222691346894"
+      ],
+      "filename_suffix": "105529809654844418",
+      "source_path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/ubereatscom_105529809654844418.html",
+      "source_code": "S275"
+    },
+    {
+      "name": "Uber Eats: Food and Grocery",
+      "business_id": "1109643685726224",
+      "event_identifiers": [
+        "403591763184357"
+      ],
+      "filename_suffix": "105529809654844411",
+      "source_path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/ubereatsfoodandgrocery_105529809654844411.html",
+      "source_code": "S276"
+    },
+    {
+      "name": "Uber - Request a ride",
+      "business_id": "723297837696301",
+      "event_identifiers": [
+        "277064115737714"
+      ],
+      "filename_suffix": "105529809654844472",
+      "source_path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/uberrequestaride_105529809654844472.html",
+      "source_code": "S277"
+    }
+  ],
+  "literal_facebook_ids_in_uber_export": [],
+  "network_ip_matches": [
+    {
+      "ip_prefix": "187.187.201.*",
+      "ip_sha256": "4ca42e013af31149d9c1d4a7ee4309c995f277c8633b2c6c49145d0c50110ba3",
+      "sources": [
+        {
+          "source_code": "S025",
+          "path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Takeout/MiActividad.html"
+        },
+        {
+          "source_code": "S060",
+          "path": "/home/deep-logic/Documentos/Registro/Takeout/Google Play Store/Order History.json"
+        },
+        {
+          "source_code": "S334",
+          "path": "/home/deep-logic/Documentos/facebook/personal_information/profile_information/your_devices.html"
+        },
+        {
+          "source_code": "S353",
+          "path": "/home/deep-logic/Documentos/facebook/security_and_login_information/account_activity.html"
+        },
+        {
+          "source_code": "S359",
+          "path": "/home/deep-logic/Documentos/facebook/security_and_login_information/ip_address_activity.html"
+        },
+        {
+          "source_code": "S362",
+          "path": "/home/deep-logic/Documentos/facebook/security_and_login_information/logins_and_logouts.html"
+        },
+        {
+          "source_code": "S363",
+          "path": "/home/deep-logic/Documentos/facebook/security_and_login_information/record_details.html"
+        },
+        {
+          "source_code": "S366",
+          "path": "/home/deep-logic/Documentos/facebook/security_and_login_information/where_you're_logged_in.html"
+        },
+        {
+          "source_code": "S508",
+          "path": "/home/deep-logic/Documentos/Todo el correo, con Spam y Papelera incluidos.mbox"
+        }
+      ],
+      "meaning": "Igualdad de una dirección de red en las copias, no identificación de persona o dispositivo físico."
+    }
+  ],
+  "orders_grouped": [
+    {
+      "request_local_original": "2026-08-03T17:04:04.000Z",
+      "restaurant": "Little Caesars (Tulancingo)",
+      "rows": 2,
+      "delivery_local_original": "2026-08-03T17:40:52.000Z",
+      "status": "completed",
+      "source_path": "/home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Eats/user_orders-0.csv",
+      "locators": [
+        {
+          "csv_record_index_1based": 22,
+          "csv_line_1based": 23,
+          "csv_end_line_1based": 23
+        },
+        {
+          "csv_record_index_1based": 23,
+          "csv_line_1based": 24,
+          "csv_end_line_1based": 24
+        }
+      ],
+      "grouping": "Agrupación analítica por hora de solicitud y restaurante; no es un ID de pedido exportado."
+    },
+    {
+      "request_local_original": "2026-08-16T09:03:34.000Z",
+      "restaurant": "Subway (Matamoros)",
+      "rows": 1,
+      "delivery_local_original": "2026-08-16T09:37:08.000Z",
+      "status": "completed",
+      "source_path": "/home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Eats/user_orders-0.csv",
+      "locators": [
+        {
+          "csv_record_index_1based": 21,
+          "csv_line_1based": 22,
+          "csv_end_line_1based": 22
+        }
+      ],
+      "grouping": "Agrupación analítica por hora de solicitud y restaurante; no es un ID de pedido exportado."
+    },
+    {
+      "request_local_original": "2026-08-22T17:19:42.000Z",
+      "restaurant": "KFC (Tulancingo)",
+      "rows": 1,
+      "delivery_local_original": "2026-08-22T18:05:42.000Z",
+      "status": "completed",
+      "source_path": "/home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Eats/user_orders-0.csv",
+      "locators": [
+        {
+          "csv_record_index_1based": 20,
+          "csv_line_1based": 21,
+          "csv_end_line_1based": 21
+        }
+      ],
+      "grouping": "Agrupación analítica por hora de solicitud y restaurante; no es un ID de pedido exportado."
+    },
+    {
+      "request_local_original": "2026-08-23T17:56:45.000Z",
+      "restaurant": "Subway (Matamoros)",
+      "rows": 1,
+      "delivery_local_original": "2026-08-23T18:50:19.000Z",
+      "status": "completed",
+      "source_path": "/home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Eats/user_orders-0.csv",
+      "locators": [
+        {
+          "csv_record_index_1based": 19,
+          "csv_line_1based": 20,
+          "csv_end_line_1based": 20
+        }
+      ],
+      "grouping": "Agrupación analítica por hora de solicitud y restaurante; no es un ID de pedido exportado."
+    },
+    {
+      "request_local_original": "2026-08-28T18:19:58.000Z",
+      "restaurant": "Carl's Jr Tulancingo",
+      "rows": 1,
+      "delivery_local_original": "2026-08-28T19:00:13.000Z",
+      "status": "completed",
+      "source_path": "/home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Eats/user_orders-0.csv",
+      "locators": [
+        {
+          "csv_record_index_1based": 18,
+          "csv_line_1based": 19,
+          "csv_end_line_1based": 19
+        }
+      ],
+      "grouping": "Agrupación analítica por hora de solicitud y restaurante; no es un ID de pedido exportado."
+    },
+    {
+      "request_local_original": "2026-09-02T12:39:45.000Z",
+      "restaurant": "Little Caesars (Tulancingo)",
+      "rows": 2,
+      "delivery_local_original": "2026-09-02T13:23:22.000Z",
+      "status": "completed",
+      "source_path": "/home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Eats/user_orders-0.csv",
+      "locators": [
+        {
+          "csv_record_index_1based": 16,
+          "csv_line_1based": 17,
+          "csv_end_line_1based": 17
+        },
+        {
+          "csv_record_index_1based": 17,
+          "csv_line_1based": 18,
+          "csv_end_line_1based": 18
+        }
+      ],
+      "grouping": "Agrupación analítica por hora de solicitud y restaurante; no es un ID de pedido exportado."
+    },
+    {
+      "request_local_original": "2026-09-05T11:40:24.000Z",
+      "restaurant": "Little Caesars (Tulancingo)",
+      "rows": 2,
+      "delivery_local_original": "2026-09-05T12:43:52.000Z",
+      "status": "completed",
+      "source_path": "/home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Eats/user_orders-0.csv",
+      "locators": [
+        {
+          "csv_record_index_1based": 14,
+          "csv_line_1based": 15,
+          "csv_end_line_1based": 15
+        },
+        {
+          "csv_record_index_1based": 15,
+          "csv_line_1based": 16,
+          "csv_end_line_1based": 16
+        }
+      ],
+      "grouping": "Agrupación analítica por hora de solicitud y restaurante; no es un ID de pedido exportado."
+    },
+    {
+      "request_local_original": "2026-09-13T16:14:45.000Z",
+      "restaurant": "Little Caesars (Tulancingo)",
+      "rows": 3,
+      "delivery_local_original": "2026-09-13T17:20:14.000Z",
+      "status": "completed",
+      "source_path": "/home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Eats/user_orders-0.csv",
+      "locators": [
+        {
+          "csv_record_index_1based": 11,
+          "csv_line_1based": 12,
+          "csv_end_line_1based": 12
+        },
+        {
+          "csv_record_index_1based": 12,
+          "csv_line_1based": 13,
+          "csv_end_line_1based": 13
+        },
+        {
+          "csv_record_index_1based": 13,
+          "csv_line_1based": 14,
+          "csv_end_line_1based": 14
+        }
+      ],
+      "grouping": "Agrupación analítica por hora de solicitud y restaurante; no es un ID de pedido exportado."
+    },
+    {
+      "request_local_original": "2026-09-14T13:36:22.000Z",
+      "restaurant": "KFC (Tulancingo)",
+      "rows": 1,
+      "delivery_local_original": "2026-09-14T15:10:32.000Z",
+      "status": "completed",
+      "source_path": "/home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Eats/user_orders-0.csv",
+      "locators": [
+        {
+          "csv_record_index_1based": 10,
+          "csv_line_1based": 11,
+          "csv_end_line_1based": 11
+        }
+      ],
+      "grouping": "Agrupación analítica por hora de solicitud y restaurante; no es un ID de pedido exportado."
+    },
+    {
+      "request_local_original": "2026-09-14T15:26:05.000Z",
+      "restaurant": "KFC (Tulancingo)",
+      "rows": 1,
+      "delivery_local_original": "2026-09-14T16:03:38.000Z",
+      "status": "completed",
+      "source_path": "/home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Eats/user_orders-0.csv",
+      "locators": [
+        {
+          "csv_record_index_1based": 9,
+          "csv_line_1based": 10,
+          "csv_end_line_1based": 10
+        }
+      ],
+      "grouping": "Agrupación analítica por hora de solicitud y restaurante; no es un ID de pedido exportado."
+    },
+    {
+      "request_local_original": "2026-09-18T19:19:35.000Z",
+      "restaurant": "Little Caesars (Tulancingo)",
+      "rows": 1,
+      "delivery_local_original": "2026-09-18T20:56:34.000Z",
+      "status": "completed",
+      "source_path": "/home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Eats/user_orders-0.csv",
+      "locators": [
+        {
+          "csv_record_index_1based": 8,
+          "csv_line_1based": 9,
+          "csv_end_line_1based": 9
+        }
+      ],
+      "grouping": "Agrupación analítica por hora de solicitud y restaurante; no es un ID de pedido exportado."
+    },
+    {
+      "request_local_original": "2026-09-18T19:24:11.000Z",
+      "restaurant": "Santa Clara (Centro, Tulancingo de Bravo)",
+      "rows": 1,
+      "delivery_local_original": "2026-09-18T20:56:34.000Z",
+      "status": "completed",
+      "source_path": "/home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Eats/user_orders-0.csv",
+      "locators": [
+        {
+          "csv_record_index_1based": 7,
+          "csv_line_1based": 8,
+          "csv_end_line_1based": 8
+        }
+      ],
+      "grouping": "Agrupación analítica por hora de solicitud y restaurante; no es un ID de pedido exportado."
+    },
+    {
+      "request_local_original": "2026-09-21T12:50:08.000Z",
+      "restaurant": "Little Caesars (Tulancingo)",
+      "rows": 2,
+      "delivery_local_original": "2026-09-21T13:50:14.000Z",
+      "status": "completed",
+      "source_path": "/home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Eats/user_orders-0.csv",
+      "locators": [
+        {
+          "csv_record_index_1based": 5,
+          "csv_line_1based": 6,
+          "csv_end_line_1based": 6
+        },
+        {
+          "csv_record_index_1based": 6,
+          "csv_line_1based": 7,
+          "csv_end_line_1based": 7
+        }
+      ],
+      "grouping": "Agrupación analítica por hora de solicitud y restaurante; no es un ID de pedido exportado."
+    },
+    {
+      "request_local_original": "2026-09-24T16:56:31.000Z",
+      "restaurant": "Little Caesars (Tulancingo)",
+      "rows": 2,
+      "delivery_local_original": "2026-09-24T18:04:54.000Z",
+      "status": "completed",
+      "source_path": "/home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Eats/user_orders-0.csv",
+      "locators": [
+        {
+          "csv_record_index_1based": 3,
+          "csv_line_1based": 4,
+          "csv_end_line_1based": 4
+        },
+        {
+          "csv_record_index_1based": 4,
+          "csv_line_1based": 5,
+          "csv_end_line_1based": 5
+        }
+      ],
+      "grouping": "Agrupación analítica por hora de solicitud y restaurante; no es un ID de pedido exportado."
+    },
+    {
+      "request_local_original": "2026-09-26T13:54:34.000Z",
+      "restaurant": "Little Caesars (Tulancingo)",
+      "rows": 2,
+      "delivery_local_original": "2026-09-26T15:15:46.000Z",
+      "status": "completed",
+      "source_path": "/home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Eats/user_orders-0.csv",
+      "locators": [
+        {
+          "csv_record_index_1based": 1,
+          "csv_line_1based": 2,
+          "csv_end_line_1based": 2
+        },
+        {
+          "csv_record_index_1based": 2,
+          "csv_line_1based": 3,
+          "csv_end_line_1based": 3
+        }
+      ],
+      "grouping": "Agrupación analítica por hora de solicitud y restaurante; no es un ID de pedido exportado."
+    }
+  ],
+  "september_18_security_records": [
+    {
+      "id": "E062145",
+      "family": "Uber",
+      "channel": "Métodos de pago",
+      "kind": "borrado registrado",
+      "time_utc": "2026-09-18T11:50:32.000000+00:00",
+      "time_local": "2026-09-18T05:50:32.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "2026-09-18T11:50:32.000Z",
+      "source_code": "S499",
+      "source_path": "/home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Account and Profile/payment_methods-0.csv",
+      "locator": {
+        "csv_record_index_1based": 6,
+        "csv_line_1based": 7,
+        "csv_end_line_1based": 7
+      },
+      "identifiers": {
+        "profile_type": "BANK_CARD"
+      },
+      "subject": "Uber · método de pago · BANK_CARD · VISA · BANCO AZTECA S.A. INSTITUCION DE BANCA MULTIPLE",
+      "url": null,
+      "timezone_basis": "Deleted At se usa solo cuando contiene una zona explícita. El inventario no indica fechas de alta."
+    },
+    {
+      "id": "E062880",
+      "family": "Uber",
+      "channel": "Soporte",
+      "kind": "registro de soporte",
+      "time_utc": "2026-09-18T12:10:32.000000+00:00",
+      "time_local": "2026-09-18T06:10:32.000000-06:00",
+      "time_precision": "milisegundo",
+      "date_original": "2026-09-18T12:10:32.000Z",
+      "source_code": "S497",
+      "source_path": "/home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Account and Profile/customer_support_tickets-0.csv",
+      "locator": {
+        "csv_record_index_1based": 8,
+        "csv_line_1based": 9,
+        "csv_end_line_1based": 9
+      },
+      "identifiers": {
+        "creator_field": "User"
+      },
+      "subject": "Uber · Creator=User · Uso la app Uber para conducir o hacer entregas  : false      I use Uber as a User  : false      Uso Uber Freight  : false      Otro  : false      Quiero una copia de mis datos  : true      Quiero corregir mis datos  : false      Quiero recurrir una decisión sobre una solicitud sobre privacidad anterior  : false      Tengo otras preguntas sobre mis datos  : false      Quiero contactar con el responsable de la protección de datos de Uber  : false      (Obligatorio) Proporciona más detalles sobre el motivo por el que contactas con el equipo de Uber.  : Creo que mi cuenta fue clonada y me llegan solicitudes de acceso",
+      "url": null,
+      "timezone_basis": "Date tiene sufijo Z explícito. Creator se conserva como campo, sin corregir o inferir el remitente."
+    },
+    {
+      "id": "E062904",
+      "family": "Uber",
+      "channel": "Soporte",
+      "kind": "registro de soporte",
+      "time_utc": "2026-09-18T12:42:14.000000+00:00",
+      "time_local": "2026-09-18T06:42:14.000000-06:00",
+      "time_precision": "milisegundo",
+      "date_original": "2026-09-18T12:42:14.000Z",
+      "source_code": "S497",
+      "source_path": "/home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Account and Profile/customer_support_tickets-0.csv",
+      "locator": {
+        "csv_record_index_1based": 9,
+        "csv_line_1based": 10,
+        "csv_end_line_1based": 10
+      },
+      "identifiers": {
+        "creator_field": "Uber"
+      },
+      "subject": "Uber · Creator=Uber · Traducido por IA            Hola, Eduardo‍.    Gracias por ponerte en contacto sobre este tema. Sé que puede ser preocupante, permíteme ayudarte.    A veces recibirás un código de verificación destinado a proteger tu cuenta. Sin embargo, si no actualizaste la información de tu cuenta ni intentaste iniciar sesión desde un dispositivo nuevo antes de recibir el código de verificación, no introduzcas el código en la app.    Como medida de seguridad, la contraseña de tu cuenta se ha restablecido. Para acceder de nuevo a tu cuenta,   deberás crear una contraseña nueva y única  . Con la nueva contraseña, podrás seguir usando tu cuenta de forma segura. Te recomendamos comprobar que tus credenciales de acceso sean únicas en diferentes sitios web.    También puedes considerar activar la verificación en dos pasos. Para ello, sigue estos pasos: * Pulsa en   Cuenta   * Pulsa en   Gestionar cuenta de Uber   * Pulsa en   Seguridad   o en “  Iniciar revisión  ” para completar la revisión de tu cuenta.    Si tienes problemas para restablecer tu contraseña, no dudes en contactarnos.",
+      "url": null,
+      "timezone_basis": "Date tiene sufijo Z explícito. Creator se conserva como campo, sin corregir o inferir el remitente."
+    }
+  ],
+  "limits": [
+    "Sin ID común entre eventos Facebook/Google y filas Analytics de Uber.",
+    "Google Analytics de Mi actividad no equivale a un panel administrado por el usuario.",
+    "Pedidos Local con sufijo Z tienen conflicto de codificación; zona México interpretada y marcada como hipótesis.",
+    "Campos Time y Signup Date sin zona permanecen fuera de la cronología confirmada.",
+    "Dos Device ID de Rider con el mismo modelo no acreditan dos teléfonos o clonación.",
+    "No hay eventos Rider exportados para la noche del 20/21.",
+    "CUSTOM no describe por sí solo una acción concreta.",
+    "La respuesta de soporte afirma un restablecimiento de contraseña; no identifica accesos maliciosos, responsables o malware."
+  ],
+  "user_clarification": {
+    "recorded_on": "2026-10-01",
+    "context": "Aclaración sobre la interpretación del reporte histórico a soporte de Uber",
+    "user_statement": "no no lo clonaron simplemente no entendia",
+    "current_interpretation": "El usuario aclara que no hubo clonación de la cuenta y que su consulta reflejaba que no entendía los datos. El mensaje histórico a soporte se conserva como lo que se escribió entonces, junto a esta aclaración posterior.",
+    "scope": "Cuenta y registros Uber; no se usa para reescribir los archivos originales ni atribuir acciones a otras personas."
+  }
+}

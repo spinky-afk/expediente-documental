@@ -1,0 +1,13 @@
+evidencia/investigacion/datos/actividad-cronologica.json filter=lfs diff=lfs merge=lfs -text
+evidencia/investigacion/historial-cruzado.html filter=lfs diff=lfs merge=lfs -text
+evidencia/investigacion/historial-cruzado.pdf filter=lfs diff=lfs merge=lfs -text
+evidencia/investigacion/privado/actividad-observaciones-originales.json filter=lfs diff=lfs merge=lfs -text
+evidencia/originales/mail/Todo[[:space:]]el[[:space:]]correo,[[:space:]]con[[:space:]]Spam[[:space:]]y[[:space:]]Papelera[[:space:]]incluidos.mbox filter=lfs diff=lfs merge=lfs -text
+sitio/cronologia.html filter=lfs diff=lfs merge=lfs -text
+sitio/datos/actividad-cronologica.json filter=lfs diff=lfs merge=lfs -text
+sitio/historial-cruzado.pdf filter=lfs diff=lfs merge=lfs -text
+sitio/investigacion/datos/actividad-cronologica.json filter=lfs diff=lfs merge=lfs -text
+sitio/investigacion/historial-cruzado.html filter=lfs diff=lfs merge=lfs -text
+sitio/investigacion/historial-cruzado.pdf filter=lfs diff=lfs merge=lfs -text
+sitio/investigacion/privado/actividad-observaciones-originales.json filter=lfs diff=lfs merge=lfs -text
+sitio/originales/mail/Todo[[:space:]]el[[:space:]]correo,[[:space:]]con[[:space:]]Spam[[:space:]]y[[:space:]]Papelera[[:space:]]incluidos.mbox filter=lfs diff=lfs merge=lfs -text

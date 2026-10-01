@@ -1,0 +1,105 @@
+{
+  "google_play_player": {
+    "source": {
+      "code": "S488",
+      "path": "/home/deep-logic/Documentos/Registro/Takeout/Servicios de juego de Google Play/Global/Player.html",
+      "family": "Google",
+      "sha256": "56f97bf2d32dc332986facb94294d758a4568b348e3cee3bba6f4ede53302b06",
+      "bytes": 1029,
+      "records": 2
+    },
+    "text": "Información del reproductor\nInformación general del reproductor\nCampoValor\nPlayer profile visibility is set to\nPrivado\nID de jugador\nFamousSmile6745\nSe está usando el ID de jugador predeterminado\nsí\nSe estableció el ID de jugador de forma explícita\nsí\nPlayer profile was created on\n2026-09-21T11:17:55Z\nÚltimo juego que se jugó\nJuegoJugado por última vezRegión\nWords of Wonders: Crucigrama\n2026-09-21T11:17:57Z\nundefined",
+    "profile_created_local": "2026-09-21T05:17:55-06:00",
+    "gamer_id": "FamousSmile6745",
+    "last_game": "Words of Wonders: Crucigrama"
+  },
+  "google_play_playtime": {
+    "source": {
+      "code": "S489",
+      "path": "/home/deep-logic/Documentos/Registro/Takeout/Servicios de juego de Google Play/Global/Playtime.html",
+      "family": "Google",
+      "sha256": "67e8cd31a6c70e417fe687d523880f24c2d99d25abb06b86651457fff684a76d",
+      "bytes": 839,
+      "records": 2
+    },
+    "text": "Playtime\nGame Playtime Data\nDaily Playtime\nFechaPlaytime Details\n21 sept 2026\nPackage NameDuraciónFirst Session StartLast Session EndNumber of Sessions\ncom.fugo.wow\n10 segundos\n21 de septiembre de 2026 a las 11:17:44 a.m. UTC\n21 de septiembre de 2026 a las 11:18:05 a.m. UTC\n0",
+    "reported_duration_seconds": 10,
+    "reported_sessions": 0,
+    "first_session_local": "2026-09-21T05:17:44-06:00",
+    "last_session_local": "2026-09-21T05:18:05-06:00"
+  },
+  "saved_game_files": [
+    {
+      "source": {
+        "code": "anexo sin fecha",
+        "path": "/home/deep-logic/Documentos/Registro/Takeout/Servicios de juego de Google Play/Google Games/Words of Wonders_ Crucigrama/Saved Games/ALF.FugoID/Data.bin",
+        "sha256": "170c0b6219c343c7f3302e495c4586562420e2b7df27179672e293d48965e389",
+        "bytes": 36
+      },
+      "saved_game_name": "ALF.FugoID",
+      "data": "68e37eae-1772-314e-cab7-da2fb85ba162"
+    },
+    {
+      "source": {
+        "code": "anexo sin fecha",
+        "path": "/home/deep-logic/Documentos/Registro/Takeout/Servicios de juego de Google Play/Google Games/Words of Wonders_ Crucigrama/Saved Games/com.fugo.wow.cloudData/Data.bin",
+        "sha256": "6ba7495924847996992e249d69709be91d2b4a08e2a76f19e9256bd261832700",
+        "bytes": 350
+      },
+      "saved_game_name": "com.fugo.wow.cloudData",
+      "data": {
+        "ALF.UserProperties": "{\"active_store\":\"playstore\",\"device_tier\":\"2\",\"user_group\":\"15\",\"af_id\":\"1789989480631-2171291410808407956\",\"installation_id\":\"cbohL8LqSV6YXSqzsnlZ-Y\"}",
+        "ALF.SessionCount": 1,
+        "ALF.ActiveDayCount": 1,
+        "ALF.LastUserDay": 0,
+        "ALF.FirstOpen": "09/21/2026 11:17:59",
+        "ALF.Group": 15,
+        "ALFPD.CloudSave/LocalDataVersion": 0,
+        "ALF.UserProperties_decoded": {
+          "active_store": "playstore",
+          "device_tier": "2",
+          "user_group": "15",
+          "af_id": "1789989480631-2171291410808407956",
+          "installation_id": "cbohL8LqSV6YXSqzsnlZ-Y"
+        }
+      }
+    }
+  ],
+  "facebook_three_score_entries": {
+    "source": {
+      "code": "S387",
+      "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/facebook_gaming/your_latest_instant_game_scores.html",
+      "family": "Facebook",
+      "sha256": "ae2314c2cc2c7a6bff438e5a8899dc06f4bdefae80f10ea47510796502b4d66d",
+      "bytes": 16040,
+      "records": 0
+    },
+    "games": [
+      "Chess Club",
+      "Club de Pool: Billar 8 bolas",
+      "8 Ball Pool"
+    ]
+  },
+  "facebook_instant_games": {
+    "source": {
+      "code": "S380",
+      "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/facebook_gaming/instant_games.html",
+      "family": "Facebook",
+      "sha256": "52edc6a6d68adf6a97680245c1800b33277fbcecf6b2d25859c3c6b566872127",
+      "bytes": 36839,
+      "records": 9
+    },
+    "games": [
+      "Club de Pool: Billar 8 bolas",
+      "8 Ball Pool",
+      "Pool City - 8 Ball",
+      "Dominó Batalla: Juego clásico",
+      "Super Spider Solitaire",
+      "Domino",
+      "Chess Club",
+      "Domino Cybergame",
+      "OMG"
+    ]
+  },
+  "interpretation": "Dos archivos guardados pertenecen al mismo juego com.fugo.wow. La lista de tres puntuaciones de Facebook no es el catálogo completo: instant_games.html contiene nueve nombres. No se recuperó evidencia técnica que establezca que un juego infectó dispositivos."
+}

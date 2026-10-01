@@ -1,0 +1,4067 @@
+[
+  {
+    "code": "S001",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Aplicaciones de Gemini/MiActividad.html",
+    "family": "Google",
+    "sha256": "fd57e12bfe814c74955cc8566f5db711999b25df02ea4a15d23c7d18657be3af",
+    "bytes": 171486,
+    "records": 11
+  },
+  {
+    "code": "S002",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Ayuda/MiActividad.html",
+    "family": "Google",
+    "sha256": "db5c0e59003f68750e23690780c769e29eede7e3d54b08c184c5193514e19d86",
+    "bytes": 1228169,
+    "records": 814
+  },
+  {
+    "code": "S003",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Ayuda de Google/MiActividad.html",
+    "family": "Google",
+    "sha256": "9829fe38369bcd4396d4f315d4da81ae29db3d5de58c3e6d4088ef7c31cd53a1",
+    "bytes": 145336,
+    "records": 3
+  },
+  {
+    "code": "S004",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Búsqueda/MiActividad.html",
+    "family": "Google",
+    "sha256": "32c36ffc2742ba5c873784cf597e9a1ac56b518caf948df35b92c316792a5cbc",
+    "bytes": 1132089,
+    "records": 874
+  },
+  {
+    "code": "S005",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Búsqueda de imágenes/MiActividad.html",
+    "family": "Google",
+    "sha256": "9d618e18e3c8c8240ea9df3e5d14cd31a0d9210f8d7be13c0ff089b0e74e0666",
+    "bytes": 198464,
+    "records": 50
+  },
+  {
+    "code": "S006",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Búsqueda de vídeos/MiActividad.html",
+    "family": "Google",
+    "sha256": "539cd6e6f08deb96d4a768b41c29197a33a89d46807e7f504d2e6df3de871dad",
+    "bytes": 146444,
+    "records": 4
+  },
+  {
+    "code": "S007",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Chat/MiActividad.html",
+    "family": "Google",
+    "sha256": "dea4374c56e52a38dcaf36973f25faab2a507d049e8242bd835de93e789ca304",
+    "bytes": 157129,
+    "records": 16
+  },
+  {
+    "code": "S008",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Chrome/MiActividad.html",
+    "family": "Google",
+    "sha256": "5052f54fdd5cb57d369b1fe1f246a82735e22f404470256644223cd697023bb2",
+    "bytes": 532082,
+    "records": 359
+  },
+  {
+    "code": "S009",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Discover/MiActividad.html",
+    "family": "Google",
+    "sha256": "ac3214d2bd6e26faa4050e8910cc741eaf3cc33ec02205522ea84d140659aa0a",
+    "bytes": 302521,
+    "records": 151
+  },
+  {
+    "code": "S010",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Drive/MiActividad.html",
+    "family": "Google",
+    "sha256": "1b9da4efa816b1145a7415bf48de4f0ec817c1920658a64369ebd6303e80c42c",
+    "bytes": 196740,
+    "records": 53
+  },
+  {
+    "code": "S011",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Gmail/MiActividad.html",
+    "family": "Google",
+    "sha256": "eb87de8eb76427c1aa26a71267cdc12cae0a09df3f17d1faa4925f41c185ff03",
+    "bytes": 422686,
+    "records": 290
+  },
+  {
+    "code": "S012",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Google Analytics/MiActividad.html",
+    "family": "Google",
+    "sha256": "a2c33c0032ea02f1b0d42f560949bc9e63400aa3c6bb29a0ebb41478bf064747",
+    "bytes": 1087779,
+    "records": 866
+  },
+  {
+    "code": "S013",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Google Lens/MiActividad.html",
+    "family": "Google",
+    "sha256": "94bdb0fb6f17bdf1b63c44dcc0c03b24b47211f53881bcd500222482d52cb21a",
+    "bytes": 155267,
+    "records": 14
+  },
+  {
+    "code": "S014",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Google News/MiActividad.html",
+    "family": "Google",
+    "sha256": "0ac35667fff60a4dddecc30b2a33e4a22e260eeecb32d72252dfa3e742397b80",
+    "bytes": 209391,
+    "records": 66
+  },
+  {
+    "code": "S015",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Google Play Películas/MiActividad.html",
+    "family": "Google",
+    "sha256": "0148adf6fca2e3b37f97f8da0856799a6724376610636d62b3ea81fbd13e5637",
+    "bytes": 145764,
+    "records": 4
+  },
+  {
+    "code": "S016",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Google Play Store/MiActividad.html",
+    "family": "Google",
+    "sha256": "a8cbb598783753a6bb1aa2f1f8decd6cc46dbadf08dcac1f0d195d164b3457a9",
+    "bytes": 8778863,
+    "records": 8603
+  },
+  {
+    "code": "S017",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Google Store/MiActividad.html",
+    "family": "Google",
+    "sha256": "fef7b99ea1501d49cc31cafce39c84e5c052df59403d06463ef6e40abf2cc67f",
+    "bytes": 166712,
+    "records": 25
+  },
+  {
+    "code": "S018",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Google Pay/MiActividad.html",
+    "family": "Google",
+    "sha256": "b195cb0339dc3af3d17d7beceff6416b58cc2686692c947629eb93761e081dd8",
+    "bytes": 149122,
+    "records": 8
+  },
+  {
+    "code": "S019",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Maps/MiActividad.html",
+    "family": "Google",
+    "sha256": "452fdfbb3f8afaec63ec6a66efa43852fa6b0b0ea3da1251b27640da0856fc32",
+    "bytes": 186253,
+    "records": 42
+  },
+  {
+    "code": "S020",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Mi centro de anuncios/MiActividad.html",
+    "family": "Google",
+    "sha256": "102143491d2079a01f401703f1dc4ca697f23a581b8bcc162be95e68f81c2373",
+    "bytes": 223020,
+    "records": 130
+  },
+  {
+    "code": "S021",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Modo IA/MiActividad.html",
+    "family": "Google",
+    "sha256": "9abb168353000a0d2d56dbb5d0484fcffcca6454097fe683eb7a04895fc23b19",
+    "bytes": 397160,
+    "records": 16
+  },
+  {
+    "code": "S022",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Perfil de Empresa en Google/MiActividad.html",
+    "family": "Google",
+    "sha256": "a37cfec12d620bf0d71e606b86ba56cfaabb2be19eea2f154e4c763758e603bc",
+    "bytes": 142758,
+    "records": 1
+  },
+  {
+    "code": "S023",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Programadores/MiActividad.html",
+    "family": "Google",
+    "sha256": "3d38a84570f16d2ddb26a0563bf9ddd5cb905adc5887cee864f55aa950634906",
+    "bytes": 157782,
+    "records": 15
+  },
+  {
+    "code": "S024",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Publicidad/MiActividad.html",
+    "family": "Google",
+    "sha256": "6e0e118db108af513065b658e44a04c33842ea3a952e3f02611bc017ec076dd1",
+    "bytes": 2593674,
+    "records": 2168
+  },
+  {
+    "code": "S025",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Takeout/MiActividad.html",
+    "family": "Google",
+    "sha256": "4f61d23149c85d45cdc56da0229518e929c6a975e6e104cf270a779fa03064a1",
+    "bytes": 212535,
+    "records": 88
+  },
+  {
+    "code": "S026",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Traductor de Google/MiActividad.html",
+    "family": "Google",
+    "sha256": "1cd2e09e382caedfb44b8c5f4ec5b7857ee9d0e4c01175466db4d86b6973013a",
+    "bytes": 142944,
+    "records": 1
+  },
+  {
+    "code": "S027",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/YouTube/MiActividad.html",
+    "family": "Google",
+    "sha256": "38d8057958ff1185ccfc6ce08683749dc440cea2bb4d2d9daa9762c574b4be12",
+    "bytes": 3780817,
+    "records": 3696
+  },
+  {
+    "code": "S028",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Chrome/Historial.json",
+    "family": "Google",
+    "sha256": "b919cb5217d871480ef9dd3b76ce093f60e028cc14cc756b57a404dafac3b38f",
+    "bytes": 1192672,
+    "records": 1182
+  },
+  {
+    "code": "S029",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/App de Home/ApplicationPermissions.json",
+    "family": "Google",
+    "sha256": "a1742f1e1a7b8b0588727b781d81075c3e3261991dfdf33eef018b11de733d4d",
+    "bytes": 74,
+    "records": 0
+  },
+  {
+    "code": "S030",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/App de Home/Automations.json",
+    "family": "Google",
+    "sha256": "7f4ec41fb8cb5fcff679e673a315688a1abe324ad70271b674f31feffb08a4ff",
+    "bytes": 46,
+    "records": 0
+  },
+  {
+    "code": "S031",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/App de Home/GoogleNestConnect.json",
+    "family": "Google",
+    "sha256": "8734a4047d581a3277ff93164e4b8df5aa6557180c281990a0b3d9513f41eca0",
+    "bytes": 54,
+    "records": 0
+  },
+  {
+    "code": "S032",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/App de Home/GoogleNestPartnerConnections.json",
+    "family": "Google",
+    "sha256": "5188689334fab9f413e8a31365ffa39ebc3afd6a0ec3df207e75a06bbaaf3095",
+    "bytes": 66,
+    "records": 0
+  },
+  {
+    "code": "S033",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/App de Home/HomeApp.json",
+    "family": "Google",
+    "sha256": "8e88ae0bff979a142e989131c3f901e9734b93d76d0a2d455855004471890022",
+    "bytes": 43,
+    "records": 0
+  },
+  {
+    "code": "S034",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/App de Home/HomeHistory.json",
+    "family": "Google",
+    "sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+    "bytes": 2,
+    "records": 0
+  },
+  {
+    "code": "S035",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/App de Home/SecurityAlarmClips.json",
+    "family": "Google",
+    "sha256": "aef023b9de0e311aa4f8c1f2dd73821cb68e592a9ae79eedc860845dc86659a3",
+    "bytes": 55,
+    "records": 0
+  },
+  {
+    "code": "S036",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/App de Home/SoundSensing.json",
+    "family": "Google",
+    "sha256": "556abad90f1b14cee24b76fd3e3d023e10d82254365f4811176079ae75438b3b",
+    "bytes": 46,
+    "records": 0
+  },
+  {
+    "code": "S037",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Calendario/meet_settings.json",
+    "family": "Google",
+    "sha256": "cd08888cee585ff014efebd1aeb29f62334a2c7e05a72efee6f1fa02e770651e",
+    "bytes": 524,
+    "records": 0
+  },
+  {
+    "code": "S038",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Encuestas sobre productos de Google/HaTS_Surveys_16d7iFfLKrJUcJCkaH7ipz.json",
+    "family": "Google",
+    "sha256": "0e506089bc93a3f349f8ecc61c861a486fc2243e8bd5ffff30ff063d5df52069",
+    "bytes": 209,
+    "records": 1
+  },
+  {
+    "code": "S039",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Encuestas sobre productos de Google/HaTS_Surveys_2DWcXbRmsF9QtYaogGkzQj.json",
+    "family": "Google",
+    "sha256": "5d0456ef962c611cea6e8f193e68ef5168dff1737999d3828669698648f6f680",
+    "bytes": 223,
+    "records": 1
+  },
+  {
+    "code": "S040",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Encuestas sobre productos de Google/HaTS_Surveys_3KKx4isY7aEWS98MBCywq2.json",
+    "family": "Google",
+    "sha256": "9c76ef5fec4514d4b45efd42c270600a0bbefb55d29ddb9c5e5e4643739ae902",
+    "bytes": 223,
+    "records": 1
+  },
+  {
+    "code": "S041",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Encuestas sobre productos de Google/HaTS_Surveys_NSBff7qfcW1TRVCqfV83CE.json",
+    "family": "Google",
+    "sha256": "34c23d6149fa6c1f96ba439708f0308a54882b8dbfe6f4e97164b2237ba86423",
+    "bytes": 182,
+    "records": 1
+  },
+  {
+    "code": "S042",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Encuestas sobre productos de Google/HaTS_Surveys_SsENhPt7nJLUCy7jyhpsfG.json",
+    "family": "Google",
+    "sha256": "934b230baee97299bcee1635370505b727199df3853b9469bbdc52ce0938f05b",
+    "bytes": 223,
+    "records": 1
+  },
+  {
+    "code": "S043",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Encuestas sobre productos de Google/HaTS_Surveys_axwm5Kf5u82ToHD4CPjHdN.json",
+    "family": "Google",
+    "sha256": "b096fe47726c1299e06c8202eabfd51097f080763b0dbd295b8e755a65e40067",
+    "bytes": 223,
+    "records": 1
+  },
+  {
+    "code": "S044",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Google Developers/Badge Data.json",
+    "family": "Google",
+    "sha256": "819dfa83a1439e2c977b4c216ebe3df728508a26de266c231fdc5deeef3389a5",
+    "bytes": 574,
+    "records": 1
+  },
+  {
+    "code": "S045",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Google Developers/Content Data.json",
+    "family": "Google",
+    "sha256": "bb911da46c476935964947f8f99d5c1728c3be9c6bba9ce2b2a7885ec4969430",
+    "bytes": 167,
+    "records": 0
+  },
+  {
+    "code": "S046",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Google Developers/Profile Data.json",
+    "family": "Google",
+    "sha256": "8a4feb780b695f885ab5259c1da4ce526eefc3575d225841832c18cc9d034f2a",
+    "bytes": 181,
+    "records": 1
+  },
+  {
+    "code": "S047",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Google Developers/Profile Interests.json",
+    "family": "Google",
+    "sha256": "8a052d5ef8b978be21e7fb577adc847eb581acab7634167601f07c66232d5333",
+    "bytes": 457,
+    "records": 0
+  },
+  {
+    "code": "S048",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Google Developers/Profile Program Groups.json",
+    "family": "Google",
+    "sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+    "bytes": 2,
+    "records": 0
+  },
+  {
+    "code": "S049",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Google Finance/User State/User State.json",
+    "family": "Google",
+    "sha256": "6e8c7b10c1c40936c7de2e95d19a7433976ea7813a27c1bc441f69dbd3cff054",
+    "bytes": 281,
+    "records": 0
+  },
+  {
+    "code": "S050",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Google Finance/Watchlists/Watchlist.json",
+    "family": "Google",
+    "sha256": "cdef6e8d82567d0e2458d17dd06f7a52037190fd59c43d896892bfc2085f666b",
+    "bytes": 43,
+    "records": 0
+  },
+  {
+    "code": "S051",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Google Meet/MeetingSettingsContainer/meeting_settings.json",
+    "family": "Google",
+    "sha256": "be21f2d30d306e4d474a31c4f8fce0edb21ab4660118387d6fd60a5753d47df4",
+    "bytes": 572,
+    "records": 0
+  },
+  {
+    "code": "S052",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Google Play Películas/Calificaciones.json",
+    "family": "Google",
+    "sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+    "bytes": 2,
+    "records": 0
+  },
+  {
+    "code": "S053",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Google Play Películas/Lista para ver.json",
+    "family": "Google",
+    "sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+    "bytes": 2,
+    "records": 0
+  },
+  {
+    "code": "S054",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Google Play Películas/Preferencias de las notificaciones.json",
+    "family": "Google",
+    "sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+    "bytes": 2,
+    "records": 0
+  },
+  {
+    "code": "S055",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Google Play Películas/Servicios de transmisión.json",
+    "family": "Google",
+    "sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+    "bytes": 2,
+    "records": 0
+  },
+  {
+    "code": "S056",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Google Play Películas/Servicios vinculados.json",
+    "family": "Google",
+    "sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+    "bytes": 2,
+    "records": 0
+  },
+  {
+    "code": "S057",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Google Play Store/Devices.json",
+    "family": "Google",
+    "sha256": "28dab6832e6975a723c35a0e59e039a09c10e4952c04c14898e467b589be38f8",
+    "bytes": 8414,
+    "records": 33
+  },
+  {
+    "code": "S058",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Google Play Store/Installs.json",
+    "family": "Google",
+    "sha256": "1931f6979b6e9a9dc43d1cdf7d981f936c4c4f29f302a5b1ef8b91096a0567cd",
+    "bytes": 191974,
+    "records": 980
+  },
+  {
+    "code": "S059",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Google Play Store/Library.json",
+    "family": "Google",
+    "sha256": "7b50cfdc920208422604b5540769877610b8e6afbb268a524416faeb456ceb98",
+    "bytes": 4441,
+    "records": 26
+  },
+  {
+    "code": "S060",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Google Play Store/Order History.json",
+    "family": "Google",
+    "sha256": "989a7ff6786272561a25574ab27a50975aa15d91fd88b3a9eb777665f16fe74b",
+    "bytes": 3107,
+    "records": 3
+  },
+  {
+    "code": "S061",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Google Play Store/Play Settings.json",
+    "family": "Google",
+    "sha256": "4fb0d6a32d15ae06f4c9cdfe625a74340011d4da5789d77c7de975816bc96c4d",
+    "bytes": 739,
+    "records": 0
+  },
+  {
+    "code": "S062",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Google Play Store/Purchase History.json",
+    "family": "Google",
+    "sha256": "7658e1cc4ace88e00afaf29587be23b5b10c2e13b2cc05a96f837bd3d36723b0",
+    "bytes": 7230,
+    "records": 27
+  },
+  {
+    "code": "S063",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Google Play Store/Subscriptions.json",
+    "family": "Google",
+    "sha256": "647067ddf882507a8767ef3af6e9550d04f451a2501c8e9db1f78134311ee247",
+    "bytes": 1196,
+    "records": 4
+  },
+  {
+    "code": "S064",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Google Store/Purchases.json",
+    "family": "Google",
+    "sha256": "8eb95bcbc154530931e15fc418c8b1fe991095671409552099ea1aa596999ede",
+    "bytes": 3,
+    "records": 0
+  },
+  {
+    "code": "S065",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Google Store/Returns and Repairs.json",
+    "family": "Google",
+    "sha256": "8eb95bcbc154530931e15fc418c8b1fe991095671409552099ea1aa596999ede",
+    "bytes": 3,
+    "records": 0
+  },
+  {
+    "code": "S066",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Keep/16-02_.json",
+    "family": "Google",
+    "sha256": "bcaed57082bd93a8716bcfb8a7bd29e6657228d9389b0bdb3e8c2c6b368329ca",
+    "bytes": 1952,
+    "records": 2
+  },
+  {
+    "code": "S067",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Keep/17-02.json",
+    "family": "Google",
+    "sha256": "a4f6347edbca9a653e62f140085e1444ee54cfc685e75a6af112a5b68d2571bf",
+    "bytes": 1897,
+    "records": 2
+  },
+  {
+    "code": "S068",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Maps/Configuración de vehículos eléctricos/Configuración de vehículos eléctricos.json",
+    "family": "Google",
+    "sha256": "37627d68d0b073d9bbc0336c4a5d865f2664e91cb9b7e026264ff932aae02021",
+    "bytes": 37,
+    "records": 0
+  },
+  {
+    "code": "S069",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Maps/Perfiles de vehículos/Perfiles de vehículos.json",
+    "family": "Google",
+    "sha256": "ba93c33398c2e866ecf39112697328b5a41ada8220f6c3040eb007d1dd104d00",
+    "bytes": 28,
+    "records": 0
+  },
+  {
+    "code": "S070",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Maps/Platos, productos y actividades que se agregaron/Platos, productos y actividades que se agregaron.json",
+    "family": "Google",
+    "sha256": "c83c101528fdb2480aef7ccbe2df5a03aca4e75639740b67ca2a3f9097fa9fe9",
+    "bytes": 25,
+    "records": 0
+  },
+  {
+    "code": "S071",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Maps/Preguntas y respuestas/Preguntas y respuestas.json",
+    "family": "Google",
+    "sha256": "7b3ecf16898e553b69bf2663969c5ae46f6c3caa52fd863caecb1c93000cb903",
+    "bytes": 75,
+    "records": 0
+  },
+  {
+    "code": "S072",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Maps/Solicitudes de servicios/Solicitudes de servicios.json",
+    "family": "Google",
+    "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+    "bytes": 1,
+    "records": 0,
+    "parse_note": "JSON vacío o no válido; sin registros cronológicos extraídos"
+  },
+  {
+    "code": "S073",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/NotebookLM/ metadata.json",
+    "family": "Google",
+    "sha256": "e543d53a060da6c68d07d62e0c21704bee67bbad3cfbba839e9848d41007a641",
+    "bytes": 173,
+    "records": 2
+  },
+  {
+    "code": "S074",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/NotebookLM/(1)/ metadata.json",
+    "family": "Google",
+    "sha256": "92d1701647e8c87bd71a8317f3d75f5290fc8e22c6fa5dadc78e755fc70c7fa1",
+    "bytes": 173,
+    "records": 2
+  },
+  {
+    "code": "S075",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Perfil/Perfil.json",
+    "family": "Google",
+    "sha256": "87977268ece5c2f4c6396530e20b99390a3e48df329c9594ed1473aa27b07ed8",
+    "bytes": 320,
+    "records": 0
+  },
+  {
+    "code": "S076",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Perfil de Negocio de Google/account-118064871121168977834/data.json",
+    "family": "Google",
+    "sha256": "0579a0f0a5cf9caa4242dff9ceeaf3af8ec86be1286bf7c8ba0a512b0b505d50",
+    "bytes": 112,
+    "records": 0
+  },
+  {
+    "code": "S077",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Perfil de Negocio de Google/businessPersonalization.json",
+    "family": "Google",
+    "sha256": "8eb95bcbc154530931e15fc418c8b1fe991095671409552099ea1aa596999ede",
+    "bytes": 3,
+    "records": 0
+  },
+  {
+    "code": "S078",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Rutas/Settings.json",
+    "family": "Google",
+    "sha256": "a343b77c923dbd40f6b12a4042d788e949a3c36e8348d611917b1bec09711377",
+    "bytes": 8098,
+    "records": 31
+  },
+  {
+    "code": "S079",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Search Contributions/Proveedores de video en streaming.json",
+    "family": "Google",
+    "sha256": "77aa025ac3c0b8af5442a2c2bf2bab7665eafee895d8784c8b77ba154848e707",
+    "bytes": 129,
+    "records": 2
+  },
+  {
+    "code": "S080",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Tareas/Tasks.json",
+    "family": "Google",
+    "sha256": "c583e88ec628c60aee91b2e0d3f4b8280a7eae941c722b1a5005faf208f3b403",
+    "bytes": 1438,
+    "records": 7
+  },
+  {
+    "code": "S081",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Gemini en Workspace/Conversation History/conversation_1789110882.txt",
+    "family": "Google",
+    "sha256": "9ca4ae3da84bc857427f1b020c56ca810a868f5899ea22d4f29035018248b7b6",
+    "bytes": 1511,
+    "records": 4
+  },
+  {
+    "code": "S082",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Gemini en Workspace/Conversation History/conversation_1789153704.txt",
+    "family": "Google",
+    "sha256": "628b1d48cc2969292747d765d6a7ee4159b1ea0ec821df9174f47efc31e34119",
+    "bytes": 2266,
+    "records": 4
+  },
+  {
+    "code": "S083",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Gemini en Workspace/Conversation History/conversation_1789934534.txt",
+    "family": "Google",
+    "sha256": "37fef85cd2e7a456af370a5ff6e83aa95081b476b7dcf106284e35f05c377363",
+    "bytes": 918,
+    "records": 4
+  },
+  {
+    "code": "S084",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Actividad del registro de acceso/Dispositivos_ Una lista de los dispositivos (p. ej., Nest, Pixel, iPhone, Galaxy, etc.) que accedieron a tu Cuenta de Google durante los últimos 270 días.csv",
+    "family": "Google",
+    "sha256": "45f02fa26351ba41134240c1ec925a254983336f9a15013551f0e153901738d7",
+    "bytes": 5705,
+    "records": 54
+  },
+  {
+    "code": "S085",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Descubre/Configuración de la sección No me interesa.csv",
+    "family": "Google",
+    "sha256": "09556358679f4c6eaa626e008b092a2c0257a692f0ad6a7fcf7d1eda4891cdfb",
+    "bytes": 60,
+    "records": 0
+  },
+  {
+    "code": "S086",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Descubre/El contenido que te gustó.csv",
+    "family": "Google",
+    "sha256": "1a471f1c0f72a5cd594515efa1d2e5bc33afea55fc69807fd9316aeb162ec046",
+    "bytes": 47,
+    "records": 0
+  },
+  {
+    "code": "S087",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Descubre/Lo que sigues.csv",
+    "family": "Google",
+    "sha256": "b8a1bc887ce1a93b90f95c6258db9256b388534cdf6dec89886cc9f6c4534e33",
+    "bytes": 16,
+    "records": 0
+  },
+  {
+    "code": "S088",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Google Meet/ConferenceHistory/conference_history_records.csv",
+    "family": "Google",
+    "sha256": "00ce2bbfdbf4104f95303a0b6a7e9d43b9069915f4db668957a4bdc2b3f7c447",
+    "bytes": 2442,
+    "records": 12
+  },
+  {
+    "code": "S089",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Google Meet/ConferenceHistory/conference_history_retention.csv",
+    "family": "Google",
+    "sha256": "5ed57a2c17e60cb9ec4a0c0cc506c7c51b625c59292f556a77f2e9129ff169d0",
+    "bytes": 28,
+    "records": 0
+  },
+  {
+    "code": "S090",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Google Pay/Envíos y solicitudes de dinero/Envíos y solicitudes de dinero.csv",
+    "family": "Google",
+    "sha256": "f3837aae9a21576df8cf6394b48b0af9d91a6e9af503f1dce960a584c2ca74d6",
+    "bytes": 73,
+    "records": 0
+  },
+  {
+    "code": "S091",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Google Pay/Transacciones con Google/transactions_584030341298.csv",
+    "family": "Google",
+    "sha256": "3d394129df0e96437002bf5e139184a507bae99a0cb2b65b6a0ea9992c4479f8",
+    "bytes": 393,
+    "records": 2
+  },
+  {
+    "code": "S092",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Google Shopping/Merchant Reviews/Merchant Reviews.csv",
+    "family": "Google",
+    "sha256": "c7a066e0a19003727b5e0952f9b0dc07774d92875e740cb4c4e17256805d6793",
+    "bytes": 57,
+    "records": 0
+  },
+  {
+    "code": "S093",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Google Shopping/Product Reviews/Product Reviews.csv",
+    "family": "Google",
+    "sha256": "afb6b8ecfebc782f9bdda71756996f0a3517caad2efd9b97698a43ef6938820a",
+    "bytes": 65,
+    "records": 0
+  },
+  {
+    "code": "S094",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Guardado/Guardadas para después.csv",
+    "family": "Google",
+    "sha256": "59c9114533d69e6128473fafddb46b716a0db2d7b8497951a8f25cc19ee92ec7",
+    "bytes": 312,
+    "records": 0
+  },
+  {
+    "code": "S095",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Guardado/Imágenes.csv",
+    "family": "Google",
+    "sha256": "1f897d992bd369f4e947c9dd893f142181c38a27b2187b100ced8d5f08aa96a5",
+    "bytes": 223,
+    "records": 0
+  },
+  {
+    "code": "S096",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Maps/Los lugares locales que sigues/Los lugares locales que sigues.csv",
+    "family": "Google",
+    "sha256": "3fbbcfe2f8658f940a1360ffcae25d84583e6580e3b487cb82f8c8021dd350df",
+    "bytes": 21,
+    "records": 0
+  },
+  {
+    "code": "S097",
+    "path": "/home/deep-logic/Documentos/facebook/ads_information/ad_preferences.html",
+    "family": "Facebook",
+    "sha256": "d5f22e9bbf2690f1cd0014581ae3e8cdd47db4d650ba83133ef910fe3325d9a6",
+    "bytes": 27527,
+    "records": 1
+  },
+  {
+    "code": "S098",
+    "path": "/home/deep-logic/Documentos/facebook/ads_information/ads_about_meta.html",
+    "family": "Facebook",
+    "sha256": "220e0d0d42ff73809e7b19d63d8a72abc0f3945bfde8519202ce3dcb6eefa3e3",
+    "bytes": 12532,
+    "records": 0
+  },
+  {
+    "code": "S099",
+    "path": "/home/deep-logic/Documentos/facebook/ads_information/ads_viewed.html",
+    "family": "Facebook",
+    "sha256": "e1a2851acd12dc3e5c45c893f4d700a0cc8afe2209a1465a60244af8d3e82220",
+    "bytes": 32935,
+    "records": 0
+  },
+  {
+    "code": "S100",
+    "path": "/home/deep-logic/Documentos/facebook/ads_information/advertisers_using_your_activity_or_information.html",
+    "family": "Facebook",
+    "sha256": "3e18ac3eb4fe1dcc82ac1a925ac48372546124b7bbab40a7b51c06047c79c3d1",
+    "bytes": 203266,
+    "records": 0
+  },
+  {
+    "code": "S101",
+    "path": "/home/deep-logic/Documentos/facebook/ads_information/advertisers_you've_interacted_with.html",
+    "family": "Facebook",
+    "sha256": "39ac8a02ade5493a21d24fd80a8aca253a56075285715650b6bb04280f2fa707",
+    "bytes": 65295,
+    "records": 50
+  },
+  {
+    "code": "S102",
+    "path": "/home/deep-logic/Documentos/facebook/ads_information/apps_detected_from_your_activity.html",
+    "family": "Facebook",
+    "sha256": "b4105a9cd5be599ed0129c93b271ac19f22ada34abf49daba90894f54f64f356",
+    "bytes": 13274,
+    "records": 3
+  },
+  {
+    "code": "S103",
+    "path": "/home/deep-logic/Documentos/facebook/ads_information/messenger_threads_you_started_by_clicking_on_an_ad.html",
+    "family": "Facebook",
+    "sha256": "245d54d0a351c4d08013c41b4a810fedf31928acf9fd87d758d4bf793d23e9b8",
+    "bytes": 14288,
+    "records": 0
+  },
+  {
+    "code": "S104",
+    "path": "/home/deep-logic/Documentos/facebook/ads_information/other_categories_used_to_reach_you.html",
+    "family": "Facebook",
+    "sha256": "1d6673b95335fe5675a1867dade584e1dacc59b70f26430d539c870ef6c8df88",
+    "bytes": 15898,
+    "records": 0
+  },
+  {
+    "code": "S105",
+    "path": "/home/deep-logic/Documentos/facebook/ads_information/settings_for_ads_shown_outside_of_meta.html",
+    "family": "Facebook",
+    "sha256": "75b625855e2211dd0b52e42b578a79234f57d6ef127865e9ee4984f1e83451d1",
+    "bytes": 12573,
+    "records": 0
+  },
+  {
+    "code": "S106",
+    "path": "/home/deep-logic/Documentos/facebook/ads_information/story_views_in_past_7_days.html",
+    "family": "Facebook",
+    "sha256": "86da3f142d00ed1f0d6c995c1057b44c54fc9338608ed2bc93dafa98eac80440",
+    "bytes": 12512,
+    "records": 0
+  },
+  {
+    "code": "S107",
+    "path": "/home/deep-logic/Documentos/facebook/ads_information/your_sampled_locations.html",
+    "family": "Facebook",
+    "sha256": "9a0eb04110276d1b1d156d21dfbc96f9d9233c9b702c3a0f00cbb3fd787af109",
+    "bytes": 13259,
+    "records": 2
+  },
+  {
+    "code": "S108",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/connected_apps_and_websites.html",
+    "family": "Facebook",
+    "sha256": "e18f721601f716c0ee88b28a3701f63500968b83664b040e2adaa0e980d8cafd",
+    "bytes": 17099,
+    "records": 0
+  },
+  {
+    "code": "S109",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/0.html",
+    "family": "Facebook",
+    "sha256": "94b8b27c4ae1b4b86b15369a3f4523be69944b7f36cc75925f65b2b76c9ae9e9",
+    "bytes": 18569,
+    "records": 9
+  },
+  {
+    "code": "S110",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/1.html",
+    "family": "Facebook",
+    "sha256": "ccd852374c0890617309e67d14ba80aae59354632b4eab064f1eccd765858049",
+    "bytes": 15943,
+    "records": 2
+  },
+  {
+    "code": "S111",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/10.html",
+    "family": "Facebook",
+    "sha256": "0f60578536b2ecc759badb68244b26f0f3d2f14d54ff99f701604d6ac2ae64cd",
+    "bytes": 15578,
+    "records": 1
+  },
+  {
+    "code": "S112",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/11.html",
+    "family": "Facebook",
+    "sha256": "a3c29498c879d90914771f79e54b405f53d45e04c9b5f5080524f0969037b502",
+    "bytes": 15579,
+    "records": 1
+  },
+  {
+    "code": "S113",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/12.html",
+    "family": "Facebook",
+    "sha256": "05f1fdb7ef419f77d60bb6151a2f47a03ea2d539b688f65a459d774de2e23105",
+    "bytes": 15599,
+    "records": 1
+  },
+  {
+    "code": "S114",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/13.html",
+    "family": "Facebook",
+    "sha256": "aa8bbbd3802c12a8f1528aa272fe62a79efcf78d211f1cbe58e4f8e6e82e5fe4",
+    "bytes": 15575,
+    "records": 1
+  },
+  {
+    "code": "S115",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/14.html",
+    "family": "Facebook",
+    "sha256": "d0b3ff5271445e6fcd73176d0ceba29c08ad8e5d2749eb4ed7c4738014efe9b2",
+    "bytes": 15594,
+    "records": 1
+  },
+  {
+    "code": "S116",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/15.html",
+    "family": "Facebook",
+    "sha256": "7adc089f699f58ffe0df466708c293b2dbfb795eacd976fc4c1c7a3446f0172f",
+    "bytes": 15593,
+    "records": 1
+  },
+  {
+    "code": "S117",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/16.html",
+    "family": "Facebook",
+    "sha256": "098d629b88985ff1a3ba25b43a37cc0a53d666285c8300db3a3fa2fcd727c532",
+    "bytes": 15601,
+    "records": 1
+  },
+  {
+    "code": "S118",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/17.html",
+    "family": "Facebook",
+    "sha256": "b97115fcaf0e5948be76fe35aae7365699e5ada932e5012e9b0b6c86e7351662",
+    "bytes": 15945,
+    "records": 2
+  },
+  {
+    "code": "S119",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/18.html",
+    "family": "Facebook",
+    "sha256": "4898ea01899335eb70a8a1e1c10897b645d479ae3ec1666a6df8a52a125acc1a",
+    "bytes": 15579,
+    "records": 1
+  },
+  {
+    "code": "S120",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/19.html",
+    "family": "Facebook",
+    "sha256": "0148b58b005f5d221a423c09a56a7f339192773787691e9340ff9b4da6e4f474",
+    "bytes": 15572,
+    "records": 1
+  },
+  {
+    "code": "S121",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/2.html",
+    "family": "Facebook",
+    "sha256": "57c682f7e723d7e25bce546b4dd5cd864bfe645b88480377f33895777f83258f",
+    "bytes": 18933,
+    "records": 10
+  },
+  {
+    "code": "S122",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/20.html",
+    "family": "Facebook",
+    "sha256": "68e4773783dd5375c271d6517c6ae0722defd2ba7dc6952538d08867fd8b7f65",
+    "bytes": 15581,
+    "records": 1
+  },
+  {
+    "code": "S123",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/21.html",
+    "family": "Facebook",
+    "sha256": "b0c686b81a08a7b68c2415c1cafcc075de4f12edbad784b41c8fd4fd1cb75502",
+    "bytes": 15577,
+    "records": 1
+  },
+  {
+    "code": "S124",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/22.html",
+    "family": "Facebook",
+    "sha256": "c232ad8b29ade90c2f1df9e9dc0f2de4accee04d7d88e22c1d087dfe514bcad0",
+    "bytes": 15954,
+    "records": 2
+  },
+  {
+    "code": "S125",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/23.html",
+    "family": "Facebook",
+    "sha256": "72a067a843fa51af2e6c3717733829f23c7e6c4a29b7c5d526ea65bf952986be",
+    "bytes": 15586,
+    "records": 1
+  },
+  {
+    "code": "S126",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/24.html",
+    "family": "Facebook",
+    "sha256": "960e94a4e260e29677aee113855c37a0291a76b6fe846cbfe227272344923614",
+    "bytes": 15587,
+    "records": 1
+  },
+  {
+    "code": "S127",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/25.html",
+    "family": "Facebook",
+    "sha256": "f4bbc4521e7130558ba1102aa4337c6d262b57fc3f9680a7f1bc88bfb7b23ab7",
+    "bytes": 15942,
+    "records": 2
+  },
+  {
+    "code": "S128",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/26.html",
+    "family": "Facebook",
+    "sha256": "b3b4af0503c9f555741447ddd3dca8bd7c08b307dbeb9e858d84fb0c3f92ab5a",
+    "bytes": 15587,
+    "records": 1
+  },
+  {
+    "code": "S129",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/27.html",
+    "family": "Facebook",
+    "sha256": "5b56302a3a9b638c06639aeb3f8c064935bd9063dd2e6c6a36da127132756ca0",
+    "bytes": 15579,
+    "records": 1
+  },
+  {
+    "code": "S130",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/28.html",
+    "family": "Facebook",
+    "sha256": "3676fa766665f1c0ad297a7a0297b2b8fcf1e43f980af6ed1048885587ed3f37",
+    "bytes": 15577,
+    "records": 1
+  },
+  {
+    "code": "S131",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/29.html",
+    "family": "Facebook",
+    "sha256": "76d961c35c2b2a5e246a4d4561340051b50eac2aa4179c035a77c5b624eab283",
+    "bytes": 15577,
+    "records": 1
+  },
+  {
+    "code": "S132",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/3.html",
+    "family": "Facebook",
+    "sha256": "431549df3a13c6f51e4bba1209aa90374e2f1fe7ef99cf7e0d5f8ad796c08909",
+    "bytes": 19645,
+    "records": 12
+  },
+  {
+    "code": "S133",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/30.html",
+    "family": "Facebook",
+    "sha256": "bea95fcaae638cf81ccca2e16161f1074e2d26c385ea9ede45d8014c3c6713fa",
+    "bytes": 15575,
+    "records": 1
+  },
+  {
+    "code": "S134",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/31.html",
+    "family": "Facebook",
+    "sha256": "56f3e35fe3f200a4541815235c969e9cb268c52a5fa5ef95fc7734a7a025165f",
+    "bytes": 21111,
+    "records": 16
+  },
+  {
+    "code": "S135",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/32.html",
+    "family": "Facebook",
+    "sha256": "ce07006491d7f1755755f36b0ca5df7ebed7021898607ee4b2a5e2a552d7fb8a",
+    "bytes": 15947,
+    "records": 2
+  },
+  {
+    "code": "S136",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/33.html",
+    "family": "Facebook",
+    "sha256": "c56f48631107976dc6a49dba5079996a287f4bb0dd4f40a8ee483db1a2613e75",
+    "bytes": 17432,
+    "records": 6
+  },
+  {
+    "code": "S137",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/34.html",
+    "family": "Facebook",
+    "sha256": "e28999902440222d11927c6c9e4a3355f376ecf20c2caf1fa6f5f338a6eaa8ec",
+    "bytes": 15586,
+    "records": 1
+  },
+  {
+    "code": "S138",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/35.html",
+    "family": "Facebook",
+    "sha256": "3dbf716d20c5d7deb81cdefd53ee22c487377bc7ac88107ca56507c270882ea2",
+    "bytes": 18886,
+    "records": 10
+  },
+  {
+    "code": "S139",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/36.html",
+    "family": "Facebook",
+    "sha256": "b785e091f333f955acf3f83875e4323cad3d5add7b125d640d452b89b7570e21",
+    "bytes": 16315,
+    "records": 3
+  },
+  {
+    "code": "S140",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/37.html",
+    "family": "Facebook",
+    "sha256": "a9b02f2d5d16c525e4f4c5094d8cf6de0e7e52219f14db531afe091e68d03fbc",
+    "bytes": 21833,
+    "records": 18
+  },
+  {
+    "code": "S141",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/38.html",
+    "family": "Facebook",
+    "sha256": "ea8b4255b421ff0f1632e1705655abe4670a63311402a1c62c78fab435b9c9fa",
+    "bytes": 15945,
+    "records": 2
+  },
+  {
+    "code": "S142",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/39.html",
+    "family": "Facebook",
+    "sha256": "6b229e40c1fd19145aafefcb7a7b60414a04eed964a25f41ac1e8cbd4f8e1141",
+    "bytes": 15575,
+    "records": 1
+  },
+  {
+    "code": "S143",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/4.html",
+    "family": "Facebook",
+    "sha256": "58a10baaa2c4c2efcbd73830fba753175bfe1b8ffe1a1dac4b111a0b3f07905f",
+    "bytes": 15574,
+    "records": 1
+  },
+  {
+    "code": "S144",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/40.html",
+    "family": "Facebook",
+    "sha256": "21d71f547986d309df4061d38e260fc7c39402bafa6b37bc9d2e36db3916690f",
+    "bytes": 15939,
+    "records": 2
+  },
+  {
+    "code": "S145",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/41.html",
+    "family": "Facebook",
+    "sha256": "c9642b5475e4cbe27a2cf33f0ed6b12c6e0bb52f8e021dd865852a3912cb46b3",
+    "bytes": 15584,
+    "records": 1
+  },
+  {
+    "code": "S146",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/42.html",
+    "family": "Facebook",
+    "sha256": "73b8355e11d4ecf89c57627c1af9fbf5d28d51179040050d2ecf01bbcb124af2",
+    "bytes": 17772,
+    "records": 7
+  },
+  {
+    "code": "S147",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/43.html",
+    "family": "Facebook",
+    "sha256": "6fedb578cb607657876b463db68b491383c25ce7f0b38856342a7a3607f56561",
+    "bytes": 34733,
+    "records": 53
+  },
+  {
+    "code": "S148",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/44.html",
+    "family": "Facebook",
+    "sha256": "9c6bcfe477bf9039131929b12675dde4797a4241b0531f9adf989b5de41de316",
+    "bytes": 15572,
+    "records": 1
+  },
+  {
+    "code": "S149",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/45.html",
+    "family": "Facebook",
+    "sha256": "21c060d9d68b887d00190068eb2f9fd403c33ed259eed18169e644b683987aa8",
+    "bytes": 17053,
+    "records": 5
+  },
+  {
+    "code": "S150",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/46.html",
+    "family": "Facebook",
+    "sha256": "2016e4c92e039d66b78ae592607d2ff09f02b2137f5ea11d003d2d5a4c7c9c76",
+    "bytes": 15579,
+    "records": 1
+  },
+  {
+    "code": "S151",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/47.html",
+    "family": "Facebook",
+    "sha256": "2056d2328c30a4e5b2259e8f92812b19033d1da3fc26425f250e5ed84b5a5175",
+    "bytes": 15575,
+    "records": 1
+  },
+  {
+    "code": "S152",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/48.html",
+    "family": "Facebook",
+    "sha256": "5375e122b30166f8854ab226af55193f3acafb0613ba734cb4f49ef5c9a0d556",
+    "bytes": 16316,
+    "records": 3
+  },
+  {
+    "code": "S153",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/49.html",
+    "family": "Facebook",
+    "sha256": "f1f9b459044d0a51789310b6e3de7fb79785c830a292390eb4acb01e22658947",
+    "bytes": 15577,
+    "records": 1
+  },
+  {
+    "code": "S154",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/5.html",
+    "family": "Facebook",
+    "sha256": "bc21b99f0a511f0fcd5c8f62ddb2db18a4e3cb95a4bf39121baf99a13c2a3a39",
+    "bytes": 15603,
+    "records": 1
+  },
+  {
+    "code": "S155",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/50.html",
+    "family": "Facebook",
+    "sha256": "3673499d9d6879f2fc28676f223770992cecb2f224cc429193076a354bf7fd32",
+    "bytes": 15578,
+    "records": 1
+  },
+  {
+    "code": "S156",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/51.html",
+    "family": "Facebook",
+    "sha256": "aff77eddb96626d5d8395321629cc6b37eaf85e63dc4161324c065371435d059",
+    "bytes": 15948,
+    "records": 2
+  },
+  {
+    "code": "S157",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/52.html",
+    "family": "Facebook",
+    "sha256": "4416ecae026b00d9cc06b5dad48cc88de0d079a9af27f2ca777d641e6025895d",
+    "bytes": 15944,
+    "records": 2
+  },
+  {
+    "code": "S158",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/53.html",
+    "family": "Facebook",
+    "sha256": "2c173c5e30145c9fb35843a79df5493265676afe95a8894ca1997724ff70bb4e",
+    "bytes": 15580,
+    "records": 1
+  },
+  {
+    "code": "S159",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/54.html",
+    "family": "Facebook",
+    "sha256": "a7287ea2dadba283eedf831ef7809a40a0249e72a79b03ed18e95c17329f0f07",
+    "bytes": 15569,
+    "records": 1
+  },
+  {
+    "code": "S160",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/55.html",
+    "family": "Facebook",
+    "sha256": "7c3f7031a7096abaf286df2b237f07b30c1df904b65c5511777b1533c871e412",
+    "bytes": 16309,
+    "records": 3
+  },
+  {
+    "code": "S161",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/56.html",
+    "family": "Facebook",
+    "sha256": "7c03e18517e9133cb80b43c9eaf5a5b1b92c4dab46a4b84f2782e405b4f3a901",
+    "bytes": 16315,
+    "records": 3
+  },
+  {
+    "code": "S162",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/57.html",
+    "family": "Facebook",
+    "sha256": "184d15425b092a8f16e32a7bbcad27c4b048ecc0e1cc7f40ecf7fbfe2347f9f6",
+    "bytes": 19636,
+    "records": 12
+  },
+  {
+    "code": "S163",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/58.html",
+    "family": "Facebook",
+    "sha256": "023bc40b31e8b044b89572ae0342da20ab212696655a8ec92cd0ad27077d5b3c",
+    "bytes": 15945,
+    "records": 2
+  },
+  {
+    "code": "S164",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/59.html",
+    "family": "Facebook",
+    "sha256": "be23de8e594d56e34a2b726dcdca61e4a57635449c446b6d5f4169ef062959fd",
+    "bytes": 15950,
+    "records": 2
+  },
+  {
+    "code": "S165",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/6.html",
+    "family": "Facebook",
+    "sha256": "4c2bea482de5c801b98e166d031349151df10a5a8d11c858db0aa55d7efe27eb",
+    "bytes": 19710,
+    "records": 12
+  },
+  {
+    "code": "S166",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/60.html",
+    "family": "Facebook",
+    "sha256": "69f69bdf2229b21017ec54dc22a2ef6dace1b03163adf6ae738699e4b2faebb2",
+    "bytes": 15943,
+    "records": 2
+  },
+  {
+    "code": "S167",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/61.html",
+    "family": "Facebook",
+    "sha256": "dcac80667be1ff206d1d78b7145bfea579593954829a5ecefa21f245adcee091",
+    "bytes": 15583,
+    "records": 1
+  },
+  {
+    "code": "S168",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/62.html",
+    "family": "Facebook",
+    "sha256": "a2ac4bfecbe83cc318ab2095f20b51b48e9b8e67c50b6d608edb6aeb38d7c95e",
+    "bytes": 15947,
+    "records": 2
+  },
+  {
+    "code": "S169",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/63.html",
+    "family": "Facebook",
+    "sha256": "037bc4c63ca2a1cac0d1cd2cac2b31aa827f31b87e358d0094b2592ae646c730",
+    "bytes": 15573,
+    "records": 1
+  },
+  {
+    "code": "S170",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/64.html",
+    "family": "Facebook",
+    "sha256": "9e8a551f1f1f2533ff438aef9208975826ab34bd538a90f28b22c4535af3e26a",
+    "bytes": 15581,
+    "records": 1
+  },
+  {
+    "code": "S171",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/65.html",
+    "family": "Facebook",
+    "sha256": "e36226f9afeef7604fa2107a033bd861f9a932e5ea715e2bf7d2049df71172d1",
+    "bytes": 15576,
+    "records": 1
+  },
+  {
+    "code": "S172",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/66.html",
+    "family": "Facebook",
+    "sha256": "27c44e03dbde0ff4bfd675ca2644a137ac7fc3977dbbd5b167b04851ee7e2e6b",
+    "bytes": 15574,
+    "records": 1
+  },
+  {
+    "code": "S173",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/67.html",
+    "family": "Facebook",
+    "sha256": "39aac06700132680215623690c4d3e9f6aed35a5af282210ff4a7cc357afd2e2",
+    "bytes": 15573,
+    "records": 1
+  },
+  {
+    "code": "S174",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/68.html",
+    "family": "Facebook",
+    "sha256": "7207f2b5458f044a12f461a884696886feeb0c1e9cd36d0e18685f8558cec036",
+    "bytes": 15945,
+    "records": 2
+  },
+  {
+    "code": "S175",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/69.html",
+    "family": "Facebook",
+    "sha256": "b94ea0d8b2f2b640bf82fc3b3784705563901280a0b18cb7b444a015215edc35",
+    "bytes": 15577,
+    "records": 1
+  },
+  {
+    "code": "S176",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/7.html",
+    "family": "Facebook",
+    "sha256": "23d5b11e2d9d3c0d68a7d60bea7bbcf7b16d7ae0efbecdd7fd3392dcfb2a35f1",
+    "bytes": 15580,
+    "records": 1
+  },
+  {
+    "code": "S177",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/70.html",
+    "family": "Facebook",
+    "sha256": "bb64f84c48dfe9aad92dae261432bb7220e77b859d52f8dad4e645ee626c8a2f",
+    "bytes": 15950,
+    "records": 2
+  },
+  {
+    "code": "S178",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/71.html",
+    "family": "Facebook",
+    "sha256": "146b2ebac332bd43c6ce6bb7fb7a901a7b9ac4f978e7c10e45ec3bd42f29551a",
+    "bytes": 15578,
+    "records": 1
+  },
+  {
+    "code": "S179",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/72.html",
+    "family": "Facebook",
+    "sha256": "63a5cda310fcc092fb00bf9285c686019aab924259a0d6b5022708e2970d7c94",
+    "bytes": 15945,
+    "records": 2
+  },
+  {
+    "code": "S180",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/73.html",
+    "family": "Facebook",
+    "sha256": "2e340cffbe4d00ef9e9683ae7a32bd188fac52f5f2d5edb8f0f784dfdcb2e0f0",
+    "bytes": 17816,
+    "records": 7
+  },
+  {
+    "code": "S181",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/74.html",
+    "family": "Facebook",
+    "sha256": "6a4c0d9fe4ffb101e7d29b08f21c9e020cbad4f262ea1b2e6013c13702d39d97",
+    "bytes": 15944,
+    "records": 2
+  },
+  {
+    "code": "S182",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/75.html",
+    "family": "Facebook",
+    "sha256": "5bc610aff355fa1b51a7d4282eb65df10c94249ac6c1db3f67a545227aa132b3",
+    "bytes": 15578,
+    "records": 1
+  },
+  {
+    "code": "S183",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/76.html",
+    "family": "Facebook",
+    "sha256": "4d40acde863f45f9b139cb7b0b3c2bf55f82aaeba456b7fe65ef1967f3870864",
+    "bytes": 15577,
+    "records": 1
+  },
+  {
+    "code": "S184",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/77.html",
+    "family": "Facebook",
+    "sha256": "c99bd3c70a19ed21aedba6f1790d888a6b37130022d84ce6004a174d0af0bfc8",
+    "bytes": 15938,
+    "records": 2
+  },
+  {
+    "code": "S185",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/78.html",
+    "family": "Facebook",
+    "sha256": "db18d8e06745f113870892c0bedc0e49ee1c34c04dc325aad0b64109725a0097",
+    "bytes": 15589,
+    "records": 1
+  },
+  {
+    "code": "S186",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/79.html",
+    "family": "Facebook",
+    "sha256": "dff4e3fa2ce287838b595c1aad552a6dfd831796dad000c11fdd4681574da676",
+    "bytes": 15578,
+    "records": 1
+  },
+  {
+    "code": "S187",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/8.html",
+    "family": "Facebook",
+    "sha256": "ab884c825f243219f41b3f11437d3ba8951bf83b304fb063b63ce11c3670ab57",
+    "bytes": 15584,
+    "records": 1
+  },
+  {
+    "code": "S188",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/80.html",
+    "family": "Facebook",
+    "sha256": "0f3ae888c3654342364340781d16dd0a6d1b8d380f2b35c23fed49c4cc0c4a38",
+    "bytes": 15577,
+    "records": 1
+  },
+  {
+    "code": "S189",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/81.html",
+    "family": "Facebook",
+    "sha256": "e2af6ef1f0799ce647262a28dcdc92fa318657863fddc7cffd512302c1a347fe",
+    "bytes": 15573,
+    "records": 1
+  },
+  {
+    "code": "S190",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/82.html",
+    "family": "Facebook",
+    "sha256": "c3bea06aae9f98d456238d743ffdcf566e77da1f52fb26e228394d3a7ea6252a",
+    "bytes": 15952,
+    "records": 2
+  },
+  {
+    "code": "S191",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/83.html",
+    "family": "Facebook",
+    "sha256": "eac47874ec9bf95320cefb0ae7534ee45d0996d2defe01924435674229ab3dd0",
+    "bytes": 17468,
+    "records": 6
+  },
+  {
+    "code": "S192",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/84.html",
+    "family": "Facebook",
+    "sha256": "9bcfcf75dff4afac13f842088e2f36b7315cdac560f2b48c0168a203e01f1bd3",
+    "bytes": 15580,
+    "records": 1
+  },
+  {
+    "code": "S193",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/85.html",
+    "family": "Facebook",
+    "sha256": "7f0fcef07431554e70cb3664e6e368957b876aafe0956cc1d97724ea2f2268b4",
+    "bytes": 18200,
+    "records": 8
+  },
+  {
+    "code": "S194",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/86.html",
+    "family": "Facebook",
+    "sha256": "0bf11af304b8cb40194bf6abdc44a0d3ea1bbccf749a88e232002b4ec2077c1a",
+    "bytes": 18217,
+    "records": 8
+  },
+  {
+    "code": "S195",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/9.html",
+    "family": "Facebook",
+    "sha256": "231c514bc45ba5919bf31784459d5ccd881e91b9f2558ebf452a8eae0c255385",
+    "bytes": 16705,
+    "records": 4
+  },
+  {
+    "code": "S196",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/academiaalquimistcom_105529809654844457.html",
+    "family": "Facebook",
+    "sha256": "e9e338423dc6e7abf101c16ae0f8d4cf18b7d077d5baf8322bdc0634567ebed3",
+    "bytes": 12996,
+    "records": 1
+  },
+  {
+    "code": "S197",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/aliexpresscom_105529809654844415.html",
+    "family": "Facebook",
+    "sha256": "3cc7a622ca16fa24b8f77c9a9f16ca107aaa65fdd96d3f9fd2a1d715cac8e9d5",
+    "bytes": 14850,
+    "records": 5
+  },
+  {
+    "code": "S198",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/andreacom_105529809654844413.html",
+    "family": "Facebook",
+    "sha256": "99047a0ccd5026a48bded0b59cecd0f252102177a08ec88bc3e259fcd6bc5c67",
+    "bytes": 15316,
+    "records": 6
+  },
+  {
+    "code": "S199",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/angelicperucom_105529809654844416.html",
+    "family": "Facebook",
+    "sha256": "e45512119c45b4213ad8fb1dc17470bef90db8b94ea2080b47154a48c788ba4c",
+    "bytes": 12977,
+    "records": 1
+  },
+  {
+    "code": "S200",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/arizonaedu_105529809654844414.html",
+    "family": "Facebook",
+    "sha256": "4f584319a4625630bf2a5641e734090c9b65ca34674d3fde43dcb46151d2e814",
+    "bytes": 12965,
+    "records": 1
+  },
+  {
+    "code": "S201",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/astrocentrocom_105529809654844417.html",
+    "family": "Facebook",
+    "sha256": "e27974add54da8f6288f9c1dcd0723fd39718373e9e5c5095cb8e9d4989550b5",
+    "bytes": 13444,
+    "records": 2
+  },
+  {
+    "code": "S202",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/attcommx_105529809654844412.html",
+    "family": "Facebook",
+    "sha256": "6979a5641b28eca759b4178e453a156697868cff6ed881c7b35e0b6ce4b25b88",
+    "bytes": 13426,
+    "records": 2
+  },
+  {
+    "code": "S203",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/bancoplatamx_105529809654844433.html",
+    "family": "Facebook",
+    "sha256": "375cec3cfb9410fc2586d00933c9ccd425e5432272f7a1d8858a3f4f7a2abd8d",
+    "bytes": 13440,
+    "records": 2
+  },
+  {
+    "code": "S204",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/bancoppelcom_105529809654844413.html",
+    "family": "Facebook",
+    "sha256": "b5766e5d620623a00c86c91e6c571abeec424653a89635c466ad6d085bbe9b5c",
+    "bytes": 12971,
+    "records": 1
+  },
+  {
+    "code": "S205",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/basketballfrvrdunkshoot_105529809654844494.html",
+    "family": "Facebook",
+    "sha256": "8041460ea73875721517551f5b87f9fd8e662bb8e3a631e88e532de145c18bd0",
+    "bytes": 16319,
+    "records": 8
+  },
+  {
+    "code": "S206",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/biblegatewaycom_105529809654844416.html",
+    "family": "Facebook",
+    "sha256": "27f35d7eba89dce4e67b882209bdf658d17e84ecc50eecf09d7c5ba67e9e45b7",
+    "bytes": 13914,
+    "records": 3
+  },
+  {
+    "code": "S207",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/bibliaoncom_105529809654844416.html",
+    "family": "Facebook",
+    "sha256": "a965c9bb7fc29bffe038aab49280811e1e4ab5b0c9d8d1191a51250acd2a7a84",
+    "bytes": 12969,
+    "records": 1
+  },
+  {
+    "code": "S208",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/brazino777mx_105529809654844481.html",
+    "family": "Facebook",
+    "sha256": "bb393ddcd5f2bfb07a8cafee2c6b152110f4ef3173ee5acd4b2ebe86719fc0bd",
+    "bytes": 13910,
+    "records": 3
+  },
+  {
+    "code": "S209",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/calientemx_105529809654844415.html",
+    "family": "Facebook",
+    "sha256": "bc93d9f412c86280e7297656e9bdfe57720454028ceb444f71ff200ea3fc63e2",
+    "bytes": 17169,
+    "records": 10
+  },
+  {
+    "code": "S210",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/calientesports_105529809654844437.html",
+    "family": "Facebook",
+    "sha256": "98cd78c73b062ff92720f581b62d54b04cda37e0ff81a82a68bfc59db355d2e8",
+    "bytes": 12983,
+    "records": 1
+  },
+  {
+    "code": "S211",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/centreofexcellencecom_105529809654844416.html",
+    "family": "Facebook",
+    "sha256": "170157af69f8804974835298addd32ce165d273a602dc5ec1f17d911ee88e79b",
+    "bytes": 12999,
+    "records": 1
+  },
+  {
+    "code": "S212",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/chatgpt_105529809654844465.html",
+    "family": "Facebook",
+    "sha256": "ccffc15cfac67d3a4dc93a98a5031fecee8f60d05caa707d295d7198269e6c88",
+    "bytes": 13415,
+    "records": 2
+  },
+  {
+    "code": "S213",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/cklasscom_105529809654844414.html",
+    "family": "Facebook",
+    "sha256": "ffb18138d5adc5a939a0470a14d861a289f1427c96a14ed203d556e807910c3f",
+    "bytes": 13436,
+    "records": 2
+  },
+  {
+    "code": "S214",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/clarincom_105529809654844415.html",
+    "family": "Facebook",
+    "sha256": "2f5309ca90383a4e0a6a0c877ce40f1901a1446bf48eec4a5f87d09ed036c32d",
+    "bytes": 13429,
+    "records": 2
+  },
+  {
+    "code": "S215",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/coinlotteryfun_105529809654844496.html",
+    "family": "Facebook",
+    "sha256": "eb20cea7b1092baa9f0fa82ab717bbc769b14d828f174f97078a0a074cd2be70",
+    "bytes": 12978,
+    "records": 1
+  },
+  {
+    "code": "S216",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/colorblockcomboblast_105529809654844419.html",
+    "family": "Facebook",
+    "sha256": "949eeb119b18bd20f3865ee2f62c2dc683e8e7be6819ec70a6385665d9c4ee0a",
+    "bytes": 14412,
+    "records": 4
+  },
+  {
+    "code": "S217",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/conectagfacommx_105529809654844429.html",
+    "family": "Facebook",
+    "sha256": "741f0f1444c5faae3a83a1d3e82bccee3fc2fb77fc974a13efd8f21d2a303317",
+    "bytes": 13452,
+    "records": 2
+  },
+  {
+    "code": "S218",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/coppel_105529809654844410.html",
+    "family": "Facebook",
+    "sha256": "ccda6ce8c5354b7d19a0419ec5469f985d3540eba728aa375366f4e9fbdcc864",
+    "bytes": 15748,
+    "records": 7
+  },
+  {
+    "code": "S219",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/coppelcom_105529809654844414.html",
+    "family": "Facebook",
+    "sha256": "faae1ad9b20d73d86717ec80c1addda1f5e43d469b8d0aba9202494c7011d319",
+    "bytes": 37275,
+    "records": 53
+  },
+  {
+    "code": "S220",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/coppelcomprasenlinea_105529809654844413.html",
+    "family": "Facebook",
+    "sha256": "a0a41166c8c84281da4f44de2ce73effbfed3477ad454d21906486bdf0aa5127",
+    "bytes": 13011,
+    "records": 1
+  },
+  {
+    "code": "S221",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/deptgrowthmarketinginc_105529809654844415.html",
+    "family": "Facebook",
+    "sha256": "07715b0e9913bc5d50eba9626f8ce92b3daa72fbf0d83f3780283d1b9f558baa",
+    "bytes": 13016,
+    "records": 1
+  },
+  {
+    "code": "S222",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/differenttechnologies_105529809654844494.html",
+    "family": "Facebook",
+    "sha256": "13d903c77b96764af4d422dc44bc6a8dae23811180c7200f69d20668122c7801",
+    "bytes": 12997,
+    "records": 1
+  },
+  {
+    "code": "S223",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/disneypluscom_105529809654844417.html",
+    "family": "Facebook",
+    "sha256": "b07d8348bc038c1e1dc5cf46aec1402059201529feca9be52d5a275788d78501",
+    "bytes": 12974,
+    "records": 1
+  },
+  {
+    "code": "S224",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/dynamiccatholiccom_105529809654844418.html",
+    "family": "Facebook",
+    "sha256": "02262943af7eb9e99aed3dae7f11ac9150ea905d336472d8496017b3444dee1c",
+    "bytes": 13456,
+    "records": 2
+  },
+  {
+    "code": "S225",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/eplanningnet_105529809654844419.html",
+    "family": "Facebook",
+    "sha256": "d033b7dda355046e33cdad399c6ce7db6d5525b4ee27ce4849e5dd5fba19a8bf",
+    "bytes": 12971,
+    "records": 1
+  },
+  {
+    "code": "S226",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/eshkolone_105529809654844495.html",
+    "family": "Facebook",
+    "sha256": "bd1c57b38ce55555453ae4e73899bb4948e5964d4cfa2ae24f063488aaf5e70e",
+    "bytes": 20907,
+    "records": 18
+  },
+  {
+    "code": "S227",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/estrellablancacommx_105529809654844417.html",
+    "family": "Facebook",
+    "sha256": "679b1a5ac3597ecb74c681f03718e810a4cb2d6e829d8a218efe9ac39f2a8285",
+    "bytes": 13462,
+    "records": 2
+  },
+  {
+    "code": "S228",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/eticketmx_105529809654844415.html",
+    "family": "Facebook",
+    "sha256": "0af33f6b396d93f4c9daf223397441fbb52f636e99bc31ea8460e8dc1e9cfb17",
+    "bytes": 13899,
+    "records": 3
+  },
+  {
+    "code": "S229",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/etsycom_105529809654844415.html",
+    "family": "Facebook",
+    "sha256": "5783855015b283520faff6a23b9f3626a1c6f922a880e89dec55bf75ebf490af",
+    "bytes": 16701,
+    "records": 9
+  },
+  {
+    "code": "S230",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/ewtncom_105529809654844414.html",
+    "family": "Facebook",
+    "sha256": "d641f1bdff4aa5fe0f6fa93eed78c30eeab9a59c821e1d09274e33221f8061ba",
+    "bytes": 13892,
+    "records": 3
+  },
+  {
+    "code": "S231",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/fahorrocom_105529809654844415.html",
+    "family": "Facebook",
+    "sha256": "6d66c125d2c72f86b67b8883e6a76f7f96fb412bcdad5b3c156431e71e2f2568",
+    "bytes": 18116,
+    "records": 12
+  },
+  {
+    "code": "S232",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/freedxcom_105529809654844420.html",
+    "family": "Facebook",
+    "sha256": "cbb61aa1a5caa4a0738170eb6356eeb6c64c505297657ee1be329dc2f31e29db",
+    "bytes": 12964,
+    "records": 1
+  },
+  {
+    "code": "S233",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/gestionpe_105529809654844415.html",
+    "family": "Facebook",
+    "sha256": "041c0eec04f9fa513dde0f61feba718c38f78dd529ed1b2425fceac073243d8b",
+    "bytes": 13431,
+    "records": 2
+  },
+  {
+    "code": "S234",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/gnpcommx_105529809654844414.html",
+    "family": "Facebook",
+    "sha256": "129f6e5b6059bbffb6366ca15eab90ba5f7ddc423f6518d81a972ed53055178d",
+    "bytes": 12962,
+    "records": 1
+  },
+  {
+    "code": "S235",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/guadalupegiftscom_105529809654844412.html",
+    "family": "Facebook",
+    "sha256": "07e89f26d970af49478642fbe27c0ebc97d965a84121b0d9ca305e0dc1e4a13a",
+    "bytes": 12986,
+    "records": 1
+  },
+  {
+    "code": "S236",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/gurudeviajecom_105529809654844413.html",
+    "family": "Facebook",
+    "sha256": "22f2a581290c69f0e090b00ca689c53dcc11b79d0fb54f7f11bce0bb97488e9d",
+    "bytes": 12978,
+    "records": 1
+  },
+  {
+    "code": "S237",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/harvarddeustocom_105529809654844414.html",
+    "family": "Facebook",
+    "sha256": "6b25cbb2716c805895c229ad051e96ab3a4f91d64337806c33d25f56f4735ea4",
+    "bytes": 12988,
+    "records": 1
+  },
+  {
+    "code": "S238",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/hbomaxstreamtvmovies_105529809654844489.html",
+    "family": "Facebook",
+    "sha256": "7197f2869cc83c47470938a8b085945b214194ed93797db330908885299a1d41",
+    "bytes": 13031,
+    "records": 1
+  },
+  {
+    "code": "S239",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/impulscommx_105529809654844412.html",
+    "family": "Facebook",
+    "sha256": "e07930e6abe133ed814157ac28f9b0de9f2de46f4f11e6076e3b2b6d21cc3e9e",
+    "bytes": 12972,
+    "records": 1
+  },
+  {
+    "code": "S240",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/ipaddresscom_105529809654844416.html",
+    "family": "Facebook",
+    "sha256": "d3de6821704cce49716c72a2d8fc363ba548e29d8d73580c3a62c77bd5adbcd2",
+    "bytes": 12970,
+    "records": 1
+  },
+  {
+    "code": "S241",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/jewinthecitycom_105529809654844413.html",
+    "family": "Facebook",
+    "sha256": "22b7598251a0c6f0220f1d8b9385112425a3a4dd3020aaadf1560417962be2a0",
+    "bytes": 13447,
+    "records": 2
+  },
+  {
+    "code": "S242",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/jornadacommx_105529809654844411.html",
+    "family": "Facebook",
+    "sha256": "5754ff3f418e8dbcf2827c88939b9a7380b093d7cd91911e9b4ba93018415ad2",
+    "bytes": 12971,
+    "records": 1
+  },
+  {
+    "code": "S243",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/jscachecom_105529809654844414.html",
+    "family": "Facebook",
+    "sha256": "e892006b9d5581ed9d4c9e266a2a9bae131951f135fd834b7b16f126e8d20ef9",
+    "bytes": 13429,
+    "records": 2
+  },
+  {
+    "code": "S244",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/juegoscom_105529809654844416.html",
+    "family": "Facebook",
+    "sha256": "2130ec0e43fdf66a8f9c36e7f7727fd12985e4620df91de6ce23d3b240991c06",
+    "bytes": 12960,
+    "records": 1
+  },
+  {
+    "code": "S245",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/kapwingcom_105529809654844416.html",
+    "family": "Facebook",
+    "sha256": "6d74b193d3735b253b5c31c2d21f6567f09fc55729a340322224f0be89aa1945",
+    "bytes": 12967,
+    "records": 1
+  },
+  {
+    "code": "S246",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/krispykrememx_105529809654844414.html",
+    "family": "Facebook",
+    "sha256": "00e8e775650ac159af9fdec65a58e148226fb6b643fdcb837d314cfd592175ab",
+    "bytes": 12974,
+    "records": 1
+  },
+  {
+    "code": "S247",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/kswisscommx_105529809654844417.html",
+    "family": "Facebook",
+    "sha256": "19d608d2eb5fe43b350daadc1cbb30697e87e3671f7be9f1d4248e946a006211",
+    "bytes": 12975,
+    "records": 1
+  },
+  {
+    "code": "S248",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/lanacioncomar_105529809654844416.html",
+    "family": "Facebook",
+    "sha256": "4f25898fe3237572a211cadf959bd77d55a1d84ae3785594c655a6db402b4c23",
+    "bytes": 12977,
+    "records": 1
+  },
+  {
+    "code": "S249",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/lecturascom_105529809654844417.html",
+    "family": "Facebook",
+    "sha256": "7e53a8177cd3c4c6d65635fa4d82a4dac2418273d9513bd79045e05008ee8573",
+    "bytes": 13437,
+    "records": 2
+  },
+  {
+    "code": "S250",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/liverpoolcommx_105529809654844419.html",
+    "family": "Facebook",
+    "sha256": "285f508435a1e4177f5d1ba5c212373129e50db039914a0c2cadc0f5ffaa32ce",
+    "bytes": 12981,
+    "records": 1
+  },
+  {
+    "code": "S251",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/magictiles3tmpianogame_105529809654844414.html",
+    "family": "Facebook",
+    "sha256": "89eb57140a60ba998a61d9aafc5020890575503ced4bbda809c3b65c0d65f5e0",
+    "bytes": 13022,
+    "records": 1
+  },
+  {
+    "code": "S252",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/metlifecommx_105529809654844412.html",
+    "family": "Facebook",
+    "sha256": "8e5fa1a441bc714bff6bd0b330298b10de1474897b09083525ccce7569c7757d",
+    "bytes": 12974,
+    "records": 1
+  },
+  {
+    "code": "S253",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/naturacommx_105529809654844417.html",
+    "family": "Facebook",
+    "sha256": "93c860d094d18cab33f87dfa45da14df87c009755424c4fad7bd8b58eec17a5a",
+    "bytes": 12971,
+    "records": 1
+  },
+  {
+    "code": "S254",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/nucommx_105529809654844417.html",
+    "family": "Facebook",
+    "sha256": "d46428ac96dd452efc12c21be222517eb24fe72413dd600b1c254aada497f770",
+    "bytes": 13431,
+    "records": 2
+  },
+  {
+    "code": "S255",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/payjoy_105529809654844411.html",
+    "family": "Facebook",
+    "sha256": "c9522fb2d988fac5e515a068ba5ed70dfa510f283564596d6a713bb56275a429",
+    "bytes": 12957,
+    "records": 1
+  },
+  {
+    "code": "S256",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/pinterest_105529809654844439.html",
+    "family": "Facebook",
+    "sha256": "358f96fc6da86c9b1cb2288f77d729cebe2f55aa37c883ef91a5afef63f30371",
+    "bytes": 12960,
+    "records": 1
+  },
+  {
+    "code": "S257",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/pressreadercom_105529809654844477.html",
+    "family": "Facebook",
+    "sha256": "386c4204431e6c20b3d8b1ebadeff0d6f1e4c3e04ebb8d40acc08e45bb63cf07",
+    "bytes": 12976,
+    "records": 1
+  },
+  {
+    "code": "S258",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/psicologiaymentecom_105529809654844416.html",
+    "family": "Facebook",
+    "sha256": "aa7d44f56f0a3b7fd549526960dc3ed84af26c7bb4e84fa6a83a1e987e9ed9b3",
+    "bytes": 13460,
+    "records": 2
+  },
+  {
+    "code": "S259",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/psicologosencostaricacom_105529809654844413.html",
+    "family": "Facebook",
+    "sha256": "c3c217c15725533d3bace49e855d2af4dd3dc1658b0c2b4f6b152c0b775f681d",
+    "bytes": 13008,
+    "records": 1
+  },
+  {
+    "code": "S260",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/psmutuuscom_105529809654844482.html",
+    "family": "Facebook",
+    "sha256": "291f8e6f1153135a81c381ed20852801c1d082087dc1ac83bc4466538d72a40c",
+    "bytes": 13439,
+    "records": 2
+  },
+  {
+    "code": "S261",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/pumacom_105529809654844413.html",
+    "family": "Facebook",
+    "sha256": "5c2f4bc772a671520e22cf25f801f9e8dfd080f5f8d64a269b820ee537e2af03",
+    "bytes": 12954,
+    "records": 1
+  },
+  {
+    "code": "S262",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/quizplanet_105529809654844414.html",
+    "family": "Facebook",
+    "sha256": "1ff7b37b6e8448888bc771602b59b291db4ded96b77abb42ae9f45eca04ad8e7",
+    "bytes": 16269,
+    "records": 8
+  },
+  {
+    "code": "S263",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/rappicommx_105529809654844415.html",
+    "family": "Facebook",
+    "sha256": "f2d47b4da97a608f8957ebc16b829a430c0e86e7a0e4d9c76448e1abf23ae072",
+    "bytes": 13435,
+    "records": 2
+  },
+  {
+    "code": "S264",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/rappifooddeliverygrocery_105529809654844410.html",
+    "family": "Facebook",
+    "sha256": "5a8d79a1a3ab6c6a1cee92fcae7ab7bfde4f3bc760f526d36b273428aa08cb2f",
+    "bytes": 18194,
+    "records": 12
+  },
+  {
+    "code": "S265",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/screenreccom_105529809654844416.html",
+    "family": "Facebook",
+    "sha256": "90f4b5094139fa079bb6d49b4ef8b6e0ba2fb278a019a10ff2c7aca36c73e82e",
+    "bytes": 12973,
+    "records": 1
+  },
+  {
+    "code": "S266",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/scribdcom_105529809654844413.html",
+    "family": "Facebook",
+    "sha256": "2d3682f1aa983f17613796abcd74f47243d5f064b7f399564a10e67dbc70c7f7",
+    "bytes": 12962,
+    "records": 1
+  },
+  {
+    "code": "S267",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/sheincommx_105529809654844414.html",
+    "family": "Facebook",
+    "sha256": "708faeca4136cf01d6bd46abfc37d3e91bd35e33e5ee44a1e9301f25a1fbbac6",
+    "bytes": 13436,
+    "records": 2
+  },
+  {
+    "code": "S268",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/snapchat_105529809654844439.html",
+    "family": "Facebook",
+    "sha256": "344c1eb2815554e0e8a17bdc0d831f9d5b39d299c37cd7af244a4afda1bd5308",
+    "bytes": 12953,
+    "records": 1
+  },
+  {
+    "code": "S269",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/spiritualityhealthcom_105529809654844413.html",
+    "family": "Facebook",
+    "sha256": "db17d8f0081cc30a419177984332b5d45d7068855a4f72bb41cf8757357b6c86",
+    "bytes": 12999,
+    "records": 1
+  },
+  {
+    "code": "S270",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/stakemx_105529809654844419.html",
+    "family": "Facebook",
+    "sha256": "e093f9c49a42e2392e947a9892434fc87689777b17f03c4e5a02945ae2cabf3e",
+    "bytes": 12957,
+    "records": 1
+  },
+  {
+    "code": "S271",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/starmakersingkaraokesongs_105529809654844459.html",
+    "family": "Facebook",
+    "sha256": "3bb5699a6892e594288681a84eb19dde45c28ab11dfcb230c746f9351186395d",
+    "bytes": 15842,
+    "records": 7
+  },
+  {
+    "code": "S272",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/tiktoklitesavedatafast_105529809654844423.html",
+    "family": "Facebook",
+    "sha256": "099096aeb88b0cb1ff000af06c022bc315da05ffd2e740109acd57dc79396331",
+    "bytes": 15391,
+    "records": 6
+  },
+  {
+    "code": "S273",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/tiktokvideosshoplive_105529809654844469.html",
+    "family": "Facebook",
+    "sha256": "4bf49f74424822628951563283db027a304805f0deeb47cd7f8fa7ca8c807b61",
+    "bytes": 13030,
+    "records": 1
+  },
+  {
+    "code": "S274",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/tiktokvideosshoplive_105529809654844470.html",
+    "family": "Facebook",
+    "sha256": "2f22f08390ff3aed8d573ddb8d111282a9cafae3cf75a22ae3b82eb640dc211e",
+    "bytes": 18152,
+    "records": 12
+  },
+  {
+    "code": "S275",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/ubereatscom_105529809654844418.html",
+    "family": "Facebook",
+    "sha256": "4d393981fa8e43fb17ffce951ef0d125a2ef1afdfcaf1a91f93c60fd548bf1ec",
+    "bytes": 12968,
+    "records": 1
+  },
+  {
+    "code": "S276",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/ubereatsfoodandgrocery_105529809654844411.html",
+    "family": "Facebook",
+    "sha256": "20076a51dcfa79b143cf15232f6687e5fb9227d019c330d05ff069d3dbacc107",
+    "bytes": 17217,
+    "records": 10
+  },
+  {
+    "code": "S277",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/uberrequestaride_105529809654844472.html",
+    "family": "Facebook",
+    "sha256": "0d296cdce5094beeded5e05e19f9f359ac8af9d761b0a751b293a86ec59ca5d0",
+    "bytes": 12991,
+    "records": 1
+  },
+  {
+    "code": "S278",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/ultimate8ballpool_105529809654844469.html",
+    "family": "Facebook",
+    "sha256": "5f0c5dada5f4a54675044caa6073fb5221801e5d1520eb6889965407676bfff5",
+    "bytes": 20005,
+    "records": 16
+  },
+  {
+    "code": "S279",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/understoodorg_105529809654844416.html",
+    "family": "Facebook",
+    "sha256": "87d648346e43201356a883f5bde8a7703ee93008103614cec60064b3af35c1e8",
+    "bytes": 12975,
+    "records": 1
+  },
+  {
+    "code": "S280",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/vibrantcrestcom_105529809654844495.html",
+    "family": "Facebook",
+    "sha256": "8e3c5ca72cc6c21f4b2319f59cafb09489712e0a9d684a13a7a6494bf29bfe1f",
+    "bytes": 12981,
+    "records": 1
+  },
+  {
+    "code": "S281",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/winnermx_105529809654844416.html",
+    "family": "Facebook",
+    "sha256": "4e0f6e300d7797d46813121750be78ddd35a0665af866dc36aeec91a30fe8029",
+    "bytes": 12961,
+    "records": 1
+  },
+  {
+    "code": "S282",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/xavieredu_105529809654844415.html",
+    "family": "Facebook",
+    "sha256": "8ab98145caf03e96ac13917ca99535d6bfcc1480edca06f369317b356c1481b2",
+    "bytes": 13431,
+    "records": 2
+  },
+  {
+    "code": "S283",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies.html",
+    "family": "Facebook",
+    "sha256": "06cf7e64d8cc67eb11eff5b455e21ed5016a1c600aacb25bf50f834a27888536",
+    "bytes": 32052,
+    "records": 0
+  },
+  {
+    "code": "S284",
+    "path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies_settings.html",
+    "family": "Facebook",
+    "sha256": "ce794b6d8d2464aa270de3f5c319eeb767829c5b2c17602b1064fb22f8e43a5a",
+    "bytes": 13127,
+    "records": 1
+  },
+  {
+    "code": "S285",
+    "path": "/home/deep-logic/Documentos/facebook/connections/followers/who_you've_followed.html",
+    "family": "Facebook",
+    "sha256": "4d3f72d6b71c7a20346ea5252e741d3aa587473d4c1e7180ca4b13d57132f2f9",
+    "bytes": 18576,
+    "records": 29
+  },
+  {
+    "code": "S286",
+    "path": "/home/deep-logic/Documentos/facebook/connections/friends/people_you_may_know.html",
+    "family": "Facebook",
+    "sha256": "61cba2891a3164ac7a95db057cadb4c78d4451cd287c24e9f8c2d6561c1a54d3",
+    "bytes": 31273,
+    "records": 1
+  },
+  {
+    "code": "S287",
+    "path": "/home/deep-logic/Documentos/facebook/connections/friends/received_friend_requests.html",
+    "family": "Facebook",
+    "sha256": "ff13d5e6644e6d104a5710c08ba67d6887c1ab42684dad9ffdaed21538914d2a",
+    "bytes": 18465,
+    "records": 29
+  },
+  {
+    "code": "S288",
+    "path": "/home/deep-logic/Documentos/facebook/connections/friends/rejected_friend_requests.html",
+    "family": "Facebook",
+    "sha256": "453b89306ed91acb2733b248e7a526c3fa09476226158983da9a57ba5c466201",
+    "bytes": 90350,
+    "records": 358
+  },
+  {
+    "code": "S289",
+    "path": "/home/deep-logic/Documentos/facebook/connections/friends/removed_friends.html",
+    "family": "Facebook",
+    "sha256": "08f183643850c00623f69421b4ec0fd7301c44ccf4e70fe0b294e1724e3c81cb",
+    "bytes": 31136,
+    "records": 87
+  },
+  {
+    "code": "S290",
+    "path": "/home/deep-logic/Documentos/facebook/connections/friends/sent_friend_requests.html",
+    "family": "Facebook",
+    "sha256": "8f4b79eed6d628a0cd8d529f5ea182389d1622760f8013442fc43b19ff088aa7",
+    "bytes": 18273,
+    "records": 28
+  },
+  {
+    "code": "S291",
+    "path": "/home/deep-logic/Documentos/facebook/connections/friends/suggested_friends.html",
+    "family": "Facebook",
+    "sha256": "bd56b08eca16376660fd7415cda33b7b71c16d2b3fd01a813bf24c97d948a7d0",
+    "bytes": 29680,
+    "records": 0
+  },
+  {
+    "code": "S292",
+    "path": "/home/deep-logic/Documentos/facebook/connections/friends/your_friends.html",
+    "family": "Facebook",
+    "sha256": "c78020232a710faeca197d6fc8c42bd092e9f1db2673eb9e183e6f4ea7c15478",
+    "bytes": 36346,
+    "records": 111
+  },
+  {
+    "code": "S293",
+    "path": "/home/deep-logic/Documentos/facebook/connections/friends/your_post_audiences.html",
+    "family": "Facebook",
+    "sha256": "cfeb9f783836f38b89928f7adf4a540ddcfe2ca7cbbeb4f837c5ce3e63db440c",
+    "bytes": 13385,
+    "records": 0
+  },
+  {
+    "code": "S294",
+    "path": "/home/deep-logic/Documentos/facebook/logged_information/activity_messages/people_and_friends.html",
+    "family": "Facebook",
+    "sha256": "0515cef3ceea83afecc9e3f56acc7ed20151e110248cc29117688c54d620ebd7",
+    "bytes": 15711,
+    "records": 10
+  },
+  {
+    "code": "S295",
+    "path": "/home/deep-logic/Documentos/facebook/logged_information/in-app_messages/your_in-app_messages_interactions.html",
+    "family": "Facebook",
+    "sha256": "7bb514d45451a7102bd166bf972c853c1924b51d0b7a32ab1b0a46a50daa1720",
+    "bytes": 32582,
+    "records": 38
+  },
+  {
+    "code": "S296",
+    "path": "/home/deep-logic/Documentos/facebook/logged_information/interactions/content_that_has_been_shown_to_you_in_your_feed.html",
+    "family": "Facebook",
+    "sha256": "a0df19e9df10f0f93eed0ecb8facf899f54b100020e8398c36414dedcac18271",
+    "bytes": 141394,
+    "records": 0
+  },
+  {
+    "code": "S297",
+    "path": "/home/deep-logic/Documentos/facebook/logged_information/interactions/groups_and_events_you've_visited.html",
+    "family": "Facebook",
+    "sha256": "7e21e140a621b1708b264dea297e9b7e4991b8632b583f0361a07e9299125f72",
+    "bytes": 42578,
+    "records": 79
+  },
+  {
+    "code": "S298",
+    "path": "/home/deep-logic/Documentos/facebook/logged_information/interactions/items_viewed.html",
+    "family": "Facebook",
+    "sha256": "8457cfc536979243d22b5e9cedc597124a3b854b6dc328f037cd8618bfb0e898",
+    "bytes": 146147,
+    "records": 165
+  },
+  {
+    "code": "S299",
+    "path": "/home/deep-logic/Documentos/facebook/logged_information/interactions/marketplace_interactions.html",
+    "family": "Facebook",
+    "sha256": "f34e5d09904fcd08f7562d39586a2cf86d7f53f37066c88c6151132e96b4dcda",
+    "bytes": 28646,
+    "records": 1
+  },
+  {
+    "code": "S300",
+    "path": "/home/deep-logic/Documentos/facebook/logged_information/interactions/profile_visits.html",
+    "family": "Facebook",
+    "sha256": "b5453eff1f44356d1935eaf491d4d9b79544c03657becf169030cdeb39fa86a8",
+    "bytes": 112908,
+    "records": 277
+  },
+  {
+    "code": "S301",
+    "path": "/home/deep-logic/Documentos/facebook/logged_information/location/last_location.html",
+    "family": "Facebook",
+    "sha256": "4066b198e713b4b62b04f1d3a70728738bf35de05361e9c7bd5e607f84fe9e13",
+    "bytes": 12253,
+    "records": 1
+  },
+  {
+    "code": "S302",
+    "path": "/home/deep-logic/Documentos/facebook/logged_information/location/location_services_setting.html",
+    "family": "Facebook",
+    "sha256": "7c7800433280297f780d40dd7abb521919d45c76ef3df32cd592682346372604",
+    "bytes": 10900,
+    "records": 0
+  },
+  {
+    "code": "S303",
+    "path": "/home/deep-logic/Documentos/facebook/logged_information/location/primary_location.html",
+    "family": "Facebook",
+    "sha256": "4df1c36d5522c3a0c8014aa7f2665050f57c0ef2a2fd95817d4408f8deb1cd3a",
+    "bytes": 12790,
+    "records": 0
+  },
+  {
+    "code": "S304",
+    "path": "/home/deep-logic/Documentos/facebook/logged_information/location/primary_public_location.html",
+    "family": "Facebook",
+    "sha256": "21faaf84915cf587aa4f389fe47dd8fa5c02e953501d7e19290fcfb903f7e2cf",
+    "bytes": 12801,
+    "records": 0
+  },
+  {
+    "code": "S305",
+    "path": "/home/deep-logic/Documentos/facebook/logged_information/location/timezone.html",
+    "family": "Facebook",
+    "sha256": "f16024151d44b5d5cd40b099a0e55c4d84f62c1d6a9efa35b6fa73774e4d184f",
+    "bytes": 12444,
+    "records": 0
+  },
+  {
+    "code": "S306",
+    "path": "/home/deep-logic/Documentos/facebook/logged_information/location/your_privacy_jurisdiction.html",
+    "family": "Facebook",
+    "sha256": "5181b10ee6b60aa2f595521ad0fdd22ffe664c9b82cf4880f3d6179bb5f73c8b",
+    "bytes": 12684,
+    "records": 0
+  },
+  {
+    "code": "S307",
+    "path": "/home/deep-logic/Documentos/facebook/logged_information/notifications/notifications.html",
+    "family": "Facebook",
+    "sha256": "cb8b4a9e8f5d199b711f5b640b058c6ee2a865fc75729a247d4f06ab0ebf8772",
+    "bytes": 74128,
+    "records": 0
+  },
+  {
+    "code": "S308",
+    "path": "/home/deep-logic/Documentos/facebook/logged_information/notifications/your_notifications_tab_activity.html",
+    "family": "Facebook",
+    "sha256": "78753442ca830d7ddd93bae9dcc92ddc2247d3e52c8271f77d84c1a5a6604ed0",
+    "bytes": 12828,
+    "records": 0
+  },
+  {
+    "code": "S309",
+    "path": "/home/deep-logic/Documentos/facebook/logged_information/other_logged_information/ads_interests.html",
+    "family": "Facebook",
+    "sha256": "844e0afe11c89c300fd537fecbae0f6f21a6c2382a658c4e9cbb8e8372ad304f",
+    "bytes": 21436,
+    "records": 0
+  },
+  {
+    "code": "S310",
+    "path": "/home/deep-logic/Documentos/facebook/logged_information/other_logged_information/consent_history.html",
+    "family": "Facebook",
+    "sha256": "a1763e4ad954512ece0623ca123c8d8713889938a5a8ddf0f4ba3f5c216a05c9",
+    "bytes": 13136,
+    "records": 2
+  },
+  {
+    "code": "S311",
+    "path": "/home/deep-logic/Documentos/facebook/logged_information/other_logged_information/consents.html",
+    "family": "Facebook",
+    "sha256": "f58ea51a811bb764b16a49398d6f50cb424a2f8c30ddd7256412d003028bf1db",
+    "bytes": 13514,
+    "records": 1
+  },
+  {
+    "code": "S312",
+    "path": "/home/deep-logic/Documentos/facebook/logged_information/other_logged_information/detected_hardware.html",
+    "family": "Facebook",
+    "sha256": "bc423ad7c1f8c6e36f2989594c5cfd21574877d7628b39c8e67924cc83e5c5b0",
+    "bytes": 23347,
+    "records": 0
+  },
+  {
+    "code": "S313",
+    "path": "/home/deep-logic/Documentos/facebook/logged_information/other_logged_information/facebook_reels_usage_information.html",
+    "family": "Facebook",
+    "sha256": "3f6c782bb3fbf0033dca82e935e37b13599e3d4cb1e4511d8c504eda590623a0",
+    "bytes": 13238,
+    "records": 0
+  },
+  {
+    "code": "S314",
+    "path": "/home/deep-logic/Documentos/facebook/logged_information/other_logged_information/locations_of_interest.html",
+    "family": "Facebook",
+    "sha256": "99c79ecf962f2ae7fd39c4f2e0f44ece5a3337ebe9ddea1444550b02a896a836",
+    "bytes": 15236,
+    "records": 0
+  },
+  {
+    "code": "S315",
+    "path": "/home/deep-logic/Documentos/facebook/logged_information/other_logged_information/reels_tab_activity_details.html",
+    "family": "Facebook",
+    "sha256": "5ddab013f41d579270f8bca944dfcfffd2c55e6bb874f0235d4164eb69e5e797",
+    "bytes": 13016,
+    "records": 0
+  },
+  {
+    "code": "S316",
+    "path": "/home/deep-logic/Documentos/facebook/logged_information/other_logged_information/your_professional_dashboard_level_progression.html",
+    "family": "Facebook",
+    "sha256": "85bc7112091c1899c1a3599a74c6f4e3d83bb93be3be2887e6bc4a745d8e3a93",
+    "bytes": 12661,
+    "records": 1
+  },
+  {
+    "code": "S317",
+    "path": "/home/deep-logic/Documentos/facebook/logged_information/recommendations/recent_audio_browser_clicks.html",
+    "family": "Facebook",
+    "sha256": "411f6c110c8567c35f036b6638b3b381333dbefbf2e6d353071f4cd79c00e55b",
+    "bytes": 21304,
+    "records": 11
+  },
+  {
+    "code": "S318",
+    "path": "/home/deep-logic/Documentos/facebook/logged_information/search/your_educational_notification_interactions.html",
+    "family": "Facebook",
+    "sha256": "6e262f0092d4693c197d485b7d4549ab010e56e51e7604b3035543b5d4cd66f4",
+    "bytes": 12553,
+    "records": 0
+  },
+  {
+    "code": "S319",
+    "path": "/home/deep-logic/Documentos/facebook/logged_information/search/your_search_history.html",
+    "family": "Facebook",
+    "sha256": "3ce1eaac8c7350ec87b23441c774fd3e622fe2b1a53c8b7fbf449c539abf5618",
+    "bytes": 268181,
+    "records": 407
+  },
+  {
+    "code": "S320",
+    "path": "/home/deep-logic/Documentos/facebook/personal_information/facebook_accounts_center/your_account_password_information.html",
+    "family": "Facebook",
+    "sha256": "f7b2e338141b57fa3f21568eb4957df4fdab3b54ff31934724b125e439169652",
+    "bytes": 12508,
+    "records": 0
+  },
+  {
+    "code": "S321",
+    "path": "/home/deep-logic/Documentos/facebook/personal_information/other_personal_information/age_group_prediction.html",
+    "family": "Facebook",
+    "sha256": "99e53b1252499ed92c81e0781ad407d5812a62ebfa77a4893c562c519da81a91",
+    "bytes": 12457,
+    "records": 0
+  },
+  {
+    "code": "S322",
+    "path": "/home/deep-logic/Documentos/facebook/personal_information/other_personal_information/emails_we_sent_you.html",
+    "family": "Facebook",
+    "sha256": "3e32729d12b18d87404b725513520a10d474b2159aa22287befa47ce1cb2c977",
+    "bytes": 18485,
+    "records": 12
+  },
+  {
+    "code": "S323",
+    "path": "/home/deep-logic/Documentos/facebook/personal_information/other_personal_information/notifications_about_new_users_joining_facebook.html",
+    "family": "Facebook",
+    "sha256": "f41751345858fab7dbf731371aaae074d785d14ad3383096acc4a4f1d8ea2295",
+    "bytes": 150977,
+    "records": 0
+  },
+  {
+    "code": "S324",
+    "path": "/home/deep-logic/Documentos/facebook/personal_information/other_personal_information/your_imported_contacts.html",
+    "family": "Facebook",
+    "sha256": "bf6c36735eca8708efa9d10c61bd24c3fa92535372c4dca61ed64c10e41f954e",
+    "bytes": 144451,
+    "records": 233
+  },
+  {
+    "code": "S325",
+    "path": "/home/deep-logic/Documentos/facebook/personal_information/other_personal_information/your_media_permissions.html",
+    "family": "Facebook",
+    "sha256": "4c289b6845a8cc1419f7a94d179cb0da5e80178bbc7dd23ba50da4d83293e477",
+    "bytes": 12746,
+    "records": 0
+  },
+  {
+    "code": "S326",
+    "path": "/home/deep-logic/Documentos/facebook/personal_information/profile_information/contact_info.html",
+    "family": "Facebook",
+    "sha256": "4a3b0b6a31bbf4f3269f54b854004fbcedde687878f082dafb9f012bdc142624",
+    "bytes": 12526,
+    "records": 1
+  },
+  {
+    "code": "S327",
+    "path": "/home/deep-logic/Documentos/facebook/personal_information/profile_information/contacts_sync_settings.html",
+    "family": "Facebook",
+    "sha256": "3e8e2bac377ce2b77cca5760dbc0abeb484bb7f371d725e5bd9d69e447b4bdec",
+    "bytes": 16907,
+    "records": 0
+  },
+  {
+    "code": "S328",
+    "path": "/home/deep-logic/Documentos/facebook/personal_information/profile_information/predicted_languages.html",
+    "family": "Facebook",
+    "sha256": "c26442a0202cbc17b4c235af335a3afd3ec0f3c3e4e400038ccd83e2bd861e80",
+    "bytes": 12726,
+    "records": 1
+  },
+  {
+    "code": "S329",
+    "path": "/home/deep-logic/Documentos/facebook/personal_information/profile_information/profile_information.html",
+    "family": "Facebook",
+    "sha256": "8524416ecaaaf8147600f3b8cb08d07ed7a26f3cb824f59f98517e7692ecf044",
+    "bytes": 12825,
+    "records": 0
+  },
+  {
+    "code": "S330",
+    "path": "/home/deep-logic/Documentos/facebook/personal_information/profile_information/profile_update_history.html",
+    "family": "Facebook",
+    "sha256": "83cd61f7917e2c82e1dac593ec7d07ea5b5531f11b827a8e97a34e8a924d0f5e",
+    "bytes": 36309,
+    "records": 47
+  },
+  {
+    "code": "S331",
+    "path": "/home/deep-logic/Documentos/facebook/personal_information/profile_information/rising_fan_badges_you've_received.html",
+    "family": "Facebook",
+    "sha256": "a0430c4ac72ef3521b57e86189fcf8eaa8bac996a004539db42b70d99816c397",
+    "bytes": 104939,
+    "records": 0
+  },
+  {
+    "code": "S332",
+    "path": "/home/deep-logic/Documentos/facebook/personal_information/profile_information/synced_contacts_from_instagram.html",
+    "family": "Facebook",
+    "sha256": "5395b1ef508375fe2b74e3029e21e68b0022214a242e04f2828df436576c1fcb",
+    "bytes": 60442,
+    "records": 0
+  },
+  {
+    "code": "S333",
+    "path": "/home/deep-logic/Documentos/facebook/personal_information/profile_information/the_ways_we_can_send_you_notifications.html",
+    "family": "Facebook",
+    "sha256": "031438a661b5c33853daefd78fa9055427c939b6e1effede7f51fa94b472221f",
+    "bytes": 12645,
+    "records": 0
+  },
+  {
+    "code": "S334",
+    "path": "/home/deep-logic/Documentos/facebook/personal_information/profile_information/your_devices.html",
+    "family": "Facebook",
+    "sha256": "acfd720c7cbad6b52d6ae528244a2157ca5762defc2a5d52b5ab054059e5d4a5",
+    "bytes": 92000,
+    "records": 0
+  },
+  {
+    "code": "S335",
+    "path": "/home/deep-logic/Documentos/facebook/preferences/feed/controls.html",
+    "family": "Facebook",
+    "sha256": "1164256977ec1e5eb24b9df5e66d686f2c0afa5231f8e683a21b9472c5e6e45c",
+    "bytes": 13207,
+    "records": 0
+  },
+  {
+    "code": "S336",
+    "path": "/home/deep-logic/Documentos/facebook/preferences/feed/reduce.html",
+    "family": "Facebook",
+    "sha256": "dff9c2674c1f426b4bc32d52fe93a7eb835fef273e3afabcfbb5c7ca19c824f0",
+    "bytes": 13077,
+    "records": 1
+  },
+  {
+    "code": "S337",
+    "path": "/home/deep-logic/Documentos/facebook/preferences/feed/unfollowed_profiles.html",
+    "family": "Facebook",
+    "sha256": "bbd6e8ef90e14f376e89cb4cddea2e469d41bb4b27ae979dcaffa2286422ca20",
+    "bytes": 21487,
+    "records": 0
+  },
+  {
+    "code": "S338",
+    "path": "/home/deep-logic/Documentos/facebook/preferences/memories/your_activity.html",
+    "family": "Facebook",
+    "sha256": "3c5d5780d7bff3ddcf9da45a7db1ca808642697df79f86f4b34cc59c400f3968",
+    "bytes": 12473,
+    "records": 0
+  },
+  {
+    "code": "S339",
+    "path": "/home/deep-logic/Documentos/facebook/preferences/preferences/facebook_watch_notification_settings.html",
+    "family": "Facebook",
+    "sha256": "122c387c2eed566b28303bbd6ec5caebd9d8a2b583a6e954a7b7ee3c4dcbed4a",
+    "bytes": 16927,
+    "records": 0
+  },
+  {
+    "code": "S340",
+    "path": "/home/deep-logic/Documentos/facebook/preferences/preferences/languages_you_may_know.html",
+    "family": "Facebook",
+    "sha256": "9a10fec01558e1b76bd1682e0a02082cca82d4625e98ee79f48c038a270c4d24",
+    "bytes": 12663,
+    "records": 0
+  },
+  {
+    "code": "S341",
+    "path": "/home/deep-logic/Documentos/facebook/preferences/preferences/login_alerts_settings.html",
+    "family": "Facebook",
+    "sha256": "e1d32929a1013d23e45e6ea848fbb6b6d5f6a22fbac2457df2f7339df58b45db",
+    "bytes": 12946,
+    "records": 0
+  },
+  {
+    "code": "S342",
+    "path": "/home/deep-logic/Documentos/facebook/preferences/preferences/notification_settings.html",
+    "family": "Facebook",
+    "sha256": "fcfeca5625ea4de9ee50719f0e0a0e324ac0fcf00a54c349f5ec7f49cc45655f",
+    "bytes": 47512,
+    "records": 0
+  },
+  {
+    "code": "S343",
+    "path": "/home/deep-logic/Documentos/facebook/preferences/preferences/preferred_language.html",
+    "family": "Facebook",
+    "sha256": "0e9c8efde601708c987897586d9cb02391713db0fb78be0067204908833c217f",
+    "bytes": 12502,
+    "records": 0
+  },
+  {
+    "code": "S344",
+    "path": "/home/deep-logic/Documentos/facebook/preferences/preferences/privacy_settings.html",
+    "family": "Facebook",
+    "sha256": "9609a06a9a62dbc7bdd3337d540631e19fd626beaf342bf8efcc552cefd9cec3",
+    "bytes": 18092,
+    "records": 0
+  },
+  {
+    "code": "S345",
+    "path": "/home/deep-logic/Documentos/facebook/preferences/preferences/reels_preferences.html",
+    "family": "Facebook",
+    "sha256": "c75cc44d488a6fd0a48bd8969bc0cd79be54904dedd1d3f50ee01519ecc37aff",
+    "bytes": 12436,
+    "records": 0
+  },
+  {
+    "code": "S346",
+    "path": "/home/deep-logic/Documentos/facebook/preferences/preferences/video.html",
+    "family": "Facebook",
+    "sha256": "fa482c58c90d3d9a0c2ca512301ec88483598d93f81b38c87c151e561bf44d9a",
+    "bytes": 13440,
+    "records": 1
+  },
+  {
+    "code": "S347",
+    "path": "/home/deep-logic/Documentos/facebook/preferences/preferences/video_settings.html",
+    "family": "Facebook",
+    "sha256": "64943f33cd231421fbea3c6f2158d84f3fe4674f6db2c6cc2ecdc5d083b24396",
+    "bytes": 12711,
+    "records": 0
+  },
+  {
+    "code": "S348",
+    "path": "/home/deep-logic/Documentos/facebook/preferences/preferences/your_camera_roll_controls.html",
+    "family": "Facebook",
+    "sha256": "e5e6d76cfbc58b9aa57e7b1f6ffb3c1b3b35c55db33a31e273debe6799093ae2",
+    "bytes": 12694,
+    "records": 0
+  },
+  {
+    "code": "S349",
+    "path": "/home/deep-logic/Documentos/facebook/preferences/preferences/your_device_push_settings.html",
+    "family": "Facebook",
+    "sha256": "82873103f9ebd9c163266450e963047f94e394bc10eed522e4884cf5d3e4165c",
+    "bytes": 28613,
+    "records": 0
+  },
+  {
+    "code": "S350",
+    "path": "/home/deep-logic/Documentos/facebook/preferences/preferences/your_facebook_story_preferences.html",
+    "family": "Facebook",
+    "sha256": "918ce7474fafee0cfbab3a2137cd90b32553d008a331ed74e70b66df1df36b7d",
+    "bytes": 13013,
+    "records": 0
+  },
+  {
+    "code": "S351",
+    "path": "/home/deep-logic/Documentos/facebook/preferences/preferences/your_story_highlights.html",
+    "family": "Facebook",
+    "sha256": "fb2c43ea080b501a77dd14d08bfd287032060bb5391e08ae82965cfebe90eeab",
+    "bytes": 12699,
+    "records": 0
+  },
+  {
+    "code": "S352",
+    "path": "/home/deep-logic/Documentos/facebook/preferences/preferences/your_video_autoplay_settings.html",
+    "family": "Facebook",
+    "sha256": "e2ebb5d5a9c004a7671f5c2d7aec712a19c91568b7ce6f1fd5dec857bb37ea15",
+    "bytes": 18395,
+    "records": 0
+  },
+  {
+    "code": "S353",
+    "path": "/home/deep-logic/Documentos/facebook/security_and_login_information/account_activity.html",
+    "family": "Facebook",
+    "sha256": "726a2e3dc7d02839b2053f4207630577e8c3fcaafe1b33ddb046e0f9dc47e587",
+    "bytes": 1287139,
+    "records": 0
+  },
+  {
+    "code": "S354",
+    "path": "/home/deep-logic/Documentos/facebook/security_and_login_information/account_status_changes.html",
+    "family": "Facebook",
+    "sha256": "7f777f732662aa1fd676db30c8ca7e745678057db6aa4f68566f05cb9aa8c09d",
+    "bytes": 15239,
+    "records": 0
+  },
+  {
+    "code": "S355",
+    "path": "/home/deep-logic/Documentos/facebook/security_and_login_information/browser_cookies.html",
+    "family": "Facebook",
+    "sha256": "da195da3119c4989a93ff32df515c2dbd9d960d23eb538954e736dfc1776e942",
+    "bytes": 78212,
+    "records": 0
+  },
+  {
+    "code": "S356",
+    "path": "/home/deep-logic/Documentos/facebook/security_and_login_information/device_login_cookies.html",
+    "family": "Facebook",
+    "sha256": "e49e9ff3a798b4fe17d1354360cdc7287c683bcf50e6b8b59ba823f9aa9775eb",
+    "bytes": 28953,
+    "records": 0
+  },
+  {
+    "code": "S357",
+    "path": "/home/deep-logic/Documentos/facebook/security_and_login_information/email_address_verifications.html",
+    "family": "Facebook",
+    "sha256": "f9f972f05119e996f41ed1571cadd24ec096b49344b87465c0d89fd46b5abf6b",
+    "bytes": 12420,
+    "records": 1
+  },
+  {
+    "code": "S358",
+    "path": "/home/deep-logic/Documentos/facebook/security_and_login_information/information_about_your_last_login.html",
+    "family": "Facebook",
+    "sha256": "4f864cbfcc606e307eb9524276b9da5584a4024c014c5967140e7b4ae276dd10",
+    "bytes": 14099,
+    "records": 0
+  },
+  {
+    "code": "S359",
+    "path": "/home/deep-logic/Documentos/facebook/security_and_login_information/ip_address_activity.html",
+    "family": "Facebook",
+    "sha256": "7531cf26ff1330e8e178ccb72bb4007a8b7e3153d4a108aa287eeef2a877e783",
+    "bytes": 18476,
+    "records": 9
+  },
+  {
+    "code": "S360",
+    "path": "/home/deep-logic/Documentos/facebook/security_and_login_information/login_messages_we_have_shown.html",
+    "family": "Facebook",
+    "sha256": "21ec08d89d92d5fce26f059f0c5db679366d6160e68a40179d48d4767f245139",
+    "bytes": 26401,
+    "records": 0
+  },
+  {
+    "code": "S361",
+    "path": "/home/deep-logic/Documentos/facebook/security_and_login_information/login_protection_data.html",
+    "family": "Facebook",
+    "sha256": "88d07fa75e824afa8681551509bddb852e7d00770fcfd041adf880b9ebc0b190",
+    "bytes": 23277,
+    "records": 19
+  },
+  {
+    "code": "S362",
+    "path": "/home/deep-logic/Documentos/facebook/security_and_login_information/logins_and_logouts.html",
+    "family": "Facebook",
+    "sha256": "b595197cf5d8dcf4c12cf8deed22f396b59c03f27d5128ea45e72929cd665ce7",
+    "bytes": 182827,
+    "records": 0
+  },
+  {
+    "code": "S363",
+    "path": "/home/deep-logic/Documentos/facebook/security_and_login_information/record_details.html",
+    "family": "Facebook",
+    "sha256": "1ce8b8e33610215b672c316da1c4d6225956a43e9b1b79539c3964206518b2fc",
+    "bytes": 18811,
+    "records": 0
+  },
+  {
+    "code": "S364",
+    "path": "/home/deep-logic/Documentos/facebook/security_and_login_information/registration_information.html",
+    "family": "Facebook",
+    "sha256": "cac3ae367428640e03c65ecc9cd34d186bb9f0eb1c2f0cb1602b5dc5165a5ee6",
+    "bytes": 12903,
+    "records": 1
+  },
+  {
+    "code": "S365",
+    "path": "/home/deep-logic/Documentos/facebook/security_and_login_information/two-factor_authentication.html",
+    "family": "Facebook",
+    "sha256": "5bae3166f1d9698bfc192aacd1d4bd168b8ed5dd09bde738adb2d3b9e0af3cf4",
+    "bytes": 12624,
+    "records": 0
+  },
+  {
+    "code": "S366",
+    "path": "/home/deep-logic/Documentos/facebook/security_and_login_information/where_you're_logged_in.html",
+    "family": "Facebook",
+    "sha256": "067b1d72f7d58ea22db0416ab1576896153222c2fe512a7606ce4384c2a208b2",
+    "bytes": 28769,
+    "records": 0
+  },
+  {
+    "code": "S367",
+    "path": "/home/deep-logic/Documentos/facebook/security_and_login_information/your_facebook_activity_history.html",
+    "family": "Facebook",
+    "sha256": "61e4c5f13d3da05cb06a6277bb7a351cda15995e4de621395995b812882dc201",
+    "bytes": 36327,
+    "records": 0
+  },
+  {
+    "code": "S368",
+    "path": "/home/deep-logic/Documentos/facebook/security_and_login_information/your_profile_confirmation_information.html",
+    "family": "Facebook",
+    "sha256": "a38c1b566e3946d3a90fbb0aac4867ab3a5f9a49f28f85e87d5990f4e1fdd1a3",
+    "bytes": 12753,
+    "records": 1
+  },
+  {
+    "code": "S369",
+    "path": "/home/deep-logic/Documentos/facebook/security_and_login_information/your_recent_profile_recovery_successes.html",
+    "family": "Facebook",
+    "sha256": "bda89916352da065e9384d6539216c706ad773e504ebf3971d6e8b855b59d23e",
+    "bytes": 18688,
+    "records": 5
+  },
+  {
+    "code": "S370",
+    "path": "/home/deep-logic/Documentos/facebook/start_here.html",
+    "family": "Facebook",
+    "sha256": "e97256b7f4435c5568a8fc4eb5a3f38d2cb31fe4dd287c80543efc09027af382",
+    "bytes": 50098,
+    "records": 0
+  },
+  {
+    "code": "S371",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+    "family": "Facebook",
+    "sha256": "a31fdb40d3df7b83b4c8ddc5ab6af5e6d9f107246005c0d7c999c23ea32d0877",
+    "bytes": 107729,
+    "records": 179
+  },
+  {
+    "code": "S372",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/comments_and_reactions/comments.html",
+    "family": "Facebook",
+    "sha256": "33d3f16f34901b67215f222ec99f1ae593c0ffff11e266fefb4da243129551d7",
+    "bytes": 103635,
+    "records": 135
+  },
+  {
+    "code": "S373",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/comments_and_reactions/likes_and_reactions.html",
+    "family": "Facebook",
+    "sha256": "20a4a8295cd7c9bb9f811a494fe520b3f1f512c9dab99cd11975c129dfab6cbb",
+    "bytes": 372666,
+    "records": 428
+  },
+  {
+    "code": "S374",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/comments_and_reactions/likes_and_reactions_1.html",
+    "family": "Facebook",
+    "sha256": "1dce4a07d3104ec2291e870cba55ef8e2e4965275237ae7faea503b8a1006102",
+    "bytes": 321357,
+    "records": 441
+  },
+  {
+    "code": "S375",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/comments_and_reactions/your_comment_active_days.html",
+    "family": "Facebook",
+    "sha256": "9ab2610300698a5837ae97a202c785c1eac9fecaab6ea5e36ae7426ea5f491e8",
+    "bytes": 12679,
+    "records": 0
+  },
+  {
+    "code": "S376",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/events/your_event_invitation_links.html",
+    "family": "Facebook",
+    "sha256": "e2051e178ed5d4b519a977ff6019355c82ccee2f8bc97895bf3312e4058b016d",
+    "bytes": 23012,
+    "records": 0
+  },
+  {
+    "code": "S377",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/facebook_gaming/bookmark_and_app_settings.html",
+    "family": "Facebook",
+    "sha256": "86a080db97f86ef5cf7f06a3acc1ec3d67383087d9c28e6ae7bf4db7e72195d9",
+    "bytes": 13307,
+    "records": 1
+  },
+  {
+    "code": "S378",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/facebook_gaming/gaming_profile.html",
+    "family": "Facebook",
+    "sha256": "44476ae63648a166a71755a2fa57f9247fa7e856729521320ffbf0c2992737a2",
+    "bytes": 12882,
+    "records": 1
+  },
+  {
+    "code": "S379",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/facebook_gaming/gaming_tab_notifications.html",
+    "family": "Facebook",
+    "sha256": "cce3b65ce862996e3b5335121e201fa6a2ea218d653b43bb352fb7cbe2d0f07c",
+    "bytes": 15102,
+    "records": 0
+  },
+  {
+    "code": "S380",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/facebook_gaming/instant_games.html",
+    "family": "Facebook",
+    "sha256": "52edc6a6d68adf6a97680245c1800b33277fbcecf6b2d25859c3c6b566872127",
+    "bytes": 36839,
+    "records": 9
+  },
+  {
+    "code": "S381",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/facebook_gaming/instant_games_sessions.html",
+    "family": "Facebook",
+    "sha256": "3f6592c211afc85a85c7162855905890fac5495c2c455bfb7b2f16e995e1f477",
+    "bytes": 16069,
+    "records": 0
+  },
+  {
+    "code": "S382",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/facebook_gaming/instant_games_settings_and_metadata.html",
+    "family": "Facebook",
+    "sha256": "2a16e03641ae14d8d8262987c4e02c6cfabb93197fa4a4c4ee386c27af19b645",
+    "bytes": 171447,
+    "records": 0
+  },
+  {
+    "code": "S383",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/facebook_gaming/instant_games_usage_data.html",
+    "family": "Facebook",
+    "sha256": "1ae43f9fbb305d90bfad46b325d50eb5bbdd3eb5b31a2daa10f297a863df8746",
+    "bytes": 77599,
+    "records": 0
+  },
+  {
+    "code": "S384",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/facebook_gaming/your_instant_games_links.html",
+    "family": "Facebook",
+    "sha256": "266d28f93dcdad9c3755deece0bbb80ffd66f703ad1371fbb91437ba17846710",
+    "bytes": 19094,
+    "records": 0
+  },
+  {
+    "code": "S385",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/facebook_gaming/your_instant_games_shortcuts.html",
+    "family": "Facebook",
+    "sha256": "5abeb4cfbb2f28d51ad8fae19425ea8ff647302502cfd5bc740001645c625779",
+    "bytes": 21258,
+    "records": 0
+  },
+  {
+    "code": "S386",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/facebook_gaming/your_instant_games_tournament_information.html",
+    "family": "Facebook",
+    "sha256": "a5ce3eca0bf650fbbf126cf8dd641216dcb9faaa4b8a1c3851e658e96fd5deac",
+    "bytes": 13285,
+    "records": 0
+  },
+  {
+    "code": "S387",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/facebook_gaming/your_latest_instant_game_scores.html",
+    "family": "Facebook",
+    "sha256": "ae2314c2cc2c7a6bff438e5a8899dc06f4bdefae80f10ea47510796502b4d66d",
+    "bytes": 16040,
+    "records": 0
+  },
+  {
+    "code": "S388",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/facebook_gaming/your_page_or_groups_badges.html",
+    "family": "Facebook",
+    "sha256": "d6083e0a04c8acf3594fb20b1bb4d9afdf7b067dc129200fc769d775fb212e7c",
+    "bytes": 44122,
+    "records": 0
+  },
+  {
+    "code": "S389",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/facebook_marketplace/conversations_you_had_as_a_buyer.html",
+    "family": "Facebook",
+    "sha256": "bedbc48460bc4bcad4f118e44653a66f8bd15b9d4bd18ab58a081061f7c9403b",
+    "bytes": 45477,
+    "records": 24
+  },
+  {
+    "code": "S390",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/facebook_marketplace/how_active_we_think_you_are_on_marketplace.html",
+    "family": "Facebook",
+    "sha256": "94e0083b4779a76ff6aec2f1b96d492970bac05ad2564b7dda63eb3543c65750",
+    "bytes": 12577,
+    "records": 0
+  },
+  {
+    "code": "S391",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/facebook_marketplace/messages_received_on_a_thread.html",
+    "family": "Facebook",
+    "sha256": "1a21d66523123867732c891814c05a174606ccbc450cb2de1a682bd9b321a725",
+    "bytes": 16090,
+    "records": 6
+  },
+  {
+    "code": "S392",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/facebook_marketplace/settings.html",
+    "family": "Facebook",
+    "sha256": "2344af78382e0f86692fbf2eaf462a18c8dd4f15715c9fb51167bd222394c30c",
+    "bytes": 12433,
+    "records": 1
+  },
+  {
+    "code": "S393",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/facebook_marketplace/your_marketplace_cart_information.html",
+    "family": "Facebook",
+    "sha256": "9fc7fd458b07e22860285baf6d3f29ed6a49d18ba70fc5bc6b05d7ebbc02769c",
+    "bytes": 12515,
+    "records": 1
+  },
+  {
+    "code": "S394",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/facebook_marketplace/your_marketplace_device_history.html",
+    "family": "Facebook",
+    "sha256": "8fa85347b78925fda33b27ecbad5f31e3091a2eff5b3e60d8dec06d2249c8c58",
+    "bytes": 17101,
+    "records": 0
+  },
+  {
+    "code": "S395",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/facebook_marketplace/your_marketplace_listing_history.html",
+    "family": "Facebook",
+    "sha256": "c6d9be00b1845bf6be67122ea08374d41fbb89734a03122203ce2546c20b8f97",
+    "bytes": 19963,
+    "records": 0
+  },
+  {
+    "code": "S396",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/facebook_marketplace/your_structured_communication.html",
+    "family": "Facebook",
+    "sha256": "8856591cca99ab60e7ef0063c8857029c8080ea0928fa7df7f25b4c2c04c09cd",
+    "bytes": 37667,
+    "records": 19
+  },
+  {
+    "code": "S397",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/facebook_marketplace/your_transaction_survey_information.html",
+    "family": "Facebook",
+    "sha256": "f7e0a7db5afbeccdb24d56656a03eabad12d387cc35c45c3ad4be493909ea214",
+    "bytes": 12526,
+    "records": 0
+  },
+  {
+    "code": "S398",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/facebook_payments/payment_addresses.html",
+    "family": "Facebook",
+    "sha256": "945ff59f37ecf30788e266a7d0f05b2a03c36f0df6f52db837f33dffc8fb5097",
+    "bytes": 13493,
+    "records": 1
+  },
+  {
+    "code": "S399",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/facebook_payments/payment_history.html",
+    "family": "Facebook",
+    "sha256": "bc144c8c82bebeaa666f35053e9e40f8b301344d7b518c5fe7fe02d95945efac",
+    "bytes": 10866,
+    "records": 0
+  },
+  {
+    "code": "S400",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/facebook_payments/payments_you_have_made_as_a_buyer.html",
+    "family": "Facebook",
+    "sha256": "b58d0455592c9591cdbd9ce646371342eb466b14ac38186df16a0ef22ad4a1a7",
+    "bytes": 21114,
+    "records": 0
+  },
+  {
+    "code": "S401",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/facebook_payments/your_payment_account_activity_history.html",
+    "family": "Facebook",
+    "sha256": "f8f6e12a6aa5560260338301e626743ff6a582a9de9c29fff140762c8a2f5f84",
+    "bytes": 37808,
+    "records": 33
+  },
+  {
+    "code": "S402",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/fundraisers/fundraiser_posts_you_likely_viewed.html",
+    "family": "Facebook",
+    "sha256": "39edc348c6c2ff1ad62d2192d3f90adfc61f8e0ea01057e234a0c6340a59abfb",
+    "bytes": 12618,
+    "records": 0
+  },
+  {
+    "code": "S403",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/fundraisers/your_fundraiser_donations_information.html",
+    "family": "Facebook",
+    "sha256": "f47996e22da020b5f0403463b3d6b1c8598ad980a0ae0e609c625670cb42d652",
+    "bytes": 12574,
+    "records": 0
+  },
+  {
+    "code": "S404",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/groups/group_invites_you've_received.html",
+    "family": "Facebook",
+    "sha256": "e4683049ff57f495514a2b92421ce70daa3dc5fb2cd9de51f4689f284143cce7",
+    "bytes": 13298,
+    "records": 1
+  },
+  {
+    "code": "S405",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/groups/group_invites_you've_sent.html",
+    "family": "Facebook",
+    "sha256": "47e1ad1eba44f1df7c790ad3b132f989f5759bccceb9d734908c08ea9d8f2ec8",
+    "bytes": 14677,
+    "records": 2
+  },
+  {
+    "code": "S406",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/groups/your_anonymous_mode_status_in_groups.html",
+    "family": "Facebook",
+    "sha256": "6d3798984aacf464355907a44b6c799d6d4c7a106d11cd70ddc960e4693c5812",
+    "bytes": 121171,
+    "records": 0
+  },
+  {
+    "code": "S407",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/groups/your_comments_in_groups.html",
+    "family": "Facebook",
+    "sha256": "c1ff9443d29819fc17f901075f906aa2e07028109de04d89771ed368054b815c",
+    "bytes": 18616,
+    "records": 11
+  },
+  {
+    "code": "S408",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/groups/your_group_membership_activity.html",
+    "family": "Facebook",
+    "sha256": "82a2f4a26095f840bea60b11d426f016844238ef18220025f41030f690f1ef08",
+    "bytes": 18875,
+    "records": 25
+  },
+  {
+    "code": "S409",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/groups/your_participation_requests.html",
+    "family": "Facebook",
+    "sha256": "567a60297099cc93f531198c3a79b10313e758464abd1dbab869d762bfab9e7b",
+    "bytes": 13872,
+    "records": 0
+  },
+  {
+    "code": "S410",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/groups/your_settings_for_groups_tab.html",
+    "family": "Facebook",
+    "sha256": "0a6dc5714793bf916066e1269c20422f043afe820c38370a18f9313ec751d798",
+    "bytes": 12633,
+    "records": 0
+  },
+  {
+    "code": "S411",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/messages/ai_conversations/metaai_1904012523529776.html",
+    "family": "Facebook",
+    "sha256": "66f425004806e76e4e6e374ef09ddf0fd5c385dd98e3a4a6d081e9ce455c03ac",
+    "bytes": 457784,
+    "records": 1
+  },
+  {
+    "code": "S412",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/messages/ai_conversations.html",
+    "family": "Facebook",
+    "sha256": "97663f6390032c014fc7e42f3c1431088f2deab7019e4a6f012f46b6030a3a56",
+    "bytes": 10894,
+    "records": 0
+  },
+  {
+    "code": "S413",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/messages/chat_invites_received.html",
+    "family": "Facebook",
+    "sha256": "35d9c86f038d527c36a43f5fe47adbbbd1a9142db3761a6dc9c923d2a38538d9",
+    "bytes": 21905,
+    "records": 6
+  },
+  {
+    "code": "S414",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/messages/encrypted_messaging_backup_settings.html",
+    "family": "Facebook",
+    "sha256": "d6924a05d6f063073c9483d66858a205c1f5e0ed6ab2aea87a11c4a05b3c86c7",
+    "bytes": 12534,
+    "records": 0
+  },
+  {
+    "code": "S415",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/messages/inbox/8ballpoolgame_122105883495070800/message_1.html",
+    "family": "Facebook",
+    "sha256": "c97ea0284ae050ecd3854b300a195beedce6a77ccf683ea91227fec8c9b9e84c",
+    "bytes": 50536,
+    "records": 116
+  },
+  {
+    "code": "S416",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/messages/inbox/adileneestufascalentadorcafeteralicuadora_2408897549525876/message_1.html",
+    "family": "Facebook",
+    "sha256": "9b5915e47209c8943d11629a1fea425804bf2cc6fc551867d18e13b9844e4a09",
+    "bytes": 17657,
+    "records": 17
+  },
+  {
+    "code": "S417",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/messages/inbox/adileneestufayrefrigeradorenventa_878809908002417/message_1.html",
+    "family": "Facebook",
+    "sha256": "d0beedc863527fefdc5d5f751bf5df8d3f236e709cc55e30dced436263878f30",
+    "bytes": 15103,
+    "records": 9
+  },
+  {
+    "code": "S418",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/messages/inbox/adilenefrazadas_1555070978857920/message_1.html",
+    "family": "Facebook",
+    "sha256": "d5f969fa9ab2cd748bcd970f2b1b845753712253d843c328a2863a47d03dc918",
+    "bytes": 14491,
+    "records": 7
+  },
+  {
+    "code": "S419",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/messages/inbox/adilenefrigobarseminuevowhirlpool_1866529254068846/message_1.html",
+    "family": "Facebook",
+    "sha256": "55b025f2fca2c2c9cf0a1b343798868110d44c1f5224105912d5d0d3e1baeaf0",
+    "bytes": 14181,
+    "records": 6
+  },
+  {
+    "code": "S420",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/messages/inbox/adileneparalaprincesadelacasa_840703628881595/message_1.html",
+    "family": "Facebook",
+    "sha256": "330aab1158d4c60a924aa4f628fde37901c5b9f4c4426c7593015b74c8484b05",
+    "bytes": 15051,
+    "records": 6
+  },
+  {
+    "code": "S421",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/messages/inbox/adileneperfumehalloweenmanhero_4334727386792022/message_1.html",
+    "family": "Facebook",
+    "sha256": "4d934265e85430eab8a6597f69f5a2076f2e03d3a6a8bb10f651bdba7d5026ba",
+    "bytes": 14873,
+    "records": 8
+  },
+  {
+    "code": "S422",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/messages/inbox/adileneplanchaoster_1514952343138763/message_1.html",
+    "family": "Facebook",
+    "sha256": "c4b571bc7454c49512bc79c04cf5191afb044354e97447fc33ba85eb88a33353",
+    "bytes": 15118,
+    "records": 9
+  },
+  {
+    "code": "S423",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/messages/inbox/adilenepublicidad_1582017599592007/message_1.html",
+    "family": "Facebook",
+    "sha256": "1dbd7b998e8d61dc86d7d11ea49918531cb20d3f04c28662bb16f1c4679832d5",
+    "bytes": 24572,
+    "records": 28
+  },
+  {
+    "code": "S424",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/messages/inbox/adilenerecamaramatrimonial_822444654034939/message_1.html",
+    "family": "Facebook",
+    "sha256": "20ac4f925219aeeb8ecdd3bbb79205230a4b81eec72da9823d98b0afbca28af1",
+    "bytes": 12878,
+    "records": 3
+  },
+  {
+    "code": "S425",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/messages/inbox/adilenerefrigeradorlg_1075450164614169/message_1.html",
+    "family": "Facebook",
+    "sha256": "45ac609bba46a727163e8088d29e4acdf54cd393e4e9d181f6e075bfbdb8a8e9",
+    "bytes": 19558,
+    "records": 23
+  },
+  {
+    "code": "S426",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/messages/inbox/adilenerefrigeradorlg_2115799845493768/message_1.html",
+    "family": "Facebook",
+    "sha256": "fdb925f796f1974f2db6eca38a84b6f1ef80952407e229485bbbbbac442f859d",
+    "bytes": 14812,
+    "records": 8
+  },
+  {
+    "code": "S427",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/messages/inbox/adilenerefrigeradormabe_1280531850694142/message_1.html",
+    "family": "Facebook",
+    "sha256": "84da6801c9443e71dbce1e2ebc3822559bfd6d5cfd43168552fa09ced632c950",
+    "bytes": 17674,
+    "records": 13
+  },
+  {
+    "code": "S428",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/messages/inbox/adileneropaparahombre_1969595936931803/message_1.html",
+    "family": "Facebook",
+    "sha256": "aaa45e2b9a1c87f124e0bc9d43ac753b08393074b9e6d4b69f217f0792e6e821",
+    "bytes": 20597,
+    "records": 9
+  },
+  {
+    "code": "S429",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/messages/inbox/adilenesabanasdefranelamatrimoniales_753921630386251/message_1.html",
+    "family": "Facebook",
+    "sha256": "e7cc8aa50766925b6bdefe7a242cdc6000878fbc8932761c4c76c529bf4235fe",
+    "bytes": 18977,
+    "records": 18
+  },
+  {
+    "code": "S430",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/messages/inbox/adilenevariedaddemueblesparatu_1572081430701698/message_1.html",
+    "family": "Facebook",
+    "sha256": "d6006419a78567ac72987f847278fd6158d23ed9b00d13aa0186e9dea6657c0a",
+    "bytes": 19514,
+    "records": 19
+  },
+  {
+    "code": "S431",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/messages/inbox/adileneventalindosbolsos_1383539213161867/message_1.html",
+    "family": "Facebook",
+    "sha256": "0407ac96b35af3f0232feac0676560f272402c61a6118d32607498694c2b17dd",
+    "bytes": 20742,
+    "records": 24
+  },
+  {
+    "code": "S432",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/messages/inbox/adilenevestidos_1706986103598544/message_1.html",
+    "family": "Facebook",
+    "sha256": "0d0a6ab54c3b3b7cbd7869ddddb853cd8e74f4d5dcd74239788880322323b15c",
+    "bytes": 16366,
+    "records": 12
+  },
+  {
+    "code": "S433",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/messages/inbox/chessclub_1715056462820299/message_1.html",
+    "family": "Facebook",
+    "sha256": "bfd6608e1550a2a21fa5ea1a3543ed82ca1d2c7f4bb992230d25207e19967d21",
+    "bytes": 12642,
+    "records": 2
+  },
+  {
+    "code": "S434",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/messages/inbox/creditosbajio_122113780005070800/message_1.html",
+    "family": "Facebook",
+    "sha256": "6466fc30bfdec3643a1e8e79a1a6570588ef8697f04cf26d80b82e59b5b8aa5b",
+    "bytes": 13671,
+    "records": 5
+  },
+  {
+    "code": "S435",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/messages/inbox/danicc_122207443256302846/message_1.html",
+    "family": "Facebook",
+    "sha256": "fed4c6c0aa6c433471aa98ac9d553fa30088dbe2d8cf259e13378d2ce10da88e",
+    "bytes": 12320,
+    "records": 1
+  },
+  {
+    "code": "S436",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/messages/inbox/domino_1510351757135724/message_1.html",
+    "family": "Facebook",
+    "sha256": "fd132d77b1ad0b4d5c2a346db6d5476bde9403a4b0be07385a08a280036ac4a9",
+    "bytes": 13262,
+    "records": 4
+  },
+  {
+    "code": "S437",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/messages/inbox/dominoesbattle_4420732811515519/message_1.html",
+    "family": "Facebook",
+    "sha256": "ce4614cfaaee30da9e3fc01a9f1c5cc9eb1544c12736061ffdcb349468d83b27",
+    "bytes": 14666,
+    "records": 8
+  },
+  {
+    "code": "S438",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/messages/inbox/epazotetulancingo_1514670583749704/message_1.html",
+    "family": "Facebook",
+    "sha256": "675f52e7a9beb3429a4849403236c2778d85655c97b2246d82ef697a922e9f36",
+    "bytes": 29174,
+    "records": 49
+  },
+  {
+    "code": "S439",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/messages/inbox/friasleonlu_122114742417070800/message_1.html",
+    "family": "Facebook",
+    "sha256": "730056fe63e45ecd45e92ca6b8c6cb0c1aa2074bbb746f4e5d9d3dc6f0b884e0",
+    "bytes": 13804,
+    "records": 5
+  },
+  {
+    "code": "S440",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/messages/inbox/joseluisrodeo_122108961045070800/message_1.html",
+    "family": "Facebook",
+    "sha256": "f078c7622fac8ee876894898e0134eff33b1373cf668f966c2c413b7f58c9158",
+    "bytes": 71495,
+    "records": 184
+  },
+  {
+    "code": "S441",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/messages/inbox/messenger_1485431616600665/message_1.html",
+    "family": "Facebook",
+    "sha256": "6d9ace39e605c31d4a95e70c15bea4252e8b65ce20627ccca709520f99a74d5b",
+    "bytes": 12281,
+    "records": 1
+  },
+  {
+    "code": "S442",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/messages/inbox/metaai_122116660587070800/message_1.html",
+    "family": "Facebook",
+    "sha256": "5c48d8666c26a5a91862fab5b238017e4f7aad69cfb01f5fcc98fece5abfae42",
+    "bytes": 203689,
+    "records": 637
+  },
+  {
+    "code": "S443",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/messages/inbox/muebleriamarcellblvdguanajuatoleon_122114596077070800/message_1.html",
+    "family": "Facebook",
+    "sha256": "80b8f87e1f59f0583fe232912e432684f76fcf5f787026d0c6faf8c7e9c2cb42",
+    "bytes": 13461,
+    "records": 4
+  },
+  {
+    "code": "S444",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/messages/inbox/nove_122118081111070800/message_1.html",
+    "family": "Facebook",
+    "sha256": "45a5d9c99a25eb40e668dd971f6eb17c8ae3de45ae1cf8c3d2cde39c7983c632",
+    "bytes": 12952,
+    "records": 3
+  },
+  {
+    "code": "S445",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/messages/inbox/poolcity8ball_1176533747891683/message_1.html",
+    "family": "Facebook",
+    "sha256": "0090351a274bd1a26a03c33812e4a5389985c9c6037fbaf47a1742c6e8e26445",
+    "bytes": 19428,
+    "records": 22
+  },
+  {
+    "code": "S446",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/messages/inbox/poolclub8ballbilliards_2049334798983668/message_1.html",
+    "family": "Facebook",
+    "sha256": "8e675ba8ee7478ab83bc580bdbaf7240c951fa24060da35e4de98cd55570def3",
+    "bytes": 19658,
+    "records": 22
+  },
+  {
+    "code": "S447",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/messages/inbox/soymason_28808961795357693/message_1.html",
+    "family": "Facebook",
+    "sha256": "d01e98d813c62bb5109b95bce0298329209a14e8d28e133473d2f328108100bb",
+    "bytes": 793675,
+    "records": 245
+  },
+  {
+    "code": "S448",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/messages/inbox/superspidersolitaire_906635135721893/message_1.html",
+    "family": "Facebook",
+    "sha256": "d332ac8a950fb0b1077dd1a8e3169b0f2dae74f2b4f1e3620f7ed83fa462e501",
+    "bytes": 18886,
+    "records": 20
+  },
+  {
+    "code": "S449",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/messages/inbox/uneternoaprendiz_9189181051139059/message_1.html",
+    "family": "Facebook",
+    "sha256": "0db252ed81e159bed8824358d6caf3f403cebc2c43872156048f30959fc1df1d",
+    "bytes": 677085,
+    "records": 236
+  },
+  {
+    "code": "S450",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/messages/inbox/usuariodefacebook_4388221378090149/message_1.html",
+    "family": "Facebook",
+    "sha256": "c85b2ec8233cbcf42de6c9f616eecdc4ea2c09118002116973068d05df6a875d",
+    "bytes": 12684,
+    "records": 2
+  },
+  {
+    "code": "S451",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/messages/inbox/yazhernandez_122114843943070800/message_1.html",
+    "family": "Facebook",
+    "sha256": "6eebf11c6a5c89b5caf318fee24ec8903b961b83afa35ce512fa8b3516ceb552",
+    "bytes": 14649,
+    "records": 8
+  },
+  {
+    "code": "S452",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/messages/messaging_settings.html",
+    "family": "Facebook",
+    "sha256": "26c0d8bcc512156c17016354c2383e319515c7fa0f487ab77acd8a01fa03ad16",
+    "bytes": 13915,
+    "records": 0
+  },
+  {
+    "code": "S453",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/messages/messenger_active_status_settings.html",
+    "family": "Facebook",
+    "sha256": "6795ba061bb14ed53df73f88e3410a750da6da1fc9c3c08f9bfcbce9c6a2fd91",
+    "bytes": 12824,
+    "records": 0
+  },
+  {
+    "code": "S454",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/messages/secret_conversations.html",
+    "family": "Facebook",
+    "sha256": "d57ad76c2650547bcae5dff03722b5db78c025b6df05ee89b08ada6a41b9344c",
+    "bytes": 18105,
+    "records": 0
+  },
+  {
+    "code": "S455",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/messages/support_messages.html",
+    "family": "Facebook",
+    "sha256": "055fc72d318cccc4daa8f421945868725a7093854a8b3b20165f87d1e2893f4c",
+    "bytes": 14307,
+    "records": 5
+  },
+  {
+    "code": "S456",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/messages/your_chat_settings_on_web.html",
+    "family": "Facebook",
+    "sha256": "a1cebbfc3b7f041d749c9deb846af4f07b4d4357ae54117bf2c095c5dfb7a08f",
+    "bytes": 13914,
+    "records": 0
+  },
+  {
+    "code": "S457",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/messages/your_messages.html",
+    "family": "Facebook",
+    "sha256": "14f6417ca0a1b57f573f73cb0fc09b0580a7486fe1268fd072e0cd2090ad013a",
+    "bytes": 19359,
+    "records": 0
+  },
+  {
+    "code": "S458",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/messages/your_messenger_app_install_information.html",
+    "family": "Facebook",
+    "sha256": "82932a944c4bba2acbe3b3aad542eec86b089a9d4ad76592f9d55b958a194878",
+    "bytes": 12752,
+    "records": 0
+  },
+  {
+    "code": "S459",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/navigation_bar/device_navigation_bar_information.html",
+    "family": "Facebook",
+    "sha256": "a97d4dba8bfffce45f9028a3dd2c5382def9981b51f563d625422b7d8777dd7c",
+    "bytes": 45246,
+    "records": 0
+  },
+  {
+    "code": "S460",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/navigation_bar/navigation_bar_shortcut_history.html",
+    "family": "Facebook",
+    "sha256": "b6bdaa2f3cd3049b0f31ad83c5feb484ece0fa7265f55d92ffd0adc2ed650a65",
+    "bytes": 49345,
+    "records": 38
+  },
+  {
+    "code": "S461",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/navigation_bar/removed_facebook_navigation_bar_shortcuts.html",
+    "family": "Facebook",
+    "sha256": "e5c90bf232a7430799aab56d15a4abcee652a7288d89657131a8a6c6a930003d",
+    "bytes": 17905,
+    "records": 9
+  },
+  {
+    "code": "S462",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/navigation_bar/your_tab_notifications.html",
+    "family": "Facebook",
+    "sha256": "68eba19ae909ba7143b6228798d1189c438377ee1125f45d7d337ee93e4ae6fa",
+    "bytes": 13049,
+    "records": 0
+  },
+  {
+    "code": "S463",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/other_activity/facebook_new_user_guide.html",
+    "family": "Facebook",
+    "sha256": "bb12dcdb7fb459d0c570fba7ce4a01aaee41722d3672e974c6a46cc83f4f2ead",
+    "bytes": 13933,
+    "records": 0
+  },
+  {
+    "code": "S464",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/other_activity/link_history.html",
+    "family": "Facebook",
+    "sha256": "330eabfa49e73d223f7179dc3513aec2debd22c6cc8135821e4639d60d7cc69b",
+    "bytes": 22732,
+    "records": 11
+  },
+  {
+    "code": "S465",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/other_activity/pokes.html",
+    "family": "Facebook",
+    "sha256": "ca0d1e71d49d2ed13f7164f3c6ab8c2203d459ed43ef8b633b025a581fb87f63",
+    "bytes": 13038,
+    "records": 4
+  },
+  {
+    "code": "S466",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/other_activity/surveys.html",
+    "family": "Facebook",
+    "sha256": "9ca2917705ec072a89925477478b2afa7a853616dc140f852df6665072770493",
+    "bytes": 16204,
+    "records": 5
+  },
+  {
+    "code": "S467",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/other_activity/time_spent_on_facebook.html",
+    "family": "Facebook",
+    "sha256": "92f531968b29d777e3a4f35d040c0431cefc7ef3c8c9ea6559b92ccd5834500c",
+    "bytes": 21914,
+    "records": 1
+  },
+  {
+    "code": "S468",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/other_activity/top_fan_badges_you've_received.html",
+    "family": "Facebook",
+    "sha256": "ce7ec384efa04609de728eef96836cb8b73d7d9a61f77af5bafbd546d8157851",
+    "bytes": 73099,
+    "records": 30
+  },
+  {
+    "code": "S469",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/other_activity/weekly_engagement_list_activity.html",
+    "family": "Facebook",
+    "sha256": "104c61b6d3cd82c8c57803284718d1ef1821933d57f47d2625dc25b486690a96",
+    "bytes": 19989,
+    "records": 0
+  },
+  {
+    "code": "S470",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/other_activity/your_autofill_settings.html",
+    "family": "Facebook",
+    "sha256": "fab33b1c2ca5d30a1e79b4ad02de4b4e98a02dfc6e72fc30b1d92af39803c657",
+    "bytes": 12493,
+    "records": 0
+  },
+  {
+    "code": "S471",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/other_activity/your_camera_roll_photos.html",
+    "family": "Facebook",
+    "sha256": "ad8cb74cc4cc7725cb3935987f37d03e8eebed7d69f468ab44558a5b06dfe584",
+    "bytes": 12747,
+    "records": 1
+  },
+  {
+    "code": "S472",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/other_activity/your_link_history_settings.html",
+    "family": "Facebook",
+    "sha256": "9c36aec2bafce60208e919d2b5c99a61effe3310515ae40bae0599bdce4c3bf5",
+    "bytes": 13326,
+    "records": 2
+  },
+  {
+    "code": "S473",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/other_activity/your_mentions_settings.html",
+    "family": "Facebook",
+    "sha256": "af4f5c7d27773ef0b4ba21b656703268c3b6447e03de8b3544a9c5b5ff578bc4",
+    "bytes": 12959,
+    "records": 1
+  },
+  {
+    "code": "S474",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/other_activity/your_original_audio.html",
+    "family": "Facebook",
+    "sha256": "f84e7fea33361f379490257fde3c7555df81110afdfb4572763fff40c1472c57",
+    "bytes": 12658,
+    "records": 1
+  },
+  {
+    "code": "S475",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/other_activity/your_streaks.html",
+    "family": "Facebook",
+    "sha256": "8bbe2977f4065a5137841554202c1aa83b2f80fc1f493f91ba9599cdb1453f17",
+    "bytes": 12981,
+    "records": 1
+  },
+  {
+    "code": "S476",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/other_activity/your_video_consumption_summary.html",
+    "family": "Facebook",
+    "sha256": "c7f69934df8956e3fad2d7ad7da3c72d11578746eace5a4aebcb93960eeb5c6f",
+    "bytes": 14264,
+    "records": 0
+  },
+  {
+    "code": "S477",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/pages/pages_and_profiles_you've_unfollowed.html",
+    "family": "Facebook",
+    "sha256": "2d7cf0a11cd9c4a14d0cdf8f1cf95c21de97513b03a267a751e219310baa3166",
+    "bytes": 19143,
+    "records": 14
+  },
+  {
+    "code": "S478",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/pages/pages_and_profiles_you_follow.html",
+    "family": "Facebook",
+    "sha256": "beeb81d1e6fd99e5b964e896d7f2afa245850083c6de37b1808c3d8ffc74ad38",
+    "bytes": 14748,
+    "records": 12
+  },
+  {
+    "code": "S479",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/pages/pages_you've_liked.html",
+    "family": "Facebook",
+    "sha256": "ca99fa35e922a96d6e07ab324f933a9870d9a816031e38359a1da5fe8329ff55",
+    "bytes": 23417,
+    "records": 29
+  },
+  {
+    "code": "S480",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/stories/archived_stories.html",
+    "family": "Facebook",
+    "sha256": "5dd9a4d7ad8f289a1b0433ba7bf7706a47f74a6eec177fdd521754265c5e3793",
+    "bytes": 23763,
+    "records": 11
+  },
+  {
+    "code": "S481",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/stories/older_story_reactions.html",
+    "family": "Facebook",
+    "sha256": "db60a2cdaea93522b97ce7d0f37fb2a7dc687169dd0b176d1e27a27ae3700c58",
+    "bytes": 22202,
+    "records": 13
+  },
+  {
+    "code": "S482",
+    "path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/stories/story_reactions.html",
+    "family": "Facebook",
+    "sha256": "a482bdcef6d1447bf39721fc965e0d246a33ae3d73b71a6ec896eac1b350e094",
+    "bytes": 174740,
+    "records": 219
+  },
+  {
+    "code": "S483",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Servicio de configuración de dispositivos Android/Device-3644671859603123984.html",
+    "family": "Google",
+    "sha256": "f0e1eccb17543176b5135f2e967d3b504eed5f61beb130e1d6c51056c45beb33",
+    "bytes": 24470,
+    "records": 25
+  },
+  {
+    "code": "S484",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Servicio de configuración de dispositivos Android/Device-3778158131092576330.html",
+    "family": "Google",
+    "sha256": "99e398960aa7d812a8433b72b9f0f23529eeecedf8c2affc34fdb263e406557e",
+    "bytes": 21902,
+    "records": 8
+  },
+  {
+    "code": "S485",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Servicio de configuración de dispositivos Android/Device-3975241346881164962.html",
+    "family": "Google",
+    "sha256": "c5373ac02f9b5ea35baf614050fe9d2fe3975a08e50f785a4eea8a80825bbda3",
+    "bytes": 25790,
+    "records": 33
+  },
+  {
+    "code": "S486",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Servicio de configuración de dispositivos Android/Device-4247182940332696163.html",
+    "family": "Google",
+    "sha256": "613432ffa6ff52ad675c7cb6e1bb88b8a489f1fb16518999429d99130c6c3c3e",
+    "bytes": 25264,
+    "records": 32
+  },
+  {
+    "code": "S487",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Servicio de configuración de dispositivos Android/Device-4511226476644240739.html",
+    "family": "Google",
+    "sha256": "d76016b25286c658321ff6de56bbb347f004529b441476b23de26e6222634001",
+    "bytes": 31754,
+    "records": 63
+  },
+  {
+    "code": "S488",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Servicios de juego de Google Play/Global/Player.html",
+    "family": "Google",
+    "sha256": "56f97bf2d32dc332986facb94294d758a4568b348e3cee3bba6f4ede53302b06",
+    "bytes": 1029,
+    "records": 2
+  },
+  {
+    "code": "S489",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Servicios de juego de Google Play/Global/Playtime.html",
+    "family": "Google",
+    "sha256": "67e8cd31a6c70e417fe687d523880f24c2d99d25abb06b86651457fff684a76d",
+    "bytes": 839,
+    "records": 2
+  },
+  {
+    "code": "S490",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Servicios de juego de Google Play/Global/Streaks.html",
+    "family": "Google",
+    "sha256": "107f440916ccca88c63b089f8188afcd6e273401cd0d3efa722f22116d4edf43",
+    "bytes": 409,
+    "records": 0
+  },
+  {
+    "code": "S491",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Servicios de juego de Google Play/Google Games/Words of Wonders_ Crucigrama/Actividad.html",
+    "family": "Google",
+    "sha256": "784c59e51ef151fbbb8206b2b12da71f99bc1d17c279f4400b6716e06893258f",
+    "bytes": 551,
+    "records": 2
+  },
+  {
+    "code": "S492",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Servicios de juego de Google Play/Google Games/Words of Wonders_ Crucigrama/Recall.html",
+    "family": "Google",
+    "sha256": "2ea92fa118507f45f3da14fdcfd82bd519d4eb8b787e367f0c9245ea41a8405c",
+    "bytes": 317,
+    "records": 0
+  },
+  {
+    "code": "S493",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Servicios de juego de Google Play/Google Games/Words of Wonders_ Crucigrama/Saved Games/ALF.FugoID/Metadatos.html",
+    "family": "Google",
+    "sha256": "be524573c0a30d5b34697510c58a35547879ba222d381e429d6d96951b9006b4",
+    "bytes": 633,
+    "records": 1
+  },
+  {
+    "code": "S494",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Servicios de juego de Google Play/Google Games/Words of Wonders_ Crucigrama/Saved Games/com.fugo.wow.cloudData/Metadatos.html",
+    "family": "Google",
+    "sha256": "954a0adefe8160a40bb059ca7be936d8f65cf787fdb38dc2cec3a7272cda4bb9",
+    "bytes": 645,
+    "records": 1
+  },
+  {
+    "code": "S495",
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Chrome/Información del dispositivo.json",
+    "family": "Google",
+    "sha256": "006bd0958d7c75b9d41b925cf6404ecab64c8c2c140f9469e556edd4e0b9d854",
+    "bytes": 6877,
+    "records": 4
+  },
+  {
+    "code": "S496",
+    "path": "/home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Account and Profile/communications_sent-0.csv",
+    "family": "Uber",
+    "sha256": "c97d756ea5341ebc7ce19657865aadd5e952908f07f050e8f0d076c1b65aa3fa",
+    "bytes": 389,
+    "records": 6
+  },
+  {
+    "code": "S497",
+    "path": "/home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Account and Profile/customer_support_tickets-0.csv",
+    "family": "Uber",
+    "sha256": "c9acb7ef27c24560ef7897eadeeb3d9881ec5b04470e760a776477b3cead5a8b",
+    "bytes": 2691,
+    "records": 9
+  },
+  {
+    "code": "S498",
+    "path": "/home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Account and Profile/driver_profile-0.csv",
+    "family": "Uber",
+    "sha256": "875f40f290cb77f16a28ee0a64ef27f7bfe084e54458a3e256077d1a171f4d3e",
+    "bytes": 476,
+    "records": 1
+  },
+  {
+    "code": "S499",
+    "path": "/home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Account and Profile/payment_methods-0.csv",
+    "family": "Uber",
+    "sha256": "cdfaedf1fbbd789e4e9b6193c973095e2075b406e3b820ec5d922fbf2003fd1d",
+    "bytes": 746,
+    "records": 7
+  },
+  {
+    "code": "S500",
+    "path": "/home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Account and Profile/rider_eater_saved_locations.csv",
+    "family": "Uber",
+    "sha256": "1003eb0bfb2a65f8490515a3c126483dfd44b82589186afa720c7b3a49576f4d",
+    "bytes": 155,
+    "records": 1
+  },
+  {
+    "code": "S501",
+    "path": "/home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Account and Profile/user_profile-0.csv",
+    "family": "Uber",
+    "sha256": "3ff5c80b819be98f0af75a518b86a2d8b143857c09bf45521e9ceeb3f700b255",
+    "bytes": 441,
+    "records": 1
+  },
+  {
+    "code": "S502",
+    "path": "/home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Eats/eats_app_analytics-0.csv",
+    "family": "Uber",
+    "sha256": "2efd4662b503ed13aa3508f5216d40c7cfca8b054928fc8cc7608661ef9f7a4a",
+    "bytes": 6289342,
+    "records": 45178
+  },
+  {
+    "code": "S503",
+    "path": "/home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Eats/user_orders-0.csv",
+    "family": "Uber",
+    "sha256": "545a36db0fead5835f51b0a44a323c3a897ec4a5a3c15ae606caa272e7657dd3",
+    "bytes": 4295,
+    "records": 46
+  },
+  {
+    "code": "S504",
+    "path": "/home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Rider/rider_app_analytics-0.csv",
+    "family": "Uber",
+    "sha256": "7a17993c9f38183a805a4d416bead302e4277d9dd0ea4499d1c30697bd8c4be9",
+    "bytes": 2384633,
+    "records": 10833
+  },
+  {
+    "code": "S505",
+    "path": "/home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Rider/rider_lifetime_ratings_received-0.csv",
+    "family": "Uber",
+    "sha256": "78f459c3dcf4dbbd8851d28e1ab4016f2875335bf39094c586a8e521b81253e8",
+    "bytes": 19,
+    "records": 1
+  },
+  {
+    "code": "S506",
+    "path": "/home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Rider/rider_lifetime_trips-0.csv",
+    "family": "Uber",
+    "sha256": "d190f60e8be8a48ee153e1fa6bbae59adaa901780ea61c72c38fea52c95b0a23",
+    "bytes": 3062,
+    "records": 4
+  },
+  {
+    "code": "S507",
+    "path": "/home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/readme.html",
+    "family": "Uber",
+    "sha256": "a6b491bf7cd30e9623327723a7c3406d4b1a60294a667f1e29f97b408ac3ca9d",
+    "bytes": 2910,
+    "records": 0
+  },
+  {
+    "code": "S508",
+    "path": "/home/deep-logic/Documentos/Todo el correo, con Spam y Papelera incluidos.mbox",
+    "family": "Correo",
+    "sha256": "a2c0b40d481a02e6829c9aba9f61d7874c1da23bf3e3d8bca83e1474d58f674d",
+    "bytes": 104855969,
+    "records": 1527
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "source": "/home/deep-logic/Documentos/Registro/Takeout/Chrome/Configuración.json",
+  "locator": "/Preferences/2/value (JSON serializado), campo vapid_private_key",
+  "preference_name": "sharing.vapid_key",
+  "curve": "P-256",
+  "der_bytes": 138,
+  "validation": "Clave DER EC cargada; firma y verificación local correctas.",
+  "created_timestamp_original": "13408324752095937",
+  "created_utc": "2025-11-22T22:39:12.095937+00:00",
+  "created_local": "2025-11-22T16:39:12.095937-06:00",
+  "public_key_sha256": "76d04a8ddf4840f26ebd22b9022affc7436cc90860b0a8abed805420d94289eb",
+  "public_key_base64url": "BNrBxDH421dcwqIFvwhQJxzAiysFFrZ0xbaen0YNntn1JIkCdh1bJ4aGQ-msu2L4jwxYXWObGqnHpD-NXIH7e3I",
+  "scope": "Preferencia interna sharing de Chrome; no hay prueba de que sea la clave de una aplicación web del usuario.",
+  "vapid_private_key_der_base64_original": "MIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgwG6IKUZSOUrtWEKMps55nb7dbfOthJamqZmisLvLKwShRANCAATawcQx+NtXXMKiBb8IUCccwIsrBRa2dMW2np9GDZ7Z9SSJAnYdWyeGhkPprLti+I8MWF1jmxqpx6Q/jVyB+3ty",
+  "vapid_private_key_raw_base64url": "wG6IKUZSOUrtWEKMps55nb7dbfOthJamqZmisLvLKwQ",
+  "preference_value_original": {
+    "vapid_creation_timestamp": "13408324752095937",
+    "vapid_private_key": "MIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgwG6IKUZSOUrtWEKMps55nb7dbfOthJamqZmisLvLKwShRANCAATawcQx+NtXXMKiBb8IUCccwIsrBRa2dMW2np9GDZ7Z9SSJAnYdWyeGhkPprLti+I8MWF1jmxqpx6Q/jVyB+3ty"
+  }
+}

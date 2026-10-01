@@ -163,7 +163,7 @@ La pista permanece sin identificar. La aclaración solicitada fue si se quería 
 
 Actualizado el 1 de octubre de 2026. La solicitud actual autoriza crear y actualizar el PDF desde ahora. Las indicaciones anteriores de esperar al final se conservan como historial de la investigación.
 
-La cronología integra 27,044 observaciones fechadas de 495 archivos consultados, de 2022-08-15 a 2026-09-27. Google y Facebook se ordenan conjuntamente por instante UTC y se muestran en America/Mexico_City. Hay 38 secciones sin fecha, conservadas por separado.
+La cronología integra 84,642 observaciones fechadas de 508 archivos consultados, de 2022-08-15 a 2026-09-27. Google, Facebook y Uber se ordenan conjuntamente por instante UTC y se muestran en America/Mexico_City. Hay 54 secciones sin fecha o sin zona determinada, conservadas por separado.
 
 ## Qué significan los números
 
@@ -201,16 +201,16 @@ Evento 678263238969275 → Coppel [entidad 10153514100232571]; coppel.com [entid
 
 ## Epazote: Messenger, una captura de WhatsApp y Google Maps
 
-**E019330** · 2026-08-27T21:25:17.000000-06:00 · Messenger · Epazote Tulancingo · Adilenee Razo: En su página de Google maps dice que el día de hoy está cerrado
+**E020306** · 2026-08-27T21:25:17.000000-06:00 · Messenger · Epazote Tulancingo · Adilenee Razo: En su página de Google maps dice que el día de hoy está cerrado
 S438 · message_index_1based=45; línea 13, columna 16063
 
-**E019342** · 2026-08-27T21:50:40.000000-06:00 · Messenger · Epazote Tulancingo · Adilenee Razo: Toca "Confirmar pago" para verificar el comprobante y avisar a Epazote Tulancingo que realizaste el pago. Confirmar pago
+**E020318** · 2026-08-27T21:50:40.000000-06:00 · Messenger · Epazote Tulancingo · Adilenee Razo: Toca "Confirmar pago" para verificar el comprobante y avisar a Epazote Tulancingo que realizaste el pago. Confirmar pago
 S438 · message_index_1based=36; línea 13, columna 12726
 
-**E019355** · 2026-08-27T21:57:22.000000-06:00 · Messenger · Epazote Tulancingo · Adilenee Razo: Lo que pasa es sé no hizo tarde y queríamos avisar que llegaríamos a las 9 pero decía que cerraban a esa hora y después ví en Google maps que era a las 10 y como ya se realizó el pago pues para que la reservación sea para el día de mañana
+**E020331** · 2026-08-27T21:57:22.000000-06:00 · Messenger · Epazote Tulancingo · Adilenee Razo: Lo que pasa es sé no hizo tarde y queríamos avisar que llegaríamos a las 9 pero decía que cerraban a esa hora y después ví en Google maps que era a las 10 y como ya se realizó el pago pues para que la reservación sea para el día de mañana
 S438 · message_index_1based=23; línea 13, columna 8117
 
-Se inspeccionó visualmente la foto adjunta enviada el 27-08-2026 a las 21:50:38 (E019341; S438 · message_index_1based=37; línea 13, columna 13153). Es una captura de una conversación de WhatsApp con 'Epazote / Restaurante Epazote', que incluye un comprobante por $650.00, concepto 'paquete', referencia 7116298, beneficiario visible Rafael Santos y cuentas bancarias parcialmente ocultas. La referencia 7116298 es bancaria, no un identificador de empresa de Facebook o de Google. No se atribuye al beneficiario la propiedad legal del restaurante. La captura no proporciona un historial completo de WhatsApp ni un enlace a su cuenta.
+Se inspeccionó visualmente la foto adjunta enviada el 27-08-2026 a las 21:50:38 (E020317; S438 · message_index_1based=37; línea 13, columna 13153). Es una captura de una conversación de WhatsApp con 'Epazote / Restaurante Epazote', que incluye un comprobante por $650.00, concepto 'paquete', referencia 7116298, beneficiario visible Rafael Santos y cuentas bancarias parcialmente ocultas. La referencia 7116298 es bancaria, no un identificador de empresa de Facebook o de Google. No se atribuye al beneficiario la propiedad legal del restaurante. La captura no proporciona un historial completo de WhatsApp ni un enlace a su cuenta.
 
 [Foto original: captura y comprobante](file:///home/deep-logic/Documentos/facebook/your_facebook_activity/messages/inbox/epazotetulancingo_1514670583749704/photos/1395635869197307.jpg)
 
@@ -220,7 +220,7 @@ El texto de Messenger menciona el horario de Google Maps, pero no incluye un enl
 
 El 03-08-2026 a las 21:31:46 se registró un clic de anuncio cuyo título/destino indica com.coppel.coppelapp. El ID de biblioteca de anuncios es 2475207562964622. La misma cadena de paquete aparece en Google Play, Analytics y Publicidad. Es una relación por paquete de aplicación, sin afirmar que el anuncio causó los usos posteriores.
 
-**E016957** · 2026-08-03T21:31:46.000000-06:00 · Anunciantes con los que interactuaste · Acción
+**E017779** · 2026-08-03T21:31:46.000000-06:00 · Anunciantes con los que interactuaste · Acción
 Clic
 Título
 http://play.google.com/store/apps/details?id=com.coppel.coppelapp
@@ -232,42 +232,42 @@ S101 · section_index_1based=13; línea 13, columna 7125
 
 [Abrir fuente web](https://www.facebook.com/ads/library/?id=2475207562964622)
 
-**E017172** · 2026-08-04T18:33:20.000000-06:00 · Google Play Store · Se ha utilizado Coppel: compras en línea
+**E018004** · 2026-08-04T18:33:20.000000-06:00 · Google Play Store · Se ha utilizado Coppel: compras en línea
 S016 · record_index_1based=4272; línea 33, columna 4245057
 
 [Abrir fuente web](https://play.google.com/store/apps/details?id=com.coppel.coppelapp)
 
-**E017515** · 2026-08-08T04:13:20.000000-06:00 · Google Play Store · Se ha utilizado Coppel: compras en línea
+**E018364** · 2026-08-08T04:13:20.000000-06:00 · Google Play Store · Se ha utilizado Coppel: compras en línea
 S016 · record_index_1based=4055; línea 33, columna 4029793
 
 [Abrir fuente web](https://play.google.com/store/apps/details?id=com.coppel.coppelapp)
 
-**E017661** · 2026-08-08T20:36:40.000000-06:00 · Google Play Store · Se ha utilizado Coppel: compras en línea
+**E018513** · 2026-08-08T20:36:40.000000-06:00 · Google Play Store · Se ha utilizado Coppel: compras en línea
 S016 · record_index_1based=4008; línea 33, columna 3982952
 
 [Abrir fuente web](https://play.google.com/store/apps/details?id=com.coppel.coppelapp)
 
-**E018115** · 2026-08-16T02:46:40.000000-06:00 · Google Play Store · Se ha utilizado Coppel: compras en línea
+**E019004** · 2026-08-16T02:46:40.000000-06:00 · Google Play Store · Se ha utilizado Coppel: compras en línea
 S016 · record_index_1based=3835; línea 33, columna 3811772
 
 [Abrir fuente web](https://play.google.com/store/apps/details?id=com.coppel.coppelapp)
 
-**E018131** · 2026-08-16T10:16:40.000000-06:00 · Google Play Store · Se ha utilizado Coppel: compras en línea
+**E019024** · 2026-08-16T10:16:40.000000-06:00 · Google Play Store · Se ha utilizado Coppel: compras en línea
 S016 · record_index_1based=3815; línea 33, columna 3791749
 
 [Abrir fuente web](https://play.google.com/store/apps/details?id=com.coppel.coppelapp)
 
-**E021442** · 2026-09-08T23:26:45.000000-06:00 · Google Analytics · Has utilizado Coppel: compras en línea
+**E030474** · 2026-09-08T23:26:45.000000-06:00 · Google Analytics · Has utilizado Coppel: compras en línea
 S012 · record_index_1based=290; línea 33, columna 313990
 
 [Abrir fuente web](https://play.google.com/store/apps/details?id=com.coppel.coppelapp)
 
-**E021443** · 2026-09-08T23:26:45.000000-06:00 · Publicidad · Has utilizado Coppel: compras en línea
+**E030475** · 2026-09-08T23:26:45.000000-06:00 · Publicidad · Has utilizado Coppel: compras en línea
 S024 · record_index_1based=245; línea 33, columna 289523
 
 [Abrir fuente web](https://play.google.com/store/apps/details?id=com.coppel.coppelapp)
 
-**E021481** · 2026-09-09T02:36:40.000000-06:00 · Google Play Store · Se ha utilizado Coppel: compras en línea
+**E030513** · 2026-09-09T02:36:40.000000-06:00 · Google Play Store · Se ha utilizado Coppel: compras en línea
 S016 · record_index_1based=2466; línea 33, columna 2452497
 
 [Abrir fuente web](https://play.google.com/store/apps/details?id=com.coppel.coppelapp)
@@ -306,47 +306,47 @@ La página de ayuda sobre descarga del historial cifrado no permitió verificar 
 
 El 26-09-2026, después de las búsquedas VAPID, aparece la consulta perfil negocios google a las 22:29:46 y visitas a business.google.com, incluida la pantalla de creación y un registro de Perfil de Empresa en Google. Son visitas documentadas; no prueban que se haya creado o administrado una ficha.
 
-**E026920** · 2026-09-26T22:29:46.000000-06:00 · Búsqueda · perfil negocios google
+**E084292** · 2026-09-26T22:29:46.000000-06:00 · Búsqueda · perfil negocios google
 S004 · record_index_1based=4; línea 33, columna 3190
 
 [Abrir fuente web](https://www.google.com/search?q=perfil+negocios+google)
 
-**E026921** · 2026-09-26T22:29:51.142605-06:00 · Historial de Chrome · Muestra tu empresa en Google: Perfil de Negocio de Google
+**E084293** · 2026-09-26T22:29:51.142605-06:00 · Historial de Chrome · Muestra tu empresa en Google: Perfil de Negocio de Google
 S028 · record_index_1based=63
 
 [Abrir fuente web](https://business.google.com/es-all/business-profile/)
 
-**E026922** · 2026-09-26T22:30:02.753842-06:00 · Historial de Chrome · Muestra tu empresa en Google: Perfil de Negocio de Google
+**E084294** · 2026-09-26T22:30:02.753842-06:00 · Historial de Chrome · Muestra tu empresa en Google: Perfil de Negocio de Google
 S028 · record_index_1based=62
 
 [Abrir fuente web](https://business.google.com/es-all/business-profile/)
 
-**E026923** · 2026-09-26T22:30:06.000000-06:00 · Chrome · Haz que tu empresa aparezca en Google
+**E084295** · 2026-09-26T22:30:06.000000-06:00 · Chrome · Haz que tu empresa aparezca en Google
 S008 · record_index_1based=18; línea 33, columna 14195
 
 [Abrir fuente web](https://business.google.com/create/new?gmbsrc=all-es-419-z-z-z-gmb-s-z-u~bgcmhp-hom_hr-u&hl=es-419&skipLandingPage=&skipPagesList=1&cbl=hr&cbp=hom&cbt=now&service=ome&original_intent=GMB)
 
-**E026924** · 2026-09-26T22:30:06.453130-06:00 · Historial de Chrome · Haz que tu empresa aparezca en Google
+**E084296** · 2026-09-26T22:30:06.453130-06:00 · Historial de Chrome · Haz que tu empresa aparezca en Google
 S028 · record_index_1based=61
 
 [Abrir fuente web](https://business.google.com/create/new?gmbsrc=all-es-419-z-z-z-gmb-s-z-u~bgcmhp-hom_hr-u&hl=es-419&skipLandingPage=&skipPagesList=1&cbl=hr&cbp=hom&cbt=now&service=ome&original_intent=GMB)
 
-**E026925** · 2026-09-26T22:30:07.000000-06:00 · Perfil de Empresa en Google · Viste Registro
+**E084297** · 2026-09-26T22:30:07.000000-06:00 · Perfil de Empresa en Google · Viste Registro
 S022 · record_index_1based=1; línea 33, columna 43
 
 [Abrir fuente web](https://business.google.com/)
 
-**E026926** · 2026-09-26T22:30:12.000000-06:00 · Búsqueda · Muestra tu empresa en Google: Perfil de Negocio de Google
+**E084298** · 2026-09-26T22:30:12.000000-06:00 · Búsqueda · Muestra tu empresa en Google: Perfil de Negocio de Google
 S004 · record_index_1based=3; línea 33, columna 2166
 
 [Abrir fuente web](https://business.google.com/es-all/business-profile/)
 
-**E026927** · 2026-09-26T22:30:12.000000-06:00 · Chrome · Muestra tu empresa en Google: Perfil de Negocio de Google
+**E084299** · 2026-09-26T22:30:12.000000-06:00 · Chrome · Muestra tu empresa en Google: Perfil de Negocio de Google
 S008 · record_index_1based=17; línea 33, columna 13496
 
 [Abrir fuente web](https://business.google.com/es-all/business-profile/)
 
-**E026928** · 2026-09-26T22:30:12.887103-06:00 · Historial de Chrome · Muestra tu empresa en Google: Perfil de Negocio de Google
+**E084300** · 2026-09-26T22:30:12.887103-06:00 · Historial de Chrome · Muestra tu empresa en Google: Perfil de Negocio de Google
 S028 · record_index_1based=60
 
 [Abrir fuente web](https://business.google.com/es-all/business-profile/)
@@ -379,7 +379,7 @@ La búsqueda aproximada sobre validar con una imagen más rápido sigue sin una 
 
 Se conservan todas las observaciones extraídas: una visita puede aparecer en varios productos. No se eliminan registros por parecer duplicados. La igualdad de URL en fuentes Google distintas a hasta dos segundos se marca como posible misma visita. Los resúmenes y detalles de actividad fuera de Meta se relacionan por nombre, campo de identificador, tipo y minuto, sin sustituir sus tiempos originales.
 
-Hay 684 relaciones automáticas propuestas en datos/actividad-correlaciones.json. Cada observación tiene ID de esta versión, fecha original, precisión, fuente y localizador de registro. El catálogo permite volver al HTML/JSON/CSV original y comprobar SHA-256. Los originales fueron verificados sin modificaciones.
+Hay 705 relaciones automáticas propuestas en datos/actividad-correlaciones.json. Cada observación tiene ID de esta versión, fecha original, precisión, fuente y localizador de registro. El catálogo permite volver al HTML/JSON/CSV original y comprobar SHA-256. Los originales fueron verificados sin modificaciones.
 
 Las horas de Facebook llevan UTC-06:00 según su encabezado. Se convierten a America/Mexico_City; para 2022 la hora local puede cambiar por el horario de verano histórico. Los registros con precisión de minuto conservan esa precisión aunque la representación ISO muestre segundos 00. Dos transacciones CSV de Google Pay no explicitan zona: se asume México y se marca la incertidumbre. No se deduce cuándo ocurrió un clic a partir de una actualización musical. Fechas de instalación, actualización, alta de dispositivo o vencimiento se etiquetan como tales, no como búsquedas ni usos de apps.
 
@@ -413,103 +413,107 @@ Coincidencia comprobada: los dos nombres de archivo terminan en 1055298096548444
 
 A las 21:12:50 del 20 de septiembre (03:12:50 UTC del día 21) aparece la consulta 6850175308; 39 segundos después está la visita a Etsy. Referencia Búsqueda #170. También se buscó ese número en Google Chat a las 20:47:22 (Chat #1): ese registro es una búsqueda, no un mensaje enviado. Se había consultado repetidamente el 14 y 15 de septiembre y el día 20 a las 16:11:03.
 
-**E023264** · México 2026-09-14T11:00:51.000000-06:00 · UTC 2026-09-14T17:00:51.000000+00:00
+**E047328** · México 2026-09-14T11:00:51.000000-06:00 · UTC 2026-09-14T17:00:51.000000+00:00
 Búsqueda · 6850175308
 S004 · {"record_index_1based": 311, "html_line_1based": 34, "html_column_0based": 297861}
 
 [Abrir enlace](https://www.google.com/search?q=6850175308)
 
-**E023274** · México 2026-09-14T12:17:55.000000-06:00 · UTC 2026-09-14T18:17:55.000000+00:00
+**E047340** · México 2026-09-14T12:17:55.000000-06:00 · UTC 2026-09-14T18:17:55.000000+00:00
 Búsqueda · 6850175308
 S004 · {"record_index_1based": 310, "html_line_1based": 34, "html_column_0based": 296699}
 
 [Abrir enlace](https://www.google.com/search?q=6850175308)
 
-**E023324** · México 2026-09-14T20:13:32.000000-06:00 · UTC 2026-09-15T02:13:32.000000+00:00
+**E058023** · México 2026-09-14T20:13:32.000000-06:00 · UTC 2026-09-15T02:13:32.000000+00:00
 Búsqueda · 6850175308
 S004 · {"record_index_1based": 307, "html_line_1based": 34, "html_column_0based": 293182}
 
 [Abrir enlace](https://www.google.com/search?q=6850175308)
 
-**E023369** · México 2026-09-14T22:12:26.000000-06:00 · UTC 2026-09-15T04:12:26.000000+00:00
+**E058080** · México 2026-09-14T22:12:26.000000-06:00 · UTC 2026-09-15T04:12:26.000000+00:00
 Búsqueda · 6850175308
 S004 · {"record_index_1based": 293, "html_line_1based": 34, "html_column_0based": 276638}
 
 [Abrir enlace](https://www.google.com/search?q=6850175308)
 
-**E023405** · México 2026-09-14T23:04:27.000000-06:00 · UTC 2026-09-15T05:04:27.000000+00:00
+**E058116** · México 2026-09-14T23:04:27.000000-06:00 · UTC 2026-09-15T05:04:27.000000+00:00
 Búsqueda · 6850175308
 S004 · {"record_index_1based": 292, "html_line_1based": 34, "html_column_0based": 275476}
 
 [Abrir enlace](https://www.google.com/search?q=6850175308)
 
-**E023433** · México 2026-09-15T01:29:15.000000-06:00 · UTC 2026-09-15T07:29:15.000000+00:00
+**E058459** · México 2026-09-15T01:29:15.000000-06:00 · UTC 2026-09-15T07:29:15.000000+00:00
 Búsqueda · 6850175308
 S004 · {"record_index_1based": 290, "html_line_1based": 34, "html_column_0based": 273107}
 
 [Abrir enlace](https://www.google.com/search?q=6850175308)
 
-**E023571** · México 2026-09-15T11:18:48.000000-06:00 · UTC 2026-09-15T17:18:48.000000+00:00
+**E058973** · México 2026-09-15T11:18:48.000000-06:00 · UTC 2026-09-15T17:18:48.000000+00:00
 Búsqueda · 6850175308
 S004 · {"record_index_1based": 274, "html_line_1based": 34, "html_column_0based": 254324}
 
 [Abrir enlace](https://www.google.com/search?q=6850175308)
 
-**E023584** · México 2026-09-15T11:51:34.000000-06:00 · UTC 2026-09-15T17:51:34.000000+00:00
+**E058986** · México 2026-09-15T11:51:34.000000-06:00 · UTC 2026-09-15T17:51:34.000000+00:00
 Búsqueda · 6850175308
 S004 · {"record_index_1based": 270, "html_line_1based": 34, "html_column_0based": 249664}
 
 [Abrir enlace](https://www.google.com/search?q=6850175308)
 
-**E024567** · México 2026-09-20T16:11:03.000000-06:00 · UTC 2026-09-20T22:11:03.000000+00:00
+**E071360** · México 2026-09-20T16:11:03.000000-06:00 · UTC 2026-09-20T22:11:03.000000+00:00
 Búsqueda · 6850175308
 S004 · {"record_index_1based": 177, "html_line_1based": 34, "html_column_0based": 145791}
 
 [Abrir enlace](https://www.google.com/search?q=6850175308)
 
-**E024654** · México 2026-09-20T20:47:22.000000-06:00 · UTC 2026-09-21T02:47:22.000000+00:00
+**E072521** · México 2026-09-20T20:47:22.000000-06:00 · UTC 2026-09-21T02:47:22.000000+00:00
 Chat · 6850175308
 S007 · {"record_index_1based": 1, "html_line_1based": 33, "html_column_0based": 43}
 
 [Abrir enlace](https://mail.google.com/chat/#search/6850175308)
 
-**E024668** · México 2026-09-20T21:12:50.000000-06:00 · UTC 2026-09-21T03:12:50.000000+00:00
+**E072537** · México 2026-09-20T21:12:50.000000-06:00 · UTC 2026-09-21T03:12:50.000000+00:00
 Búsqueda · 6850175308
 S004 · {"record_index_1based": 170, "html_line_1based": 34, "html_column_0based": 137950}
 
 [Abrir enlace](https://www.google.com/search?q=6850175308)
 
-**E026012** · México 2026-09-25T15:24:48.502037-06:00 · UTC 2026-09-25T21:24:48.502037+00:00
+**E078474** · México 2026-09-25T15:20:10.000000-06:00 · UTC 2026-09-25T21:20:10.000000+00:00
+MBOX · Cabeceras Date · Correo · noreply@notice.xiaomi.com · Xiaomi Account password changed
+S508 · {"mbox_message_index_1based": 27, "mail_id": "M000027", "message_id": "<1790371210682_112866_1088606_3539.sc-10-2-255-203-inbound0@em1424.notice.xiaomi.com>"}
+
+**E078490** · México 2026-09-25T15:24:48.502037-06:00 · UTC 2026-09-25T21:24:48.502037+00:00
 Historial de Chrome · Xiaomi Account
 S028 · {"record_index_1based": 146, "json_pointer": "/Browser History/145"}
 
 [Abrir enlace](https://account.xiaomi.com/fe/service/account?cUserId=wAb6f4ntA20ZEJ6WDRaIbXk_M8I&userId=6850175308)
 
-**E026013** · México 2026-09-25T15:24:49.124575-06:00 · UTC 2026-09-25T21:24:49.124575+00:00
+**E078491** · México 2026-09-25T15:24:49.124575-06:00 · UTC 2026-09-25T21:24:49.124575+00:00
 Historial de Chrome · Xiaomi Account
 S028 · {"record_index_1based": 145, "json_pointer": "/Browser History/144"}
 
 [Abrir enlace](https://account.xiaomi.com/fe/service/account?cUserId=wAb6f4ntA20ZEJ6WDRaIbXk_M8I&userId=6850175308&_locale=en_US)
 
-**E026016** · México 2026-09-25T15:25:33.256443-06:00 · UTC 2026-09-25T21:25:33.256443+00:00
+**E078495** · México 2026-09-25T15:25:33.256443-06:00 · UTC 2026-09-25T21:25:33.256443+00:00
 Historial de Chrome · Xiaomi Account
 S028 · {"record_index_1based": 142, "json_pointer": "/Browser History/141"}
 
 [Abrir enlace](https://account.xiaomi.com/auth/jump?target=https%3A%2F%2Faccount.xiaomi.com%2Ffe%2Fservice%2Faccount%2Fprivacy%3FcUserId%3DwAb6f4ntA20ZEJ6WDRaIbXk_M8I%26userId%3D6850175308%26_locale%3Den_US&cUserId=wAb6f4ntA20ZEJ6WDRaIbXk_M8I&userId=6850175308)
 
-**E026017** · México 2026-09-25T15:25:33.788076-06:00 · UTC 2026-09-25T21:25:33.788076+00:00
+**E078496** · México 2026-09-25T15:25:33.788076-06:00 · UTC 2026-09-25T21:25:33.788076+00:00
 Historial de Chrome · Xiaomi Account
 S028 · {"record_index_1based": 141, "json_pointer": "/Browser History/140"}
 
 [Abrir enlace](https://account.xiaomi.com/fe/service/account/privacy?cUserId=wAb6f4ntA20ZEJ6WDRaIbXk_M8I&_locale=en_US&userId=6850175308)
 
-**E026018** · México 2026-09-25T15:25:38.000000-06:00 · UTC 2026-09-25T21:25:38.000000+00:00
+**E078497** · México 2026-09-25T15:25:38.000000-06:00 · UTC 2026-09-25T21:25:38.000000+00:00
 Chrome · Xiaomi Account
 S008 · {"record_index_1based": 53, "html_line_1based": 33, "html_column_0based": 53412}
 
 [Abrir enlace](https://account.xiaomi.com/fe/service/account/privacy/application?cUserId=wAb6f4ntA20ZEJ6WDRaIbXk_M8I&_locale=en_US&userId=6850175308)
 
-**E026019** · México 2026-09-25T15:25:38.671916-06:00 · UTC 2026-09-25T21:25:38.671916+00:00
+**E078498** · México 2026-09-25T15:25:38.671916-06:00 · UTC 2026-09-25T21:25:38.671916+00:00
 Historial de Chrome · Xiaomi Account
 S028 · {"record_index_1based": 140, "json_pointer": "/Browser History/139"}
 
@@ -543,195 +547,195 @@ Las visitas a Clarín del 20 de septiembre sí aparecen en Google Analytics y Pu
 
 ## Secuencia recuperada: visitas, consultas y páginas de cuenta
 
-**E024668** · México 2026-09-20T21:12:50.000000-06:00 · UTC 2026-09-21T03:12:50.000000+00:00
+**E072537** · México 2026-09-20T21:12:50.000000-06:00 · UTC 2026-09-21T03:12:50.000000+00:00
 Búsqueda · 6850175308
 S004 · {"record_index_1based": 170, "html_line_1based": 34, "html_column_0based": 137950}
 
 [Abrir enlace](https://www.google.com/search?q=6850175308)
 
-**E024673** · México 2026-09-20T21:13:29.000000-06:00 · UTC 2026-09-21T03:13:29.000000+00:00
+**E072542** · México 2026-09-20T21:13:29.000000-06:00 · UTC 2026-09-21T03:13:29.000000+00:00
 Búsqueda · Pendiente de sol en oro macizo, piercing para labio en oro macizo ...
 S004 · {"record_index_1based": 169, "html_line_1based": 34, "html_column_0based": 136819}
 
 [Abrir enlace](https://www.etsy.com/es/listing/4303042674/pendiente-de-sol-en-oro-macizo-piercing)
 
-**E024674** · México 2026-09-20T21:13:36.000000-06:00 · UTC 2026-09-21T03:13:36.000000+00:00
+**E072543** · México 2026-09-20T21:13:36.000000-06:00 · UTC 2026-09-21T03:13:36.000000+00:00
 Google Analytics · www.etsy.com/es/listing/4303042674/pendiente-de-sol-en-oro-macizo-piercing
 S012 · {"record_index_1based": 137, "html_line_1based": 33, "html_column_0based": 146988}
 
 [Abrir enlace](http://www.etsy.com/es/listing/4303042674/pendiente-de-sol-en-oro-macizo-piercing)
 
-**E024676** · México 2026-09-20T21:18:59.000000-06:00 · UTC 2026-09-21T03:18:59.000000+00:00
+**E072545** · México 2026-09-20T21:18:59.000000-06:00 · UTC 2026-09-21T03:18:59.000000+00:00
 Búsqueda · g.co/sc
 S004 · {"record_index_1based": 168, "html_line_1based": 34, "html_column_0based": 135664}
 
 [Abrir enlace](https://www.google.com/search?q=g.co%2Fsc)
 
-**E024679** · México 2026-09-20T21:32:10.000000-06:00 · UTC 2026-09-21T03:32:10.000000+00:00
+**E072548** · México 2026-09-20T21:32:10.000000-06:00 · UTC 2026-09-21T03:32:10.000000+00:00
 Google Analytics · miperfil.clarin.com/
 S012 · {"record_index_1based": 135, "html_line_1based": 33, "html_column_0based": 144822}
 
 [Abrir enlace](http://miperfil.clarin.com/)
 
-**E024680** · México 2026-09-20T21:36:31.000000-06:00 · UTC 2026-09-21T03:36:31.000000+00:00
+**E072549** · México 2026-09-20T21:36:31.000000-06:00 · UTC 2026-09-21T03:36:31.000000+00:00
 Búsqueda · clarin
 S004 · {"record_index_1based": 167, "html_line_1based": 34, "html_column_0based": 134335}
 
 [Abrir enlace](https://www.google.com/search?q=clarin)
 
-**E024685** · México 2026-09-20T21:40:31.000000-06:00 · UTC 2026-09-21T03:40:31.000000+00:00
+**E072554** · México 2026-09-20T21:40:31.000000-06:00 · UTC 2026-09-21T03:40:31.000000+00:00
 Búsqueda · inwebo authenticator
 S004 · {"record_index_1based": 164, "html_line_1based": 34, "html_column_0based": 130939}
 
 [Abrir enlace](https://www.google.com/search?q=inwebo+authenticator)
 
-**E024688** · México 2026-09-20T21:42:20.000000-06:00 · UTC 2026-09-21T03:42:20.000000+00:00
+**E072557** · México 2026-09-20T21:42:20.000000-06:00 · UTC 2026-09-21T03:42:20.000000+00:00
 Google Analytics · www.hermes.com/mx/es/
 S012 · {"record_index_1based": 131, "html_line_1based": 33, "html_column_0based": 140589}
 
 [Abrir enlace](http://www.hermes.com/mx/es/)
 
-**E024689** · México 2026-09-20T21:42:20.000000-06:00 · UTC 2026-09-21T03:42:20.000000+00:00
+**E072558** · México 2026-09-20T21:42:20.000000-06:00 · UTC 2026-09-21T03:42:20.000000+00:00
 Google Analytics · www.hermes.com/mx/es/login/
 S012 · {"record_index_1based": 132, "html_line_1based": 33, "html_column_0based": 141645}
 
 [Abrir enlace](http://www.hermes.com/mx/es/login/)
 
-**E024695** · México 2026-09-20T21:44:31.000000-06:00 · UTC 2026-09-21T03:44:31.000000+00:00
+**E072564** · México 2026-09-20T21:44:31.000000-06:00 · UTC 2026-09-21T03:44:31.000000+00:00
 Traductor de Google · el sitio web traducido https://hermes-agent.nousresearch.com/docs/user-guide/messaging
 S026 · {"record_index_1based": 1, "html_line_1based": 33, "html_column_0based": 43}
 
 [Abrir enlace](https://hermes--agent-nousresearch-com.translate.goog/docs/user-guide/messaging?_x_tr_sl=auto&_x_tr_tl=es&_x_tr_hl=es-419&_x_tr_pto=tc)
 
-**E024696** · México 2026-09-20T21:47:08.000000-06:00 · UTC 2026-09-21T03:47:08.000000+00:00
+**E072565** · México 2026-09-20T21:47:08.000000-06:00 · UTC 2026-09-21T03:47:08.000000+00:00
 Google Analytics · postlogin.clarin.com/post-login
 S012 · {"record_index_1based": 129, "html_line_1based": 33, "html_column_0based": 138369}
 
 [Abrir enlace](http://postlogin.clarin.com/post-login)
 
-**E024701** · México 2026-09-20T21:48:56.266751-06:00 · UTC 2026-09-21T03:48:56.266751+00:00
+**E072570** · México 2026-09-20T21:48:56.266751-06:00 · UTC 2026-09-21T03:48:56.266751+00:00
 Google Play Store · Installs · Installs · firstInstallationTime · TrustBuilder Authenticator
 S058 · {"json_pointer": "/367/install/firstInstallationTime"}
 
-**E024702** · México 2026-09-20T21:48:56.266751-06:00 · UTC 2026-09-21T03:48:56.266751+00:00
+**E072571** · México 2026-09-20T21:48:56.266751-06:00 · UTC 2026-09-21T03:48:56.266751+00:00
 Google Play Store · Installs · Installs · lastUpdateTime · TrustBuilder Authenticator
 S058 · {"json_pointer": "/367/install/lastUpdateTime"}
 
-**E024704** · México 2026-09-20T21:49:27.000000-06:00 · UTC 2026-09-21T03:49:27.000000+00:00
+**E072573** · México 2026-09-20T21:49:27.000000-06:00 · UTC 2026-09-21T03:49:27.000000+00:00
 Google Play Store · TrustBuilder Authenticator
 S016 · {"record_index_1based": 276, "html_line_1based": 33, "html_column_0based": 274049}
 
 [Abrir enlace](https://play.google.com/store/apps/details?id=com.inwebo.near.prod)
 
-**E024734** · México 2026-09-20T22:56:36.000000-06:00 · UTC 2026-09-21T04:56:36.000000+00:00
+**E072610** · México 2026-09-20T22:56:36.000000-06:00 · UTC 2026-09-21T04:56:36.000000+00:00
 Google Analytics · www.hermes.com/us/en/account/create/
 S012 · {"record_index_1based": 111, "html_line_1based": 33, "html_column_0based": 117884}
 
 [Abrir enlace](http://www.hermes.com/us/en/account/create/)
 
-**E024736** · México 2026-09-20T22:58:55.000000-06:00 · UTC 2026-09-21T04:58:55.000000+00:00
+**E072612** · México 2026-09-20T22:58:55.000000-06:00 · UTC 2026-09-21T04:58:55.000000+00:00
 Búsqueda · Hermes Agent — Open-Source AI Agent That Grows With You ...
 S004 · {"record_index_1based": 150, "html_line_1based": 34, "html_column_0based": 112759}
 
 [Abrir enlace](https://hermes-agent.nousresearch.com/)
 
-**E024737** · México 2026-09-20T22:59:59.000000-06:00 · UTC 2026-09-21T04:59:59.000000+00:00
+**E072613** · México 2026-09-20T22:59:59.000000-06:00 · UTC 2026-09-21T04:59:59.000000+00:00
 Búsqueda · hermes agent
 S004 · {"record_index_1based": 149, "html_line_1based": 34, "html_column_0based": 111593}
 
 [Abrir enlace](https://www.google.com/search?q=hermes+agent)
 
-**E024739** · México 2026-09-20T23:01:38.000000-06:00 · UTC 2026-09-21T05:01:38.000000+00:00
+**E072616** · México 2026-09-20T23:01:38.000000-06:00 · UTC 2026-09-21T05:01:38.000000+00:00
 Google Analytics · www.hermes.com/us/en/login/
 S012 · {"record_index_1based": 108, "html_line_1based": 33, "html_column_0based": 114671}
 
 [Abrir enlace](http://www.hermes.com/us/en/login/)
 
-**E024745** · México 2026-09-20T23:07:02.000000-06:00 · UTC 2026-09-21T05:07:02.000000+00:00
+**E072622** · México 2026-09-20T23:07:02.000000-06:00 · UTC 2026-09-21T05:07:02.000000+00:00
 Google Analytics · www.hermes.com/us/en/
 S012 · {"record_index_1based": 106, "html_line_1based": 33, "html_column_0based": 112548}
 
 [Abrir enlace](http://www.hermes.com/us/en/)
 
-**E024782** · México 2026-09-20T23:36:40.000000-06:00 · UTC 2026-09-21T05:36:40.000000+00:00
+**E072660** · México 2026-09-20T23:36:40.000000-06:00 · UTC 2026-09-21T05:36:40.000000+00:00
 Google Play Store · Se ha utilizado TrustBuilder Authenticator
 S016 · {"record_index_1based": 412, "html_line_1based": 33, "html_column_0based": 409776}
 
 [Abrir enlace](https://play.google.com/store/apps/details?id=com.inwebo.near.prod)
 
-**E024568** · México 2026-09-20T16:12:12.000000-06:00 · UTC 2026-09-20T22:12:12.000000+00:00
+**E071361** · México 2026-09-20T16:12:12.000000-06:00 · UTC 2026-09-20T22:12:12.000000+00:00
 Google Analytics · portal.nousresearch.com/cloud
 S012 · {"record_index_1based": 147, "html_line_1based": 33, "html_column_0based": 157875}
 
 [Abrir enlace](http://portal.nousresearch.com/cloud)
 
-**E024569** · México 2026-09-20T16:13:44.000000-06:00 · UTC 2026-09-20T22:13:44.000000+00:00
+**E071363** · México 2026-09-20T16:13:44.000000-06:00 · UTC 2026-09-20T22:13:44.000000+00:00
 Google Analytics · portal.nousresearch.com/orgs/3d6ba8ff/billing
 S012 · {"record_index_1based": 146, "html_line_1based": 33, "html_column_0based": 156747}
 
 [Abrir enlace](http://portal.nousresearch.com/orgs/3d6ba8ff/billing)
 
-**E024570** · México 2026-09-20T16:14:57.000000-06:00 · UTC 2026-09-20T22:14:57.000000+00:00
+**E071364** · México 2026-09-20T16:14:57.000000-06:00 · UTC 2026-09-20T22:14:57.000000+00:00
 Google Analytics · portal.nousresearch.com/
 S012 · {"record_index_1based": 145, "html_line_1based": 33, "html_column_0based": 155682}
 
 [Abrir enlace](http://portal.nousresearch.com/)
 
-**E024577** · México 2026-09-20T16:17:50.000000-06:00 · UTC 2026-09-20T22:17:50.000000+00:00
+**E071371** · México 2026-09-20T16:17:50.000000-06:00 · UTC 2026-09-20T22:17:50.000000+00:00
 Google Analytics · portal.nousresearch.com/login
 S012 · {"record_index_1based": 144, "html_line_1based": 33, "html_column_0based": 154602}
 
 [Abrir enlace](http://portal.nousresearch.com/login)
 
-**E024709** · México 2026-09-20T21:59:47.000000-06:00 · UTC 2026-09-21T03:59:47.000000+00:00
+**E072580** · México 2026-09-20T21:59:47.000000-06:00 · UTC 2026-09-21T03:59:47.000000+00:00
 Google Analytics · portal.nousresearch.com/manage-subscription
 S012 · {"record_index_1based": 124, "html_line_1based": 33, "html_column_0based": 132591}
 
 [Abrir enlace](http://portal.nousresearch.com/manage-subscription)
 
-**E024710** · México 2026-09-20T22:05:38.000000-06:00 · UTC 2026-09-21T04:05:38.000000+00:00
+**E072584** · México 2026-09-20T22:05:38.000000-06:00 · UTC 2026-09-21T04:05:38.000000+00:00
 Google Analytics · portal.nousresearch.com/orgs/3d6ba8ff/billing
 S012 · {"record_index_1based": 123, "html_line_1based": 33, "html_column_0based": 131462}
 
 [Abrir enlace](http://portal.nousresearch.com/orgs/3d6ba8ff/billing)
 
-**E024711** · México 2026-09-20T22:16:28.000000-06:00 · UTC 2026-09-21T04:16:28.000000+00:00
+**E072586** · México 2026-09-20T22:16:28.000000-06:00 · UTC 2026-09-21T04:16:28.000000+00:00
 Google Analytics · portal.nousresearch.com/orgs/3d6ba8ff/api-keys
 S012 · {"record_index_1based": 122, "html_line_1based": 33, "html_column_0based": 130330}
 
 [Abrir enlace](http://portal.nousresearch.com/orgs/3d6ba8ff/api-keys)
 
-**E024712** · México 2026-09-20T22:16:49.000000-06:00 · UTC 2026-09-21T04:16:49.000000+00:00
+**E072587** · México 2026-09-20T22:16:49.000000-06:00 · UTC 2026-09-21T04:16:49.000000+00:00
 Google Analytics · portal.nousresearch.com/cloud
 S012 · {"record_index_1based": 121, "html_line_1based": 33, "html_column_0based": 129249}
 
 [Abrir enlace](http://portal.nousresearch.com/cloud)
 
-**E024713** · México 2026-09-20T22:17:02.000000-06:00 · UTC 2026-09-21T04:17:02.000000+00:00
+**E072588** · México 2026-09-20T22:17:02.000000-06:00 · UTC 2026-09-21T04:17:02.000000+00:00
 Google Analytics · portal.nousresearch.com/orgs/3d6ba8ff/agents
 S012 · {"record_index_1based": 120, "html_line_1based": 33, "html_column_0based": 128123}
 
 [Abrir enlace](http://portal.nousresearch.com/orgs/3d6ba8ff/agents)
 
-**E024738** · México 2026-09-20T23:00:20.000000-06:00 · UTC 2026-09-21T05:00:20.000000+00:00
+**E072614** · México 2026-09-20T23:00:20.000000-06:00 · UTC 2026-09-21T05:00:20.000000+00:00
 Google Analytics · portal.nousresearch.com/cloud
 S012 · {"record_index_1based": 109, "html_line_1based": 33, "html_column_0based": 115746}
 
 [Abrir enlace](http://portal.nousresearch.com/cloud)
 
-**E024741** · México 2026-09-20T23:02:35.000000-06:00 · UTC 2026-09-21T05:02:35.000000+00:00
+**E072618** · México 2026-09-20T23:02:35.000000-06:00 · UTC 2026-09-21T05:02:35.000000+00:00
 Búsqueda · https://portal.nousresearch.com/
 S004 · {"record_index_1based": 147, "html_line_1based": 34, "html_column_0based": 108937}
 
 [Abrir enlace](https://portal.nousresearch.com/)
 
-**E024742** · México 2026-09-20T23:03:11.000000-06:00 · UTC 2026-09-21T05:03:11.000000+00:00
+**E072619** · México 2026-09-20T23:03:11.000000-06:00 · UTC 2026-09-21T05:03:11.000000+00:00
 Google Analytics · portal.nousresearch.com/
 S012 · {"record_index_1based": 107, "html_line_1based": 33, "html_column_0based": 113605}
 
 [Abrir enlace](http://portal.nousresearch.com/)
 
-**E024747** · México 2026-09-20T23:11:40.000000-06:00 · UTC 2026-09-21T05:11:40.000000+00:00
+**E072625** · México 2026-09-20T23:11:40.000000-06:00 · UTC 2026-09-21T05:11:40.000000+00:00
 Google Analytics · portal.nousresearch.com/orgs/3d6ba8ff/usage
 S012 · {"record_index_1based": 104, "html_line_1based": 33, "html_column_0based": 110353}
 
@@ -749,69 +753,69 @@ Ninguno de los seis números empresariales/de evento/sufijo enumerados aparece l
 
 La misma noche hubo búsquedas inwebo authenticator, acceso a myinwebo.com y una primera instalación de TrustBuilder Authenticator a las 21:48:56.266751. El registro de uso de Google Play es de las 23:36:40. Esta es una nueva pista concreta para la consulta anterior sobre validar con una imagen, aunque no se encontró la frase exacta ni un QR de activación personal.
 
-**E024571** · México 2026-09-20T16:15:48.000000-06:00 · UTC 2026-09-20T22:15:48.000000+00:00
+**E071365** · México 2026-09-20T16:15:48.000000-06:00 · UTC 2026-09-20T22:15:48.000000+00:00
 Búsqueda · inwebo authenticator
 S004 · {"record_index_1based": 176, "html_line_1based": 34, "html_column_0based": 144610}
 
 [Abrir enlace](https://www.google.com/search?q=inwebo+authenticator)
 
-**E024572** · México 2026-09-20T16:16:03.000000-06:00 · UTC 2026-09-20T22:16:03.000000+00:00
+**E071366** · México 2026-09-20T16:16:03.000000-06:00 · UTC 2026-09-20T22:16:03.000000+00:00
 Búsqueda · inWebo Authenticator 6 para Android - Descargar
 S004 · {"record_index_1based": 175, "html_line_1based": 34, "html_column_0based": 143532}
 
 [Abrir enlace](https://inwebo-authenticator-6.softonic.com/android)
 
-**E024573** · México 2026-09-20T16:16:08.000000-06:00 · UTC 2026-09-20T22:16:08.000000+00:00
+**E071367** · México 2026-09-20T16:16:08.000000-06:00 · UTC 2026-09-20T22:16:08.000000+00:00
 Búsqueda · my inwebo authenticator
 S004 · {"record_index_1based": 174, "html_line_1based": 34, "html_column_0based": 142345}
 
 [Abrir enlace](https://www.google.com/search?q=my+inwebo+authenticator)
 
-**E024574** · México 2026-09-20T16:16:11.000000-06:00 · UTC 2026-09-20T22:16:11.000000+00:00
+**E071368** · México 2026-09-20T16:16:11.000000-06:00 · UTC 2026-09-20T22:16:11.000000+00:00
 Búsqueda · MyinWebo.com
 S004 · {"record_index_1based": 173, "html_line_1based": 34, "html_column_0based": 141332}
 
 [Abrir enlace](https://myinwebo.com/)
 
-**E024575** · México 2026-09-20T16:16:37.000000-06:00 · UTC 2026-09-20T22:16:37.000000+00:00
+**E071369** · México 2026-09-20T16:16:37.000000-06:00 · UTC 2026-09-20T22:16:37.000000+00:00
 Búsqueda · inwebo admin
 S004 · {"record_index_1based": 172, "html_line_1based": 34, "html_column_0based": 140167}
 
 [Abrir enlace](https://www.google.com/search?q=inwebo+admin)
 
-**E024576** · México 2026-09-20T16:17:13.000000-06:00 · UTC 2026-09-20T22:17:13.000000+00:00
+**E071370** · México 2026-09-20T16:17:13.000000-06:00 · UTC 2026-09-20T22:17:13.000000+00:00
 Búsqueda · https://www.myinwebo.com/console/logon
 S004 · {"record_index_1based": 171, "html_line_1based": 34, "html_column_0based": 139111}
 
 [Abrir enlace](https://www.myinwebo.com/console/logon)
 
-**E024685** · México 2026-09-20T21:40:31.000000-06:00 · UTC 2026-09-21T03:40:31.000000+00:00
+**E072554** · México 2026-09-20T21:40:31.000000-06:00 · UTC 2026-09-21T03:40:31.000000+00:00
 Búsqueda · inwebo authenticator
 S004 · {"record_index_1based": 164, "html_line_1based": 34, "html_column_0based": 130939}
 
 [Abrir enlace](https://www.google.com/search?q=inwebo+authenticator)
 
-**E024686** · México 2026-09-20T21:40:35.000000-06:00 · UTC 2026-09-21T03:40:35.000000+00:00
+**E072555** · México 2026-09-20T21:40:35.000000-06:00 · UTC 2026-09-21T03:40:35.000000+00:00
 Búsqueda · https://www.myinwebo.com/
 S004 · {"record_index_1based": 163, "html_line_1based": 34, "html_column_0based": 129909}
 
 [Abrir enlace](https://www.myinwebo.com/)
 
-**E024701** · México 2026-09-20T21:48:56.266751-06:00 · UTC 2026-09-21T03:48:56.266751+00:00
+**E072570** · México 2026-09-20T21:48:56.266751-06:00 · UTC 2026-09-21T03:48:56.266751+00:00
 Google Play Store · Installs · Installs · firstInstallationTime · TrustBuilder Authenticator
 S058 · {"json_pointer": "/367/install/firstInstallationTime"}
 
-**E024702** · México 2026-09-20T21:48:56.266751-06:00 · UTC 2026-09-21T03:48:56.266751+00:00
+**E072571** · México 2026-09-20T21:48:56.266751-06:00 · UTC 2026-09-21T03:48:56.266751+00:00
 Google Play Store · Installs · Installs · lastUpdateTime · TrustBuilder Authenticator
 S058 · {"json_pointer": "/367/install/lastUpdateTime"}
 
-**E024704** · México 2026-09-20T21:49:27.000000-06:00 · UTC 2026-09-21T03:49:27.000000+00:00
+**E072573** · México 2026-09-20T21:49:27.000000-06:00 · UTC 2026-09-21T03:49:27.000000+00:00
 Google Play Store · TrustBuilder Authenticator
 S016 · {"record_index_1based": 276, "html_line_1based": 33, "html_column_0based": 274049}
 
 [Abrir enlace](https://play.google.com/store/apps/details?id=com.inwebo.near.prod)
 
-**E024782** · México 2026-09-20T23:36:40.000000-06:00 · UTC 2026-09-21T05:36:40.000000+00:00
+**E072660** · México 2026-09-20T23:36:40.000000-06:00 · UTC 2026-09-21T05:36:40.000000+00:00
 Google Play Store · Se ha utilizado TrustBuilder Authenticator
 S016 · {"record_index_1based": 412, "html_line_1based": 33, "html_column_0based": 409776}
 
@@ -847,13 +851,13 @@ La hipótesis de vincular fotos mediante metadatos queda registrada como no comp
 
 Solicitud: conservar las páginas locales de los datos, preparar GitHub y una carta personal. Cuenta indicada por el usuario: spinky-afk. La declaración del usuario no equivale a una conclusión del análisis.
 
-Se prepara un sitio privado local con cronología, catálogo de fuentes actualizado, copias originales y vistas derivadas sin navegación externa. El usuario confirmó la cuenta spinky-afk. No se ha publicado un repositorio; falta conexión autorizada de GitHub.
+Se prepara un sitio privado local con cronología, catálogo de fuentes actualizado, copias originales y vistas derivadas sin navegación externa. El usuario confirmó la cuenta spinky-afk. GitHub CLI quedó autorizado para spinky-afk. El estado remoto verificado se conserva en estado-publicacion.json.
 
 GitHub Pages no se habilita automáticamente: la privacidad del repositorio no garantiza la privacidad de Pages. Referencia local G02 en referencias.html. Consulta del 1 de octubre de 2026.
 
-Cuatro archivos contienen la clave VAPID; se conservan mediante respaldo cifrado y permanecen intactos en sus ubicaciones locales. La clave del respaldo no se incluye en el repositorio. El resto de research se copia para archivo privado. La carta se guarda como testimonio solicitado, sin verificación de las acusaciones.
+Cuatro archivos contienen la clave VAPID; se conservan mediante respaldo cifrado y permanecen intactos en sus ubicaciones locales. El usuario autorizó posteriormente subir todos los originales y datos privados. La carpeta evidencia conserva íntegros los originales, las claves recuperadas y todo research; las vistas de lectura del sitio son derivados. La carta se guarda como testimonio solicitado, sin verificación de las acusaciones.
 
-Actualización preparada: 2026-10-01T17:55:13.913278+00:00. Las próximas actualizaciones requieren ejecutar el constructor; no hay una tarea automática ni vigilancia permanente.
+Actualización preparada: 2026-10-01T19:28:15.123900+00:00. Las próximas actualizaciones requieren ejecutar el constructor; no hay una tarea automática ni vigilancia permanente.
 <!-- FIN_RESULTADOS_SESION_5 -->
 
 
@@ -862,17 +866,17 @@ Actualización preparada: 2026-10-01T17:55:13.913278+00:00. Las próximas actual
 
 ## Noche del 20 y día 21: mensajes, juegos, respaldos y dispositivos
 
-Revisión de 784 observaciones del 20-09-2026 18:00 al 22-09-2026 00:00, hora de Ciudad de México. Se incorporaron 173 fechas de configuración Android, juegos y registros de sincronización de Chrome antes omitidas; la cronología completa tiene 27,044 observaciones y 495 fuentes. Los IDs E se reasignaron al ordenar esta versión; las referencias duraderas son ruta, localizador y SHA-256. La versión anterior permanece en el historial Git local.
+Revisión de 2889 observaciones del 20-09-2026 18:00 al 22-09-2026 00:00, hora de Ciudad de México. Se incorporaron 173 fechas de configuración Android, juegos y registros de sincronización de Chrome antes omitidas; la cronología completa tiene 84,642 observaciones y 508 fuentes. Los IDs E se reasignaron al ordenar esta versión; las referencias duraderas son ruta, localizador y SHA-256. La versión anterior permanece en el historial Git local.
 
 ## El respaldo que sí aparece antes de esa noche
 
 El 20 de septiembre a las 14:02:14 hubo una pregunta de Gemini en Workspace: «Backup en enlace». La respuesta de Gemini cita Cloud Backup and Restore en Drive, ID 1iO7scCcYFZiCkEFrMaqHI2BwIAIxEy9L. Es una respuesta y referencia exportada; la exportación no incluye el contenido de la carpeta. Queda fuera del intervalo nocturno y se conserva como contexto previo.
 
-**E024544** · México 2026-09-20T14:02:14.333391-06:00 · UTC 2026-09-20T20:02:14.333391+00:00
+**E071336** · México 2026-09-20T14:02:14.333391-06:00 · UTC 2026-09-20T20:02:14.333391+00:00
 Gemini en Workspace · conversation_1789934534 · conversation_1789934534 · turn_last_modified · Backup en enlace
 S083 · {"json_pointer": "/conversation_turns/0/user_turn/turn_last_modified"}
 
-**E024545** · México 2026-09-20T14:02:14.333391-06:00 · UTC 2026-09-20T20:02:14.333391+00:00
+**E071337** · México 2026-09-20T14:02:14.333391-06:00 · UTC 2026-09-20T20:02:14.333391+00:00
 Gemini en Workspace · conversation_1789934534 · conversation_1789934534 · turn_last_modified · Puedes acceder a la carpeta de copia de seguridad a través del siguiente enlace: [Cloud Backup and Restore](https://drive.google.com/open?id=1iO7scCcYFZiCkEFrMaqHI2BwIAIxEy9L%29.  
   
 ¿Te gustaría que busque algún archivo específico en tus fuentes?
@@ -898,19 +902,19 @@ El Takeout local sí incluye hadilene116@gmail.com en Perfil/Perfil.json y Cuent
 
 ## Mensajes y el perfil de negocios que se recuerda
 
-**E024595** · México 2026-09-20T19:19:57.000000-06:00 · UTC 2026-09-21T01:19:57.000000+00:00
+**E072461** · México 2026-09-20T19:19:57.000000-06:00 · UTC 2026-09-21T01:19:57.000000+00:00
 Ayuda de Google · Has chateado con Ayuda de Google
 S003 · {"record_index_1based": 3, "html_line_1based": 33, "html_column_0based": 2387}
 
 Hay una acción de chat con Ayuda de Google el 20 a las 19:19:57. El registro no contiene el texto de la conversación ni una empresa destinataria. A las 20:47:22 aparece una búsqueda del número 6850175308 en Google Chat; una búsqueda no establece que se haya enviado un mensaje.
 
-**E024654** · México 2026-09-20T20:47:22.000000-06:00 · UTC 2026-09-21T02:47:22.000000+00:00
+**E072521** · México 2026-09-20T20:47:22.000000-06:00 · UTC 2026-09-21T02:47:22.000000+00:00
 Chat · 6850175308
 S007 · {"record_index_1based": 1, "html_line_1based": 33, "html_column_0based": 43}
 
 En las conversaciones exportadas solo se recuperaron dos observaciones de Messenger en esta ventana: ambas del 21 a las 14:03:05. SOY MASON figura como remitente y se comparte una publicación sobre una biblioteca masónica en los chats SOY MASON y UN ETERNO APRENDIZ. No se halló en esta ventana un mensaje saliente verificable a un perfil empresarial. La ausencia en esta copia no demuestra que nunca se enviara.
 
-**E025372** · México 2026-09-21T14:03:05.000000-06:00 · UTC 2026-09-21T20:03:05.000000+00:00
+**E075330** · México 2026-09-21T14:03:05.000000-06:00 · UTC 2026-09-21T20:03:05.000000+00:00
 Messenger · SOY MASON · SOY MASON: SOY MASON envió un archivo adjunto.
 Encuentra nuestra BIBLIOTECA Masónica dentro de nuestra Página de Facebook o en el primer comentario... Siempre trabajando a favor del estudio constante...
 S.F.U.
@@ -1003,7 +1007,7 @@ https://www.facebook.com/story.php?story_fbid=pfbid0CdtKxNkKRfhcygRRcFnyr2Grw1gT
 1678524932434102
 S447 · {"message_index_1based": 7, "html_line_1based": 36, "html_column_0based": 3914}
 
-**E025373** · México 2026-09-21T14:03:05.000000-06:00 · UTC 2026-09-21T20:03:05.000000+00:00
+**E075331** · México 2026-09-21T14:03:05.000000-06:00 · UTC 2026-09-21T20:03:05.000000+00:00
 Messenger · UN ETERNO APRENDIZ · SOY MASON: SOY MASON envió un archivo adjunto.
 Encuentra nuestra BIBLIOTECA Masónica dentro de nuestra Página de Facebook o en el primer comentario... Siempre trabajando a favor del estudio constante...
 S.F.U.
@@ -1074,35 +1078,35 @@ El perfil de Juegos de Google Play es privado, con ID FamousSmile6745 y creació
 
 Playtime indica comienzo 05:17:44, fin 05:18:05, duración declarada de 10 segundos y Number of Sessions=0. Se preservan esos valores tal como están; el intervalo entre extremos es 21 segundos, por lo que no se reemplaza la duración declarada por una duración calculada. Los metadatos guardados tienen modificación 05:18:02 y 05:18:04.
 
-**E024879** · México 2026-09-21T05:17:44.000000-06:00 · UTC 2026-09-21T11:17:44.000000+00:00
+**E072759** · México 2026-09-21T05:17:44.000000-06:00 · UTC 2026-09-21T11:17:44.000000+00:00
 Servicios de juego de Google Play · Playtime · Daily Playtime · First Session Start · com.fugo.wow
 S489 · {"table_index_1based": 2, "row_index_1based": 2, "column": "First Session Start", "html_line_1based": 1, "html_column_0based": 620}
 
-**E024880** · México 2026-09-21T05:17:55.000000-06:00 · UTC 2026-09-21T11:17:55.000000+00:00
+**E072760** · México 2026-09-21T05:17:55.000000-06:00 · UTC 2026-09-21T11:17:55.000000+00:00
 Servicios de juego de Google Play · Player · Información general del reproductor · Player profile was created on · Player profile was created on
 S488 · {"table_index_1based": 1, "row_index_1based": 6, "column": "Player profile was created on", "html_line_1based": 1, "html_column_0based": 688}
 
-**E024881** · México 2026-09-21T05:17:57.000000-06:00 · UTC 2026-09-21T11:17:57.000000+00:00
+**E072761** · México 2026-09-21T05:17:57.000000-06:00 · UTC 2026-09-21T11:17:57.000000+00:00
 Servicios de juego de Google Play · Player · Último juego que se jugó · Jugado por última vez · Words of Wonders: Crucigrama
 S488 · {"table_index_1based": 2, "row_index_1based": 2, "column": "Jugado por última vez", "html_line_1based": 1, "html_column_0based": 903}
 
-**E024882** · México 2026-09-21T05:17:57.000000-06:00 · UTC 2026-09-21T11:17:57.000000+00:00
+**E072762** · México 2026-09-21T05:17:57.000000-06:00 · UTC 2026-09-21T11:17:57.000000+00:00
 Servicios de juego de Google Play · Actividad ·  · Time First Played · Time First Played
 S491 · {"table_index_1based": 1, "row_index_1based": 2, "column": "Time First Played", "html_line_1based": 1, "html_column_0based": 356}
 
-**E024883** · México 2026-09-21T05:17:57.000000-06:00 · UTC 2026-09-21T11:17:57.000000+00:00
+**E072763** · México 2026-09-21T05:17:57.000000-06:00 · UTC 2026-09-21T11:17:57.000000+00:00
 Servicios de juego de Google Play · Actividad ·  · Time Last Played · Time Last Played
 S491 · {"table_index_1based": 1, "row_index_1based": 3, "column": "Time Last Played", "html_line_1based": 1, "html_column_0based": 420}
 
-**E024884** · México 2026-09-21T05:18:02.000000-06:00 · UTC 2026-09-21T11:18:02.000000+00:00
+**E072764** · México 2026-09-21T05:18:02.000000-06:00 · UTC 2026-09-21T11:18:02.000000+00:00
 Servicios de juego de Google Play · Metadatos ·  · Última modificación: · Última modificación:
 S493 · {"table_index_1based": 1, "row_index_1based": 4, "column": "Última modificación:", "html_line_1based": 1, "html_column_0based": 450}
 
-**E024887** · México 2026-09-21T05:18:04.000000-06:00 · UTC 2026-09-21T11:18:04.000000+00:00
+**E072767** · México 2026-09-21T05:18:04.000000-06:00 · UTC 2026-09-21T11:18:04.000000+00:00
 Servicios de juego de Google Play · Metadatos ·  · Última modificación: · Última modificación:
 S494 · {"table_index_1based": 1, "row_index_1based": 4, "column": "Última modificación:", "html_line_1based": 1, "html_column_0based": 462}
 
-**E024888** · México 2026-09-21T05:18:05.000000-06:00 · UTC 2026-09-21T11:18:05.000000+00:00
+**E072768** · México 2026-09-21T05:18:05.000000-06:00 · UTC 2026-09-21T11:18:05.000000+00:00
 Servicios de juego de Google Play · Playtime · Daily Playtime · Last Session End · com.fugo.wow
 S489 · {"table_index_1based": 2, "row_index_1based": 2, "column": "Last Session End", "html_line_1based": 1, "html_column_0based": 620}
 
@@ -1116,35 +1120,35 @@ En Facebook, Tus puntuaciones más recientes en juegos instantáneos contiene ex
 
 El 20 a las 23:15:33 se buscó com.google.android.apps.restore. El 21 a las 04:14:28 se visitó una referencia de Drive titulada tweakradje - Restore apps (Android Switch); a las 04:29 y 06:01 hubo más consultas sobre restauración, y a las 06:16 búsquedas tweaking restore/tweaking restore android. Son consultas y visitas, sin el contenido del archivo de Drive ni una prueba de ejecución.
 
-**E024752** · México 2026-09-20T23:15:33.000000-06:00 · UTC 2026-09-21T05:15:33.000000+00:00
+**E072630** · México 2026-09-20T23:15:33.000000-06:00 · UTC 2026-09-21T05:15:33.000000+00:00
 Búsqueda · com.google.android.apps.restore
 S004 · {"record_index_1based": 142, "html_line_1based": 34, "html_column_0based": 103377}
 
-**E024833** · México 2026-09-21T04:14:28.000000-06:00 · UTC 2026-09-21T10:14:28.000000+00:00
+**E072713** · México 2026-09-21T04:14:28.000000-06:00 · UTC 2026-09-21T10:14:28.000000+00:00
 Búsqueda · tweakradje - Restore apps (Android Switch) - Google Drive: Sign-in
 S004 · {"record_index_1based": 141, "html_line_1based": 34, "html_column_0based": 102321}
 
-**E024849** · México 2026-09-21T04:29:51.000000-06:00 · UTC 2026-09-21T10:29:51.000000+00:00
+**E072729** · México 2026-09-21T04:29:51.000000-06:00 · UTC 2026-09-21T10:29:51.000000+00:00
 Búsqueda · com.google.android.apps.restore
 S004 · {"record_index_1based": 140, "html_line_1based": 34, "html_column_0based": 101118}
 
-**E024850** · México 2026-09-21T04:29:52.000000-06:00 · UTC 2026-09-21T10:29:52.000000+00:00
+**E072730** · México 2026-09-21T04:29:52.000000-06:00 · UTC 2026-09-21T10:29:52.000000+00:00
 Ayuda · Back up or restore data on your Android device - Android Help
 S002 · {"record_index_1based": 258, "html_line_1based": 33, "html_column_0based": 343767}
 
-**E024892** · México 2026-09-21T06:01:24.000000-06:00 · UTC 2026-09-21T12:01:24.000000+00:00
+**E072774** · México 2026-09-21T06:01:24.000000-06:00 · UTC 2026-09-21T12:01:24.000000+00:00
 Búsqueda · com.google.android.apps.restore
 S004 · {"record_index_1based": 139, "html_line_1based": 34, "html_column_0based": 99915}
 
-**E024893** · México 2026-09-21T06:01:25.000000-06:00 · UTC 2026-09-21T12:01:25.000000+00:00
+**E072775** · México 2026-09-21T06:01:25.000000-06:00 · UTC 2026-09-21T12:01:25.000000+00:00
 Ayuda · Back up or restore data on your Android device - Android Help
 S002 · {"record_index_1based": 257, "html_line_1based": 33, "html_column_0based": 342747}
 
-**E024898** · México 2026-09-21T06:16:36.000000-06:00 · UTC 2026-09-21T12:16:36.000000+00:00
+**E072780** · México 2026-09-21T06:16:36.000000-06:00 · UTC 2026-09-21T12:16:36.000000+00:00
 Búsqueda · tweaking restore
 S004 · {"record_index_1based": 138, "html_line_1based": 34, "html_column_0based": 98742}
 
-**E024899** · México 2026-09-21T06:16:46.000000-06:00 · UTC 2026-09-21T12:16:46.000000+00:00
+**E072781** · México 2026-09-21T06:16:46.000000-06:00 · UTC 2026-09-21T12:16:46.000000+00:00
 Búsqueda · tweaking restore android
 S004 · {"record_index_1based": 137, "html_line_1based": 34, "html_column_0based": 97553}
 
@@ -1152,31 +1156,31 @@ A 2026-09-20T23:36:40.000000-06:00 hay 66 observaciones de uso de apps con la mi
 
 A 2026-09-21T07:56:40.000000-06:00 hay 45 observaciones de uso de apps con la misma marca temporal. Aparecen componentes de Xiaomi/Google, apps personales y juegos. Esa coincidencia no identifica una automatización ni prueba que una persona abriera todas las apps exactamente a la vez.
 
-**E024774** · México 2026-09-20T23:36:40.000000-06:00 · UTC 2026-09-21T05:36:40.000000+00:00
+**E072652** · México 2026-09-20T23:36:40.000000-06:00 · UTC 2026-09-21T05:36:40.000000+00:00
 Google Play Store · Se ha utilizado com.miui.backup
 S016 · {"record_index_1based": 404, "html_line_1based": 33, "html_column_0based": 401810}
 
-**E024801** · México 2026-09-20T23:36:40.000000-06:00 · UTC 2026-09-21T05:36:40.000000+00:00
+**E072679** · México 2026-09-20T23:36:40.000000-06:00 · UTC 2026-09-21T05:36:40.000000+00:00
 Google Play Store · Se ha utilizado Android Switch
 S016 · {"record_index_1based": 511, "html_line_1based": 33, "html_column_0based": 509474}
 
-**E024833** · México 2026-09-21T04:14:28.000000-06:00 · UTC 2026-09-21T10:14:28.000000+00:00
+**E072713** · México 2026-09-21T04:14:28.000000-06:00 · UTC 2026-09-21T10:14:28.000000+00:00
 Búsqueda · tweakradje - Restore apps (Android Switch) - Google Drive: Sign-in
 S004 · {"record_index_1based": 141, "html_line_1based": 34, "html_column_0based": 102321}
 
-**E024910** · México 2026-09-21T06:35:14.706367-06:00 · UTC 2026-09-21T12:35:14.706367+00:00
+**E072792** · México 2026-09-21T06:35:14.706367-06:00 · UTC 2026-09-21T12:35:14.706367+00:00
 Google Play Store · Installs · Installs · lastUpdateTime · Android Switch
 S058 · {"json_pointer": "/136/install/lastUpdateTime"}
 
-**E025014** · México 2026-09-21T07:56:40.000000-06:00 · UTC 2026-09-21T13:56:40.000000+00:00
+**E072899** · México 2026-09-21T07:56:40.000000-06:00 · UTC 2026-09-21T13:56:40.000000+00:00
 Google Play Store · Se ha utilizado com.miui.cloudbackup
 S016 · {"record_index_1based": 213, "html_line_1based": 33, "html_column_0based": 211208}
 
-**E025015** · México 2026-09-21T07:56:40.000000-06:00 · UTC 2026-09-21T13:56:40.000000+00:00
+**E072900** · México 2026-09-21T07:56:40.000000-06:00 · UTC 2026-09-21T13:56:40.000000+00:00
 Google Play Store · Se ha utilizado com.miui.backup
 S016 · {"record_index_1based": 214, "html_line_1based": 33, "html_column_0based": 212135}
 
-**E025031** · México 2026-09-21T07:56:40.000000-06:00 · UTC 2026-09-21T13:56:40.000000+00:00
+**E072916** · México 2026-09-21T07:56:40.000000-06:00 · UTC 2026-09-21T13:56:40.000000+00:00
 Google Play Store · Se ha utilizado Android Switch
 S016 · {"record_index_1based": 230, "html_line_1based": 33, "html_column_0based": 228105}
 
@@ -1214,15 +1218,15 @@ S487 · ID 4511226476644240739 · registro: 11 ene 2025, 8:45:54 p.m. UTC · �
 
 El registro 3975241346881164962 tiene conexiones correctas el 21 a las 05:14:17 y 14:00:06; el último motivo es Device Booted. El CSV de acceso contiene registros de actividad Android, Linux, Windows e iPhone. Sus tiempos son actividad/última comunicación, no se presentan como inicios de sesión exitosos de otras personas. Google explica que un dispositivo puede tener varias sesiones y actividad de sincronización en segundo plano [N03].
 
-**E024876** · México 2026-09-21T05:14:17.000000-06:00 · UTC 2026-09-21T11:14:17.000000+00:00
+**E072756** · México 2026-09-21T05:14:17.000000-06:00 · UTC 2026-09-21T11:14:17.000000+00:00
 Configuración de dispositivos Android · Conexión de configuración Android · 3975241346881164962 · Conexiones recientes con el servicio de configuración de dispositivos Android que se establecieron correctamente:
 S485 · {"table_index_1based": 3, "row_index_1based": 30, "column": "Hora de conexión", "html_line_1based": 701, "html_column_0based": 5}
 
-**E025369** · México 2026-09-21T14:00:06.000000-06:00 · UTC 2026-09-21T20:00:06.000000+00:00
+**E075327** · México 2026-09-21T14:00:06.000000-06:00 · UTC 2026-09-21T20:00:06.000000+00:00
 Configuración de dispositivos Android · Conexión de configuración Android · 3975241346881164962 · Conexiones recientes con el servicio de configuración de dispositivos Android que se establecieron correctamente:
 S485 · {"table_index_1based": 3, "row_index_1based": 31, "column": "Hora de conexión", "html_line_1based": 709, "html_column_0based": 5}
 
-**E025370** · México 2026-09-21T14:00:06.000000-06:00 · UTC 2026-09-21T20:00:06.000000+00:00
+**E075328** · México 2026-09-21T14:00:06.000000-06:00 · UTC 2026-09-21T20:00:06.000000+00:00
 Configuración de dispositivos Android · Hora de la última conexión de datos · Android 3975241346881164962 · modelo 23129RA5FL
 S485 · {"field": "Hora de la última conexión de datos", "html_line_1based": 462, "html_column_0based": 67}
 
@@ -1248,47 +1252,47 @@ Los ocho JSON del producto App de Home contienen {} o una lista con un objeto va
 
 El 21 a las 06:35 se buscaron apple home/apple homekit en Play. A las 06:36:04.337999 se registró la instalación de HomeKit App for Android Hints para el modelo 23129RA5FL, paquete com.snailhd.inara.app. La ficha actual del desarrollador describe una guía educativa independiente sin afiliación con Apple [N01]. Encontrar esta app no acredita la app Home oficial, acceso a una casa de Apple ni infección.
 
-**E024962** · México 2026-09-21T06:35:15.000000-06:00 · UTC 2026-09-21T12:35:15.000000+00:00
+**E072844** · México 2026-09-21T06:35:15.000000-06:00 · UTC 2026-09-21T12:35:15.000000+00:00
 Google Play Store · apple home
 S016 · {"record_index_1based": 257, "html_line_1based": 33, "html_column_0based": 255010}
 
-**E024963** · México 2026-09-21T06:35:19.000000-06:00 · UTC 2026-09-21T12:35:19.000000+00:00
+**E072845** · México 2026-09-21T06:35:19.000000-06:00 · UTC 2026-09-21T12:35:19.000000+00:00
 Google Play Store · apple home
 S016 · {"record_index_1based": 255, "html_line_1based": 33, "html_column_0based": 253041}
 
-**E024965** · México 2026-09-21T06:35:34.000000-06:00 · UTC 2026-09-21T12:35:34.000000+00:00
+**E072847** · México 2026-09-21T06:35:34.000000-06:00 · UTC 2026-09-21T12:35:34.000000+00:00
 Google Play Store · apple homekit
 S016 · {"record_index_1based": 254, "html_line_1based": 33, "html_column_0based": 252046}
 
-**E024966** · México 2026-09-21T06:35:35.000000-06:00 · UTC 2026-09-21T12:35:35.000000+00:00
+**E072848** · México 2026-09-21T06:35:35.000000-06:00 · UTC 2026-09-21T12:35:35.000000+00:00
 Google Play Store · apple homekit
 S016 · {"record_index_1based": 253, "html_line_1based": 33, "html_column_0based": 251049}
 
-**E024967** · México 2026-09-21T06:35:40.000000-06:00 · UTC 2026-09-21T12:35:40.000000+00:00
+**E072849** · México 2026-09-21T06:35:40.000000-06:00 · UTC 2026-09-21T12:35:40.000000+00:00
 Google Play Store · HomeKit App for Android Hints
 S016 · {"record_index_1based": 252, "html_line_1based": 33, "html_column_0based": 250030}
 
-**E024968** · México 2026-09-21T06:36:04.337999-06:00 · UTC 2026-09-21T12:36:04.337999+00:00
+**E072850** · México 2026-09-21T06:36:04.337999-06:00 · UTC 2026-09-21T12:36:04.337999+00:00
 Google Play Store · Installs · Installs · firstInstallationTime · HomeKit App for Android Hints
 S058 · {"json_pointer": "/434/install/firstInstallationTime"}
 
-**E024969** · México 2026-09-21T06:36:08.000000-06:00 · UTC 2026-09-21T12:36:08.000000+00:00
+**E072851** · México 2026-09-21T06:36:08.000000-06:00 · UTC 2026-09-21T12:36:08.000000+00:00
 Publicidad · Se ha utilizado HomeKit App for Android Hints
 S024 · {"record_index_1based": 100, "html_line_1based": 33, "html_column_0based": 109741}
 
-**E024970** · México 2026-09-21T06:36:30.000000-06:00 · UTC 2026-09-21T12:36:30.000000+00:00
+**E072852** · México 2026-09-21T06:36:30.000000-06:00 · UTC 2026-09-21T12:36:30.000000+00:00
 Google Play Store · HomeKit App for Android Hints
 S016 · {"record_index_1based": 251, "html_line_1based": 33, "html_column_0based": 249011}
 
-**E024991** · México 2026-09-21T07:03:55.209503-06:00 · UTC 2026-09-21T13:03:55.209503+00:00
+**E072873** · México 2026-09-21T07:03:55.209503-06:00 · UTC 2026-09-21T13:03:55.209503+00:00
 Google Play Store · Installs · Installs · lastUpdateTime · HomeKit App for Android Hints
 S058 · {"json_pointer": "/434/install/lastUpdateTime"}
 
-**E025008** · México 2026-09-21T07:56:40.000000-06:00 · UTC 2026-09-21T13:56:40.000000+00:00
+**E072893** · México 2026-09-21T07:56:40.000000-06:00 · UTC 2026-09-21T13:56:40.000000+00:00
 Google Play Store · Se ha utilizado HomeKit App for Android Hints
 S016 · {"record_index_1based": 207, "html_line_1based": 33, "html_column_0based": 205443}
 
-**E025129** · México 2026-09-21T13:02:48.000000-06:00 · UTC 2026-09-21T19:02:48.000000+00:00
+**E074147** · México 2026-09-21T13:02:48.000000-06:00 · UTC 2026-09-21T19:02:48.000000+00:00
 Publicidad · Se ha utilizado HomeKit App for Android Hints
 S024 · {"record_index_1based": 88, "html_line_1based": 33, "html_column_0based": 96792}
 
@@ -1318,3 +1322,620 @@ El usuario corrigió la cuenta solicitada a hadilene116@gmail.com. Se comprobó 
 
 Para la pregunta sobre otra sesión se aplicó la habilidad OpenAI Docs. Consulta oficial: las conversaciones conservan su historial individual y pueden trabajar con archivos compartidos del mismo proyecto. Véase [ficha O01 y consulta](datos/sesiones-fuentes-web.json). No hay una tarea automática de investigación permanente.
 <!-- FIN_RESULTADOS_SESION_7 -->
+
+
+<!-- INICIO_RESULTADOS_SESION_8 -->
+## Sesión 8: Uber y cruces de Analytics
+
+## Uber Rider y Eats: cruces de Analytics, Facebook y soporte
+
+Aclaración posterior del usuario, 01-10-2026: «no no lo clonaron simplemente no entendia». El usuario aclara que no hubo clonación de la cuenta Uber y que su consulta reflejaba que no entendía los datos. Se mantiene el mensaje histórico a soporte como parte del historial, acompañado de esta aclaración actual. El propósito de estos cruces es entender los registros y su funcionamiento.
+
+[Aclaración del usuario conservada localmente](file:///home/deep-logic/ai-lab/research/vapid-webpush/datos/uber-aclaracion-usuario.json)
+
+Se incorporan 12 archivos de la carpeta /home/deep-logic/Documentos/Uber Data Request 5A426B63, situada junto a Facebook en Documentos. Los 696 archivos originales de Facebook no cambiaron respecto al inventario anterior. La nueva cronología reúne 84,642 observaciones fechadas y 508 fuentes; las referencias E pertenecen a esta edición. Los originales de Uber se preservan con SHA-256 y vistas locales.
+
+user_profile-0.csv y driver_profile-0.csv contienen hadilene116@gmail.com. El perfil de usuario indica User Type=Partner; el de conductor indica Driver Profile=UberEats, Is Partner=Yes y Lifetime Completed Trips=0. Es lo que declara la exportación; no acredita entregas realizadas, quién creó el perfil o una relación criminal. Las fechas Signup Date no tienen zona y no se colocan como instantes confirmados.
+
+[Perfil original Account and Profile/user_profile-0.csv](file:///home/deep-logic/Documentos/Uber%20Data%20Request%205A426B63/Uber%20Data/Account%20and%20Profile/user_profile-0.csv)
+
+[Perfil original Account and Profile/driver_profile-0.csv](file:///home/deep-logic/Documentos/Uber%20Data%20Request%205A426B63/Uber%20Data/Account%20and%20Profile/driver_profile-0.csv)
+
+## Los dos Analytics de Uber y el producto Google Analytics
+
+Uber Rider: 10,833 filas, de 2026-08-29T22:07:08.956000-06:00 a 2026-09-18T20:56:24.228000-06:00, hora México. Tipos literales: {"custom": 6075, "impression": 4322, "lifecycle": 87, "tap": 346, "": 3}. El modelo normalizado es 23129ra5fl con Android 15. La exportación no incluye nombres específicos de acciones para CUSTOM, ni destinatarios de mensajes en estos Analytics.
+
+[Analytics original Rider](file:///home/deep-logic/Documentos/Uber%20Data%20Request%205A426B63/Uber%20Data/Rider/rider_app_analytics-0.csv)
+
+Uber Eats: 45,178 filas, de 2026-08-29T03:53:23.184000-06:00 a 2026-09-27T17:35:30.739000-06:00, hora México. Tipos literales: {"custom": 26434, "tap": 1168, "lifecycle": 415, "impression": 17161}. El modelo normalizado es 23129ra5fl con Android 15. La exportación no incluye nombres específicos de acciones para CUSTOM, ni destinatarios de mensajes en estos Analytics.
+
+[Analytics original Eats](file:///home/deep-logic/Documentos/Uber%20Data%20Request%205A426B63/Uber%20Data/Eats/eats_app_analytics-0.csv)
+
+Mi actividad de Google contiene 866 observaciones del producto Google Analytics; 14 mencionan uso de Uber Eats y una visita a un sitio de Uber. Estos registros no son un informe de una propiedad de Analytics administrada por el usuario. Se cruzan con el CSV de Uber por producto y hora, conservando ambos registros y su precisión. Los eventos Uber se presentan de forma compacta en el PDF; los dispositivos y campos completos están en el visor y en cada fila original.
+
+## Coincidencias de Google Analytics y Uber Eats
+
+Las 14 observaciones de uso de Uber Eats en Google Analytics tienen filas del mismo producto en una ventana de ±60 segundos. Se muestra la fila más próxima; el conteo de candidatos de la ventana queda en el JSON. La cercanía no identifica un evento único: puede haber cientos de filas en dos minutos y no hay un ID común exportado.
+
+Cruce E025218 ↔ E025217: diferencia Uber menos Google = -0.056 segundos; 304 filas candidatas en ±60 s.
+
+**E025218** · 2026-09-03T15:18:18.000000-06:00 · UTC 2026-09-03T21:18:18.000000+00:00 · Google Analytics
+Has utilizado Uber Eats: Food and Grocery - Apps on Google Play
+S012 · /home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Google Analytics/MiActividad.html · {"record_index_1based": 331, "html_line_1based": 33, "html_column_0based": 359230}
+
+**E025217** · 2026-09-03T15:18:17.944000-06:00 · UTC 2026-09-03T21:18:17.944000+00:00 · Eats · Analytics
+Uber Eats · custom · 23129ra5fl / android 15
+S502 · /home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Eats/eats_app_analytics-0.csv · {"csv_record_index_1based": 15526, "csv_line_1based": 15527, "csv_end_line_1based": 15527}
+
+Cruce E028756 ↔ E028758: diferencia Uber menos Google = +0.172 segundos; 59 filas candidatas en ±60 s.
+
+**E028756** · 2026-09-05T12:38:38.000000-06:00 · UTC 2026-09-05T18:38:38.000000+00:00 · Google Analytics
+Has utilizado Uber Eats: Food and Grocery - Apps on Google Play
+S012 · /home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Google Analytics/MiActividad.html · {"record_index_1based": 322, "html_line_1based": 33, "html_column_0based": 349361}
+
+**E028758** · 2026-09-05T12:38:38.172000-06:00 · UTC 2026-09-05T18:38:38.172000+00:00 · Eats · Analytics
+Uber Eats · custom · 23129ra5fl / android 15
+S502 · /home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Eats/eats_app_analytics-0.csv · {"csv_record_index_1based": 3242, "csv_line_1based": 3243, "csv_end_line_1based": 3243}
+
+Cruce E046683 ↔ E046684: diferencia Uber menos Google = +0.013 segundos; 8 filas candidatas en ±60 s.
+
+**E046683** · 2026-09-13T17:35:30.000000-06:00 · UTC 2026-09-13T23:35:30.000000+00:00 · Google Analytics
+Has utilizado Uber Eats: Food and Grocery - Apps on Google Play
+S012 · /home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Google Analytics/MiActividad.html · {"record_index_1based": 258, "html_line_1based": 33, "html_column_0based": 279275}
+
+**E046684** · 2026-09-13T17:35:30.013000-06:00 · UTC 2026-09-13T23:35:30.013000+00:00 · Eats · Analytics
+Uber Eats · custom · 23129ra5fl / android 15
+S502 · /home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Eats/eats_app_analytics-0.csv · {"csv_record_index_1based": 44974, "csv_line_1based": 44975, "csv_end_line_1based": 44975}
+
+Cruce E046743 ↔ E046744: diferencia Uber menos Google = +0.270 segundos; 16 filas candidatas en ±60 s.
+
+**E046743** · 2026-09-13T20:20:50.000000-06:00 · UTC 2026-09-14T02:20:50.000000+00:00 · Google Analytics
+Has utilizado Uber Eats: Food and Grocery - Apps on Google Play
+S012 · /home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Google Analytics/MiActividad.html · {"record_index_1based": 252, "html_line_1based": 33, "html_column_0based": 272727}
+
+**E046744** · 2026-09-13T20:20:50.270000-06:00 · UTC 2026-09-14T02:20:50.270000+00:00 · Eats · Analytics
+Uber Eats · custom · 23129ra5fl / android 15
+S502 · /home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Eats/eats_app_analytics-0.csv · {"csv_record_index_1based": 27802, "csv_line_1based": 27803, "csv_end_line_1based": 27803}
+
+Cruce E047055 ↔ E047056: diferencia Uber menos Google = +0.150 segundos; 263 filas candidatas en ±60 s.
+
+**E047055** · 2026-09-13T21:55:51.000000-06:00 · UTC 2026-09-14T03:55:51.000000+00:00 · Google Analytics
+Has utilizado Uber Eats: Food and Grocery - Apps on Google Play
+S012 · /home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Google Analytics/MiActividad.html · {"record_index_1based": 248, "html_line_1based": 33, "html_column_0based": 268405}
+
+**E047056** · 2026-09-13T21:55:51.150000-06:00 · UTC 2026-09-14T03:55:51.150000+00:00 · Eats · Analytics
+Uber Eats · lifecycle · 23129ra5fl / android 15
+S502 · /home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Eats/eats_app_analytics-0.csv · {"csv_record_index_1based": 17453, "csv_line_1based": 17454, "csv_end_line_1based": 17454}
+
+Cruce E047920 ↔ E047921: diferencia Uber menos Google = +0.069 segundos; 634 filas candidatas en ±60 s.
+
+**E047920** · 2026-09-14T13:35:39.000000-06:00 · UTC 2026-09-14T19:35:39.000000+00:00 · Google Analytics
+Has utilizado Uber Eats: Food and Grocery - Apps on Google Play
+S012 · /home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Google Analytics/MiActividad.html · {"record_index_1based": 224, "html_line_1based": 33, "html_column_0based": 242274}
+
+**E047921** · 2026-09-14T13:35:39.069000-06:00 · UTC 2026-09-14T19:35:39.069000+00:00 · Eats · Analytics
+Uber Eats · lifecycle · 23129ra5fl / android 15
+S502 · /home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Eats/eats_app_analytics-0.csv · {"csv_record_index_1based": 18241, "csv_line_1based": 18242, "csv_end_line_1based": 18242}
+
+Cruce E049897 ↔ E049898: diferencia Uber menos Google = +0.522 segundos; 42 filas candidatas en ±60 s.
+
+**E049897** · 2026-09-14T14:39:16.000000-06:00 · UTC 2026-09-14T20:39:16.000000+00:00 · Google Analytics
+Has utilizado Uber Eats: Food and Grocery - Apps on Google Play
+S012 · /home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Google Analytics/MiActividad.html · {"record_index_1based": 221, "html_line_1based": 33, "html_column_0based": 239055}
+
+**E049898** · 2026-09-14T14:39:16.522000-06:00 · UTC 2026-09-14T20:39:16.522000+00:00 · Eats · Analytics
+Uber Eats · custom · 23129ra5fl / android 15
+S502 · /home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Eats/eats_app_analytics-0.csv · {"csv_record_index_1based": 20212, "csv_line_1based": 20213, "csv_end_line_1based": 20213}
+
+Cruce E050814 ↔ E050813: diferencia Uber menos Google = -0.084 segundos; 245 filas candidatas en ±60 s.
+
+**E050814** · 2026-09-14T15:10:58.000000-06:00 · UTC 2026-09-14T21:10:58.000000+00:00 · Google Analytics
+Has utilizado Uber Eats: Food and Grocery - Apps on Google Play
+S012 · /home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Google Analytics/MiActividad.html · {"record_index_1based": 220, "html_line_1based": 33, "html_column_0based": 237974}
+
+**E050813** · 2026-09-14T15:10:57.916000-06:00 · UTC 2026-09-14T21:10:57.916000+00:00 · Eats · Analytics
+Uber Eats · custom · 23129ra5fl / android 15
+S502 · /home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Eats/eats_app_analytics-0.csv · {"csv_record_index_1based": 21123, "csv_line_1based": 21124, "csv_end_line_1based": 21124}
+
+Cruce E071503 ↔ E071505: diferencia Uber menos Google = +1.141 segundos; 892 filas candidatas en ±60 s.
+
+**E071503** · 2026-09-20T16:48:56.000000-06:00 · UTC 2026-09-20T22:48:56.000000+00:00 · Google Analytics
+Has utilizado Uber Eats: Food and Grocery - Apps on Google Play
+S012 · /home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Google Analytics/MiActividad.html · {"record_index_1based": 143, "html_line_1based": 33, "html_column_0based": 153521}
+
+**E071505** · 2026-09-20T16:48:57.141000-06:00 · UTC 2026-09-20T22:48:57.141000+00:00 · Eats · Analytics
+Uber Eats · custom · 23129ra5fl / android 15
+S502 · /home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Eats/eats_app_analytics-0.csv · {"csv_record_index_1based": 14507, "csv_line_1based": 14508, "csv_end_line_1based": 14508}
+
+Cruce E073799 ↔ E073801: diferencia Uber menos Google = +0.193 segundos; 445 filas candidatas en ±60 s.
+
+**E073799** · 2026-09-21T12:49:03.000000-06:00 · UTC 2026-09-21T18:49:03.000000+00:00 · Google Analytics
+Has utilizado Uber Eats: Food and Grocery - Apps on Google Play
+S012 · /home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Google Analytics/MiActividad.html · {"record_index_1based": 81, "html_line_1based": 33, "html_column_0based": 85586}
+
+**E073801** · 2026-09-21T12:49:03.193000-06:00 · UTC 2026-09-21T18:49:03.193000+00:00 · Eats · Analytics
+Uber Eats · custom · 23129ra5fl / android 15
+S502 · /home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Eats/eats_app_analytics-0.csv · {"csv_record_index_1based": 10698, "csv_line_1based": 10699, "csv_end_line_1based": 10699}
+
+Cruce E076641 ↔ E076643: diferencia Uber menos Google = +0.121 segundos; 67 filas candidatas en ±60 s.
+
+**E076641** · 2026-09-24T18:02:20.000000-06:00 · UTC 2026-09-25T00:02:20.000000+00:00 · Google Analytics
+Has utilizado Uber Eats: Food and Grocery - Apps on Google Play
+S012 · /home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Google Analytics/MiActividad.html · {"record_index_1based": 73, "html_line_1based": 33, "html_column_0based": 76731}
+
+**E076643** · 2026-09-24T18:02:20.121000-06:00 · UTC 2026-09-25T00:02:20.121000+00:00 · Eats · Analytics
+Uber Eats · custom · 23129ra5fl / android 15
+S502 · /home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Eats/eats_app_analytics-0.csv · {"csv_record_index_1based": 12922, "csv_line_1based": 12923, "csv_end_line_1based": 12923}
+
+Cruce E077341 ↔ E077340: diferencia Uber menos Google = -0.053 segundos; 261 filas candidatas en ±60 s.
+
+**E077341** · 2026-09-25T09:12:00.000000-06:00 · UTC 2026-09-25T15:12:00.000000+00:00 · Google Analytics
+Has utilizado Uber Eats: Food and Grocery - Apps on Google Play
+S012 · /home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Google Analytics/MiActividad.html · {"record_index_1based": 61, "html_line_1based": 33, "html_column_0based": 64037}
+
+**E077340** · 2026-09-25T09:11:59.947000-06:00 · UTC 2026-09-25T15:11:59.947000+00:00 · Eats · Analytics
+Uber Eats · custom · 23129ra5fl / android 15
+S502 · /home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Eats/eats_app_analytics-0.csv · {"csv_record_index_1based": 13345, "csv_line_1based": 13346, "csv_end_line_1based": 13346}
+
+Cruce E077999 ↔ E078001: diferencia Uber menos Google = +0.006 segundos; 289 filas candidatas en ±60 s.
+
+**E077999** · 2026-09-25T11:47:53.000000-06:00 · UTC 2026-09-25T17:47:53.000000+00:00 · Google Analytics
+Has utilizado Uber Eats: Food and Grocery - Apps on Google Play
+S012 · /home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Google Analytics/MiActividad.html · {"record_index_1based": 60, "html_line_1based": 33, "html_column_0based": 62955}
+
+**E078001** · 2026-09-25T11:47:53.006000-06:00 · UTC 2026-09-25T17:47:53.006000+00:00 · Eats · Analytics
+Uber Eats · custom · 23129ra5fl / android 15
+S502 · /home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Eats/eats_app_analytics-0.csv · {"csv_record_index_1based": 12541, "csv_line_1based": 12542, "csv_end_line_1based": 12542}
+
+Cruce E083887 ↔ E083889: diferencia Uber menos Google = +0.045 segundos; 73 filas candidatas en ±60 s.
+
+**E083887** · 2026-09-26T15:14:44.000000-06:00 · UTC 2026-09-26T21:14:44.000000+00:00 · Google Analytics
+Has utilizado Uber Eats: Food and Grocery - Apps on Google Play
+S012 · /home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Google Analytics/MiActividad.html · {"record_index_1based": 16, "html_line_1based": 33, "html_column_0based": 16133}
+
+**E083889** · 2026-09-26T15:14:44.045000-06:00 · UTC 2026-09-26T21:14:44.045000+00:00 · Eats · Analytics
+Uber Eats · impression · 23129ra5fl / android 15
+S502 · /home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Eats/eats_app_analytics-0.csv · {"csv_record_index_1based": 39835, "csv_line_1based": 39836, "csv_end_line_1based": 39836}
+
+## Facebook: tres identidades diferentes y dos horas coincidentes
+
+ubereats.com · ID de encabezado 1862931440390914 · Identificador dentro de eventos 920222691346894 · S275
+
+Uber Eats: Food and Grocery · ID de encabezado 1109643685726224 · Identificador dentro de eventos 403591763184357 · S276
+
+Uber - Request a ride · ID de encabezado 723297837696301 · Identificador dentro de eventos 277064115737714 · S277
+
+Estos seis valores de Facebook no aparecen literalmente en los 12 archivos de Uber. El identificador dentro de eventos se repite en distintos eventos de cada servicio; no se interpreta como número único de cada acción o credencial. El CSV de Analytics no aporta un identificador que permita equipararlos. El sufijo numérico del archivo de Facebook se mantiene separado.
+
+Hay 4 candidatos temporales Facebook↔Uber, que representan dos horas de Eats repetidas en las vistas resumen/detalle. El 02-09 a las 12:39 Facebook registra ACTIVATE_APP y la fila Uber más próxima es CUSTOM a las 12:38:59.950 (−0,050 s). A las 13:23 Facebook registra CUSTOM y la fila Uber más próxima es IMPRESSION a las 13:23:25.202 (+25,202 s). Los tipos no se equiparan. Las horas Facebook son de actividad recibida, no un reloj confirmado del clic en Uber.
+
+**E023833** · 2026-09-02T12:39:00.000000-06:00 · UTC 2026-09-02T18:39:00.000000+00:00 · Actividad fuera de Meta
+Uber Eats: Food and Grocery · ACTIVATE_APP · identificador de evento 403591763184357
+S121 · /home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/2.html · {"table_index_1based": 5, "html_line_1based": 16, "html_column_0based": 2573}
+
+**E023832** · 2026-09-02T12:38:59.950000-06:00 · UTC 2026-09-02T18:38:59.950000+00:00 · Eats · Analytics
+Uber Eats · custom · 23129ra5fl / android 15
+S502 · /home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Eats/eats_app_analytics-0.csv · {"csv_record_index_1based": 8829, "csv_line_1based": 8830, "csv_end_line_1based": 8830}
+
+**E023834** · 2026-09-02T12:39:00.000000-06:00 · UTC 2026-09-02T18:39:00.000000+00:00 · Actividad fuera de Meta
+Uber Eats: Food and Grocery · ACTIVATE_APP · identificador de evento 403591763184357
+S276 · /home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/ubereatsfoodandgrocery_105529809654844411.html · {"table_index_1based": 6, "html_line_1based": 13, "html_column_0based": 3104}
+
+**E023832** · 2026-09-02T12:38:59.950000-06:00 · UTC 2026-09-02T18:38:59.950000+00:00 · Eats · Analytics
+Uber Eats · custom · 23129ra5fl / android 15
+S502 · /home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Eats/eats_app_analytics-0.csv · {"csv_record_index_1based": 8829, "csv_line_1based": 8830, "csv_end_line_1based": 8830}
+
+**E024632** · 2026-09-02T13:23:00.000000-06:00 · UTC 2026-09-02T19:23:00.000000+00:00 · Actividad fuera de Meta
+Uber Eats: Food and Grocery · CUSTOM · identificador de evento 403591763184357
+S121 · /home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/2.html · {"table_index_1based": 3, "html_line_1based": 16, "html_column_0based": 1839}
+
+**E024638** · 2026-09-02T13:23:25.202000-06:00 · UTC 2026-09-02T19:23:25.202000+00:00 · Eats · Analytics
+Uber Eats · impression · 23129ra5fl / android 15
+S502 · /home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Eats/eats_app_analytics-0.csv · {"csv_record_index_1based": 9681, "csv_line_1based": 9682, "csv_end_line_1based": 9682}
+
+**E024634** · 2026-09-02T13:23:00.000000-06:00 · UTC 2026-09-02T19:23:00.000000+00:00 · Actividad fuera de Meta
+Uber Eats: Food and Grocery · CUSTOM · identificador de evento 403591763184357
+S276 · /home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/ubereatsfoodandgrocery_105529809654844411.html · {"table_index_1based": 4, "html_line_1based": 13, "html_column_0based": 2175}
+
+**E024638** · 2026-09-02T13:23:25.202000-06:00 · UTC 2026-09-02T19:23:25.202000+00:00 · Eats · Analytics
+Uber Eats · impression · 23129ra5fl / android 15
+S502 · /home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Eats/eats_app_analytics-0.csv · {"csv_record_index_1based": 9681, "csv_line_1based": 9682, "csv_end_line_1based": 9682}
+
+El mismo 02-09 a las 13:23 hay CUSTOM para Uber Rider en Facebook, pero no se recuperaron filas Rider próximas a esa hora. El pedido Little Caesars tiene Request_Time_Local=12:39:45 y Final_Delivery_Time_Local=13:23:22. Estas horas son compatibles con el grupo de Eats bajo la interpretación de zona Local, no una prueba de que un evento concreto represente esa entrega.
+
+## La noche del 20 y el día 21
+
+Del 20-09 18:00 al 22-09 00:00 México hay 2,060 filas Eats y 0 Rider. El último registro Rider exportado es 2026-09-18T20:56:24.228000-06:00; su ausencia en esa noche no demuestra que la app no se utilizara. El 20 a las 16:48:56 hay uso Eats en Google y la fila Uber más próxima está a +1,141 s, antes del intervalo nocturno.
+
+El 21 a las 12:49:03 Google Analytics registra uso Eats; Uber tiene CUSTOM a las 12:49:03.193. El pedido Little Caesars figura solicitado a las 12:50:08 y entregado a las 13:50:14, según sus columnas Local. Es una secuencia relacionada por producto y tiempos compatibles; la zona de pedidos sigue marcada como hipótesis por el sufijo Z contradictorio. No identifica una automatización Home, un ataque o un mensaje Facebook saliente.
+
+**E073990** · 2026-09-21T12:50:08.000000-06:00 · UTC 2026-09-21T18:50:08.000000+00:00 · Eats · Pedidos
+Uber Eats · completed · Little Caesars (Tulancingo) · Italian Cheese Bread · Request_Time_Local
+S503 · /home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Eats/user_orders-0.csv · {"csv_record_index_1based": 5, "csv_line_1based": 6, "csv_end_line_1based": 6, "csv_field": "Request_Time_Local"}
+
+**E073991** · 2026-09-21T12:50:08.000000-06:00 · UTC 2026-09-21T18:50:08.000000+00:00 · Eats · Pedidos
+Uber Eats · completed · Little Caesars (Tulancingo) · Pepperoni · Request_Time_Local
+S503 · /home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Eats/user_orders-0.csv · {"csv_record_index_1based": 6, "csv_line_1based": 7, "csv_end_line_1based": 7, "csv_field": "Request_Time_Local"}
+
+**E075307** · 2026-09-21T13:50:14.000000-06:00 · UTC 2026-09-21T19:50:14.000000+00:00 · Eats · Pedidos
+Uber Eats · completed · Little Caesars (Tulancingo) · Italian Cheese Bread · Final_Delivery_Time_Local
+S503 · /home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Eats/user_orders-0.csv · {"csv_record_index_1based": 5, "csv_line_1based": 6, "csv_end_line_1based": 6, "csv_field": "Final_Delivery_Time_Local"}
+
+**E075308** · 2026-09-21T13:50:14.000000-06:00 · UTC 2026-09-21T19:50:14.000000+00:00 · Eats · Pedidos
+Uber Eats · completed · Little Caesars (Tulancingo) · Pepperoni · Final_Delivery_Time_Local
+S503 · /home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Eats/user_orders-0.csv · {"csv_record_index_1based": 6, "csv_line_1based": 7, "csv_end_line_1based": 7, "csv_field": "Final_Delivery_Time_Local"}
+
+## 18 de septiembre: consulta histórica a soporte y respuesta de Uber
+
+A las 05:50:32 México figura Deleted At en un método VISA/Banco Azteca. A las 06:10:32 hay un registro Creator=User que afirma «Creo que mi cuenta fue clonada y me llegan solicitudes de acceso». A las 06:42:14 Creator=Uber responde que restableció la contraseña como medida de seguridad. Se documentan la eliminación registrada, el reporte y la respuesta, sin concluir quién eliminó el método, que se confirmara clonación o que ese episodio sea el del 20/21.
+
+La sospecha escrita entonces no describe la explicación actual del usuario: posteriormente aclaró que no hubo clonación y que simplemente no entendía lo observado. La respuesta de soporte sobre restablecer la contraseña se conserva como respuesta, sin convertirla en confirmación de aquella sospecha.
+
+**E062145** · 2026-09-18T05:50:32.000000-06:00 · UTC 2026-09-18T11:50:32.000000+00:00 · Métodos de pago
+Uber · método de pago · BANK_CARD · VISA · BANCO AZTECA S.A. INSTITUCION DE BANCA MULTIPLE
+S499 · /home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Account and Profile/payment_methods-0.csv · {"csv_record_index_1based": 6, "csv_line_1based": 7, "csv_end_line_1based": 7}
+
+**E062880** · 2026-09-18T06:10:32.000000-06:00 · UTC 2026-09-18T12:10:32.000000+00:00 · Soporte
+Uber · Creator=User · Uso la app Uber para conducir o hacer entregas  : false      I use Uber as a User  : false      Uso Uber Freight  : false      Otro  : false      Quiero una copia de mis datos  : true      Quiero corregir mis datos  : false      Quiero recurrir una decisión sobre una solicitud sobre privacidad anterior  : false      Tengo otras preguntas sobre mis datos  : false      Quiero contactar con el responsable de la protección de datos de Uber  : false      (Obligatorio) Proporciona más detalles sobre el motivo por el que contactas con el equipo de Uber.  : Creo que mi cuenta fue clonada y me llegan solicitudes de acceso
+S497 · /home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Account and Profile/customer_support_tickets-0.csv · {"csv_record_index_1based": 8, "csv_line_1based": 9, "csv_end_line_1based": 9}
+
+**E062904** · 2026-09-18T06:42:14.000000-06:00 · UTC 2026-09-18T12:42:14.000000+00:00 · Soporte
+Uber · Creator=Uber · Traducido por IA            Hola, Eduardo‍.    Gracias por ponerte en contacto sobre este tema. Sé que puede ser preocupante, permíteme ayudarte.    A veces recibirás un código de verificación destinado a proteger tu cuenta. Sin embargo, si no actualizaste la información de tu cuenta ni intentaste iniciar sesión desde un dispositivo nuevo antes de recibir el código de verificación, no introduzcas el código en la app.    Como medida de seguridad, la contraseña de tu cuenta se ha restablecido. Para acceder de nuevo a tu cuenta,   deberás crear una contraseña nueva y única  . Con la nueva contraseña, podrás seguir usando tu cuenta de forma segura. Te recomendamos comprobar que tus credenciales de acceso sean únicas en diferentes sitios web.    También puedes considerar activar la verificación en dos pasos. Para ello, sigue estos pasos: * Pulsa en   Cuenta   * Pulsa en   Gestionar cuenta de Uber   * Pulsa en   Seguridad   o en “  Iniciar revisión  ” para completar la revisión de tu cuenta.    Si tienes problemas para restablecer tu contraseña, no dudes en contactarnos.
+S497 · /home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Account and Profile/customer_support_tickets-0.csv · {"csv_record_index_1based": 9, "csv_line_1based": 10, "csv_end_line_1based": 10}
+
+## Dispositivos e IP: relaciones y límites
+
+Rider · Device ID d0666f2c-f032-3cff-a5b2-bcdddd9a4c40 · 6,796 filas · UTC original 2026-08-30 04:07:08.956 → 2026-09-12 14:52:44.483 · modelo 23129ra5fl. Los Device ID de Rider cubren periodos distintos con el mismo modelo; no se equiparan a IMEI, Android ID o número de serie.
+
+Rider · Device ID ac1f0639-322f-3c6d-94f2-a187112cafa1 · 4,037 filas · UTC original 2026-09-18 11:01:26.817 → 2026-09-19 02:56:24.228 · modelo 23129RA5FL, 23129ra5fl. Los Device ID de Rider cubren periodos distintos con el mismo modelo; no se equiparan a IMEI, Android ID o número de serie.
+
+Eats · Device ID [no exportado] · 45,178 filas · UTC original 2026-08-29 09:53:23.184 → 2026-09-27 23:35:30.739 · modelo 23129ra5fl. Los Device ID de Rider cubren periodos distintos con el mismo modelo; no se equiparan a IMEI, Android ID o número de serie.
+
+El modelo coincide, sin distinguir mayúsculas, con las configuraciones Android del Takeout y los agentes de Facebook antes revisados. Rider no exporta IMEI/serie y Eats no exporta Device ID; este puente compara modelo/SO y no acredita una identidad física única. Las coincidencias literales de IP se guardan con referencias y prefijos en el JSON; relacionan una red, no una persona ni autoría de acciones.
+
+GPS Time muestra 1970-01-01 en 170 filas Rider y 1847 Eats. Es una marca que se conserva como auxiliar; no se usa para afirmar actividad en 1970 ni para inventar una posición. La cronología de Analytics usa Event Time (UTC).
+
+## Pedidos, viajes y mensajes sin zona
+
+user_orders contiene 23 filas de artículos, agrupables en 15 combinaciones de solicitud/restaurante; no se presentan como 23 pedidos diferentes. Rider tiene dos viajes: uno rider_canceled y otro completed. Se usan sus campos UTC explícitos. Los seis registros communications_sent tienen Time sin zona y dos medios repetidos, intercom_text/push; se preservan íntegros entre los anexos sin zona confirmada y no se tratan como seis conversaciones distintas.
+
+Los nombres Local de los pedidos contradicen su sufijo Z. Se interpretó el reloj como México y se marcó la hipótesis en cada entrada, apoyándose en los pares local/UTC de Rider (seis horas) y la hora del pedido KFC del texto de soporte. Esta interpretación debe revisarse si Uber proporciona el diccionario de datos. Los perfiles y comunicaciones sin zona no reciben una hora inventada. El readme exportado solo muestra Loading; no aporta ese diccionario en contenido estático.
+
+[Fuente original Eats/user_orders-0.csv](file:///home/deep-logic/Documentos/Uber%20Data%20Request%205A426B63/Uber%20Data/Eats/user_orders-0.csv)
+
+[Fuente original Rider/rider_lifetime_trips-0.csv](file:///home/deep-logic/Documentos/Uber%20Data%20Request%205A426B63/Uber%20Data/Rider/rider_lifetime_trips-0.csv)
+
+[Fuente original Account and Profile/communications_sent-0.csv](file:///home/deep-logic/Documentos/Uber%20Data%20Request%205A426B63/Uber%20Data/Account%20and%20Profile/communications_sent-0.csv)
+
+[Fuente original Account and Profile/payment_methods-0.csv](file:///home/deep-logic/Documentos/Uber%20Data%20Request%205A426B63/Uber%20Data/Account%20and%20Profile/payment_methods-0.csv)
+
+[Paquete local de cruces, filas, estadísticas y límites](file:///home/deep-logic/ai-lab/research/vapid-webpush/datos/uber-analytics-cruces.json)
+
+<!-- FIN_RESULTADOS_SESION_8 -->
+
+
+<!-- INICIO_RESULTADOS_SESION_9 -->
+## Sesión 9: correo y uso de apps
+
+## Correo local: aplicaciones, Etsy, Hermes, Clarín y Google Play
+
+Se incorporan 1,527 mensajes del MBOX de Documentos, original de 104,855,969 bytes y SHA-256 a2c0b40d481a02e6829c9aba9f61d7874c1da23bf3e3d8bca83e1474d58f674d. El corpus tiene principalmente hadilene116@gmail.com en sus cabeceras de destinatario. Se conserva cada correo y sus adjuntos en el original íntegro; las páginas locales facilitan la lectura. La cronología añade Date declarado con su zona: no confunde envío con lectura o apertura de una aplicación. Los remitentes no se han validado criptográficamente.
+
+La subida completa autorizada por el usuario conserva los archivos originales y todos los datos privados del conjunto investigado en el repositorio privado. Las vistas de lectura facilitan consulta local; el original permanece disponible íntegro. Se mantiene la aclaración del usuario de que no hubo clonación de Uber y que simplemente no entendía los registros.
+
+[MBOX original completo](file:///home/deep-logic/Documentos/Todo%20el%20correo%2C%20con%20Spam%20y%20Papelera%20incluidos.mbox)
+
+## La pista de validar con una imagen: rostro o huella en Play
+
+Dos correos de Google Play, del 12-09 a las 10:28:53 y del 26-09 a las 00:59:28 México, dicen que se actualizó la verificación de compras en Redmi 23129RA5FL para usar rostro o huella. Esta es una candidata concreta para la pista de validar con una imagen más rápido; no demuestra que sea la búsqueda recordada ni una validación mediante Google Lens. El propio correo delimita la configuración a esa cuenta y ese dispositivo.
+
+**E041180** · 2026-09-12T10:28:53.000000-06:00 · UTC 2026-09-12T16:28:53.000000+00:00 · MBOX · Cabeceras Date
+Correo · googleplay-noreply@google.com · Cambios en la configuración de verificación de compras de Google Play
+S508 · {"mbox_message_index_1based": 305, "mail_id": "M000305", "message_id": "<4ed01a67f8f54e6fcaa92c1bc2f713185bf39d91-20300789-111457209@google.com>"}
+
+[Leer correo local M000305](file:///home/deep-logic/ai-lab/research/vapid-webpush/correos/M000305.html)
+
+**E078831** · 2026-09-26T00:59:28.000000-06:00 · UTC 2026-09-26T06:59:28.000000+00:00 · MBOX · Cabeceras Date
+Correo · googleplay-noreply@google.com · Cambios en la configuración de verificación de compras de Google Play
+S508 · {"mbox_message_index_1based": 11, "mail_id": "M000011", "message_id": "<3aeba3e251113bb420a4ab8285373425b8897838-20300789-111457209@google.com>"}
+
+[Leer correo local M000011](file:///home/deep-logic/ai-lab/research/vapid-webpush/correos/M000011.html)
+
+## Etsy el 20 por la noche: Google y correo de Etsy
+
+El 20-09 a las 21:50:33 México aparecen dos correos: Google indica que se usó Acceder con Google para Etsy y que se compartieron nombre/foto de perfil y dirección de correo; Etsy pregunta por una sesión Chrome 135 / Android 15 y menciona Pachuca como ubicación en su aviso. La ubicación es la descrita por el correo, sin identificar a una persona. Se relaciona con las visitas Etsy y el PAGE_VIEW recibido por Meta esa noche, sin equiparar los IDs empresariales de Meta a una credencial de acceso.
+
+**E072577** · 2026-09-20T21:50:33.000000-06:00 · UTC 2026-09-21T03:50:33.000000+00:00 · MBOX · Cabeceras Date
+Correo · noreply-accounts@google.com · Compartiste algunos datos de tu Cuenta de Google con Etsy
+S508 · {"mbox_message_index_1based": 285, "mail_id": "M000285", "message_id": "<3959ae36de87eb9b76087455be3e54cf3c3d572a-20376977-337030291@google.com>"}
+
+[Leer correo local M000285](file:///home/deep-logic/ai-lab/research/vapid-webpush/correos/M000285.html)
+
+**E072576** · 2026-09-20T21:50:33.000000-06:00 · UTC 2026-09-21T03:50:33.000000+00:00 · MBOX · Cabeceras Date
+Correo · noreply@mail.etsy.com · Adilene, ¿iniciaste sesión hace poco en Etsy?
+S508 · {"mbox_message_index_1based": 202, "mail_id": "M000202", "message_id": "<20260921035032.7AE577E140@web-red-fpxm.localdomain>"}
+
+[Leer correo local M000202](file:///home/deep-logic/ai-lab/research/vapid-webpush/correos/M000202.html)
+
+**E072574** · 2026-09-20T21:50:00.000000-06:00 · UTC 2026-09-21T03:50:00.000000+00:00 · Actividad fuera de Meta
+etsy.com · PAGE_VIEW · identificador de evento 114623403312281
+S109 · {"table_index_1based": 1, "html_line_1based": 16, "html_column_0based": 1075}
+
+**E072575** · 2026-09-20T21:50:00.000000-06:00 · UTC 2026-09-21T03:50:00.000000+00:00 · Actividad fuera de Meta
+etsy.com · PAGE_VIEW · identificador de evento 114623403312281
+S229 · {"table_index_1based": 2, "html_line_1based": 13, "html_column_0based": 1179}
+
+**E072578** · 2026-09-20T21:51:59.000000-06:00 · UTC 2026-09-21T03:51:59.000000+00:00 · Google Analytics
+www.etsy.com/es/r/similar/4303042674
+S012 · {"record_index_1based": 126, "html_line_1based": 33, "html_column_0based": 134928}
+
+**E072579** · 2026-09-20T21:52:43.000000-06:00 · UTC 2026-09-21T03:52:43.000000+00:00 · Google Analytics
+www.etsy.com/es/listing/4303042674/pendiente-de-sol-en-oro-macizo-piercing
+S012 · {"record_index_1based": 125, "html_line_1based": 33, "html_column_0based": 133713}
+
+## Hermes y Clarín: dos servicios y momentos distintos
+
+Hermes.com envió dos correos para finalizar creación de cuenta, a las 22:56:33 y 23:00:47 del 20-09. Son de ecommerce.hermes.com, la tienda, y piden confirmar el correo con un código; el texto dice que, si se ignora, no se crea la cuenta. No se presentan como confirmación de una cuenta terminada ni como Hermes Agent. Clarín envía una bienvenida el 21-09 a las 15:00:17 y agradece el registro. No hay en estos mensajes una cadena que convierta el número 6850175308 o un ID de Meta en mecanismo de identificación compartido entre los tres servicios.
+
+**E072609** · 2026-09-20T22:56:33.000000-06:00 · UTC 2026-09-21T04:56:33.000000+00:00 · MBOX · Cabeceras Date
+Correo · customer-service@ecommerce.hermes.com · Hermes.com - Your security code to finalize your account creation
+S508 · {"mbox_message_index_1based": 226, "mail_id": "M000226", "message_id": "<202609210456.13786924000@smtp-relay.mailin.fr>"}
+
+[Leer correo local M000226](file:///home/deep-logic/ai-lab/research/vapid-webpush/correos/M000226.html)
+
+**E072615** · 2026-09-20T23:00:47.000000-06:00 · UTC 2026-09-21T05:00:47.000000+00:00 · MBOX · Cabeceras Date
+Correo · customer-service@ecommerce.hermes.com · Hermes.com - Your security code to finalize your account creation
+S508 · {"mbox_message_index_1based": 225, "mail_id": "M000225", "message_id": "<202609210500.71955169878@smtp-relay.mailin.fr>"}
+
+[Leer correo local M000225](file:///home/deep-logic/ai-lab/research/vapid-webpush/correos/M000225.html)
+
+**E075333** · 2026-09-21T15:00:17.000000-06:00 · UTC 2026-09-21T21:00:17.000000+00:00 · MBOX · Cabeceras Date
+Correo · info@noticias.clarin.com · ¡Te damos la bienvenida aClarín, con una invitación exclusiva! 👋
+S508 · {"mbox_message_index_1based": 138, "mail_id": "M000138", "message_id": "<29b466315a52477880d8c02a9bf95f8b@1741127422>"}
+
+[Leer correo local M000138](file:///home/deep-logic/ai-lab/research/vapid-webpush/correos/M000138.html)
+
+## Google Play y Analytics: qué uso de apps está registrado
+
+En el intervalo 20-09 18:00 → 22-09 00:00 México se recuperan 138 observaciones de uso de apps en Google Play/Google Analytics, además de 87 registros de instalación o actualización separados. Se guardan todos los usos en el CSV y se agrupan por marca temporal. Un registro Se ha utilizado/Has utilizado documenta el uso registrado por ese producto; no acredita por sí solo que una persona abriera manualmente la app en primer plano.
+
+[Usos de apps del 20/21 en CSV](file:///home/deep-logic/ai-lab/research/vapid-webpush/datos/correo-play-20-21.csv)
+
+2026-09-20T23:36:40.000000-06:00 · 66 observaciones: Se ha utilizado Shortcut Maker; Se ha utilizado Banco Azteca; Se ha utilizado Banco Azteca; Se ha utilizado TikTok; Se ha utilizado ShareMe: File sharing; Se ha utilizado Mi Calendar; Se ha utilizado WhatsApp Messenger; Se ha utilizado Uber Eats: Food and Grocery; Se ha utilizado StarMaker: Canta Karaoke; Se ha utilizado Spotify: app música y podcasts; Se ha utilizado Snapchat: Conecta con Amigos; Se ha utilizado ChatGPT; Se ha utilizado com.miui.thirdappassistant; Se ha utilizado Security; Se ha utilizado com.miui.notification; Se ha utilizado com.miui.home; Se ha utilizado com.miui.home; Se ha utilizado com.miui.cloudservice; Se ha utilizado Cleaner; Se ha utilizado com.miui.backup; Se ha utilizado Bóveda de aplicaciones; Se ha utilizado Navegador Mi - Rápido y seguro; Se ha utilizado Xiaomi Community; Se ha utilizado File Manager by Xiaomi; Se ha utilizado Información del dispositivo; Se ha utilizado com.lbe.security.miui; Se ha utilizado Administrador de aplicaciones; Se ha utilizado TrustBuilder Authenticator; Se ha utilizado Instagram; Se ha utilizado Speech Recognition & Synthesis; Se ha utilizado Android Auto; Se ha utilizado com.google.android.photopicker; Se ha utilizado Permissions Controller; Se ha utilizado Gboard: el Teclado de Google; Se ha utilizado Google; Se ha utilizado Gmail; Se ha utilizado Gmail; Se ha utilizado DocumentsUI; Se ha utilizado Teléfono de Google; Se ha utilizado Contactos; Se ha utilizado Calendario de Google; Se ha utilizado Android System Intelligence; Se ha utilizado YouTube Music; Se ha utilizado Bienestar digital; Se ha utilizado Google One; Se ha utilizado Seguridad personal; Se ha utilizado Android Switch; Se ha utilizado Google Fotos; Se ha utilizado Files de Google; Se ha utilizado Mensajes de Google; Se ha utilizado Google Chat; Se ha utilizado Google Drive; Se ha utilizado Google Home; Se ha utilizado Meta AI; Se ha utilizado Messenger; Se ha utilizado Facebook; Se ha utilizado BBVA México; Se ha utilizado com.android.updater; Se ha utilizado com.android.traceur; Se ha utilizado com.android.server.telecom; Se ha utilizado com.android.providers.downloads.ui; Se ha utilizado com.android.intentresolver; Se ha utilizado Shortcut Maker; Se ha utilizado Google Chrome; Se ha utilizado Google; Se ha utilizado WPS Office: PDF, Word, Excel. La hora compartida no implica aperturas simultáneas.
+
+2026-09-21T07:56:40.000000-06:00 · 45 observaciones: Se ha utilizado Shortcut Maker; Se ha utilizado Banco Azteca; Se ha utilizado Xiaomi Home; Se ha utilizado ShareMe: File sharing; Se ha utilizado Mi Calendar; Se ha utilizado HomeKit App for Android Hints; Se ha utilizado ChatGPT; Se ha utilizado com.miui.securitycore; Se ha utilizado Security; Se ha utilizado com.miui.home; Se ha utilizado com.miui.cloudservice; Se ha utilizado com.miui.cloudbackup; Se ha utilizado com.miui.backup; Se ha utilizado Bóveda de aplicaciones; Se ha utilizado Navegador Mi - Rápido y seguro; Se ha utilizado Xiaomi Community; Se ha utilizado File Manager by Xiaomi; Se ha utilizado Información del dispositivo; Se ha utilizado Administrador de aplicaciones; Se ha utilizado Android Auto; Se ha utilizado com.google.android.photopicker; Se ha utilizado Permissions Controller; Se ha utilizado com.google.android.packageinstaller; Se ha utilizado Google; Se ha utilizado Gmail; Se ha utilizado DocumentsUI; Se ha utilizado Teléfono de Google; Se ha utilizado Google One; Se ha utilizado Android Switch; Se ha utilizado Google Fotos; Se ha utilizado Files de Google; Se ha utilizado Mensajes de Google; Se ha utilizado Google Chat; Se ha utilizado Google Drive; Se ha utilizado Google Home; Se ha utilizado Words of Wonders: Crucigrama; Se ha utilizado Meta AI; Se ha utilizado Facebook; Se ha utilizado Dropbox: Secure Cloud Storage; Se ha utilizado com.android.intentresolver; Se ha utilizado com.android.htmlviewer; Se ha utilizado Google Chrome; Se ha utilizado WPS Office Lite; Se ha utilizado WPS Office: PDF, Word, Excel; Se ha utilizado Photo Picker. La hora compartida no implica aperturas simultáneas.
+
+2026-09-20T19:29:40.000000-06:00 · 1 observaciones: Has utilizado Banco Azteca - Apps on Google Play. La hora compartida no implica aperturas simultáneas.
+
+## Dropbox: un cruce muy próximo con la actividad de la app
+
+El 21-09 a las 07:03:33 aparecen búsqueda/ficha de Dropbox en Play. Los avisos de correo son de 07:04:25 (Dropbox for Android) y 07:04:26 (explorador web). Google Analytics registra uso de com.dropbox.android a las 07:04:32: seis/siete segundos después de los avisos. Son representaciones coherentes por servicio y proximidad; se conservan ambas, sin atribuir la sesión a otra persona ni inferir una automatización.
+
+**E072878** · 2026-09-21T07:04:25.000000-06:00 · UTC 2026-09-21T13:04:25.000000+00:00 · MBOX · Cabeceras Date
+Correo · no-reply@dropbox.com · Hola, Adilene, notamos un nuevo inicio de sesión en tu cuenta de Dropbox
+S508 · {"mbox_message_index_1based": 268, "mail_id": "M000268", "message_id": "<010101a0c411575d-a60dec68-f732-4fd4-941d-8402a5e7c306-000000@us-west-2.amazonses.com>"}
+
+[Leer correo local M000268](file:///home/deep-logic/ai-lab/research/vapid-webpush/correos/M000268.html)
+
+**E072879** · 2026-09-21T07:04:26.000000-06:00 · UTC 2026-09-21T13:04:26.000000+00:00 · MBOX · Cabeceras Date
+Correo · no-reply@dropbox.com · Hola, Adilene, notamos un nuevo inicio de sesión en tu cuenta de Dropbox
+S508 · {"mbox_message_index_1based": 267, "mail_id": "M000267", "message_id": "<010001a0c4115983-3c6de24a-584a-4f47-92a2-a6520b13c89b-000000@email.amazonses.com>"}
+
+[Leer correo local M000267](file:///home/deep-logic/ai-lab/research/vapid-webpush/correos/M000267.html)
+
+**E072880** · 2026-09-21T07:04:32.000000-06:00 · UTC 2026-09-21T13:04:32.000000+00:00 · Google Analytics
+Has utilizado Dropbox: Secure Cloud Storage - Apps on Google Play
+S012 · {"record_index_1based": 89, "html_line_1based": 33, "html_column_0based": 94172}
+
+**E072881** · 2026-09-21T07:04:32.000000-06:00 · UTC 2026-09-21T13:04:32.000000+00:00 · Publicidad
+Has utilizado Dropbox: Secure Cloud Storage - Apps on Google Play
+S024 · {"record_index_1based": 102, "html_line_1based": 33, "html_column_0based": 111892}
+
+**E072880** · 2026-09-21T07:04:32.000000-06:00 · UTC 2026-09-21T13:04:32.000000+00:00 · Google Analytics
+Has utilizado Dropbox: Secure Cloud Storage - Apps on Google Play
+S012 · {"record_index_1based": 89, "html_line_1based": 33, "html_column_0based": 94172}
+
+**E072881** · 2026-09-21T07:04:32.000000-06:00 · UTC 2026-09-21T13:04:32.000000+00:00 · Publicidad
+Has utilizado Dropbox: Secure Cloud Storage - Apps on Google Play
+S024 · {"record_index_1based": 102, "html_line_1based": 33, "html_column_0based": 111892}
+
+**E072885** · 2026-09-21T07:05:45.000000-06:00 · UTC 2026-09-21T13:05:45.000000+00:00 · MBOX · Cabeceras Date
+Correo · noreply-accounts@google.com · Compartiste algunos datos de tu Cuenta de Google con WPS Office
+S508 · {"mbox_message_index_1based": 235, "mail_id": "M000235", "message_id": "<631091175a1640ab8271c9d62f5cba6a2d4f3e0d-20376977-337030291@google.com>"}
+
+[Leer correo local M000235](file:///home/deep-logic/ai-lab/research/vapid-webpush/correos/M000235.html)
+
+A las 07:05:45 el correo de Google informa Acceder con Google para WPS Office. Ese mensaje describe una conexión de cuenta; las entradas de Play permiten revisar usos e instalaciones por separado. No se convierte automáticamente en una apertura de WPS a esa misma hora.
+
+## Uber: soporte corroborado y un recibo que aclara las horas Local
+
+**E062905** · 2026-09-18T06:42:14.000000-06:00 · UTC 2026-09-18T12:42:14.000000+00:00 · MBOX · Cabeceras Date
+Correo · contact_c1d772bd-662b-41eb-a467-fc91bdcef4a9@email-support.uber.com · Cómo enviar una consulta de privacidad
+S508 · {"mbox_message_index_1based": 239, "mail_id": "M000239", "message_id": "<78d0c658-2007-459a-a54b-4ab6582592a1@mail.uber.com>"}
+
+[Leer correo local M000239](file:///home/deep-logic/ai-lab/research/vapid-webpush/correos/M000239.html)
+
+El correo de soporte Uber del 18-09 a las 06:42:14 coincide exactamente en fecha UTC con la respuesta del CSV customer_support_tickets. Se puede leer la misma respuesta en dos exportaciones. Esto mantiene la aclaración actual del usuario: no hubo clonación, el mensaje reflejaba su duda de entonces.
+
+**E075334** · 2026-09-21T15:00:47.000000-06:00 · UTC 2026-09-21T21:00:47.000000+00:00 · MBOX · Cabeceras Date
+Correo · noreply@uber.com · Tu pedido con Uber Eats del lunes por la tarde
+S508 · {"mbox_message_index_1based": 181, "mail_id": "M000181", "message_id": "<a1202521-7914-54c5-bbb3-1df0c85f2e4d@mail.uber.com>"}
+
+[Leer correo local M000181](file:///home/deep-logic/ai-lab/research/vapid-webpush/correos/M000181.html)
+
+El recibo Eats del 21-09 muestra pedido 12:50 p.m., entrega 1:50 p.m. y pago/monto extra 3:00 p.m.; Date del correo es 15:00:47 México. Esto corrobora la interpretación local de Request_Time_Local=12:50:08 y Final_Delivery_Time_Local=13:50:14 del CSV, pese al sufijo Z. El correo posterior es un recibo con monto extra, no necesariamente el momento de entrega. La codificación del CSV se conserva sin modificar.
+
+## La pista del juego en un mensaje de Facebook
+
+**E075438** · 2026-09-24T09:21:33.000000-06:00 · UTC 2026-09-24T15:21:33.000000+00:00 · MBOX · Cabeceras Date
+Correo · reminders@facebookmail.com · 8 Ball Pool Game te envió un mensaje y tienes 9 notificaciones más
+S508 · {"mbox_message_index_1based": 166, "mail_id": "M000166", "message_id": "<727c12bb-9531-47ec-a7fa-3d6344b6b689@facebookmail.com>"}
+
+[Leer correo local M000166](file:///home/deep-logic/ai-lab/research/vapid-webpush/correos/M000166.html)
+
+Hay una notificación de Facebook del 24-09 a las 09:21:33: 8 Ball Pool Game te envió un mensaje y tienes 9 notificaciones más. Relaciona el nombre del juego con un aviso, pero su fecha está fuera de la noche del 20/21. El cuerpo no recupera el mensaje del juego. No se presenta como prueba de infección, un ataque o bloqueo del teléfono.
+
+## Apple y Google: avisos recuperados por correo
+
+**E072703** · 2026-09-21T03:53:35.000000-06:00 · UTC 2026-09-21T09:53:35.000000+00:00 · MBOX · Cabeceras Date
+Correo · noreply@email.apple.com · Tu cuenta de Apple se usó para iniciar sesión en iCloud desde un navegador web
+S508 · {"mbox_message_index_1based": 262, "mail_id": "M000262", "message_id": "<1060071348.105609466.1789984415091@email.apple.com>"}
+
+[Leer correo local M000262](file:///home/deep-logic/ai-lab/research/vapid-webpush/correos/M000262.html)
+
+**E072935** · 2026-09-21T08:28:18.000000-06:00 · UTC 2026-09-21T14:28:18.000000+00:00 · MBOX · Cabeceras Date
+Correo · noreply@email.apple.com · Tu cuenta de Apple se usó para iniciar sesión en iCloud desde un navegador web
+S508 · {"mbox_message_index_1based": 261, "mail_id": "M000261", "message_id": "<54930695.107137326.1790000898661@email.apple.com>"}
+
+[Leer correo local M000261](file:///home/deep-logic/ai-lab/research/vapid-webpush/correos/M000261.html)
+
+**E072979** · 2026-09-21T10:40:31.000000-06:00 · UTC 2026-09-21T16:40:31.000000+00:00 · MBOX · Cabeceras Date
+Correo · noreply@email.apple.com · Tu cuenta de Apple se usó para iniciar sesión en iCloud desde un navegador web
+S508 · {"mbox_message_index_1based": 260, "mail_id": "M000260", "message_id": "<618194584.108178056.1790008831295@email.apple.com>"}
+
+[Leer correo local M000260](file:///home/deep-logic/ai-lab/research/vapid-webpush/correos/M000260.html)
+
+Los tres correos Apple del 21-09 avisan de uso de iCloud en navegador. Sus cuerpos describen horas UTC distintas de Date por el tiempo de envío; se conservan ambos. Aportan avisos históricos de correo, sin consultar Apple Home o recuperar automatizaciones. Los registros iPhone del CSV Google se mantienen como actividad del dispositivo, no como prueba de identidad de quien actuó.
+
+**E075041** · 2026-09-21T13:45:32.000000-06:00 · UTC 2026-09-21T19:45:32.000000+00:00 · MBOX · Cabeceras Date
+Correo · no-reply@accounts.google.com · Alerta de seguridad
+S508 · {"mbox_message_index_1based": 173, "mail_id": "M000173", "message_id": "<2NDhxryn4XZ_HLYrdoc4gg@notifications.google.com>"}
+
+[Leer correo local M000173](file:///home/deep-logic/ai-lab/research/vapid-webpush/correos/M000173.html)
+
+**E072948** · 2026-09-21T09:42:07.000000-06:00 · UTC 2026-09-21T15:42:07.000000+00:00 · MBOX · Cabeceras Date
+Correo · families-noreply@google.com · Borraste tu grupo familiar
+S508 · {"mbox_message_index_1based": 284, "mail_id": "M000284", "message_id": "<DfSom7dc0E1PQRP7iHwReg@notifications.google.com>"}
+
+[Leer correo local M000284](file:///home/deep-logic/ai-lab/research/vapid-webpush/correos/M000284.html)
+
+**E075337** · 2026-09-21T18:37:14.000000-06:00 · UTC 2026-09-22T00:37:14.000000+00:00 · MBOX · Cabeceras Date
+Correo · no-reply@accounts.google.com · Alerta de seguridad crítica
+S508 · {"mbox_message_index_1based": 158, "mail_id": "M000158", "message_id": "<Lg9zCsD31IZdej0QhGZ1lA@notifications.google.com>"}
+
+[Leer correo local M000158](file:///home/deep-logic/ai-lab/research/vapid-webpush/correos/M000158.html)
+
+**E075338** · 2026-09-21T18:39:22.000000-06:00 · UTC 2026-09-22T00:39:22.000000+00:00 · MBOX · Cabeceras Date
+Correo · no-reply@accounts.google.com · Alerta de seguridad crítica
+S508 · {"mbox_message_index_1based": 157, "mail_id": "M000157", "message_id": "<iEkWCoWt5j5NmkYGXSh6TQ@notifications.google.com>"}
+
+[Leer correo local M000157](file:///home/deep-logic/ai-lab/research/vapid-webpush/correos/M000157.html)
+
+Otros avisos del 21-09 describen cambio de contraseña Google (13:45:32), borrado de grupo familiar (09:42:07) y solicitudes de ayuda para acceder (18:37:14 y 18:39:22). Los mensajes de recuperación indican revisar eduardovelez@tutanota.de después de 30 días. Son el contenido de los avisos y no identifican quién realizó las acciones. No se atribuyen automáticamente a un ataque.
+
+## Cómo seguir cada cruce
+
+Hay 41 correos en la ventana del 20/21 y 8 cruces específicos guardados, además del contexto de usos de apps a ±5 minutos. El JSON distingue relaciones por texto/fecha y simples vecindades temporales. Los valores originales y adjuntos quedan íntegros en el MBOX y en el archivo privado de investigación. Los códigos M identifican el mensaje del MBOX; los E son de esta versión de la cronología.
+
+[Índice local de correo](file:///home/deep-logic/ai-lab/research/vapid-webpush/datos/correo-indice.json)
+
+[Cruces de correo y apps](file:///home/deep-logic/ai-lab/research/vapid-webpush/datos/correo-cruces-play.json)
+
+<!-- FIN_RESULTADOS_SESION_9 -->
+
+
+<!-- INICIO_RESULTADOS_SESION_10 -->
+## Sesión 10: pista bydefault
+
+## Pista bydefault: búsquedas y contexto recuperado
+
+Se encontraron 16 observaciones Google sobre open by default: cuatro del 12 de enero (dos consultas de Ayuda y dos representaciones de una visita en Chrome) y doce del 26 de septiembre. No aparece el literal unido bydefault en los tres originales coincidentes. La sesión del 26-09 va de 20:59:15 a 21:00:21 México: una búsqueda Android y once registros support.google.com/apis/search con helpcenter=android y query=open by default. El campo next_page_token cambia; max_results=8 se mantiene. Esto es compatible con paginación de la misma consulta, como inferencia por la estructura de URL. No se conservó el resultado de cada petición ni se acredita contenido oculto.
+
+Chrome/Historial.json, Browser History, registro 758, documenta la visita a support.google.com/android/search?q=open+by+default el 12-01 a las 18:58:48.969625 México, con CLIENT_REDIRECT. La actividad Chrome muestra esa visita a las 18:58:48 y Ayuda guarda la búsqueda a las 18:58:49. Es un cruce temporal concreto de la misma dirección; CLIENT_REDIRECT describe la transición registrada, sin identificar su causa ni demostrar manipulación.
+
+La documentación oficial de Google usa Abrir de forma predeterminada para gestionar qué app abre una acción. En el contexto inmediato del 26-09 también hay consultas sobre Seguridad de los datos en Play y, a las 21:00:41, una pregunta sobre por qué Play busca libros en lugar de apps. Se conservan los parámetros completos en los originales y el JSON del cruce, sin convertirlos en una contraseña o un identificador de empresa.
+
+[Cruce completo y parámetros conservados](file:///home/deep-logic/ai-lab/research/vapid-webpush/datos/bydefault-cruces.json)
+
+[Ficha técnica BD01: aplicaciones predeterminadas](https://support.google.com/pixelphone/answer/6271667?hl=es)
+
+2026-01-12T11:42:25.000000-06:00 · Ayuda · open by default
+S002 · {"record_index_1based": 814, "html_line_1based": 33, "html_column_0based": 1076301}
+
+2026-01-12T18:58:48.000000-06:00 · Chrome · Resultados de la búsqueda - Ayuda de Android
+S008 · {"record_index_1based": 233, "html_line_1based": 33, "html_column_0based": 256029}
+
+2026-01-12T18:58:48.969625-06:00 · Historial de Chrome · Resultados de la búsqueda - Ayuda de Android
+S028 · {"record_index_1based": 758, "json_pointer": "/Browser History/757"}
+
+2026-01-12T18:58:49.000000-06:00 · Ayuda · open by default
+S002 · {"record_index_1based": 813, "html_line_1based": 33, "html_column_0based": 1075328}
+
+2026-09-26T20:59:15.000000-06:00 · Ayuda · open by default
+S002 · {"record_index_1based": 29, "html_line_1based": 33, "html_column_0based": 43845}
+
+2026-09-26T20:59:39.000000-06:00 · Ayuda · open by default
+S002 · {"record_index_1based": 28, "html_line_1based": 33, "html_column_0based": 41981}
+
+2026-09-26T20:59:44.000000-06:00 · Ayuda · open by default
+S002 · {"record_index_1based": 27, "html_line_1based": 33, "html_column_0based": 40114}
+
+2026-09-26T20:59:47.000000-06:00 · Ayuda · open by default
+S002 · {"record_index_1based": 26, "html_line_1based": 33, "html_column_0based": 38245}
+
+2026-09-26T20:59:53.000000-06:00 · Ayuda · open by default
+S002 · {"record_index_1based": 25, "html_line_1based": 33, "html_column_0based": 36373}
+
+2026-09-26T20:59:56.000000-06:00 · Ayuda · open by default
+S002 · {"record_index_1based": 24, "html_line_1based": 33, "html_column_0based": 34498}
+
+2026-09-26T21:00:01.000000-06:00 · Ayuda · open by default
+S002 · {"record_index_1based": 23, "html_line_1based": 33, "html_column_0based": 32621}
+
+2026-09-26T21:00:05.000000-06:00 · Ayuda · open by default
+S002 · {"record_index_1based": 22, "html_line_1based": 33, "html_column_0based": 30741}
+
+2026-09-26T21:00:08.000000-06:00 · Ayuda · open by default
+S002 · {"record_index_1based": 21, "html_line_1based": 33, "html_column_0based": 28858}
+
+2026-09-26T21:00:11.000000-06:00 · Ayuda · open by default
+S002 · {"record_index_1based": 20, "html_line_1based": 33, "html_column_0based": 26973}
+
+2026-09-26T21:00:17.000000-06:00 · Ayuda · open by default
+S002 · {"record_index_1based": 19, "html_line_1based": 33, "html_column_0based": 25085}
+
+2026-09-26T21:00:21.000000-06:00 · Ayuda · open by default
+S002 · {"record_index_1based": 18, "html_line_1based": 33, "html_column_0based": 23194}
+
+<!-- FIN_RESULTADOS_SESION_10 -->
+
+
+<!-- INICIO_RESULTADOS_SESION_12 -->
+## Sesión 12: iPhone conectado
+
+## iPhone conectado: consulta de respaldo, Safari y Atajos
+
+Se detectó un iPhone por USB y se leyeron ProductVersion=16.7.16 y ProductType=iPhone10,4. El dominio com.apple.mobile.backup devolvió LastCloudBackupDate=812501783, LastCloudBackupTZ=CST y Version=2.0. No devolvió WillEncrypt: no se deduce de ese silencio el estado de cifrado.
+
+Al interpretar LastCloudBackupDate con referencia CFAbsoluteTime de Apple (2001-01-01 UTC), corresponde al 30-09-2026 16:56:23 America/Mexico_City. Es metadato registrado en el teléfono, no una copia descargada ni una comprobación de que siga disponible para restaurar. Se puede corroborar en Ajustes, nombre, iCloud, Copia de seguridad de iCloud.
+
+Para revisar Safari en iOS 16: Safari, marcadores (libro), historial (reloj). Los atajos se consultan en la app Atajos, Todos los atajos; las automatizaciones se revisan en su pestaña correspondiente. Archivos expone documentos y ubicaciones de apps, no todo el sistema de iOS. No se extrajeron Safari o Atajos por USB en esta lectura. La documentación Apple indica que los respaldos locales cifrados pueden incluir historial web; no se creó, restauró, borró ni modificó un respaldo.
+
+[Metadatos de la lectura USB conservados](file:///home/deep-logic/ai-lab/research/vapid-webpush/datos/iphone-usb-y-respaldo.json)
+
+[AP01 · Apple: buscar archivos](https://support.apple.com/es-es/102570)
+
+[AP02 · Apple: ver copias de seguridad iCloud](https://support.apple.com/es-es/guide/icloud/mm122d3ef202/icloud)
+
+[AP03 · Apple: Safari e historial](https://support.apple.com/es-es/105082)
+
+[AP04 · Apple: organizar Atajos](https://support.apple.com/es-us/guide/shortcuts/apd113493874/ios)
+
+[AP05 · Apple: copias locales cifradas](https://support.apple.com/es-es/108353)
+
+[AP06 · Apple: CFAbsoluteTime](https://developer.apple.com/documentation/corefoundation/cfabsolutetime?changes=_10_4&language=objc)
+
+[AP07 · libimobiledevice oficial](https://github.com/libimobiledevice/libimobiledevice)
+
+<!-- FIN_RESULTADOS_SESION_12 -->
+
+
+<!-- INICIO_RESULTADOS_SESION_11 -->
+## Sesión 11: GitHub y autorización de archivo íntegro
+
+El propietario pidió descargar las herramientas, enlazar spinky-afk y subir todo el conjunto investigado, incluidos datos privados necesarios como pruebas. Se instalaron GitHub CLI 2.102.0 y Git LFS 3.8.0 mediante binarios oficiales, verificados con sus SHA-256 publicados. Se completó OAuth y la API user confirmó el login spinky-afk. No se registraron tokens ni códigos de autorización.
+
+La carpeta evidencia del repositorio conserva todos los originales investigados y todos los archivos de research, incluidas claves y el MBOX íntegro. No se excluyen datos privados del conjunto. Las páginas de lectura conservan sus derivados y enlaces locales a los datos. El repositorio debe permanecer privado. Los archivos grandes se suben mediante Git LFS y se recuperan con git lfs pull. Las credenciales de la herramienta quedan en .tools, fuera del expediente.
+
+El estado remoto verificado y la hora de publicación se registran en estado-publicacion.json. Fuentes técnicas consultadas: G03 GitHub CLI oficial, G04 Git LFS oficial, G05 gh auth login, G06 límites de archivos GitHub. Las fichas y enlaces se conservan en datos/github-fuentes-web.json.
+<!-- FIN_RESULTADOS_SESION_11 -->

@@ -1,0 +1,59 @@
+{
+  "consulted_at_utc": "2026-10-01T17:31:01.340Z",
+  "requested_file_ids": [
+    "1iO7scCcYFZiCkEFrMaqHI2BwIAIxEy9L",
+    "1NFjcPODI2jUo-vE2lHQ1wu5u6_ZQcXyX",
+    "162S6duHuzm46xYBdRR4SghL9hSuWlte2",
+    "17AKwvJEmxqHevoSzfNU0Ef0yqIK_mSmf"
+  ],
+  "results": [
+    {
+      "status": "fulfilled",
+      "value": {
+        "content": [
+          {
+            "type": "text",
+            "text": "Authentication for Google Drive was requested and accepted. Retry this tool call now."
+          }
+        ],
+        "isError": true
+      }
+    },
+    {
+      "status": "fulfilled",
+      "value": {
+        "content": [
+          {
+            "type": "text",
+            "text": "Authentication for Google Drive was requested and accepted. Retry this tool call now."
+          }
+        ],
+        "isError": true
+      }
+    },
+    {
+      "status": "fulfilled",
+      "value": {
+        "content": [
+          {
+            "type": "text",
+            "text": "Authentication for Google Drive was requested and accepted. Retry this tool call now."
+          }
+        ],
+        "isError": true
+      }
+    },
+    {
+      "status": "fulfilled",
+      "value": {
+        "content": [
+          {
+            "type": "text",
+            "text": "Authentication for Google Drive was requested and accepted. Retry this tool call now."
+          }
+        ],
+        "isError": true
+      }
+    }
+  ]
+}

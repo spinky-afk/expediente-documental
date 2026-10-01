@@ -1104,5 +1104,403 @@
       "https://m.me/j/AbaENDc12qXUpmno/"
     ],
     "id": "U000038"
+  },
+  {
+    "source_code": "S496",
+    "source_path": "/home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Account and Profile/communications_sent-0.csv",
+    "family": "Uber",
+    "channel": "Comunicaciones",
+    "kind": "mensaje con zona sin determinar",
+    "subject": "Uber · out · intercom_text · no veo su ubicación en tiempo real ya está acá\n?",
+    "url_original": null,
+    "url_public": null,
+    "text_original": "{\"Time\": \"2026-09-26 20:45:10\", \"Subject\": \"\", \"Content\": \"no veo su ubicación en tiempo real ya está acá\\n?\", \"Medium\": \"intercom_text\", \"Direction\": \"out\"}",
+    "date_original": "2026-09-26 20:45:10",
+    "time_precision": "segundo",
+    "locator": {
+      "csv_record_index_1based": 1,
+      "csv_line_1based": 2,
+      "csv_end_line_1based": 3
+    },
+    "time_utc": null,
+    "time_local": null,
+    "identifiers": {
+      "direction": "out",
+      "medium": "intercom_text"
+    },
+    "timezone_basis": "Time no especifica zona. Se conserva fuera de la cronología confirmada; canales repetidos no se eliminan.",
+    "id": "U000039"
+  },
+  {
+    "source_code": "S496",
+    "source_path": "/home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Account and Profile/communications_sent-0.csv",
+    "family": "Uber",
+    "channel": "Comunicaciones",
+    "kind": "mensaje con zona sin determinar",
+    "subject": "Uber · out · push · no veo su ubicación en tiempo real ya está acá\n?",
+    "url_original": null,
+    "url_public": null,
+    "text_original": "{\"Time\": \"2026-09-26 20:45:10\", \"Subject\": \"\", \"Content\": \"no veo su ubicación en tiempo real ya está acá\\n?\", \"Medium\": \"push\", \"Direction\": \"out\"}",
+    "date_original": "2026-09-26 20:45:10",
+    "time_precision": "segundo",
+    "locator": {
+      "csv_record_index_1based": 2,
+      "csv_line_1based": 4,
+      "csv_end_line_1based": 5
+    },
+    "time_utc": null,
+    "time_local": null,
+    "identifiers": {
+      "direction": "out",
+      "medium": "push"
+    },
+    "timezone_basis": "Time no especifica zona. Se conserva fuera de la cronología confirmada; canales repetidos no se eliminan.",
+    "id": "U000040"
+  },
+  {
+    "source_code": "S496",
+    "source_path": "/home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Account and Profile/communications_sent-0.csv",
+    "family": "Uber",
+    "channel": "Comunicaciones",
+    "kind": "mensaje con zona sin determinar",
+    "subject": "Uber · out · intercom_text · hola",
+    "url_original": null,
+    "url_public": null,
+    "text_original": "{\"Time\": \"2026-09-26 20:45:00\", \"Subject\": \"\", \"Content\": \"hola\", \"Medium\": \"intercom_text\", \"Direction\": \"out\"}",
+    "date_original": "2026-09-26 20:45:00",
+    "time_precision": "segundo",
+    "locator": {
+      "csv_record_index_1based": 3,
+      "csv_line_1based": 6,
+      "csv_end_line_1based": 6
+    },
+    "time_utc": null,
+    "time_local": null,
+    "identifiers": {
+      "direction": "out",
+      "medium": "intercom_text"
+    },
+    "timezone_basis": "Time no especifica zona. Se conserva fuera de la cronología confirmada; canales repetidos no se eliminan.",
+    "id": "U000041"
+  },
+  {
+    "source_code": "S496",
+    "source_path": "/home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Account and Profile/communications_sent-0.csv",
+    "family": "Uber",
+    "channel": "Comunicaciones",
+    "kind": "mensaje con zona sin determinar",
+    "subject": "Uber · out · push · hola",
+    "url_original": null,
+    "url_public": null,
+    "text_original": "{\"Time\": \"2026-09-26 20:45:00\", \"Subject\": \"\", \"Content\": \"hola\", \"Medium\": \"push\", \"Direction\": \"out\"}",
+    "date_original": "2026-09-26 20:45:00",
+    "time_precision": "segundo",
+    "locator": {
+      "csv_record_index_1based": 4,
+      "csv_line_1based": 7,
+      "csv_end_line_1based": 7
+    },
+    "time_utc": null,
+    "time_local": null,
+    "identifiers": {
+      "direction": "out",
+      "medium": "push"
+    },
+    "timezone_basis": "Time no especifica zona. Se conserva fuera de la cronología confirmada; canales repetidos no se eliminan.",
+    "id": "U000042"
+  },
+  {
+    "source_code": "S496",
+    "source_path": "/home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Account and Profile/communications_sent-0.csv",
+    "family": "Uber",
+    "channel": "Comunicaciones",
+    "kind": "mensaje con zona sin determinar",
+    "subject": "Uber · out · intercom_text · todo bien???",
+    "url_original": null,
+    "url_public": null,
+    "text_original": "{\"Time\": \"2026-09-19 02:18:49\", \"Subject\": \"\", \"Content\": \"todo bien???\", \"Medium\": \"intercom_text\", \"Direction\": \"out\"}",
+    "date_original": "2026-09-19 02:18:49",
+    "time_precision": "segundo",
+    "locator": {
+      "csv_record_index_1based": 5,
+      "csv_line_1based": 8,
+      "csv_end_line_1based": 8
+    },
+    "time_utc": null,
+    "time_local": null,
+    "identifiers": {
+      "direction": "out",
+      "medium": "intercom_text"
+    },
+    "timezone_basis": "Time no especifica zona. Se conserva fuera de la cronología confirmada; canales repetidos no se eliminan.",
+    "id": "U000043"
+  },
+  {
+    "source_code": "S496",
+    "source_path": "/home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Account and Profile/communications_sent-0.csv",
+    "family": "Uber",
+    "channel": "Comunicaciones",
+    "kind": "mensaje con zona sin determinar",
+    "subject": "Uber · out · push · todo bien???",
+    "url_original": null,
+    "url_public": null,
+    "text_original": "{\"Time\": \"2026-09-19 02:18:49\", \"Subject\": \"\", \"Content\": \"todo bien???\", \"Medium\": \"push\", \"Direction\": \"out\"}",
+    "date_original": "2026-09-19 02:18:49",
+    "time_precision": "segundo",
+    "locator": {
+      "csv_record_index_1based": 6,
+      "csv_line_1based": 9,
+      "csv_end_line_1based": 9
+    },
+    "time_utc": null,
+    "time_local": null,
+    "identifiers": {
+      "direction": "out",
+      "medium": "push"
+    },
+    "timezone_basis": "Time no especifica zona. Se conserva fuera de la cronología confirmada; canales repetidos no se eliminan.",
+    "id": "U000044"
+  },
+  {
+    "source_code": "S498",
+    "source_path": "/home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Account and Profile/driver_profile-0.csv",
+    "family": "Uber",
+    "channel": "Cuenta y perfil",
+    "kind": "registro sin fecha o zona determinada",
+    "subject": "Uber · Account and Profile/driver_profile-0.csv · hadilene116@gmail.com · UberEats",
+    "url_original": null,
+    "url_public": null,
+    "text_original": "{\"First Name\": \"Eduardo\", \"Last Name\": \"Velez Moreno\", \"Preferred Name\": \"\", \"Phone Number\": \"4439128654\", \"E-mail\": \"hadilene116@gmail.com\", \"Rating\": \"\", \"Drivers under Partner\": \"0\", \"Driver Profile\": \"UberEats\", \"Active Since\": \"\", \"Is Partner\": \"Yes\", \"Opted-in to E-Mail\": \"Yes\", \"Opted-in to SMS\": \"Yes\", \"Language Preference\": \"Spanish (Latin America)\", \"Preferred Language Script\": \"\", \"Lifetime Completed Trips\": \"0\", \"Operating City\": \"Pachuca\", \"Operating Country\": \"Mexico\", \"Fleet Type\": \"\", \"Referral Code\": \"7c16laa967\", \"Signup City\": \"Pachuca\", \"Signup Date\": \"2026-09-09 22:46:53\"}",
+    "date_original": "2026-09-09 22:46:53",
+    "time_precision": "segundo",
+    "locator": {
+      "csv_record_index_1based": 1,
+      "csv_line_1based": 2,
+      "csv_end_line_1based": 2
+    },
+    "time_utc": null,
+    "time_local": null,
+    "identifiers": {},
+    "timezone_basis": "No se asigna zona a fechas sin offset ni se inventa fecha para inventarios o puntuaciones.",
+    "id": "U000045"
+  },
+  {
+    "source_code": "S499",
+    "source_path": "/home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Account and Profile/payment_methods-0.csv",
+    "family": "Uber",
+    "channel": "Métodos de pago",
+    "kind": "inventario sin fecha",
+    "subject": "Uber · método de pago · STORED_VALUE ·  · ",
+    "url_original": null,
+    "url_public": null,
+    "text_original": "{\"Profile Type\": \"STORED_VALUE\", \"Bank/Issuer Name\": \"\", \"Payment Method Brand\": \"\", \"Payment Method Type\": \"\", \"Used For Collections\": \"true\", \"Used For Disbursements\": \"false\", \"Is the Latest Version\": \"true\", \"Not Payable\": \"false\", \"Billing Country\": \"\", \"Country\": \"\", \"Region\": \"\", \"Deleted At\": \"\"}",
+    "date_original": null,
+    "time_precision": "segundo",
+    "locator": {
+      "csv_record_index_1based": 1,
+      "csv_line_1based": 2,
+      "csv_end_line_1based": 2
+    },
+    "time_utc": null,
+    "time_local": null,
+    "identifiers": {
+      "profile_type": "STORED_VALUE"
+    },
+    "timezone_basis": "Deleted At se usa solo cuando contiene una zona explícita. El inventario no indica fechas de alta.",
+    "id": "U000046"
+  },
+  {
+    "source_code": "S499",
+    "source_path": "/home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Account and Profile/payment_methods-0.csv",
+    "family": "Uber",
+    "channel": "Métodos de pago",
+    "kind": "inventario sin fecha",
+    "subject": "Uber · método de pago · CASH ·  · ",
+    "url_original": null,
+    "url_public": null,
+    "text_original": "{\"Profile Type\": \"CASH\", \"Bank/Issuer Name\": \"\", \"Payment Method Brand\": \"\", \"Payment Method Type\": \"\", \"Used For Collections\": \"true\", \"Used For Disbursements\": \"false\", \"Is the Latest Version\": \"false\", \"Not Payable\": \"false\", \"Billing Country\": \"\", \"Country\": \"\", \"Region\": \"\", \"Deleted At\": \"\"}",
+    "date_original": null,
+    "time_precision": "segundo",
+    "locator": {
+      "csv_record_index_1based": 2,
+      "csv_line_1based": 3,
+      "csv_end_line_1based": 3
+    },
+    "time_utc": null,
+    "time_local": null,
+    "identifiers": {
+      "profile_type": "CASH"
+    },
+    "timezone_basis": "Deleted At se usa solo cuando contiene una zona explícita. El inventario no indica fechas de alta.",
+    "id": "U000047"
+  },
+  {
+    "source_code": "S499",
+    "source_path": "/home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Account and Profile/payment_methods-0.csv",
+    "family": "Uber",
+    "channel": "Métodos de pago",
+    "kind": "inventario sin fecha",
+    "subject": "Uber · método de pago · CASH ·  · ",
+    "url_original": null,
+    "url_public": null,
+    "text_original": "{\"Profile Type\": \"CASH\", \"Bank/Issuer Name\": \"\", \"Payment Method Brand\": \"\", \"Payment Method Type\": \"\", \"Used For Collections\": \"true\", \"Used For Disbursements\": \"false\", \"Is the Latest Version\": \"true\", \"Not Payable\": \"false\", \"Billing Country\": \"\", \"Country\": \"\", \"Region\": \"\", \"Deleted At\": \"\"}",
+    "date_original": null,
+    "time_precision": "segundo",
+    "locator": {
+      "csv_record_index_1based": 3,
+      "csv_line_1based": 4,
+      "csv_end_line_1based": 4
+    },
+    "time_utc": null,
+    "time_local": null,
+    "identifiers": {
+      "profile_type": "CASH"
+    },
+    "timezone_basis": "Deleted At se usa solo cuando contiene una zona explícita. El inventario no indica fechas de alta.",
+    "id": "U000048"
+  },
+  {
+    "source_code": "S499",
+    "source_path": "/home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Account and Profile/payment_methods-0.csv",
+    "family": "Uber",
+    "channel": "Métodos de pago",
+    "kind": "inventario sin fecha",
+    "subject": "Uber · método de pago · BANK_CARD · VISA · BANCO AZTECA SA INSTITUCION DE BANCA MULTIPLE",
+    "url_original": null,
+    "url_public": null,
+    "text_original": "{\"Profile Type\": \"BANK_CARD\", \"Bank/Issuer Name\": \"BANCO AZTECA SA INSTITUCION DE BANCA MULTIPLE\", \"Payment Method Brand\": \"VISA\", \"Payment Method Type\": \"DEBIT\", \"Used For Collections\": \"true\", \"Used For Disbursements\": \"false\", \"Is the Latest Version\": \"true\", \"Not Payable\": \"false\", \"Billing Country\": \"MX\", \"Country\": \"Mexico\", \"Region\": \"LatAm\", \"Deleted At\": \"\"}",
+    "date_original": null,
+    "time_precision": "segundo",
+    "locator": {
+      "csv_record_index_1based": 4,
+      "csv_line_1based": 5,
+      "csv_end_line_1based": 5
+    },
+    "time_utc": null,
+    "time_local": null,
+    "identifiers": {
+      "profile_type": "BANK_CARD"
+    },
+    "timezone_basis": "Deleted At se usa solo cuando contiene una zona explícita. El inventario no indica fechas de alta.",
+    "id": "U000049"
+  },
+  {
+    "source_code": "S499",
+    "source_path": "/home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Account and Profile/payment_methods-0.csv",
+    "family": "Uber",
+    "channel": "Métodos de pago",
+    "kind": "inventario sin fecha",
+    "subject": "Uber · método de pago · BANK_CARD · VISA · BANCO AZTECA S.A. INSTITUCION DE BANCA MULTIPLE",
+    "url_original": null,
+    "url_public": null,
+    "text_original": "{\"Profile Type\": \"BANK_CARD\", \"Bank/Issuer Name\": \"BANCO AZTECA S.A. INSTITUCION DE BANCA MULTIPLE\", \"Payment Method Brand\": \"VISA\", \"Payment Method Type\": \"DEBIT\", \"Used For Collections\": \"true\", \"Used For Disbursements\": \"false\", \"Is the Latest Version\": \"false\", \"Not Payable\": \"false\", \"Billing Country\": \"MX\", \"Country\": \"Mexico\", \"Region\": \"LatAm\", \"Deleted At\": \"\"}",
+    "date_original": null,
+    "time_precision": "segundo",
+    "locator": {
+      "csv_record_index_1based": 5,
+      "csv_line_1based": 6,
+      "csv_end_line_1based": 6
+    },
+    "time_utc": null,
+    "time_local": null,
+    "identifiers": {
+      "profile_type": "BANK_CARD"
+    },
+    "timezone_basis": "Deleted At se usa solo cuando contiene una zona explícita. El inventario no indica fechas de alta.",
+    "id": "U000050"
+  },
+  {
+    "source_code": "S499",
+    "source_path": "/home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Account and Profile/payment_methods-0.csv",
+    "family": "Uber",
+    "channel": "Métodos de pago",
+    "kind": "inventario sin fecha",
+    "subject": "Uber · método de pago · BANK_CARD · MASTERCARD · MERCADOLIBRE SA DE CV INSTITUC",
+    "url_original": null,
+    "url_public": null,
+    "text_original": "{\"Profile Type\": \"BANK_CARD\", \"Bank/Issuer Name\": \"MERCADOLIBRE SA DE CV INSTITUC\", \"Payment Method Brand\": \"MASTERCARD\", \"Payment Method Type\": \"DEBIT\", \"Used For Collections\": \"true\", \"Used For Disbursements\": \"false\", \"Is the Latest Version\": \"true\", \"Not Payable\": \"false\", \"Billing Country\": \"MX\", \"Country\": \"Mexico\", \"Region\": \"LatAm\", \"Deleted At\": \"\"}",
+    "date_original": null,
+    "time_precision": "segundo",
+    "locator": {
+      "csv_record_index_1based": 7,
+      "csv_line_1based": 8,
+      "csv_end_line_1based": 8
+    },
+    "time_utc": null,
+    "time_local": null,
+    "identifiers": {
+      "profile_type": "BANK_CARD"
+    },
+    "timezone_basis": "Deleted At se usa solo cuando contiene una zona explícita. El inventario no indica fechas de alta.",
+    "id": "U000051"
+  },
+  {
+    "source_code": "S500",
+    "source_path": "/home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Account and Profile/rider_eater_saved_locations.csv",
+    "family": "Uber",
+    "channel": "Cuenta y perfil",
+    "kind": "registro sin fecha o zona determinada",
+    "subject": "Uber · Account and Profile/rider_eater_saved_locations.csv",
+    "url_original": null,
+    "url_public": null,
+    "text_original": "{\"Label\": \"Casa\", \"House number\": \"118\", \"Street name\": \"Avenida Francisco Villa\", \"City\": \"\", \"State\": \"13\", \"Postal code\": \"43689\", \"Country code\": \"MX\", \"Latitude\": \"20.0794991\", \"Longitude\": \"-98.3578946\"}",
+    "date_original": null,
+    "time_precision": "segundo",
+    "locator": {
+      "csv_record_index_1based": 1,
+      "csv_line_1based": 2,
+      "csv_end_line_1based": 2
+    },
+    "time_utc": null,
+    "time_local": null,
+    "identifiers": {},
+    "timezone_basis": "No se asigna zona a fechas sin offset ni se inventa fecha para inventarios o puntuaciones.",
+    "id": "U000052"
+  },
+  {
+    "source_code": "S501",
+    "source_path": "/home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Account and Profile/user_profile-0.csv",
+    "family": "Uber",
+    "channel": "Cuenta y perfil",
+    "kind": "registro sin fecha o zona determinada",
+    "subject": "Uber · Account and Profile/user_profile-0.csv · hadilene116@gmail.com · Partner",
+    "url_original": null,
+    "url_public": null,
+    "text_original": "{\"First Name\": \"Eduardo\", \"Last Name\": \"Velez Moreno\", \"E-Mail\": \"hadilene116@gmail.com\", \"Mobile\": \"4439128654\", \"Rating\": \"5.0\", \"User Type\": \"Partner\", \"Country\": \"Mexico\", \"First Payment Method Added Timestamp\": \"2026-07-11 20:13:53\", \"Has Confirmed Mobile\": \"yes\", \"Referred to Uber?\": \"No\", \"Language\": \"Spanish (Latin America)\", \"Referral Code\": \"7c16laa967\", \"Signup App Version\": \"4.638.10003\", \"Signup City\": \"Mexico City\", \"Signup Form\": \"android\", \"Signup Lat\": \"19.4371\", \"Signup Long\": \"-99.0111\", \"Signup Date\": \"2026-07-11 20:13:52\"}",
+    "date_original": "2026-07-11 20:13:52",
+    "time_precision": "segundo",
+    "locator": {
+      "csv_record_index_1based": 1,
+      "csv_line_1based": 2,
+      "csv_end_line_1based": 2
+    },
+    "time_utc": null,
+    "time_local": null,
+    "identifiers": {},
+    "timezone_basis": "No se asigna zona a fechas sin offset ni se inventa fecha para inventarios o puntuaciones.",
+    "id": "U000053"
+  },
+  {
+    "source_code": "S505",
+    "source_path": "/home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Rider/rider_lifetime_ratings_received-0.csv",
+    "family": "Uber",
+    "channel": "Cuenta y perfil",
+    "kind": "registro sin fecha o zona determinada",
+    "subject": "Uber · Rider/rider_lifetime_ratings_received-0.csv",
+    "url_original": null,
+    "url_public": null,
+    "text_original": "{\"five_star_rating\": \"5\"}",
+    "date_original": null,
+    "time_precision": "segundo",
+    "locator": {
+      "csv_record_index_1based": 1,
+      "csv_line_1based": 2,
+      "csv_end_line_1based": 2
+    },
+    "time_utc": null,
+    "time_local": null,
+    "identifiers": {},
+    "timezone_basis": "No se asigna zona a fechas sin offset ni se inventa fecha para inventarios o puntuaciones.",
+    "id": "U000054"
   }
 ]

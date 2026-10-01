@@ -1,0 +1,12 @@
+[
+  {
+    "id": "O01",
+    "consulted_on": "2026-10-01",
+    "title": "OpenAI Docs: proyectos y conversaciones",
+    "url": "https://learn.chatgpt.com/docs/projects",
+    "opened_url": "https://learn.chatgpt.com/docs/projects?translationFallback=fr-FR",
+    "notes": "Cada conversación conserva su transcripción. Las conversaciones de un proyecto local pueden trabajar con los mismos archivos. Esta referencia explica el funcionamiento de la herramienta y no constituye evidencia de actividad en las cuentas personales.",
+    "query": "Codex app threads shared workspace worktrees",
+    "status": "contenido oficial abierto y verificado"
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "browser_history_records": 1182,
+  "search_activity_records": 874,
+  "chrome_activity_records": 359,
+  "topic_evidence_records": 8,
+  "topic_session_matches": 0,
+  "sources_with_topic": [
+    "Chrome/Configuración.json",
+    "Chrome/Historial.json",
+    "Mi actividad/Búsqueda/MiActividad.html",
+    "Mi actividad/Chrome/MiActividad.html"
+  ],
+  "source_counts": {
+    "Mi actividad/Búsqueda/MiActividad.html": 4,
+    "Mi actividad/Chrome/MiActividad.html": 2,
+    "Chrome/Historial.json": 2
+  },
+  "password_export_candidate_files": [],
+  "recovered_private_keys": 1,
+  "date_parsing_failures_in_matches": 0,
+  "generated_pdf": false
+}

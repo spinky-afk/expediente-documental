@@ -1,0 +1,12 @@
+{
+  "verified_at_utc": "2026-10-01T17:51:35Z",
+  "method": "google_drive_get_profile",
+  "connected_email": "velez@deeplogic.com.mx",
+  "requested_email": "hadilene116@gmail.com",
+  "matches_requested_account": false,
+  "previous_reads_identity_verified_at_read_time": false,
+  "affected_captures": ["drive-respaldos-consulta.json", "drive-respaldos-consulta-reintento.json", "drive-cloud-backup-listado.json"],
+  "interpretation": "Las consultas previas no se atribuyen a hadilene116@gmail.com ni establecen el estado de su Drive. El perfil conectado verificado ahora pertenece a otra cuenta. No se infiere propiedad de los archivos consultados por el hecho de que fueran accesibles.",
+  "next_step": "Conectar hadilene116@gmail.com mediante la autorización de Google y verificar nuevamente el perfil antes de consultar sus archivos.",
+  "credentials_handling": "La contraseña proporcionada en la conversación no se transcribe a los entregables ni se utiliza para cambiar la autorización del conector."
+}

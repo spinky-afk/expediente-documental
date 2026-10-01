@@ -1,0 +1,2455 @@
+{
+  "created_at_utc": "2026-10-01T18:55:48.487012+00:00",
+  "user_clues": [
+    "21 de septiembre, etsi",
+    "se envió algo al número de la empresa",
+    "ese dato sirve para identificarse con clarin y posteriormente hermes y la cuenta"
+  ],
+  "matched_name": "etsy.com",
+  "etsy": {
+    "name": "etsy.com",
+    "business_id": "1594897960568214",
+    "event_identifiers": [
+      "114623403312281",
+      "297472060462208"
+    ],
+    "filename_suffix": "105529809654844415",
+    "source_path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/etsycom_105529809654844415.html",
+    "source_code": "S229"
+  },
+  "clarin": {
+    "name": "clarin.com",
+    "business_id": "1563990080334439",
+    "event_identifiers": [
+      "455329408009530"
+    ],
+    "filename_suffix": "105529809654844415",
+    "source_path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/clarincom_105529809654844415.html",
+    "source_code": "S214"
+  },
+  "number_matches": {
+    "105529809654844415": {
+      "google_observations": [],
+      "messenger_observations": []
+    },
+    "114623403312281": {
+      "google_observations": [],
+      "messenger_observations": []
+    },
+    "1563990080334439": {
+      "google_observations": [],
+      "messenger_observations": []
+    },
+    "1594897960568214": {
+      "google_observations": [],
+      "messenger_observations": []
+    },
+    "297472060462208": {
+      "google_observations": [],
+      "messenger_observations": []
+    },
+    "455329408009530": {
+      "google_observations": [],
+      "messenger_observations": []
+    }
+  },
+  "same_filename_suffix": true,
+  "events": [
+    {
+      "id": "E071284",
+      "family": "Facebook",
+      "channel": "Actividad fuera de Meta",
+      "kind": "evento recibido",
+      "time_utc": "2026-09-20T08:34:00.000000+00:00",
+      "time_local": "2026-09-20T02:34:00.000000-06:00",
+      "time_precision": "minuto",
+      "date_original": "20 de septiembre de 2026 a las 2:34 a. m.",
+      "source_code": "S109",
+      "source_path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/0.html",
+      "locator": {
+        "table_index_1based": 9,
+        "html_line_1based": 16,
+        "html_column_0based": 4049
+      },
+      "identifiers": {
+        "business_id": null,
+        "event_identificador": "114623403312281"
+      },
+      "subject": "etsy.com · VIEW_CONTENT · identificador de evento 114623403312281",
+      "url": null,
+      "business_name": "etsy.com",
+      "representation": "summary",
+      "event_type": "VIEW_CONTENT"
+    },
+    {
+      "id": "E071285",
+      "family": "Facebook",
+      "channel": "Actividad fuera de Meta",
+      "kind": "evento recibido",
+      "time_utc": "2026-09-20T08:34:00.000000+00:00",
+      "time_local": "2026-09-20T02:34:00.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "sep 20, 2026 2:34:00 am",
+      "source_code": "S229",
+      "source_path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/etsycom_105529809654844415.html",
+      "locator": {
+        "table_index_1based": 10,
+        "html_line_1based": 13,
+        "html_column_0based": 4921
+      },
+      "identifiers": {
+        "business_id": "1594897960568214",
+        "event_identificador": "114623403312281"
+      },
+      "subject": "etsy.com · VIEW_CONTENT · identificador de evento 114623403312281",
+      "url": null,
+      "business_name": "etsy.com",
+      "representation": "named",
+      "event_type": "VIEW_CONTENT"
+    },
+    {
+      "id": "E071286",
+      "family": "Facebook",
+      "channel": "Actividad fuera de Meta",
+      "kind": "evento recibido",
+      "time_utc": "2026-09-20T08:36:00.000000+00:00",
+      "time_local": "2026-09-20T02:36:00.000000-06:00",
+      "time_precision": "minuto",
+      "date_original": "20 de septiembre de 2026 a las 2:36 a. m.",
+      "source_code": "S109",
+      "source_path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/0.html",
+      "locator": {
+        "table_index_1based": 8,
+        "html_line_1based": 16,
+        "html_column_0based": 3678
+      },
+      "identifiers": {
+        "business_id": null,
+        "event_identificador": "297472060462208"
+      },
+      "subject": "etsy.com · PAGE_VIEW · identificador de evento 297472060462208",
+      "url": null,
+      "business_name": "etsy.com",
+      "representation": "summary",
+      "event_type": "PAGE_VIEW"
+    },
+    {
+      "id": "E071287",
+      "family": "Facebook",
+      "channel": "Actividad fuera de Meta",
+      "kind": "evento recibido",
+      "time_utc": "2026-09-20T08:36:00.000000+00:00",
+      "time_local": "2026-09-20T02:36:00.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "sep 20, 2026 2:36:00 am",
+      "source_code": "S229",
+      "source_path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/etsycom_105529809654844415.html",
+      "locator": {
+        "table_index_1based": 9,
+        "html_line_1based": 13,
+        "html_column_0based": 4454
+      },
+      "identifiers": {
+        "business_id": "1594897960568214",
+        "event_identificador": "297472060462208"
+      },
+      "subject": "etsy.com · PAGE_VIEW · identificador de evento 297472060462208",
+      "url": null,
+      "business_name": "etsy.com",
+      "representation": "named",
+      "event_type": "PAGE_VIEW"
+    },
+    {
+      "id": "E071290",
+      "family": "Facebook",
+      "channel": "Actividad fuera de Meta",
+      "kind": "evento recibido",
+      "time_utc": "2026-09-20T09:23:00.000000+00:00",
+      "time_local": "2026-09-20T03:23:00.000000-06:00",
+      "time_precision": "minuto",
+      "date_original": "20 de septiembre de 2026 a las 3:23 a. m.",
+      "source_code": "S109",
+      "source_path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/0.html",
+      "locator": {
+        "table_index_1based": 7,
+        "html_line_1based": 16,
+        "html_column_0based": 3304
+      },
+      "identifiers": {
+        "business_id": null,
+        "event_identificador": "114623403312281"
+      },
+      "subject": "etsy.com · VIEW_CONTENT · identificador de evento 114623403312281",
+      "url": null,
+      "business_name": "etsy.com",
+      "representation": "summary",
+      "event_type": "VIEW_CONTENT"
+    },
+    {
+      "id": "E071291",
+      "family": "Facebook",
+      "channel": "Actividad fuera de Meta",
+      "kind": "evento recibido",
+      "time_utc": "2026-09-20T09:23:00.000000+00:00",
+      "time_local": "2026-09-20T03:23:00.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "sep 20, 2026 3:23:00 am",
+      "source_code": "S229",
+      "source_path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/etsycom_105529809654844415.html",
+      "locator": {
+        "table_index_1based": 8,
+        "html_line_1based": 13,
+        "html_column_0based": 3984
+      },
+      "identifiers": {
+        "business_id": "1594897960568214",
+        "event_identificador": "114623403312281"
+      },
+      "subject": "etsy.com · VIEW_CONTENT · identificador de evento 114623403312281",
+      "url": null,
+      "business_name": "etsy.com",
+      "representation": "named",
+      "event_type": "VIEW_CONTENT"
+    },
+    {
+      "id": "E071292",
+      "family": "Facebook",
+      "channel": "Actividad fuera de Meta",
+      "kind": "evento recibido",
+      "time_utc": "2026-09-20T09:24:00.000000+00:00",
+      "time_local": "2026-09-20T03:24:00.000000-06:00",
+      "time_precision": "minuto",
+      "date_original": "20 de septiembre de 2026 a las 3:24 a. m.",
+      "source_code": "S109",
+      "source_path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/0.html",
+      "locator": {
+        "table_index_1based": 6,
+        "html_line_1based": 16,
+        "html_column_0based": 2933
+      },
+      "identifiers": {
+        "business_id": null,
+        "event_identificador": "297472060462208"
+      },
+      "subject": "etsy.com · PAGE_VIEW · identificador de evento 297472060462208",
+      "url": null,
+      "business_name": "etsy.com",
+      "representation": "summary",
+      "event_type": "PAGE_VIEW"
+    },
+    {
+      "id": "E071293",
+      "family": "Facebook",
+      "channel": "Actividad fuera de Meta",
+      "kind": "evento recibido",
+      "time_utc": "2026-09-20T09:24:00.000000+00:00",
+      "time_local": "2026-09-20T03:24:00.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "sep 20, 2026 3:24:00 am",
+      "source_code": "S229",
+      "source_path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/etsycom_105529809654844415.html",
+      "locator": {
+        "table_index_1based": 7,
+        "html_line_1based": 13,
+        "html_column_0based": 3517
+      },
+      "identifiers": {
+        "business_id": "1594897960568214",
+        "event_identificador": "297472060462208"
+      },
+      "subject": "etsy.com · PAGE_VIEW · identificador de evento 297472060462208",
+      "url": null,
+      "business_name": "etsy.com",
+      "representation": "named",
+      "event_type": "PAGE_VIEW"
+    },
+    {
+      "id": "E071309",
+      "family": "Facebook",
+      "channel": "Actividad fuera de Meta",
+      "kind": "evento recibido",
+      "time_utc": "2026-09-20T13:25:00.000000+00:00",
+      "time_local": "2026-09-20T07:25:00.000000-06:00",
+      "time_precision": "minuto",
+      "date_original": "20 de septiembre de 2026 a las 7:25 a. m.",
+      "source_code": "S109",
+      "source_path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/0.html",
+      "locator": {
+        "table_index_1based": 4,
+        "html_line_1based": 16,
+        "html_column_0based": 2191
+      },
+      "identifiers": {
+        "business_id": null,
+        "event_identificador": "114623403312281"
+      },
+      "subject": "etsy.com · PAGE_VIEW · identificador de evento 114623403312281",
+      "url": null,
+      "business_name": "etsy.com",
+      "representation": "summary",
+      "event_type": "PAGE_VIEW"
+    },
+    {
+      "id": "E071310",
+      "family": "Facebook",
+      "channel": "Actividad fuera de Meta",
+      "kind": "evento recibido",
+      "time_utc": "2026-09-20T13:25:00.000000+00:00",
+      "time_local": "2026-09-20T07:25:00.000000-06:00",
+      "time_precision": "minuto",
+      "date_original": "20 de septiembre de 2026 a las 7:25 a. m.",
+      "source_code": "S109",
+      "source_path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/0.html",
+      "locator": {
+        "table_index_1based": 5,
+        "html_line_1based": 16,
+        "html_column_0based": 2562
+      },
+      "identifiers": {
+        "business_id": null,
+        "event_identificador": "297472060462208"
+      },
+      "subject": "etsy.com · PAGE_VIEW · identificador de evento 297472060462208",
+      "url": null,
+      "business_name": "etsy.com",
+      "representation": "summary",
+      "event_type": "PAGE_VIEW"
+    },
+    {
+      "id": "E071311",
+      "family": "Facebook",
+      "channel": "Actividad fuera de Meta",
+      "kind": "evento recibido",
+      "time_utc": "2026-09-20T13:25:00.000000+00:00",
+      "time_local": "2026-09-20T07:25:00.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "sep 20, 2026 7:25:00 am",
+      "source_code": "S229",
+      "source_path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/etsycom_105529809654844415.html",
+      "locator": {
+        "table_index_1based": 5,
+        "html_line_1based": 13,
+        "html_column_0based": 2583
+      },
+      "identifiers": {
+        "business_id": "1594897960568214",
+        "event_identificador": "114623403312281"
+      },
+      "subject": "etsy.com · PAGE_VIEW · identificador de evento 114623403312281",
+      "url": null,
+      "business_name": "etsy.com",
+      "representation": "named",
+      "event_type": "PAGE_VIEW"
+    },
+    {
+      "id": "E071312",
+      "family": "Facebook",
+      "channel": "Actividad fuera de Meta",
+      "kind": "evento recibido",
+      "time_utc": "2026-09-20T13:25:00.000000+00:00",
+      "time_local": "2026-09-20T07:25:00.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "sep 20, 2026 7:25:00 am",
+      "source_code": "S229",
+      "source_path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/etsycom_105529809654844415.html",
+      "locator": {
+        "table_index_1based": 6,
+        "html_line_1based": 13,
+        "html_column_0based": 3050
+      },
+      "identifiers": {
+        "business_id": "1594897960568214",
+        "event_identificador": "297472060462208"
+      },
+      "subject": "etsy.com · PAGE_VIEW · identificador de evento 297472060462208",
+      "url": null,
+      "business_name": "etsy.com",
+      "representation": "named",
+      "event_type": "PAGE_VIEW"
+    },
+    {
+      "id": "E071360",
+      "family": "Google",
+      "channel": "Búsqueda",
+      "kind": "consulta",
+      "time_utc": "2026-09-20T22:11:03.000000+00:00",
+      "time_local": "2026-09-20T16:11:03.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "20 sept 2026, 4:11:03 p.m. CST",
+      "source_code": "S004",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Búsqueda/MiActividad.html",
+      "locator": {
+        "record_index_1based": 177,
+        "html_line_1based": 34,
+        "html_column_0based": 145791
+      },
+      "identifiers": {},
+      "subject": "6850175308",
+      "url": "https://www.google.com/search?q=6850175308"
+    },
+    {
+      "id": "E071361",
+      "family": "Google",
+      "channel": "Google Analytics",
+      "kind": "visita",
+      "time_utc": "2026-09-20T22:12:12.000000+00:00",
+      "time_local": "2026-09-20T16:12:12.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "20 sept 2026, 4:12:12 p.m. CST",
+      "source_code": "S012",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Google Analytics/MiActividad.html",
+      "locator": {
+        "record_index_1based": 147,
+        "html_line_1based": 33,
+        "html_column_0based": 157875
+      },
+      "identifiers": {},
+      "subject": "portal.nousresearch.com/cloud",
+      "url": "http://portal.nousresearch.com/cloud"
+    },
+    {
+      "id": "E071363",
+      "family": "Google",
+      "channel": "Google Analytics",
+      "kind": "visita",
+      "time_utc": "2026-09-20T22:13:44.000000+00:00",
+      "time_local": "2026-09-20T16:13:44.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "20 sept 2026, 4:13:44 p.m. CST",
+      "source_code": "S012",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Google Analytics/MiActividad.html",
+      "locator": {
+        "record_index_1based": 146,
+        "html_line_1based": 33,
+        "html_column_0based": 156747
+      },
+      "identifiers": {},
+      "subject": "portal.nousresearch.com/orgs/3d6ba8ff/billing",
+      "url": "http://portal.nousresearch.com/orgs/3d6ba8ff/billing"
+    },
+    {
+      "id": "E071364",
+      "family": "Google",
+      "channel": "Google Analytics",
+      "kind": "visita",
+      "time_utc": "2026-09-20T22:14:57.000000+00:00",
+      "time_local": "2026-09-20T16:14:57.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "20 sept 2026, 4:14:57 p.m. CST",
+      "source_code": "S012",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Google Analytics/MiActividad.html",
+      "locator": {
+        "record_index_1based": 145,
+        "html_line_1based": 33,
+        "html_column_0based": 155682
+      },
+      "identifiers": {},
+      "subject": "portal.nousresearch.com/",
+      "url": "http://portal.nousresearch.com/"
+    },
+    {
+      "id": "E071365",
+      "family": "Google",
+      "channel": "Búsqueda",
+      "kind": "consulta",
+      "time_utc": "2026-09-20T22:15:48.000000+00:00",
+      "time_local": "2026-09-20T16:15:48.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "20 sept 2026, 4:15:48 p.m. CST",
+      "source_code": "S004",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Búsqueda/MiActividad.html",
+      "locator": {
+        "record_index_1based": 176,
+        "html_line_1based": 34,
+        "html_column_0based": 144610
+      },
+      "identifiers": {},
+      "subject": "inwebo authenticator",
+      "url": "https://www.google.com/search?q=inwebo+authenticator"
+    },
+    {
+      "id": "E071366",
+      "family": "Google",
+      "channel": "Búsqueda",
+      "kind": "visita",
+      "time_utc": "2026-09-20T22:16:03.000000+00:00",
+      "time_local": "2026-09-20T16:16:03.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "20 sept 2026, 4:16:03 p.m. CST",
+      "source_code": "S004",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Búsqueda/MiActividad.html",
+      "locator": {
+        "record_index_1based": 175,
+        "html_line_1based": 34,
+        "html_column_0based": 143532
+      },
+      "identifiers": {},
+      "subject": "inWebo Authenticator 6 para Android - Descargar",
+      "url": "https://inwebo-authenticator-6.softonic.com/android"
+    },
+    {
+      "id": "E071367",
+      "family": "Google",
+      "channel": "Búsqueda",
+      "kind": "consulta",
+      "time_utc": "2026-09-20T22:16:08.000000+00:00",
+      "time_local": "2026-09-20T16:16:08.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "20 sept 2026, 4:16:08 p.m. CST",
+      "source_code": "S004",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Búsqueda/MiActividad.html",
+      "locator": {
+        "record_index_1based": 174,
+        "html_line_1based": 34,
+        "html_column_0based": 142345
+      },
+      "identifiers": {},
+      "subject": "my inwebo authenticator",
+      "url": "https://www.google.com/search?q=my+inwebo+authenticator"
+    },
+    {
+      "id": "E071368",
+      "family": "Google",
+      "channel": "Búsqueda",
+      "kind": "visita",
+      "time_utc": "2026-09-20T22:16:11.000000+00:00",
+      "time_local": "2026-09-20T16:16:11.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "20 sept 2026, 4:16:11 p.m. CST",
+      "source_code": "S004",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Búsqueda/MiActividad.html",
+      "locator": {
+        "record_index_1based": 173,
+        "html_line_1based": 34,
+        "html_column_0based": 141332
+      },
+      "identifiers": {},
+      "subject": "MyinWebo.com",
+      "url": "https://myinwebo.com/"
+    },
+    {
+      "id": "E071369",
+      "family": "Google",
+      "channel": "Búsqueda",
+      "kind": "consulta",
+      "time_utc": "2026-09-20T22:16:37.000000+00:00",
+      "time_local": "2026-09-20T16:16:37.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "20 sept 2026, 4:16:37 p.m. CST",
+      "source_code": "S004",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Búsqueda/MiActividad.html",
+      "locator": {
+        "record_index_1based": 172,
+        "html_line_1based": 34,
+        "html_column_0based": 140167
+      },
+      "identifiers": {},
+      "subject": "inwebo admin",
+      "url": "https://www.google.com/search?q=inwebo+admin"
+    },
+    {
+      "id": "E071370",
+      "family": "Google",
+      "channel": "Búsqueda",
+      "kind": "visita",
+      "time_utc": "2026-09-20T22:17:13.000000+00:00",
+      "time_local": "2026-09-20T16:17:13.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "20 sept 2026, 4:17:13 p.m. CST",
+      "source_code": "S004",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Búsqueda/MiActividad.html",
+      "locator": {
+        "record_index_1based": 171,
+        "html_line_1based": 34,
+        "html_column_0based": 139111
+      },
+      "identifiers": {},
+      "subject": "https://www.myinwebo.com/console/logon",
+      "url": "https://www.myinwebo.com/console/logon"
+    },
+    {
+      "id": "E071371",
+      "family": "Google",
+      "channel": "Google Analytics",
+      "kind": "visita",
+      "time_utc": "2026-09-20T22:17:50.000000+00:00",
+      "time_local": "2026-09-20T16:17:50.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "20 sept 2026, 4:17:50 p.m. CST",
+      "source_code": "S012",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Google Analytics/MiActividad.html",
+      "locator": {
+        "record_index_1based": 144,
+        "html_line_1based": 33,
+        "html_column_0based": 154602
+      },
+      "identifiers": {},
+      "subject": "portal.nousresearch.com/login",
+      "url": "http://portal.nousresearch.com/login"
+    },
+    {
+      "id": "E072521",
+      "family": "Google",
+      "channel": "Chat",
+      "kind": "consulta",
+      "time_utc": "2026-09-21T02:47:22.000000+00:00",
+      "time_local": "2026-09-20T20:47:22.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "20 sept 2026, 8:47:22 p.m. CST",
+      "source_code": "S007",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Chat/MiActividad.html",
+      "locator": {
+        "record_index_1based": 1,
+        "html_line_1based": 33,
+        "html_column_0based": 43
+      },
+      "identifiers": {},
+      "subject": "6850175308",
+      "url": "https://mail.google.com/chat/#search/6850175308"
+    },
+    {
+      "id": "E072532",
+      "family": "Google",
+      "channel": "Gmail",
+      "kind": "consulta",
+      "time_utc": "2026-09-21T03:02:21.000000+00:00",
+      "time_local": "2026-09-20T21:02:21.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "20 sept 2026, 9:02:21 p.m. CST",
+      "source_code": "S011",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Gmail/MiActividad.html",
+      "locator": {
+        "record_index_1based": 14,
+        "html_line_1based": 33,
+        "html_column_0based": 12576
+      },
+      "identifiers": {},
+      "subject": "hermes",
+      "url": "https://mail.google.com/mail/#search/hermes"
+    },
+    {
+      "id": "E072537",
+      "family": "Google",
+      "channel": "Búsqueda",
+      "kind": "consulta",
+      "time_utc": "2026-09-21T03:12:50.000000+00:00",
+      "time_local": "2026-09-20T21:12:50.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "20 sept 2026, 9:12:50 p.m. CST",
+      "source_code": "S004",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Búsqueda/MiActividad.html",
+      "locator": {
+        "record_index_1based": 170,
+        "html_line_1based": 34,
+        "html_column_0based": 137950
+      },
+      "identifiers": {},
+      "subject": "6850175308",
+      "url": "https://www.google.com/search?q=6850175308"
+    },
+    {
+      "id": "E072538",
+      "family": "Facebook",
+      "channel": "Actividad fuera de Meta",
+      "kind": "evento recibido",
+      "time_utc": "2026-09-21T03:13:00.000000+00:00",
+      "time_local": "2026-09-20T21:13:00.000000-06:00",
+      "time_precision": "minuto",
+      "date_original": "20 de septiembre de 2026 a las 9:13 p. m.",
+      "source_code": "S109",
+      "source_path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/0.html",
+      "locator": {
+        "table_index_1based": 2,
+        "html_line_1based": 16,
+        "html_column_0based": 1446
+      },
+      "identifiers": {
+        "business_id": null,
+        "event_identificador": "114623403312281"
+      },
+      "subject": "etsy.com · VIEW_CONTENT · identificador de evento 114623403312281",
+      "url": null,
+      "business_name": "etsy.com",
+      "representation": "summary",
+      "event_type": "VIEW_CONTENT"
+    },
+    {
+      "id": "E072539",
+      "family": "Facebook",
+      "channel": "Actividad fuera de Meta",
+      "kind": "evento recibido",
+      "time_utc": "2026-09-21T03:13:00.000000+00:00",
+      "time_local": "2026-09-20T21:13:00.000000-06:00",
+      "time_precision": "minuto",
+      "date_original": "20 de septiembre de 2026 a las 9:13 p. m.",
+      "source_code": "S109",
+      "source_path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/0.html",
+      "locator": {
+        "table_index_1based": 3,
+        "html_line_1based": 16,
+        "html_column_0based": 1820
+      },
+      "identifiers": {
+        "business_id": null,
+        "event_identificador": "297472060462208"
+      },
+      "subject": "etsy.com · PAGE_VIEW · identificador de evento 297472060462208",
+      "url": null,
+      "business_name": "etsy.com",
+      "representation": "summary",
+      "event_type": "PAGE_VIEW"
+    },
+    {
+      "id": "E072540",
+      "family": "Facebook",
+      "channel": "Actividad fuera de Meta",
+      "kind": "evento recibido",
+      "time_utc": "2026-09-21T03:13:00.000000+00:00",
+      "time_local": "2026-09-20T21:13:00.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "sep 20, 2026 9:13:00 pm",
+      "source_code": "S229",
+      "source_path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/etsycom_105529809654844415.html",
+      "locator": {
+        "table_index_1based": 3,
+        "html_line_1based": 13,
+        "html_column_0based": 1646
+      },
+      "identifiers": {
+        "business_id": "1594897960568214",
+        "event_identificador": "114623403312281"
+      },
+      "subject": "etsy.com · VIEW_CONTENT · identificador de evento 114623403312281",
+      "url": null,
+      "business_name": "etsy.com",
+      "representation": "named",
+      "event_type": "VIEW_CONTENT"
+    },
+    {
+      "id": "E072541",
+      "family": "Facebook",
+      "channel": "Actividad fuera de Meta",
+      "kind": "evento recibido",
+      "time_utc": "2026-09-21T03:13:00.000000+00:00",
+      "time_local": "2026-09-20T21:13:00.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "sep 20, 2026 9:13:00 pm",
+      "source_code": "S229",
+      "source_path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/etsycom_105529809654844415.html",
+      "locator": {
+        "table_index_1based": 4,
+        "html_line_1based": 13,
+        "html_column_0based": 2116
+      },
+      "identifiers": {
+        "business_id": "1594897960568214",
+        "event_identificador": "297472060462208"
+      },
+      "subject": "etsy.com · PAGE_VIEW · identificador de evento 297472060462208",
+      "url": null,
+      "business_name": "etsy.com",
+      "representation": "named",
+      "event_type": "PAGE_VIEW"
+    },
+    {
+      "id": "E072542",
+      "family": "Google",
+      "channel": "Búsqueda",
+      "kind": "visita",
+      "time_utc": "2026-09-21T03:13:29.000000+00:00",
+      "time_local": "2026-09-20T21:13:29.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "20 sept 2026, 9:13:29 p.m. CST",
+      "source_code": "S004",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Búsqueda/MiActividad.html",
+      "locator": {
+        "record_index_1based": 169,
+        "html_line_1based": 34,
+        "html_column_0based": 136819
+      },
+      "identifiers": {},
+      "subject": "Pendiente de sol en oro macizo, piercing para labio en oro macizo ...",
+      "url": "https://www.etsy.com/es/listing/4303042674/pendiente-de-sol-en-oro-macizo-piercing"
+    },
+    {
+      "id": "E072543",
+      "family": "Google",
+      "channel": "Google Analytics",
+      "kind": "visita",
+      "time_utc": "2026-09-21T03:13:36.000000+00:00",
+      "time_local": "2026-09-20T21:13:36.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "20 sept 2026, 9:13:36 p.m. CST",
+      "source_code": "S012",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Google Analytics/MiActividad.html",
+      "locator": {
+        "record_index_1based": 137,
+        "html_line_1based": 33,
+        "html_column_0based": 146988
+      },
+      "identifiers": {},
+      "subject": "www.etsy.com/es/listing/4303042674/pendiente-de-sol-en-oro-macizo-piercing",
+      "url": "http://www.etsy.com/es/listing/4303042674/pendiente-de-sol-en-oro-macizo-piercing"
+    },
+    {
+      "id": "E072544",
+      "family": "Google",
+      "channel": "Google Analytics",
+      "kind": "visita",
+      "time_utc": "2026-09-21T03:14:27.000000+00:00",
+      "time_local": "2026-09-20T21:14:27.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "20 sept 2026, 9:14:27 p.m. CST",
+      "source_code": "S012",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Google Analytics/MiActividad.html",
+      "locator": {
+        "record_index_1based": 136,
+        "html_line_1based": 33,
+        "html_column_0based": 145875
+      },
+      "identifiers": {},
+      "subject": "www.etsy.com/es/etsy-purchase-protection",
+      "url": "http://www.etsy.com/es/etsy-purchase-protection"
+    },
+    {
+      "id": "E072545",
+      "family": "Google",
+      "channel": "Búsqueda",
+      "kind": "consulta",
+      "time_utc": "2026-09-21T03:18:59.000000+00:00",
+      "time_local": "2026-09-20T21:18:59.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "20 sept 2026, 9:18:59 p.m. CST",
+      "source_code": "S004",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Búsqueda/MiActividad.html",
+      "locator": {
+        "record_index_1based": 168,
+        "html_line_1based": 34,
+        "html_column_0based": 135664
+      },
+      "identifiers": {},
+      "subject": "g.co/sc",
+      "url": "https://www.google.com/search?q=g.co%2Fsc"
+    },
+    {
+      "id": "E072548",
+      "family": "Google",
+      "channel": "Google Analytics",
+      "kind": "visita",
+      "time_utc": "2026-09-21T03:32:10.000000+00:00",
+      "time_local": "2026-09-20T21:32:10.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "20 sept 2026, 9:32:10 p.m. CST",
+      "source_code": "S012",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Google Analytics/MiActividad.html",
+      "locator": {
+        "record_index_1based": 135,
+        "html_line_1based": 33,
+        "html_column_0based": 144822
+      },
+      "identifiers": {},
+      "subject": "miperfil.clarin.com/",
+      "url": "http://miperfil.clarin.com/"
+    },
+    {
+      "id": "E072549",
+      "family": "Google",
+      "channel": "Búsqueda",
+      "kind": "consulta",
+      "time_utc": "2026-09-21T03:36:31.000000+00:00",
+      "time_local": "2026-09-20T21:36:31.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "20 sept 2026, 9:36:31 p.m. CST",
+      "source_code": "S004",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Búsqueda/MiActividad.html",
+      "locator": {
+        "record_index_1based": 167,
+        "html_line_1based": 34,
+        "html_column_0based": 134335
+      },
+      "identifiers": {},
+      "subject": "clarin",
+      "url": "https://www.google.com/search?q=clarin"
+    },
+    {
+      "id": "E072550",
+      "family": "Google",
+      "channel": "Búsqueda",
+      "kind": "visita",
+      "time_utc": "2026-09-21T03:36:32.000000+00:00",
+      "time_local": "2026-09-20T21:36:32.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "20 sept 2026, 9:36:32 p.m. CST",
+      "source_code": "S004",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Búsqueda/MiActividad.html",
+      "locator": {
+        "record_index_1based": 166,
+        "html_line_1based": 34,
+        "html_column_0based": 133273
+      },
+      "identifiers": {},
+      "subject": "Noticias. Últimas noticias de Argentina y el Mundo | Clarín",
+      "url": "https://www.clarin.com/"
+    },
+    {
+      "id": "E072551",
+      "family": "Google",
+      "channel": "Google Analytics",
+      "kind": "visita",
+      "time_utc": "2026-09-21T03:39:07.000000+00:00",
+      "time_local": "2026-09-20T21:39:07.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "20 sept 2026, 9:39:07 p.m. CST",
+      "source_code": "S012",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Google Analytics/MiActividad.html",
+      "locator": {
+        "record_index_1based": 134,
+        "html_line_1based": 33,
+        "html_column_0based": 143784
+      },
+      "identifiers": {},
+      "subject": "365.clarin.com/",
+      "url": "http://365.clarin.com/"
+    },
+    {
+      "id": "E072552",
+      "family": "Google",
+      "channel": "Google Analytics",
+      "kind": "visita",
+      "time_utc": "2026-09-21T03:39:39.000000+00:00",
+      "time_local": "2026-09-20T21:39:39.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "20 sept 2026, 9:39:39 p.m. CST",
+      "source_code": "S012",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Google Analytics/MiActividad.html",
+      "locator": {
+        "record_index_1based": 133,
+        "html_line_1based": 33,
+        "html_column_0based": 142719
+      },
+      "identifiers": {},
+      "subject": "365.clarin.com/cerca-mio",
+      "url": "http://365.clarin.com/cerca-mio"
+    },
+    {
+      "id": "E072553",
+      "family": "Google",
+      "channel": "Búsqueda",
+      "kind": "consulta",
+      "time_utc": "2026-09-21T03:39:57.000000+00:00",
+      "time_local": "2026-09-20T21:39:57.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "20 sept 2026, 9:39:57 p.m. CST",
+      "source_code": "S004",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Búsqueda/MiActividad.html",
+      "locator": {
+        "record_index_1based": 165,
+        "html_line_1based": 34,
+        "html_column_0based": 132120
+      },
+      "identifiers": {},
+      "subject": "hermes",
+      "url": "https://www.google.com/search?q=hermes"
+    },
+    {
+      "id": "E072554",
+      "family": "Google",
+      "channel": "Búsqueda",
+      "kind": "consulta",
+      "time_utc": "2026-09-21T03:40:31.000000+00:00",
+      "time_local": "2026-09-20T21:40:31.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "20 sept 2026, 9:40:31 p.m. CST",
+      "source_code": "S004",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Búsqueda/MiActividad.html",
+      "locator": {
+        "record_index_1based": 164,
+        "html_line_1based": 34,
+        "html_column_0based": 130939
+      },
+      "identifiers": {},
+      "subject": "inwebo authenticator",
+      "url": "https://www.google.com/search?q=inwebo+authenticator"
+    },
+    {
+      "id": "E072555",
+      "family": "Google",
+      "channel": "Búsqueda",
+      "kind": "visita",
+      "time_utc": "2026-09-21T03:40:35.000000+00:00",
+      "time_local": "2026-09-20T21:40:35.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "20 sept 2026, 9:40:35 p.m. CST",
+      "source_code": "S004",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Búsqueda/MiActividad.html",
+      "locator": {
+        "record_index_1based": 163,
+        "html_line_1based": 34,
+        "html_column_0based": 129909
+      },
+      "identifiers": {},
+      "subject": "https://www.myinwebo.com/",
+      "url": "https://www.myinwebo.com/"
+    },
+    {
+      "id": "E072556",
+      "family": "Google",
+      "channel": "Búsqueda",
+      "kind": "visita",
+      "time_utc": "2026-09-21T03:42:00.000000+00:00",
+      "time_local": "2026-09-20T21:42:00.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "20 sept 2026, 9:42:00 p.m. CST",
+      "source_code": "S004",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Búsqueda/MiActividad.html",
+      "locator": {
+        "record_index_1based": 162,
+        "html_line_1based": 34,
+        "html_column_0based": 128402
+      },
+      "identifiers": {},
+      "subject": "https://www.hermes.com/mx/es/",
+      "url": "https://www.hermes.com/mx/es/"
+    },
+    {
+      "id": "E072557",
+      "family": "Google",
+      "channel": "Google Analytics",
+      "kind": "visita",
+      "time_utc": "2026-09-21T03:42:20.000000+00:00",
+      "time_local": "2026-09-20T21:42:20.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "20 sept 2026, 9:42:20 p.m. CST",
+      "source_code": "S012",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Google Analytics/MiActividad.html",
+      "locator": {
+        "record_index_1based": 131,
+        "html_line_1based": 33,
+        "html_column_0based": 140589
+      },
+      "identifiers": {},
+      "subject": "www.hermes.com/mx/es/",
+      "url": "http://www.hermes.com/mx/es/"
+    },
+    {
+      "id": "E072558",
+      "family": "Google",
+      "channel": "Google Analytics",
+      "kind": "visita",
+      "time_utc": "2026-09-21T03:42:20.000000+00:00",
+      "time_local": "2026-09-20T21:42:20.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "20 sept 2026, 9:42:20 p.m. CST",
+      "source_code": "S012",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Google Analytics/MiActividad.html",
+      "locator": {
+        "record_index_1based": 132,
+        "html_line_1based": 33,
+        "html_column_0based": 141645
+      },
+      "identifiers": {},
+      "subject": "www.hermes.com/mx/es/login/",
+      "url": "http://www.hermes.com/mx/es/login/"
+    },
+    {
+      "id": "E072559",
+      "family": "Google",
+      "channel": "Búsqueda",
+      "kind": "visita",
+      "time_utc": "2026-09-21T03:42:26.000000+00:00",
+      "time_local": "2026-09-20T21:42:26.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "20 sept 2026, 9:42:26 p.m. CST",
+      "source_code": "S004",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Búsqueda/MiActividad.html",
+      "locator": {
+        "record_index_1based": 161,
+        "html_line_1based": 34,
+        "html_column_0based": 126935
+      },
+      "identifiers": {},
+      "subject": "https://www.hermes.com/mx/es/",
+      "url": "https://www.hermes.com/mx/es/"
+    },
+    {
+      "id": "E072560",
+      "family": "Google",
+      "channel": "Búsqueda",
+      "kind": "consulta",
+      "time_utc": "2026-09-21T03:42:34.000000+00:00",
+      "time_local": "2026-09-20T21:42:34.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "20 sept 2026, 9:42:34 p.m. CST",
+      "source_code": "S004",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Búsqueda/MiActividad.html",
+      "locator": {
+        "record_index_1based": 160,
+        "html_line_1based": 34,
+        "html_column_0based": 125776
+      },
+      "identifiers": {},
+      "subject": "hermes us",
+      "url": "https://www.google.com/search?q=hermes+us"
+    },
+    {
+      "id": "E072561",
+      "family": "Google",
+      "channel": "Búsqueda",
+      "kind": "visita",
+      "time_utc": "2026-09-21T03:42:41.000000+00:00",
+      "time_local": "2026-09-20T21:42:41.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "20 sept 2026, 9:42:41 p.m. CST",
+      "source_code": "S004",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Búsqueda/MiActividad.html",
+      "locator": {
+        "record_index_1based": 159,
+        "html_line_1based": 34,
+        "html_column_0based": 124692
+      },
+      "identifiers": {},
+      "subject": "Hermes Stores United States | Hermès Mainland China",
+      "url": "https://www.hermes.cn/cn/en/find-store/united-states/"
+    },
+    {
+      "id": "E072562",
+      "family": "Google",
+      "channel": "Búsqueda",
+      "kind": "visita",
+      "time_utc": "2026-09-21T03:43:21.000000+00:00",
+      "time_local": "2026-09-20T21:43:21.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "20 sept 2026, 9:43:21 p.m. CST",
+      "source_code": "S004",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Búsqueda/MiActividad.html",
+      "locator": {
+        "record_index_1based": 158,
+        "html_line_1based": 34,
+        "html_column_0based": 123167
+      },
+      "identifiers": {},
+      "subject": "https://www.hermes.com/mx/es/category/maquillaje/manos/",
+      "url": "https://www.hermes.com/mx/es/category/maquillaje/manos/"
+    },
+    {
+      "id": "E072563",
+      "family": "Google",
+      "channel": "Google Analytics",
+      "kind": "visita",
+      "time_utc": "2026-09-21T03:43:29.000000+00:00",
+      "time_local": "2026-09-20T21:43:29.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "20 sept 2026, 9:43:29 p.m. CST",
+      "source_code": "S012",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Google Analytics/MiActividad.html",
+      "locator": {
+        "record_index_1based": 130,
+        "html_line_1based": 33,
+        "html_column_0based": 139455
+      },
+      "identifiers": {},
+      "subject": "www.hermes.com/mx/es/category/maquillaje/manos/",
+      "url": "http://www.hermes.com/mx/es/category/maquillaje/manos/"
+    },
+    {
+      "id": "E072564",
+      "family": "Google",
+      "channel": "Traductor de Google",
+      "kind": "visita",
+      "time_utc": "2026-09-21T03:44:31.000000+00:00",
+      "time_local": "2026-09-20T21:44:31.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "20 sept 2026, 9:44:31 p.m. CST",
+      "source_code": "S026",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Traductor de Google/MiActividad.html",
+      "locator": {
+        "record_index_1based": 1,
+        "html_line_1based": 33,
+        "html_column_0based": 43
+      },
+      "identifiers": {},
+      "subject": "el sitio web traducido https://hermes-agent.nousresearch.com/docs/user-guide/messaging",
+      "url": "https://hermes--agent-nousresearch-com.translate.goog/docs/user-guide/messaging?_x_tr_sl=auto&_x_tr_tl=es&_x_tr_hl=es-419&_x_tr_pto=tc"
+    },
+    {
+      "id": "E072565",
+      "family": "Google",
+      "channel": "Google Analytics",
+      "kind": "visita",
+      "time_utc": "2026-09-21T03:47:08.000000+00:00",
+      "time_local": "2026-09-20T21:47:08.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "20 sept 2026, 9:47:08 p.m. CST",
+      "source_code": "S012",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Google Analytics/MiActividad.html",
+      "locator": {
+        "record_index_1based": 129,
+        "html_line_1based": 33,
+        "html_column_0based": 138369
+      },
+      "identifiers": {},
+      "subject": "postlogin.clarin.com/post-login",
+      "url": "http://postlogin.clarin.com/post-login"
+    },
+    {
+      "id": "E072566",
+      "family": "Google",
+      "channel": "Publicidad",
+      "kind": "visita",
+      "time_utc": "2026-09-21T03:47:50.000000+00:00",
+      "time_local": "2026-09-20T21:47:50.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "20 sept 2026, 9:47:50 p.m. CST",
+      "source_code": "S024",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Publicidad/MiActividad.html",
+      "locator": {
+        "record_index_1based": 119,
+        "html_line_1based": 33,
+        "html_column_0based": 130443
+      },
+      "identifiers": {},
+      "subject": "Noticias. Últimas noticias de Argentina y el Mundo | Clarín",
+      "url": "https://www.clarin.com/"
+    },
+    {
+      "id": "E072567",
+      "family": "Google",
+      "channel": "Google Analytics",
+      "kind": "visita",
+      "time_utc": "2026-09-21T03:47:53.000000+00:00",
+      "time_local": "2026-09-20T21:47:53.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "20 sept 2026, 9:47:53 p.m. CST",
+      "source_code": "S012",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Google Analytics/MiActividad.html",
+      "locator": {
+        "record_index_1based": 128,
+        "html_line_1based": 33,
+        "html_column_0based": 137331
+      },
+      "identifiers": {},
+      "subject": "www.clarin.com/",
+      "url": "http://www.clarin.com/"
+    },
+    {
+      "id": "E072568",
+      "family": "Google",
+      "channel": "Google Analytics",
+      "kind": "visita",
+      "time_utc": "2026-09-21T03:47:59.000000+00:00",
+      "time_local": "2026-09-20T21:47:59.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "20 sept 2026, 9:47:59 p.m. CST",
+      "source_code": "S012",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Google Analytics/MiActividad.html",
+      "locator": {
+        "record_index_1based": 127,
+        "html_line_1based": 33,
+        "html_column_0based": 136029
+      },
+      "identifiers": {},
+      "subject": "www.clarin.com/economia/apagon-investigan-causas-gobierno-advierte-aplicara-sanciones_0_KJuCGV2Qfa.html",
+      "url": "http://www.clarin.com/economia/apagon-investigan-causas-gobierno-advierte-aplicara-sanciones_0_KJuCGV2Qfa.html"
+    },
+    {
+      "id": "E072569",
+      "family": "Google",
+      "channel": "Publicidad",
+      "kind": "visita",
+      "time_utc": "2026-09-21T03:48:00.000000+00:00",
+      "time_local": "2026-09-20T21:48:00.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "20 sept 2026, 9:48:00 p.m. CST",
+      "source_code": "S024",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Publicidad/MiActividad.html",
+      "locator": {
+        "record_index_1based": 118,
+        "html_line_1based": 33,
+        "html_column_0based": 129222
+      },
+      "identifiers": {},
+      "subject": "Apagón gigantesco: aún se investigan las causas y el Gobierno ...",
+      "url": "https://www.clarin.com/economia/apagon-investigan-causas-gobierno-advierte-aplicara-sanciones_0_KJuCGV2Qfa.html"
+    },
+    {
+      "id": "E072570",
+      "family": "Google",
+      "channel": "Google Play Store · Installs",
+      "kind": "fecha de firstInstallationTime",
+      "time_utc": "2026-09-21T03:48:56.266751+00:00",
+      "time_local": "2026-09-20T21:48:56.266751-06:00",
+      "time_precision": "fracción de segundo",
+      "date_original": "2026-09-21T03:48:56.266751Z",
+      "source_code": "S058",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Google Play Store/Installs.json",
+      "locator": {
+        "json_pointer": "/367/install/firstInstallationTime"
+      },
+      "identifiers": {},
+      "subject": "Installs · firstInstallationTime · TrustBuilder Authenticator",
+      "url": null,
+      "attachment_links": []
+    },
+    {
+      "id": "E072571",
+      "family": "Google",
+      "channel": "Google Play Store · Installs",
+      "kind": "fecha de lastUpdateTime",
+      "time_utc": "2026-09-21T03:48:56.266751+00:00",
+      "time_local": "2026-09-20T21:48:56.266751-06:00",
+      "time_precision": "fracción de segundo",
+      "date_original": "2026-09-21T03:48:56.266751Z",
+      "source_code": "S058",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Google Play Store/Installs.json",
+      "locator": {
+        "json_pointer": "/367/install/lastUpdateTime"
+      },
+      "identifiers": {},
+      "subject": "Installs · lastUpdateTime · TrustBuilder Authenticator",
+      "url": null,
+      "attachment_links": []
+    },
+    {
+      "id": "E072573",
+      "family": "Google",
+      "channel": "Google Play Store",
+      "kind": "visita",
+      "time_utc": "2026-09-21T03:49:27.000000+00:00",
+      "time_local": "2026-09-20T21:49:27.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "20 sept 2026, 9:49:27 p.m. CST",
+      "source_code": "S016",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Google Play Store/MiActividad.html",
+      "locator": {
+        "record_index_1based": 276,
+        "html_line_1based": 33,
+        "html_column_0based": 274049
+      },
+      "identifiers": {},
+      "subject": "TrustBuilder Authenticator",
+      "url": "https://play.google.com/store/apps/details?id=com.inwebo.near.prod"
+    },
+    {
+      "id": "E072574",
+      "family": "Facebook",
+      "channel": "Actividad fuera de Meta",
+      "kind": "evento recibido",
+      "time_utc": "2026-09-21T03:50:00.000000+00:00",
+      "time_local": "2026-09-20T21:50:00.000000-06:00",
+      "time_precision": "minuto",
+      "date_original": "20 de septiembre de 2026 a las 9:50 p. m.",
+      "source_code": "S109",
+      "source_path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/0.html",
+      "locator": {
+        "table_index_1based": 1,
+        "html_line_1based": 16,
+        "html_column_0based": 1075
+      },
+      "identifiers": {
+        "business_id": null,
+        "event_identificador": "114623403312281"
+      },
+      "subject": "etsy.com · PAGE_VIEW · identificador de evento 114623403312281",
+      "url": null,
+      "business_name": "etsy.com",
+      "representation": "summary",
+      "event_type": "PAGE_VIEW"
+    },
+    {
+      "id": "E072575",
+      "family": "Facebook",
+      "channel": "Actividad fuera de Meta",
+      "kind": "evento recibido",
+      "time_utc": "2026-09-21T03:50:00.000000+00:00",
+      "time_local": "2026-09-20T21:50:00.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "sep 20, 2026 9:50:00 pm",
+      "source_code": "S229",
+      "source_path": "/home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/etsycom_105529809654844415.html",
+      "locator": {
+        "table_index_1based": 2,
+        "html_line_1based": 13,
+        "html_column_0based": 1179
+      },
+      "identifiers": {
+        "business_id": "1594897960568214",
+        "event_identificador": "114623403312281"
+      },
+      "subject": "etsy.com · PAGE_VIEW · identificador de evento 114623403312281",
+      "url": null,
+      "business_name": "etsy.com",
+      "representation": "named",
+      "event_type": "PAGE_VIEW"
+    },
+    {
+      "id": "E072576",
+      "family": "Correo",
+      "channel": "MBOX · Cabeceras Date",
+      "kind": "fecha declarada del correo",
+      "time_utc": "2026-09-21T03:50:33.000000+00:00",
+      "time_local": "2026-09-20T21:50:33.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "Mon, 21 Sep 2026 03:50:33 +0000 (UTC)",
+      "source_code": "S508",
+      "source_path": "/home/deep-logic/Documentos/Todo el correo, con Spam y Papelera incluidos.mbox",
+      "locator": {
+        "mbox_message_index_1based": 202,
+        "mail_id": "M000202",
+        "message_id": "<20260921035032.7AE577E140@web-red-fpxm.localdomain>"
+      },
+      "identifiers": {
+        "mail_id": "M000202",
+        "sender_domain": "mail.etsy.com"
+      },
+      "subject": "Correo · noreply@mail.etsy.com · Adilene, ¿iniciaste sesión hace poco en Etsy?",
+      "url": null,
+      "timezone_basis": "Date de la cabecera, con zona explícita: fecha declarada por el mensaje, sin acreditar lectura, apertura de app ni validación criptográfica del remitente.",
+      "body_search": "Hola Adilene,\r\n\r\n¿Acabas de iniciar sesión en Etsy desde el siguiente dispositivo o navegador?\r\n\r\n* Device: Chrome 135 on Android 15\r\n* Location: Pachuca, HID, Mexico (Mexico Red de Telecomunicaciones, S. de R.L. de C.)\r\n\r\nEn ese caso, puedes ignorar este correo electrónico. De lo contrario, te recomendamos que cambies la [valor privado: consultar original] histórica en www.etsy.com; consultar original]\r\n\r\n¿Te preocupa la situación y no sabes cómo actuar? Consulta este artículo del Centro de ayuda:\r\n[URL histórica en help.etsy.com; consultar original]",
+      "mail_page": "correos/M000202.html"
+    },
+    {
+      "id": "E072578",
+      "family": "Google",
+      "channel": "Google Analytics",
+      "kind": "visita",
+      "time_utc": "2026-09-21T03:51:59.000000+00:00",
+      "time_local": "2026-09-20T21:51:59.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "20 sept 2026, 9:51:59 p.m. CST",
+      "source_code": "S012",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Google Analytics/MiActividad.html",
+      "locator": {
+        "record_index_1based": 126,
+        "html_line_1based": 33,
+        "html_column_0based": 134928
+      },
+      "identifiers": {},
+      "subject": "www.etsy.com/es/r/similar/4303042674",
+      "url": "http://www.etsy.com/es/r/similar/4303042674"
+    },
+    {
+      "id": "E072579",
+      "family": "Google",
+      "channel": "Google Analytics",
+      "kind": "visita",
+      "time_utc": "2026-09-21T03:52:43.000000+00:00",
+      "time_local": "2026-09-20T21:52:43.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "20 sept 2026, 9:52:43 p.m. CST",
+      "source_code": "S012",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Google Analytics/MiActividad.html",
+      "locator": {
+        "record_index_1based": 125,
+        "html_line_1based": 33,
+        "html_column_0based": 133713
+      },
+      "identifiers": {},
+      "subject": "www.etsy.com/es/listing/4303042674/pendiente-de-sol-en-oro-macizo-piercing",
+      "url": "http://www.etsy.com/es/listing/4303042674/pendiente-de-sol-en-oro-macizo-piercing"
+    },
+    {
+      "id": "E072580",
+      "family": "Google",
+      "channel": "Google Analytics",
+      "kind": "visita",
+      "time_utc": "2026-09-21T03:59:47.000000+00:00",
+      "time_local": "2026-09-20T21:59:47.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "20 sept 2026, 9:59:47 p.m. CST",
+      "source_code": "S012",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Google Analytics/MiActividad.html",
+      "locator": {
+        "record_index_1based": 124,
+        "html_line_1based": 33,
+        "html_column_0based": 132591
+      },
+      "identifiers": {},
+      "subject": "portal.nousresearch.com/manage-subscription",
+      "url": "http://portal.nousresearch.com/manage-subscription"
+    },
+    {
+      "id": "E072584",
+      "family": "Google",
+      "channel": "Google Analytics",
+      "kind": "visita",
+      "time_utc": "2026-09-21T04:05:38.000000+00:00",
+      "time_local": "2026-09-20T22:05:38.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "20 sept 2026, 10:05:38 p.m. CST",
+      "source_code": "S012",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Google Analytics/MiActividad.html",
+      "locator": {
+        "record_index_1based": 123,
+        "html_line_1based": 33,
+        "html_column_0based": 131462
+      },
+      "identifiers": {},
+      "subject": "portal.nousresearch.com/orgs/3d6ba8ff/billing",
+      "url": "http://portal.nousresearch.com/orgs/3d6ba8ff/billing"
+    },
+    {
+      "id": "E072586",
+      "family": "Google",
+      "channel": "Google Analytics",
+      "kind": "visita",
+      "time_utc": "2026-09-21T04:16:28.000000+00:00",
+      "time_local": "2026-09-20T22:16:28.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "20 sept 2026, 10:16:28 p.m. CST",
+      "source_code": "S012",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Google Analytics/MiActividad.html",
+      "locator": {
+        "record_index_1based": 122,
+        "html_line_1based": 33,
+        "html_column_0based": 130330
+      },
+      "identifiers": {},
+      "subject": "portal.nousresearch.com/orgs/3d6ba8ff/api-keys",
+      "url": "http://portal.nousresearch.com/orgs/3d6ba8ff/api-keys"
+    },
+    {
+      "id": "E072587",
+      "family": "Google",
+      "channel": "Google Analytics",
+      "kind": "visita",
+      "time_utc": "2026-09-21T04:16:49.000000+00:00",
+      "time_local": "2026-09-20T22:16:49.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "20 sept 2026, 10:16:49 p.m. CST",
+      "source_code": "S012",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Google Analytics/MiActividad.html",
+      "locator": {
+        "record_index_1based": 121,
+        "html_line_1based": 33,
+        "html_column_0based": 129249
+      },
+      "identifiers": {},
+      "subject": "portal.nousresearch.com/cloud",
+      "url": "http://portal.nousresearch.com/cloud"
+    },
+    {
+      "id": "E072588",
+      "family": "Google",
+      "channel": "Google Analytics",
+      "kind": "visita",
+      "time_utc": "2026-09-21T04:17:02.000000+00:00",
+      "time_local": "2026-09-20T22:17:02.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "20 sept 2026, 10:17:02 p.m. CST",
+      "source_code": "S012",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Google Analytics/MiActividad.html",
+      "locator": {
+        "record_index_1based": 120,
+        "html_line_1based": 33,
+        "html_column_0based": 128123
+      },
+      "identifiers": {},
+      "subject": "portal.nousresearch.com/orgs/3d6ba8ff/agents",
+      "url": "http://portal.nousresearch.com/orgs/3d6ba8ff/agents"
+    },
+    {
+      "id": "E072593",
+      "family": "Google",
+      "channel": "Google Analytics",
+      "kind": "visita",
+      "time_utc": "2026-09-21T04:34:01.000000+00:00",
+      "time_local": "2026-09-20T22:34:01.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "20 sept 2026, 10:34:01 p.m. CST",
+      "source_code": "S012",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Google Analytics/MiActividad.html",
+      "locator": {
+        "record_index_1based": 118,
+        "html_line_1based": 33,
+        "html_column_0based": 125750
+      },
+      "identifiers": {},
+      "subject": "www.clarin.com/economia/apagon-investigan-causas-gobierno-advierte-aplicara-sanciones_0_KJuCGV2Qfa.html",
+      "url": "http://www.clarin.com/economia/apagon-investigan-causas-gobierno-advierte-aplicara-sanciones_0_KJuCGV2Qfa.html"
+    },
+    {
+      "id": "E072594",
+      "family": "Google",
+      "channel": "Publicidad",
+      "kind": "visita",
+      "time_utc": "2026-09-21T04:34:02.000000+00:00",
+      "time_local": "2026-09-20T22:34:02.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "20 sept 2026, 10:34:02 p.m. CST",
+      "source_code": "S024",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Publicidad/MiActividad.html",
+      "locator": {
+        "record_index_1based": 116,
+        "html_line_1based": 33,
+        "html_column_0based": 126936
+      },
+      "identifiers": {},
+      "subject": "Apagón gigantesco: aún se investigan las causas y el Gobierno ...",
+      "url": "https://www.clarin.com/economia/apagon-investigan-causas-gobierno-advierte-aplicara-sanciones_0_KJuCGV2Qfa.html"
+    },
+    {
+      "id": "E072595",
+      "family": "Google",
+      "channel": "Google Analytics",
+      "kind": "visita",
+      "time_utc": "2026-09-21T04:34:04.000000+00:00",
+      "time_local": "2026-09-20T22:34:04.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "20 sept 2026, 10:34:04 p.m. CST",
+      "source_code": "S012",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Google Analytics/MiActividad.html",
+      "locator": {
+        "record_index_1based": 117,
+        "html_line_1based": 33,
+        "html_column_0based": 124684
+      },
+      "identifiers": {},
+      "subject": "365.clarin.com/cerca-mio",
+      "url": "http://365.clarin.com/cerca-mio"
+    },
+    {
+      "id": "E072596",
+      "family": "Google",
+      "channel": "Publicidad",
+      "kind": "visita",
+      "time_utc": "2026-09-21T04:34:15.000000+00:00",
+      "time_local": "2026-09-20T22:34:15.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "20 sept 2026, 10:34:15 p.m. CST",
+      "source_code": "S024",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Publicidad/MiActividad.html",
+      "locator": {
+        "record_index_1based": 115,
+        "html_line_1based": 33,
+        "html_column_0based": 125808
+      },
+      "identifiers": {},
+      "subject": "Noticias. Últimas noticias de Argentina y el Mundo | Clarín",
+      "url": "https://www.clarin.com/"
+    },
+    {
+      "id": "E072597",
+      "family": "Google",
+      "channel": "Google Analytics",
+      "kind": "visita",
+      "time_utc": "2026-09-21T04:34:25.000000+00:00",
+      "time_local": "2026-09-20T22:34:25.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "20 sept 2026, 10:34:25 p.m. CST",
+      "source_code": "S012",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Google Analytics/MiActividad.html",
+      "locator": {
+        "record_index_1based": 115,
+        "html_line_1based": 33,
+        "html_column_0based": 122421
+      },
+      "identifiers": {},
+      "subject": "www.clarin.com/|https://www.clarin.com/modal-experiencia-suscriptor_nuevos_2",
+      "url": "http://www.clarin.com/|https://www.clarin.com/modal-experiencia-suscriptor_nuevos_2"
+    },
+    {
+      "id": "E072598",
+      "family": "Google",
+      "channel": "Google Analytics",
+      "kind": "visita",
+      "time_utc": "2026-09-21T04:34:25.000000+00:00",
+      "time_local": "2026-09-20T22:34:25.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "20 sept 2026, 10:34:25 p.m. CST",
+      "source_code": "S012",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Google Analytics/MiActividad.html",
+      "locator": {
+        "record_index_1based": 116,
+        "html_line_1based": 33,
+        "html_column_0based": 123645
+      },
+      "identifiers": {},
+      "subject": "www.clarin.com/",
+      "url": "http://www.clarin.com/"
+    },
+    {
+      "id": "E072599",
+      "family": "Google",
+      "channel": "Búsqueda",
+      "kind": "visita",
+      "time_utc": "2026-09-21T04:53:46.000000+00:00",
+      "time_local": "2026-09-20T22:53:46.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "20 sept 2026, 10:53:46 p.m. CST",
+      "source_code": "S004",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Búsqueda/MiActividad.html",
+      "locator": {
+        "record_index_1based": 157,
+        "html_line_1based": 34,
+        "html_column_0based": 121601
+      },
+      "identifiers": {},
+      "subject": "https://www.hermes.com/mx/es/category/maquillaje/manos/",
+      "url": "https://www.hermes.com/mx/es/category/maquillaje/manos/"
+    },
+    {
+      "id": "E072600",
+      "family": "Google",
+      "channel": "Búsqueda",
+      "kind": "visita",
+      "time_utc": "2026-09-21T04:54:02.000000+00:00",
+      "time_local": "2026-09-20T22:54:02.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "20 sept 2026, 10:54:02 p.m. CST",
+      "source_code": "S004",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Búsqueda/MiActividad.html",
+      "locator": {
+        "record_index_1based": 156,
+        "html_line_1based": 34,
+        "html_column_0based": 120075
+      },
+      "identifiers": {},
+      "subject": "https://www.hermes.com/mx/es/category/maquillaje/manos/",
+      "url": "https://www.hermes.com/mx/es/category/maquillaje/manos/"
+    },
+    {
+      "id": "E072601",
+      "family": "Google",
+      "channel": "Google Analytics",
+      "kind": "visita",
+      "time_utc": "2026-09-21T04:54:06.000000+00:00",
+      "time_local": "2026-09-20T22:54:06.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "20 sept 2026, 10:54:06 p.m. CST",
+      "source_code": "S012",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Google Analytics/MiActividad.html",
+      "locator": {
+        "record_index_1based": 114,
+        "html_line_1based": 33,
+        "html_column_0based": 121286
+      },
+      "identifiers": {},
+      "subject": "www.hermes.com/mx/es/category/maquillaje/manos/",
+      "url": "http://www.hermes.com/mx/es/category/maquillaje/manos/"
+    },
+    {
+      "id": "E072602",
+      "family": "Google",
+      "channel": "Búsqueda",
+      "kind": "visita",
+      "time_utc": "2026-09-21T04:54:29.000000+00:00",
+      "time_local": "2026-09-20T22:54:29.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "20 sept 2026, 10:54:29 p.m. CST",
+      "source_code": "S004",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Búsqueda/MiActividad.html",
+      "locator": {
+        "record_index_1based": 155,
+        "html_line_1based": 34,
+        "html_column_0based": 118449
+      },
+      "identifiers": {},
+      "subject": "https://www.hermes.com/mx/es/category/mujer/pret-a-porter/coleccion-primavera-verano/#|?utm_source=google&utm_medium=cpc&utm_campaign=MX_ES_DEFENSIVE_CATD_READY_TO_WEAR_WOMEN&utm_term=Generic_[Women]_[Broad]",
+      "url": "https://www.hermes.com/mx/es/category/mujer/pret-a-porter/coleccion-primavera-verano/#|?utm_source=google&utm_medium=cpc&utm_campaign=MX_ES_DEFENSIVE_CATD_READY_TO_WEAR_WOMEN&utm_term=Generic_[Women]_[Broad]"
+    },
+    {
+      "id": "E072603",
+      "family": "Google",
+      "channel": "Google Analytics",
+      "kind": "visita",
+      "time_utc": "2026-09-21T04:54:48.000000+00:00",
+      "time_local": "2026-09-20T22:54:48.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "20 sept 2026, 10:54:48 p.m. CST",
+      "source_code": "S012",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Google Analytics/MiActividad.html",
+      "locator": {
+        "record_index_1based": 113,
+        "html_line_1based": 33,
+        "html_column_0based": 120211
+      },
+      "identifiers": {},
+      "subject": "www.hermes.com/mx/es/login/",
+      "url": "http://www.hermes.com/mx/es/login/"
+    },
+    {
+      "id": "E072604",
+      "family": "Google",
+      "channel": "Búsqueda",
+      "kind": "consulta",
+      "time_utc": "2026-09-21T04:54:54.000000+00:00",
+      "time_local": "2026-09-20T22:54:54.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "20 sept 2026, 10:54:54 p.m. CST",
+      "source_code": "S004",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Búsqueda/MiActividad.html",
+      "locator": {
+        "record_index_1based": 154,
+        "html_line_1based": 34,
+        "html_column_0based": 117113
+      },
+      "identifiers": {},
+      "subject": "hermes us",
+      "url": "https://www.google.com/search?q=hermes+us"
+    },
+    {
+      "id": "E072605",
+      "family": "Google",
+      "channel": "Google Analytics",
+      "kind": "visita",
+      "time_utc": "2026-09-21T04:54:54.000000+00:00",
+      "time_local": "2026-09-20T22:54:54.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "20 sept 2026, 10:54:54 p.m. CST",
+      "source_code": "S012",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Google Analytics/MiActividad.html",
+      "locator": {
+        "record_index_1based": 112,
+        "html_line_1based": 33,
+        "html_column_0based": 118986
+      },
+      "identifiers": {},
+      "subject": "www.hermes.com/mx/es/category/mujer/pret-a-porter/coleccion-primavera-verano/",
+      "url": "http://www.hermes.com/mx/es/category/mujer/pret-a-porter/coleccion-primavera-verano/"
+    },
+    {
+      "id": "E072606",
+      "family": "Google",
+      "channel": "Búsqueda",
+      "kind": "visita",
+      "time_utc": "2026-09-21T04:55:03.000000+00:00",
+      "time_local": "2026-09-20T22:55:03.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "20 sept 2026, 10:55:03 p.m. CST",
+      "source_code": "S004",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Búsqueda/MiActividad.html",
+      "locator": {
+        "record_index_1based": 153,
+        "html_line_1based": 34,
+        "html_column_0based": 116064
+      },
+      "identifiers": {},
+      "subject": "The official Hermes online store | Hermès USA",
+      "url": "https://www.hermes.com/"
+    },
+    {
+      "id": "E072607",
+      "family": "Google",
+      "channel": "Búsqueda",
+      "kind": "consulta",
+      "time_utc": "2026-09-21T04:55:14.000000+00:00",
+      "time_local": "2026-09-20T22:55:14.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "20 sept 2026, 10:55:14 p.m. CST",
+      "source_code": "S004",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Búsqueda/MiActividad.html",
+      "locator": {
+        "record_index_1based": 152,
+        "html_line_1based": 34,
+        "html_column_0based": 114892
+      },
+      "identifiers": {},
+      "subject": "hermes us model",
+      "url": "https://www.google.com/search?q=hermes+us+model"
+    },
+    {
+      "id": "E072608",
+      "family": "Google",
+      "channel": "Búsqueda",
+      "kind": "visita",
+      "time_utc": "2026-09-21T04:55:39.000000+00:00",
+      "time_local": "2026-09-20T22:55:39.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "20 sept 2026, 10:55:39 p.m. CST",
+      "source_code": "S004",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Búsqueda/MiActividad.html",
+      "locator": {
+        "record_index_1based": 151,
+        "html_line_1based": 34,
+        "html_column_0based": 113837
+      },
+      "identifiers": {},
+      "subject": "The official Hermes online store | Hermès USA",
+      "url": "https://www.hermes.com/us/en/"
+    },
+    {
+      "id": "E072609",
+      "family": "Correo",
+      "channel": "MBOX · Cabeceras Date",
+      "kind": "fecha declarada del correo",
+      "time_utc": "2026-09-21T04:56:33.000000+00:00",
+      "time_local": "2026-09-20T22:56:33.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "Mon, 21 Sep 2026 04:56:33 +0000",
+      "source_code": "S508",
+      "source_path": "/home/deep-logic/Documentos/Todo el correo, con Spam y Papelera incluidos.mbox",
+      "locator": {
+        "mbox_message_index_1based": 226,
+        "mail_id": "M000226",
+        "message_id": "<202609210456.13786924000@smtp-relay.mailin.fr>"
+      },
+      "identifiers": {
+        "mail_id": "M000226",
+        "sender_domain": "ecommerce.hermes.com"
+      },
+      "subject": "Correo · customer-service@ecommerce.hermes.com · Hermes.com - Your security code to finalize your account creation",
+      "url": null,
+      "timezone_basis": "Date de la cabecera, con zona explícita: fecha declarada por el mensaje, sin acreditar lectura, apertura de app ni validación criptográfica del remitente.",
+      "body_search": "Finalization of your account creation\r\n\n  Hello,\r\n\n              You will find below your security code to confirm your email address:\r\n\n            [valor de verificación omitido]\r\n\n            This code is only valid for 60 minutes.\r\n\n            If you did not create the account, please disregard this email and no account will be created in your name.\r\n\n            Thank you for your trust.\r\n\n        We look forward to seeing you again on hermes.com or at our other stores.\r\n\n                        Complimentary ground delivery\r\n\n                        Shop securely\r\n\n        Hermès Customer Service\nPhone number: 1-800-441-4488\nMonday through Saturday, 10 am to 9 pm EST\nservice.us@hermes.com\nwww.hermes.com\r\n\n      General Terms and Conditions of Sale\r\n\n      Please refer to HERMES OF PARIS INC. Privacy Policy or contact us at privacyoffice@us.hermes.com for more details.\r\n\n      HERMES OF PARIS INC. 800 441 4488 – service.us@hermes.com - 55 East 59th Street, New York NY 10022",
+      "mail_page": "correos/M000226.html"
+    },
+    {
+      "id": "E072610",
+      "family": "Google",
+      "channel": "Google Analytics",
+      "kind": "visita",
+      "time_utc": "2026-09-21T04:56:36.000000+00:00",
+      "time_local": "2026-09-20T22:56:36.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "20 sept 2026, 10:56:36 p.m. CST",
+      "source_code": "S012",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Google Analytics/MiActividad.html",
+      "locator": {
+        "record_index_1based": 111,
+        "html_line_1based": 33,
+        "html_column_0based": 117884
+      },
+      "identifiers": {},
+      "subject": "www.hermes.com/us/en/account/create/",
+      "url": "http://www.hermes.com/us/en/account/create/"
+    },
+    {
+      "id": "E072611",
+      "family": "Google",
+      "channel": "Google Analytics",
+      "kind": "visita",
+      "time_utc": "2026-09-21T04:58:41.000000+00:00",
+      "time_local": "2026-09-20T22:58:41.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "20 sept 2026, 10:58:41 p.m. CST",
+      "source_code": "S012",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Google Analytics/MiActividad.html",
+      "locator": {
+        "record_index_1based": 110,
+        "html_line_1based": 33,
+        "html_column_0based": 116827
+      },
+      "identifiers": {},
+      "subject": "www.hermes.com/mx/es/",
+      "url": "http://www.hermes.com/mx/es/"
+    },
+    {
+      "id": "E072612",
+      "family": "Google",
+      "channel": "Búsqueda",
+      "kind": "visita",
+      "time_utc": "2026-09-21T04:58:55.000000+00:00",
+      "time_local": "2026-09-20T22:58:55.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "20 sept 2026, 10:58:55 p.m. CST",
+      "source_code": "S004",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Búsqueda/MiActividad.html",
+      "locator": {
+        "record_index_1based": 150,
+        "html_line_1based": 34,
+        "html_column_0based": 112759
+      },
+      "identifiers": {},
+      "subject": "Hermes Agent — Open-Source AI Agent That Grows With You ...",
+      "url": "https://hermes-agent.nousresearch.com/"
+    },
+    {
+      "id": "E072613",
+      "family": "Google",
+      "channel": "Búsqueda",
+      "kind": "consulta",
+      "time_utc": "2026-09-21T04:59:59.000000+00:00",
+      "time_local": "2026-09-20T22:59:59.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "20 sept 2026, 10:59:59 p.m. CST",
+      "source_code": "S004",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Búsqueda/MiActividad.html",
+      "locator": {
+        "record_index_1based": 149,
+        "html_line_1based": 34,
+        "html_column_0based": 111593
+      },
+      "identifiers": {},
+      "subject": "hermes agent",
+      "url": "https://www.google.com/search?q=hermes+agent"
+    },
+    {
+      "id": "E072614",
+      "family": "Google",
+      "channel": "Google Analytics",
+      "kind": "visita",
+      "time_utc": "2026-09-21T05:00:20.000000+00:00",
+      "time_local": "2026-09-20T23:00:20.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "20 sept 2026, 11:00:20 p.m. CST",
+      "source_code": "S012",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Google Analytics/MiActividad.html",
+      "locator": {
+        "record_index_1based": 109,
+        "html_line_1based": 33,
+        "html_column_0based": 115746
+      },
+      "identifiers": {},
+      "subject": "portal.nousresearch.com/cloud",
+      "url": "http://portal.nousresearch.com/cloud"
+    },
+    {
+      "id": "E072615",
+      "family": "Correo",
+      "channel": "MBOX · Cabeceras Date",
+      "kind": "fecha declarada del correo",
+      "time_utc": "2026-09-21T05:00:47.000000+00:00",
+      "time_local": "2026-09-20T23:00:47.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "Mon, 21 Sep 2026 05:00:47 +0000",
+      "source_code": "S508",
+      "source_path": "/home/deep-logic/Documentos/Todo el correo, con Spam y Papelera incluidos.mbox",
+      "locator": {
+        "mbox_message_index_1based": 225,
+        "mail_id": "M000225",
+        "message_id": "<202609210500.71955169878@smtp-relay.mailin.fr>"
+      },
+      "identifiers": {
+        "mail_id": "M000225",
+        "sender_domain": "ecommerce.hermes.com"
+      },
+      "subject": "Correo · customer-service@ecommerce.hermes.com · Hermes.com - Your security code to finalize your account creation",
+      "url": null,
+      "timezone_basis": "Date de la cabecera, con zona explícita: fecha declarada por el mensaje, sin acreditar lectura, apertura de app ni validación criptográfica del remitente.",
+      "body_search": "Finalization of your account creation\r\n\n  Hello,\r\n\n              You will find below your security code to confirm your email address:\r\n\n            [valor de verificación omitido]\r\n\n            This code is only valid for 60 minutes.\r\n\n            If you did not create the account, please disregard this email and no account will be created in your name.\r\n\n            Thank you for your trust.\r\n\n        We look forward to seeing you again on hermes.com or at our other stores.\r\n\n                        Complimentary ground delivery\r\n\n                        Shop securely\r\n\n        Hermès Customer Service\nPhone number: 1-800-441-4488\nMonday through Saturday, 10 am to 9 pm EST\nservice.us@hermes.com\nwww.hermes.com\r\n\n      General Terms and Conditions of Sale\r\n\n      Please refer to HERMES OF PARIS INC. Privacy Policy or contact us at privacyoffice@us.hermes.com for more details.\r\n\n      HERMES OF PARIS INC. 800 441 4488 – service.us@hermes.com - 55 East 59th Street, New York NY 10022",
+      "mail_page": "correos/M000225.html"
+    },
+    {
+      "id": "E072616",
+      "family": "Google",
+      "channel": "Google Analytics",
+      "kind": "visita",
+      "time_utc": "2026-09-21T05:01:38.000000+00:00",
+      "time_local": "2026-09-20T23:01:38.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "20 sept 2026, 11:01:38 p.m. CST",
+      "source_code": "S012",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Google Analytics/MiActividad.html",
+      "locator": {
+        "record_index_1based": 108,
+        "html_line_1based": 33,
+        "html_column_0based": 114671
+      },
+      "identifiers": {},
+      "subject": "www.hermes.com/us/en/login/",
+      "url": "http://www.hermes.com/us/en/login/"
+    },
+    {
+      "id": "E072618",
+      "family": "Google",
+      "channel": "Búsqueda",
+      "kind": "visita",
+      "time_utc": "2026-09-21T05:02:35.000000+00:00",
+      "time_local": "2026-09-20T23:02:35.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "20 sept 2026, 11:02:35 p.m. CST",
+      "source_code": "S004",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Búsqueda/MiActividad.html",
+      "locator": {
+        "record_index_1based": 147,
+        "html_line_1based": 34,
+        "html_column_0based": 108937
+      },
+      "identifiers": {},
+      "subject": "https://portal.nousresearch.com/",
+      "url": "https://portal.nousresearch.com/"
+    },
+    {
+      "id": "E072619",
+      "family": "Google",
+      "channel": "Google Analytics",
+      "kind": "visita",
+      "time_utc": "2026-09-21T05:03:11.000000+00:00",
+      "time_local": "2026-09-20T23:03:11.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "20 sept 2026, 11:03:11 p.m. CST",
+      "source_code": "S012",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Google Analytics/MiActividad.html",
+      "locator": {
+        "record_index_1based": 107,
+        "html_line_1based": 33,
+        "html_column_0based": 113605
+      },
+      "identifiers": {},
+      "subject": "portal.nousresearch.com/",
+      "url": "http://portal.nousresearch.com/"
+    },
+    {
+      "id": "E072622",
+      "family": "Google",
+      "channel": "Google Analytics",
+      "kind": "visita",
+      "time_utc": "2026-09-21T05:07:02.000000+00:00",
+      "time_local": "2026-09-20T23:07:02.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "20 sept 2026, 11:07:02 p.m. CST",
+      "source_code": "S012",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Google Analytics/MiActividad.html",
+      "locator": {
+        "record_index_1based": 106,
+        "html_line_1based": 33,
+        "html_column_0based": 112548
+      },
+      "identifiers": {},
+      "subject": "www.hermes.com/us/en/",
+      "url": "http://www.hermes.com/us/en/"
+    },
+    {
+      "id": "E072624",
+      "family": "Google",
+      "channel": "Google Analytics",
+      "kind": "visita",
+      "time_utc": "2026-09-21T05:11:37.000000+00:00",
+      "time_local": "2026-09-20T23:11:37.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "20 sept 2026, 11:11:37 p.m. CST",
+      "source_code": "S012",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Google Analytics/MiActividad.html",
+      "locator": {
+        "record_index_1based": 105,
+        "html_line_1based": 33,
+        "html_column_0based": 111476
+      },
+      "identifiers": {},
+      "subject": "www.hermes.com/us/en/cart/",
+      "url": "http://www.hermes.com/us/en/cart/"
+    },
+    {
+      "id": "E072625",
+      "family": "Google",
+      "channel": "Google Analytics",
+      "kind": "visita",
+      "time_utc": "2026-09-21T05:11:40.000000+00:00",
+      "time_local": "2026-09-20T23:11:40.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "20 sept 2026, 11:11:40 p.m. CST",
+      "source_code": "S012",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Google Analytics/MiActividad.html",
+      "locator": {
+        "record_index_1based": 104,
+        "html_line_1based": 33,
+        "html_column_0based": 110353
+      },
+      "identifiers": {},
+      "subject": "portal.nousresearch.com/orgs/3d6ba8ff/usage",
+      "url": "http://portal.nousresearch.com/orgs/3d6ba8ff/usage"
+    },
+    {
+      "id": "E072660",
+      "family": "Google",
+      "channel": "Google Play Store",
+      "kind": "uso de app",
+      "time_utc": "2026-09-21T05:36:40.000000+00:00",
+      "time_local": "2026-09-20T23:36:40.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "20 sept 2026, 11:36:40 p.m. CST",
+      "source_code": "S016",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Google Play Store/MiActividad.html",
+      "locator": {
+        "record_index_1based": 412,
+        "html_line_1based": 33,
+        "html_column_0based": 409776
+      },
+      "identifiers": {},
+      "subject": "Se ha utilizado TrustBuilder Authenticator",
+      "url": "https://play.google.com/store/apps/details?id=com.inwebo.near.prod"
+    },
+    {
+      "id": "E075333",
+      "family": "Correo",
+      "channel": "MBOX · Cabeceras Date",
+      "kind": "fecha declarada del correo",
+      "time_utc": "2026-09-21T21:00:17.000000+00:00",
+      "time_local": "2026-09-21T15:00:17.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "Mon, 21 Sep 2026 17:00:17 -0400",
+      "source_code": "S508",
+      "source_path": "/home/deep-logic/Documentos/Todo el correo, con Spam y Papelera incluidos.mbox",
+      "locator": {
+        "mbox_message_index_1based": 138,
+        "mail_id": "M000138",
+        "message_id": "<29b466315a52477880d8c02a9bf95f8b@1741127422>"
+      },
+      "identifiers": {
+        "mail_id": "M000138",
+        "sender_domain": "noticias.clarin.com"
+      },
+      "subject": "Correo · info@noticias.clarin.com · ¡Te damos la bienvenida aClarín, con una invitación exclusiva! 👋",
+      "url": null,
+      "timezone_basis": "Date de la cabecera, con zona explícita: fecha declarada por el mensaje, sin acreditar lectura, apertura de app ni validación criptográfica del remitente.",
+      "body_search": "Accedé a la versión online <[URL histórica en app.noticias.clarin.com; consultar original]> si tenés problemas para ver este e-mail.\r\n\n\"\"               \r\n\"\"               \r\n\r\nTe invitamos a disfrutar de experiencia suscriptor\r\n------------------------------------------------------------------------------------------------------------------\r\n\r\n\"\"               \r\n\r\n¡Hola Adilene!\r\n----------------------------------------------------------------------\r\nGracias por registrarte en Clarín.\r\n----------------------------------\r\nComo parte de esta bienvenida, fuiste seleccionado para vivir la Experiencia Suscriptor.\r\n----------------------------------------------------------------------------------------\r\nA partir de ahora y hasta el 30-11, vas a poder disfrutar de forma totalmente gratuita todo el contenido del sitio.\r\n------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\r\nUna vez finalizado el periodo de la Experiencia, el beneficio terminará automáticamente, sin cargos.Tampoco te pediremos datos de tu tarjeta de crédito para iniciar la Experiencia.\r\n------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\r\n\r\n\"\"               \r\nEsta experiencia es totalmente gratuita. No necesitás ingresar una tarjeta de crédito y, una vez finalizado el período de acceso, el beneficio terminará automáticamente, sin renovaciones ni cargos.\r\n-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\r\n\r\nIr a Clarin.com <[URL histórica en app.noticias.clarin.com; consultar original]>               \r\nTodos estos beneficios forman parte de esta experiencia única:\r\n--------------------------------------------------------------\r\n\r\n\"\"               \r\nLectura ilimitada.\r\n-------------------------------------------------------------------------\r\n\r\n\"\"               \r\n\r\n\"\"               \r\nNotas exclusivas.\r\n------------------------------------------------------------------------\r\n\r\n\"\"               \r\n\r\n\"\"               \r\nJuegos Clarín.\r\n---------------------------------------------------------------------\r\n\r\n\"\"               \r\n\r\n\"\"               \r\nContenido especializado en ARQ, Ñ y mucho más.\r\n-----------------------------------------------------------------------------------------------------\r\n\r\n\"\"               \r\n\r\nRecordá ingresar con tu cuenta suscriptora hadilene116@gmail.com\r\na través de Google.\r\n-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\r\n\r\n\"\"               \r\nSeguí leyendo en Clarín.com <[URL histórica en app.noticias.clarin.com; consultar original]>               \r\n\r\nArte Gráfico Editorial Argentino S. A., Cuit 30-50012415-2, domicilio Piedras ‌1743 CABA. El titular de los datos personales tiene la facultad de ejercer el derecho de acceso a los mismos en forma gratuita a intervalos no inferiores a seis meses, salvo que se acredite un interés legítimo al efecto conforme lo establecido en el artículo 14, inciso 3 de la Ley N° 25.326. Asimismo, el titular de los datos tiene derecho al retiro o bloqueo total o parcial de su nombre de la base de datos conforme el artículo 27, inciso 3 de la ley 25.326. Artículo 27 - Anexo I - Decreto 1558/01: En toda comunicación con fines de publicidad que se realice por correo, teléfono, correo electrónico, Internet u otro medio a distancia a conocer, se deberá indicar, en forma expresa y destacada, la posibilidad del titular del dato de solicitar el retiro o bloqueo, total o parcial, de su nombre de la base de datos. A pedido del interesado, se deberá informar el nombre del responsable o usuario del banco de datos que proveyó la información. La Dirección Nacional de Protección de Datos Personales, órgano de Control de la Ley N° 25.326, tiene la atribución de atender las denuncias y reclamos que se interpongan con relación al incumplimiento de las normas sobre protección de datos personales. Si no desea recibir más este tipo de información comuníquese personalmente a Piedras•‌1743, (CP1140) Ciudad Autónoma Buenos Aires y/o enviando un correo electrónico a datospersonales@agea.com.ar\r\n\r\n©2026. Todos los derechos reservados.\r\n\nPara desuscribirte de esta comunicación, hacé click aquí <[URL histórica en noticias.clarin.com; consultar original]>.",
+      "mail_page": "correos/M000138.html"
+    }
+  ],
+  "authenticator_events": [
+    {
+      "id": "E071365",
+      "family": "Google",
+      "channel": "Búsqueda",
+      "kind": "consulta",
+      "time_utc": "2026-09-20T22:15:48.000000+00:00",
+      "time_local": "2026-09-20T16:15:48.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "20 sept 2026, 4:15:48 p.m. CST",
+      "source_code": "S004",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Búsqueda/MiActividad.html",
+      "locator": {
+        "record_index_1based": 176,
+        "html_line_1based": 34,
+        "html_column_0based": 144610
+      },
+      "identifiers": {},
+      "subject": "inwebo authenticator",
+      "url": "https://www.google.com/search?q=inwebo+authenticator"
+    },
+    {
+      "id": "E071366",
+      "family": "Google",
+      "channel": "Búsqueda",
+      "kind": "visita",
+      "time_utc": "2026-09-20T22:16:03.000000+00:00",
+      "time_local": "2026-09-20T16:16:03.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "20 sept 2026, 4:16:03 p.m. CST",
+      "source_code": "S004",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Búsqueda/MiActividad.html",
+      "locator": {
+        "record_index_1based": 175,
+        "html_line_1based": 34,
+        "html_column_0based": 143532
+      },
+      "identifiers": {},
+      "subject": "inWebo Authenticator 6 para Android - Descargar",
+      "url": "https://inwebo-authenticator-6.softonic.com/android"
+    },
+    {
+      "id": "E071367",
+      "family": "Google",
+      "channel": "Búsqueda",
+      "kind": "consulta",
+      "time_utc": "2026-09-20T22:16:08.000000+00:00",
+      "time_local": "2026-09-20T16:16:08.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "20 sept 2026, 4:16:08 p.m. CST",
+      "source_code": "S004",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Búsqueda/MiActividad.html",
+      "locator": {
+        "record_index_1based": 174,
+        "html_line_1based": 34,
+        "html_column_0based": 142345
+      },
+      "identifiers": {},
+      "subject": "my inwebo authenticator",
+      "url": "https://www.google.com/search?q=my+inwebo+authenticator"
+    },
+    {
+      "id": "E071368",
+      "family": "Google",
+      "channel": "Búsqueda",
+      "kind": "visita",
+      "time_utc": "2026-09-20T22:16:11.000000+00:00",
+      "time_local": "2026-09-20T16:16:11.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "20 sept 2026, 4:16:11 p.m. CST",
+      "source_code": "S004",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Búsqueda/MiActividad.html",
+      "locator": {
+        "record_index_1based": 173,
+        "html_line_1based": 34,
+        "html_column_0based": 141332
+      },
+      "identifiers": {},
+      "subject": "MyinWebo.com",
+      "url": "https://myinwebo.com/"
+    },
+    {
+      "id": "E071369",
+      "family": "Google",
+      "channel": "Búsqueda",
+      "kind": "consulta",
+      "time_utc": "2026-09-20T22:16:37.000000+00:00",
+      "time_local": "2026-09-20T16:16:37.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "20 sept 2026, 4:16:37 p.m. CST",
+      "source_code": "S004",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Búsqueda/MiActividad.html",
+      "locator": {
+        "record_index_1based": 172,
+        "html_line_1based": 34,
+        "html_column_0based": 140167
+      },
+      "identifiers": {},
+      "subject": "inwebo admin",
+      "url": "https://www.google.com/search?q=inwebo+admin"
+    },
+    {
+      "id": "E071370",
+      "family": "Google",
+      "channel": "Búsqueda",
+      "kind": "visita",
+      "time_utc": "2026-09-20T22:17:13.000000+00:00",
+      "time_local": "2026-09-20T16:17:13.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "20 sept 2026, 4:17:13 p.m. CST",
+      "source_code": "S004",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Búsqueda/MiActividad.html",
+      "locator": {
+        "record_index_1based": 171,
+        "html_line_1based": 34,
+        "html_column_0based": 139111
+      },
+      "identifiers": {},
+      "subject": "https://www.myinwebo.com/console/logon",
+      "url": "https://www.myinwebo.com/console/logon"
+    },
+    {
+      "id": "E072554",
+      "family": "Google",
+      "channel": "Búsqueda",
+      "kind": "consulta",
+      "time_utc": "2026-09-21T03:40:31.000000+00:00",
+      "time_local": "2026-09-20T21:40:31.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "20 sept 2026, 9:40:31 p.m. CST",
+      "source_code": "S004",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Búsqueda/MiActividad.html",
+      "locator": {
+        "record_index_1based": 164,
+        "html_line_1based": 34,
+        "html_column_0based": 130939
+      },
+      "identifiers": {},
+      "subject": "inwebo authenticator",
+      "url": "https://www.google.com/search?q=inwebo+authenticator"
+    },
+    {
+      "id": "E072555",
+      "family": "Google",
+      "channel": "Búsqueda",
+      "kind": "visita",
+      "time_utc": "2026-09-21T03:40:35.000000+00:00",
+      "time_local": "2026-09-20T21:40:35.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "20 sept 2026, 9:40:35 p.m. CST",
+      "source_code": "S004",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Búsqueda/MiActividad.html",
+      "locator": {
+        "record_index_1based": 163,
+        "html_line_1based": 34,
+        "html_column_0based": 129909
+      },
+      "identifiers": {},
+      "subject": "https://www.myinwebo.com/",
+      "url": "https://www.myinwebo.com/"
+    },
+    {
+      "id": "E072570",
+      "family": "Google",
+      "channel": "Google Play Store · Installs",
+      "kind": "fecha de firstInstallationTime",
+      "time_utc": "2026-09-21T03:48:56.266751+00:00",
+      "time_local": "2026-09-20T21:48:56.266751-06:00",
+      "time_precision": "fracción de segundo",
+      "date_original": "2026-09-21T03:48:56.266751Z",
+      "source_code": "S058",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Google Play Store/Installs.json",
+      "locator": {
+        "json_pointer": "/367/install/firstInstallationTime"
+      },
+      "identifiers": {},
+      "subject": "Installs · firstInstallationTime · TrustBuilder Authenticator",
+      "url": null,
+      "attachment_links": []
+    },
+    {
+      "id": "E072571",
+      "family": "Google",
+      "channel": "Google Play Store · Installs",
+      "kind": "fecha de lastUpdateTime",
+      "time_utc": "2026-09-21T03:48:56.266751+00:00",
+      "time_local": "2026-09-20T21:48:56.266751-06:00",
+      "time_precision": "fracción de segundo",
+      "date_original": "2026-09-21T03:48:56.266751Z",
+      "source_code": "S058",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Google Play Store/Installs.json",
+      "locator": {
+        "json_pointer": "/367/install/lastUpdateTime"
+      },
+      "identifiers": {},
+      "subject": "Installs · lastUpdateTime · TrustBuilder Authenticator",
+      "url": null,
+      "attachment_links": []
+    },
+    {
+      "id": "E072573",
+      "family": "Google",
+      "channel": "Google Play Store",
+      "kind": "visita",
+      "time_utc": "2026-09-21T03:49:27.000000+00:00",
+      "time_local": "2026-09-20T21:49:27.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "20 sept 2026, 9:49:27 p.m. CST",
+      "source_code": "S016",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Google Play Store/MiActividad.html",
+      "locator": {
+        "record_index_1based": 276,
+        "html_line_1based": 33,
+        "html_column_0based": 274049
+      },
+      "identifiers": {},
+      "subject": "TrustBuilder Authenticator",
+      "url": "https://play.google.com/store/apps/details?id=com.inwebo.near.prod"
+    },
+    {
+      "id": "E072660",
+      "family": "Google",
+      "channel": "Google Play Store",
+      "kind": "uso de app",
+      "time_utc": "2026-09-21T05:36:40.000000+00:00",
+      "time_local": "2026-09-20T23:36:40.000000-06:00",
+      "time_precision": "segundo",
+      "date_original": "20 sept 2026, 11:36:40 p.m. CST",
+      "source_code": "S016",
+      "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Google Play Store/MiActividad.html",
+      "locator": {
+        "record_index_1based": 412,
+        "html_line_1based": 33,
+        "html_column_0based": 409776
+      },
+      "identifiers": {},
+      "subject": "Se ha utilizado TrustBuilder Authenticator",
+      "url": "https://play.google.com/store/apps/details?id=com.inwebo.near.prod"
+    }
+  ],
+  "preceding_number": "6850175308",
+  "preceding_number_events": [
+    "E047328",
+    "E047340",
+    "E058023",
+    "E058080",
+    "E058116",
+    "E058459",
+    "E058973",
+    "E058986",
+    "E071360",
+    "E072521",
+    "E072537",
+    "E078474",
+    "E078490",
+    "E078491",
+    "E078495",
+    "E078496",
+    "E078497",
+    "E078498"
+  ],
+  "conclusion": "La secuencia de visitas es comprobable. No se demuestra que un identificador de Etsy autentique en Clarín, Hermès, Hermes Agent o Google.",
+  "date_explanation": "20 de septiembre 21:13:29 UTC-06:00 corresponde a 21 de septiembre 03:13:29 UTC.",
+  "direction_of_meta_activity": "El export dice actividad recibida por Meta desde etsy.com; no muestra el contenido de un mensaje enviado por el usuario a Etsy.",
+  "google_literal_number_search": "Sin coincidencias de estos números en los archivos originales del Takeout, verificado con rg.",
+  "limitations": "Sin registros de solicitudes HTTP POST, cookies de sesión ni contenido de Gmail/Chat para probar un alta o inicio de sesión."
+}

@@ -1,0 +1,1340 @@
+{
+  "generated_at_utc": "2026-10-01T19:06:19.628042+00:00",
+  "source_path": "/home/deep-logic/Documentos/Todo el correo, con Spam y Papelera incluidos.mbox",
+  "source_bytes": 104855969,
+  "source_sha256": "a2c0b40d481a02e6829c9aba9f61d7874c1da23bf3e3d8bca83e1474d58f674d",
+  "messages": 1527,
+  "dated_messages": 1527,
+  "declared_sender_domains": {
+    "verify.snapchat.com": 7,
+    "service.tiktok.com": 295,
+    "google.com": 80,
+    "gmail.com": 14,
+    "airdroid.com": 4,
+    "notice.xiaomi.com": 15,
+    "discover.pinterest.com": 134,
+    "snapchat.com": 1,
+    "email.meta.com": 2,
+    "linkedin.com": 33,
+    "facebookmail.com": 160,
+    "mex.temuemail.com": 14,
+    "cc.yahoo.com": 2,
+    "accounts.google.com": 36,
+    "email.idrive.com": 5,
+    "send.idrive.com": 4,
+    "inspire.pinterest.com": 23,
+    "dropbox.com": 11,
+    "uber.com": 81,
+    "hello.rappi.com.mx": 5,
+    "mail.instagram.com": 4,
+    "quora.com": 53,
+    "email.apple.com": 19,
+    "mail.evernote.com": 2,
+    "tm.openai.com": 2,
+    "id.apple.com": 5,
+    "account.evernote.com": 1,
+    "explore.pinterest.com": 38,
+    "workos-mail.com": 1,
+    "account.netflix.com": 17,
+    "support.whatsapp.com": 3,
+    "updates.evernote.com": 7,
+    "ciudadseva.com": 11,
+    "apple.com": 4,
+    "envios.santander.com.mx": 29,
+    "noticias.clarin.com": 2,
+    "playgama.com": 5,
+    "ideas.pinterest.com": 21,
+    "starmakerinteractive.com": 3,
+    "hello.rappicard.mx": 12,
+    "mail.etsy.com": 1,
+    "community.youversion.com": 21,
+    "link.com": 2,
+    "members.netflix.com": 22,
+    "sherlock.pinterest.com": 3,
+    "ecommerce.hermes.com": 2,
+    "email-support.uber.com": 2,
+    "nousresearch.com": 1,
+    "spinbyoxxo.com.mx": 86,
+    "noticenewss.com": 1,
+    "account.tiktok.com": 3,
+    "account.pinterest.com": 3,
+    "mx.didiglobal.com": 3,
+    "engage.canva.com": 14,
+    "amazonmusic.com": 3,
+    "accounts.snapchat.com": 1,
+    "login.snapchat.com": 4,
+    "notice-news.com": 1,
+    "googlemail.com": 1,
+    "wps.com": 1,
+    "amazon.com.mx": 3,
+    "rappimail.com": 1,
+    "promo.andrea.com": 1,
+    "didiglobal.com": 1,
+    "youversion.com": 1,
+    "atc.att-mail.com.mx": 1,
+    "envio.santander.com.mx": 70,
+    "grupoandrea.com": 4,
+    "mercadopago.com": 1,
+    "insideapple.apple.com": 2,
+    "email.snapchat.com": 30,
+    "priority.facebookmail.com": 11,
+    "paypal.com.mx": 6,
+    "oxxoparati.com": 33,
+    "zonazero.info": 11,
+    "notificaciones.santander.com.mx": 4,
+    "express.sea1.medallia.com": 2,
+    "mail-service.wondershare.com": 3,
+    "guanajuato.gob.mx": 2
+  },
+  "window_mail_count": 41,
+  "window_mail_events": [
+    "E072491",
+    "E072533",
+    "E072535",
+    "E072576",
+    "E072577",
+    "E072581",
+    "E072582",
+    "E072583",
+    "E072585",
+    "E072609",
+    "E072615",
+    "E072623",
+    "E072702",
+    "E072703",
+    "E072772",
+    "E072773",
+    "E072878",
+    "E072879",
+    "E072885",
+    "E072935",
+    "E072948",
+    "E072960",
+    "E072979",
+    "E072980",
+    "E072988",
+    "E073014",
+    "E074149",
+    "E075041",
+    "E075332",
+    "E075333",
+    "E075334",
+    "E075335",
+    "E075336",
+    "E075337",
+    "E075338",
+    "E075339",
+    "E075340",
+    "E075341",
+    "E075342",
+    "E075343",
+    "E075344"
+  ],
+  "window_app_usage_observations": 138,
+  "app_usage_clusters": [
+    {
+      "time_local": "2026-09-20T19:29:40.000000-06:00",
+      "observations": 1,
+      "channels": {
+        "Google Analytics": 1
+      },
+      "subjects": [
+        "Has utilizado Banco Azteca - Apps on Google Play"
+      ],
+      "event_ids": [
+        "E072483"
+      ]
+    },
+    {
+      "time_local": "2026-09-20T20:15:14.000000-06:00",
+      "observations": 1,
+      "channels": {
+        "Google Analytics": 1
+      },
+      "subjects": [
+        "Has utilizado Banco Azteca - Apps on Google Play"
+      ],
+      "event_ids": [
+        "E072493"
+      ]
+    },
+    {
+      "time_local": "2026-09-20T22:24:34.000000-06:00",
+      "observations": 1,
+      "channels": {
+        "Google Analytics": 1
+      },
+      "subjects": [
+        "Has utilizado Banco Azteca - Apps on Google Play"
+      ],
+      "event_ids": [
+        "E072591"
+      ]
+    },
+    {
+      "time_local": "2026-09-20T23:14:28.000000-06:00",
+      "observations": 1,
+      "channels": {
+        "Google Analytics": 1
+      },
+      "subjects": [
+        "Has utilizado App Manager - Apps on Google Play"
+      ],
+      "event_ids": [
+        "E072627"
+      ]
+    },
+    {
+      "time_local": "2026-09-20T23:15:34.000000-06:00",
+      "observations": 1,
+      "channels": {
+        "Google Analytics": 1
+      },
+      "subjects": [
+        "Has utilizado WPS Office-PDF, Word, Sheet - Apps on Google Play"
+      ],
+      "event_ids": [
+        "E072631"
+      ]
+    },
+    {
+      "time_local": "2026-09-20T23:36:40.000000-06:00",
+      "observations": 66,
+      "channels": {
+        "Google Play Store": 66
+      },
+      "subjects": [
+        "Se ha utilizado Shortcut Maker",
+        "Se ha utilizado Banco Azteca",
+        "Se ha utilizado Banco Azteca",
+        "Se ha utilizado TikTok",
+        "Se ha utilizado ShareMe: File sharing",
+        "Se ha utilizado Mi Calendar",
+        "Se ha utilizado WhatsApp Messenger",
+        "Se ha utilizado Uber Eats: Food and Grocery",
+        "Se ha utilizado StarMaker: Canta Karaoke",
+        "Se ha utilizado Spotify: app música y podcasts",
+        "Se ha utilizado Snapchat: Conecta con Amigos",
+        "Se ha utilizado ChatGPT",
+        "Se ha utilizado com.miui.thirdappassistant",
+        "Se ha utilizado Security",
+        "Se ha utilizado com.miui.notification",
+        "Se ha utilizado com.miui.home",
+        "Se ha utilizado com.miui.home",
+        "Se ha utilizado com.miui.cloudservice",
+        "Se ha utilizado Cleaner",
+        "Se ha utilizado com.miui.backup",
+        "Se ha utilizado Bóveda de aplicaciones",
+        "Se ha utilizado Navegador Mi - Rápido y seguro",
+        "Se ha utilizado Xiaomi Community",
+        "Se ha utilizado File Manager by Xiaomi",
+        "Se ha utilizado Información del dispositivo",
+        "Se ha utilizado com.lbe.security.miui",
+        "Se ha utilizado Administrador de aplicaciones",
+        "Se ha utilizado TrustBuilder Authenticator",
+        "Se ha utilizado Instagram",
+        "Se ha utilizado Speech Recognition & Synthesis",
+        "Se ha utilizado Android Auto",
+        "Se ha utilizado com.google.android.photopicker",
+        "Se ha utilizado Permissions Controller",
+        "Se ha utilizado Gboard: el Teclado de Google",
+        "Se ha utilizado Google",
+        "Se ha utilizado Gmail",
+        "Se ha utilizado Gmail",
+        "Se ha utilizado DocumentsUI",
+        "Se ha utilizado Teléfono de Google",
+        "Se ha utilizado Contactos",
+        "Se ha utilizado Calendario de Google",
+        "Se ha utilizado Android System Intelligence",
+        "Se ha utilizado YouTube Music",
+        "Se ha utilizado Bienestar digital",
+        "Se ha utilizado Google One",
+        "Se ha utilizado Seguridad personal",
+        "Se ha utilizado Android Switch",
+        "Se ha utilizado Google Fotos",
+        "Se ha utilizado Files de Google",
+        "Se ha utilizado Mensajes de Google",
+        "Se ha utilizado Google Chat",
+        "Se ha utilizado Google Drive",
+        "Se ha utilizado Google Home",
+        "Se ha utilizado Meta AI",
+        "Se ha utilizado Messenger",
+        "Se ha utilizado Facebook",
+        "Se ha utilizado BBVA México",
+        "Se ha utilizado com.android.updater",
+        "Se ha utilizado com.android.traceur",
+        "Se ha utilizado com.android.server.telecom",
+        "Se ha utilizado com.android.providers.downloads.ui",
+        "Se ha utilizado com.android.intentresolver",
+        "Se ha utilizado Shortcut Maker",
+        "Se ha utilizado Google Chrome",
+        "Se ha utilizado Google",
+        "Se ha utilizado WPS Office: PDF, Word, Excel"
+      ],
+      "event_ids": [
+        "E072633",
+        "E072634",
+        "E072635",
+        "E072636",
+        "E072637",
+        "E072638",
+        "E072639",
+        "E072640",
+        "E072641",
+        "E072642",
+        "E072643",
+        "E072644",
+        "E072645",
+        "E072646",
+        "E072647",
+        "E072648",
+        "E072649",
+        "E072650",
+        "E072651",
+        "E072652",
+        "E072653",
+        "E072654",
+        "E072655",
+        "E072656",
+        "E072657",
+        "E072658",
+        "E072659",
+        "E072660",
+        "E072661",
+        "E072662",
+        "E072663",
+        "E072664",
+        "E072665",
+        "E072666",
+        "E072667",
+        "E072668",
+        "E072669",
+        "E072670",
+        "E072671",
+        "E072672",
+        "E072673",
+        "E072674",
+        "E072675",
+        "E072676",
+        "E072677",
+        "E072678",
+        "E072679",
+        "E072680",
+        "E072681",
+        "E072682",
+        "E072683",
+        "E072684",
+        "E072685",
+        "E072686",
+        "E072687",
+        "E072688",
+        "E072689",
+        "E072690",
+        "E072691",
+        "E072692",
+        "E072693",
+        "E072694",
+        "E072695",
+        "E072696",
+        "E072697",
+        "E072698"
+      ]
+    },
+    {
+      "time_local": "2026-09-21T03:45:34.000000-06:00",
+      "observations": 1,
+      "channels": {
+        "Google Analytics": 1
+      },
+      "subjects": [
+        "Has utilizado Banco Azteca - Apps on Google Play"
+      ],
+      "event_ids": [
+        "E072700"
+      ]
+    },
+    {
+      "time_local": "2026-09-21T04:05:36.000000-06:00",
+      "observations": 1,
+      "channels": {
+        "Google Analytics": 1
+      },
+      "subjects": [
+        "Has utilizado WPS Office-PDF, Word, Sheet - Apps on Google Play"
+      ],
+      "event_ids": [
+        "E072704"
+      ]
+    },
+    {
+      "time_local": "2026-09-21T04:51:42.000000-06:00",
+      "observations": 1,
+      "channels": {
+        "Google Analytics": 1
+      },
+      "subjects": [
+        "Has utilizado WPS Office-PDF, Word, Sheet - Apps on Google Play"
+      ],
+      "event_ids": [
+        "E072747"
+      ]
+    },
+    {
+      "time_local": "2026-09-21T04:54:19.000000-06:00",
+      "observations": 1,
+      "channels": {
+        "Google Analytics": 1
+      },
+      "subjects": [
+        "Has utilizado Xiaomi Community - Apps on Google Play"
+      ],
+      "event_ids": [
+        "E072751"
+      ]
+    },
+    {
+      "time_local": "2026-09-21T05:14:35.000000-06:00",
+      "observations": 1,
+      "channels": {
+        "Google Analytics": 1
+      },
+      "subjects": [
+        "Has utilizado Device Info: View phone info - Apps on Google Play"
+      ],
+      "event_ids": [
+        "E072757"
+      ]
+    },
+    {
+      "time_local": "2026-09-21T05:18:03.000000-06:00",
+      "observations": 1,
+      "channels": {
+        "Google Analytics": 1
+      },
+      "subjects": [
+        "Has utilizado Words of Wonders: Crossword - Apps on Google Play"
+      ],
+      "event_ids": [
+        "E072765"
+      ]
+    },
+    {
+      "time_local": "2026-09-21T05:18:08.000000-06:00",
+      "observations": 1,
+      "channels": {
+        "Google Analytics": 1
+      },
+      "subjects": [
+        "Has utilizado App Manager - Apps on Google Play"
+      ],
+      "event_ids": [
+        "E072769"
+      ]
+    },
+    {
+      "time_local": "2026-09-21T06:08:00.000000-06:00",
+      "observations": 1,
+      "channels": {
+        "Google Analytics": 1
+      },
+      "subjects": [
+        "Has utilizado Device Info: View phone info - Apps on Google Play"
+      ],
+      "event_ids": [
+        "E072778"
+      ]
+    },
+    {
+      "time_local": "2026-09-21T06:34:30.000000-06:00",
+      "observations": 1,
+      "channels": {
+        "Google Analytics": 1
+      },
+      "subjects": [
+        "Has utilizado Spotify: Music and Podcasts - Apps on Google Play"
+      ],
+      "event_ids": [
+        "E072785"
+      ]
+    },
+    {
+      "time_local": "2026-09-21T06:41:56.000000-06:00",
+      "observations": 1,
+      "channels": {
+        "Google Analytics": 1
+      },
+      "subjects": [
+        "Has utilizado App Manager - Apps on Google Play"
+      ],
+      "event_ids": [
+        "E072857"
+      ]
+    },
+    {
+      "time_local": "2026-09-21T06:55:46.000000-06:00",
+      "observations": 1,
+      "channels": {
+        "Google Analytics": 1
+      },
+      "subjects": [
+        "Has utilizado Xiaomi Community - Apps on Google Play"
+      ],
+      "event_ids": [
+        "E072860"
+      ]
+    },
+    {
+      "time_local": "2026-09-21T07:04:32.000000-06:00",
+      "observations": 1,
+      "channels": {
+        "Google Analytics": 1
+      },
+      "subjects": [
+        "Has utilizado Dropbox: Secure Cloud Storage - Apps on Google Play"
+      ],
+      "event_ids": [
+        "E072880"
+      ]
+    },
+    {
+      "time_local": "2026-09-21T07:08:03.000000-06:00",
+      "observations": 1,
+      "channels": {
+        "Google Analytics": 1
+      },
+      "subjects": [
+        "Has utilizado WPS Office Lite - Apps on Google Play"
+      ],
+      "event_ids": [
+        "E072886"
+      ]
+    },
+    {
+      "time_local": "2026-09-21T07:56:40.000000-06:00",
+      "observations": 45,
+      "channels": {
+        "Google Play Store": 45
+      },
+      "subjects": [
+        "Se ha utilizado Shortcut Maker",
+        "Se ha utilizado Banco Azteca",
+        "Se ha utilizado Xiaomi Home",
+        "Se ha utilizado ShareMe: File sharing",
+        "Se ha utilizado Mi Calendar",
+        "Se ha utilizado HomeKit App for Android Hints",
+        "Se ha utilizado ChatGPT",
+        "Se ha utilizado com.miui.securitycore",
+        "Se ha utilizado Security",
+        "Se ha utilizado com.miui.home",
+        "Se ha utilizado com.miui.cloudservice",
+        "Se ha utilizado com.miui.cloudbackup",
+        "Se ha utilizado com.miui.backup",
+        "Se ha utilizado Bóveda de aplicaciones",
+        "Se ha utilizado Navegador Mi - Rápido y seguro",
+        "Se ha utilizado Xiaomi Community",
+        "Se ha utilizado File Manager by Xiaomi",
+        "Se ha utilizado Información del dispositivo",
+        "Se ha utilizado Administrador de aplicaciones",
+        "Se ha utilizado Android Auto",
+        "Se ha utilizado com.google.android.photopicker",
+        "Se ha utilizado Permissions Controller",
+        "Se ha utilizado com.google.android.packageinstaller",
+        "Se ha utilizado Google",
+        "Se ha utilizado Gmail",
+        "Se ha utilizado DocumentsUI",
+        "Se ha utilizado Teléfono de Google",
+        "Se ha utilizado Google One",
+        "Se ha utilizado Android Switch",
+        "Se ha utilizado Google Fotos",
+        "Se ha utilizado Files de Google",
+        "Se ha utilizado Mensajes de Google",
+        "Se ha utilizado Google Chat",
+        "Se ha utilizado Google Drive",
+        "Se ha utilizado Google Home",
+        "Se ha utilizado Words of Wonders: Crucigrama",
+        "Se ha utilizado Meta AI",
+        "Se ha utilizado Facebook",
+        "Se ha utilizado Dropbox: Secure Cloud Storage",
+        "Se ha utilizado com.android.intentresolver",
+        "Se ha utilizado com.android.htmlviewer",
+        "Se ha utilizado Google Chrome",
+        "Se ha utilizado WPS Office Lite",
+        "Se ha utilizado WPS Office: PDF, Word, Excel",
+        "Se ha utilizado Photo Picker"
+      ],
+      "event_ids": [
+        "E072888",
+        "E072889",
+        "E072890",
+        "E072891",
+        "E072892",
+        "E072893",
+        "E072894",
+        "E072895",
+        "E072896",
+        "E072897",
+        "E072898",
+        "E072899",
+        "E072900",
+        "E072901",
+        "E072902",
+        "E072903",
+        "E072904",
+        "E072905",
+        "E072906",
+        "E072907",
+        "E072908",
+        "E072909",
+        "E072910",
+        "E072911",
+        "E072912",
+        "E072913",
+        "E072914",
+        "E072915",
+        "E072916",
+        "E072917",
+        "E072918",
+        "E072919",
+        "E072920",
+        "E072921",
+        "E072922",
+        "E072923",
+        "E072924",
+        "E072925",
+        "E072926",
+        "E072927",
+        "E072928",
+        "E072929",
+        "E072930",
+        "E072931",
+        "E072932"
+      ]
+    },
+    {
+      "time_local": "2026-09-21T09:32:05.000000-06:00",
+      "observations": 1,
+      "channels": {
+        "Google Analytics": 1
+      },
+      "subjects": [
+        "Has utilizado Banco Azteca - Apps on Google Play"
+      ],
+      "event_ids": [
+        "E072940"
+      ]
+    },
+    {
+      "time_local": "2026-09-21T10:47:20.000000-06:00",
+      "observations": 1,
+      "channels": {
+        "Google Analytics": 1
+      },
+      "subjects": [
+        "Has utilizado Banco Azteca - Apps on Google Play"
+      ],
+      "event_ids": [
+        "E072981"
+      ]
+    },
+    {
+      "time_local": "2026-09-21T11:59:11.000000-06:00",
+      "observations": 1,
+      "channels": {
+        "Google Analytics": 1
+      },
+      "subjects": [
+        "Has utilizado Banco Azteca - Apps on Google Play"
+      ],
+      "event_ids": [
+        "E072989"
+      ]
+    },
+    {
+      "time_local": "2026-09-21T12:08:19.000000-06:00",
+      "observations": 1,
+      "channels": {
+        "Google Analytics": 1
+      },
+      "subjects": [
+        "Has utilizado Xiaomi Community - Apps on Google Play"
+      ],
+      "event_ids": [
+        "E072998"
+      ]
+    },
+    {
+      "time_local": "2026-09-21T12:19:41.000000-06:00",
+      "observations": 1,
+      "channels": {
+        "Google Analytics": 1
+      },
+      "subjects": [
+        "Has utilizado StarMaker: Sing Karaoke Songs - Apps on Google Play"
+      ],
+      "event_ids": [
+        "E073015"
+      ]
+    },
+    {
+      "time_local": "2026-09-21T12:47:16.000000-06:00",
+      "observations": 1,
+      "channels": {
+        "Google Analytics": 1
+      },
+      "subjects": [
+        "Has utilizado Banco Azteca - Apps on Google Play"
+      ],
+      "event_ids": [
+        "E073507"
+      ]
+    },
+    {
+      "time_local": "2026-09-21T12:49:03.000000-06:00",
+      "observations": 1,
+      "channels": {
+        "Google Analytics": 1
+      },
+      "subjects": [
+        "Has utilizado Uber Eats: Food and Grocery - Apps on Google Play"
+      ],
+      "event_ids": [
+        "E073799"
+      ]
+    },
+    {
+      "time_local": "2026-09-21T12:50:46.000000-06:00",
+      "observations": 1,
+      "channels": {
+        "Google Analytics": 1
+      },
+      "subjects": [
+        "Has utilizado Spotify: Music and Podcasts - Apps on Google Play"
+      ],
+      "event_ids": [
+        "E074138"
+      ]
+    },
+    {
+      "time_local": "2026-09-21T13:02:24.000000-06:00",
+      "observations": 1,
+      "channels": {
+        "Google Analytics": 1
+      },
+      "subjects": [
+        "Has utilizado StarMaker: Sing Karaoke Songs - Apps on Google Play"
+      ],
+      "event_ids": [
+        "E074145"
+      ]
+    }
+  ],
+  "mail_near_app_uses": [
+    {
+      "mail_event": "E072491",
+      "mail_id": "M000250",
+      "mail_subject": "Correo · email@mex.temuemail.com · Por favor acepta esta oferta especial: menos de MX$39",
+      "time_local": "2026-09-20T20:08:13.000000-06:00",
+      "window_seconds": 300,
+      "app_usage_event_ids": [],
+      "app_usage_observations": 0,
+      "meaning": "Contexto temporal ±5 minutos, sin demostrar que un correo provocó un uso ni que todas las apps pasaron a primer plano."
+    },
+    {
+      "mail_event": "E072533",
+      "mail_id": "M000244",
+      "mail_subject": "Correo · english-quora-digest@quora.com · What is your NEET 2023 result?",
+      "time_local": "2026-09-20T21:02:24.000000-06:00",
+      "window_seconds": 300,
+      "app_usage_event_ids": [],
+      "app_usage_observations": 0,
+      "meaning": "Contexto temporal ±5 minutos, sin demostrar que un correo provocó un uso ni que todas las apps pasaron a primer plano."
+    },
+    {
+      "mail_event": "E072535",
+      "mail_id": "M000237",
+      "mail_subject": "Correo · email@mex.temuemail.com · ¡Tu compra te regaló MX$350 en Cupón(es) sin gasto mínimo! 😍",
+      "time_local": "2026-09-20T21:08:11.000000-06:00",
+      "window_seconds": 300,
+      "app_usage_event_ids": [],
+      "app_usage_observations": 0,
+      "meaning": "Contexto temporal ±5 minutos, sin demostrar que un correo provocó un uso ni que todas las apps pasaron a primer plano."
+    },
+    {
+      "mail_event": "E072576",
+      "mail_id": "M000202",
+      "mail_subject": "Correo · noreply@mail.etsy.com · Adilene, ¿iniciaste sesión hace poco en Etsy?",
+      "time_local": "2026-09-20T21:50:33.000000-06:00",
+      "window_seconds": 300,
+      "app_usage_event_ids": [],
+      "app_usage_observations": 0,
+      "meaning": "Contexto temporal ±5 minutos, sin demostrar que un correo provocó un uso ni que todas las apps pasaron a primer plano."
+    },
+    {
+      "mail_event": "E072577",
+      "mail_id": "M000285",
+      "mail_subject": "Correo · noreply-accounts@google.com · Compartiste algunos datos de tu Cuenta de Google con Etsy",
+      "time_local": "2026-09-20T21:50:33.000000-06:00",
+      "window_seconds": 300,
+      "app_usage_event_ids": [],
+      "app_usage_observations": 0,
+      "meaning": "Contexto temporal ±5 minutos, sin demostrar que un correo provocó un uso ni que todas las apps pasaron a primer plano."
+    },
+    {
+      "mail_event": "E072581",
+      "mail_id": "M000291",
+      "mail_subject": "Correo · notification@service.tiktok.com · Ëvërcïthõ y otras personas publicaron 2 nuevos vídeos",
+      "time_local": "2026-09-20T22:01:31.000000-06:00",
+      "window_seconds": 300,
+      "app_usage_event_ids": [],
+      "app_usage_observations": 0,
+      "meaning": "Contexto temporal ±5 minutos, sin demostrar que un correo provocó un uso ni que todas las apps pasaron a primer plano."
+    },
+    {
+      "mail_event": "E072582",
+      "mail_id": "M000273",
+      "mail_subject": "Correo · noreply@nousresearch.com · Nous Research - Purchase confirmation",
+      "time_local": "2026-09-20T22:05:28.000000-06:00",
+      "window_seconds": 300,
+      "app_usage_event_ids": [],
+      "app_usage_observations": 0,
+      "meaning": "Contexto temporal ±5 minutos, sin demostrar que un correo provocó un uso ni que todas las apps pasaron a primer plano."
+    },
+    {
+      "mail_event": "E072583",
+      "mail_id": "M000283",
+      "mail_subject": "Correo · notifications@link.com · Verifica tu correo electrónico",
+      "time_local": "2026-09-20T22:05:29.000000-06:00",
+      "window_seconds": 300,
+      "app_usage_event_ids": [],
+      "app_usage_observations": 0,
+      "meaning": "Contexto temporal ±5 minutos, sin demostrar que un correo provocó un uso ni que todas las apps pasaron a primer plano."
+    },
+    {
+      "mail_event": "E072585",
+      "mail_id": "M000213",
+      "mail_subject": "Correo · notifications@link.com · Your Nous Research Inc. receipt",
+      "time_local": "2026-09-20T22:05:39.000000-06:00",
+      "window_seconds": 300,
+      "app_usage_event_ids": [],
+      "app_usage_observations": 0,
+      "meaning": "Contexto temporal ±5 minutos, sin demostrar que un correo provocó un uso ni que todas las apps pasaron a primer plano."
+    },
+    {
+      "mail_event": "E072609",
+      "mail_id": "M000226",
+      "mail_subject": "Correo · customer-service@ecommerce.hermes.com · Hermes.com - Your security code to finalize your account creation",
+      "time_local": "2026-09-20T22:56:33.000000-06:00",
+      "window_seconds": 300,
+      "app_usage_event_ids": [],
+      "app_usage_observations": 0,
+      "meaning": "Contexto temporal ±5 minutos, sin demostrar que un correo provocó un uso ni que todas las apps pasaron a primer plano."
+    },
+    {
+      "mail_event": "E072615",
+      "mail_id": "M000225",
+      "mail_subject": "Correo · customer-service@ecommerce.hermes.com · Hermes.com - Your security code to finalize your account creation",
+      "time_local": "2026-09-20T23:00:47.000000-06:00",
+      "window_seconds": 300,
+      "app_usage_event_ids": [],
+      "app_usage_observations": 0,
+      "meaning": "Contexto temporal ±5 minutos, sin demostrar que un correo provocó un uso ni que todas las apps pasaron a primer plano."
+    },
+    {
+      "mail_event": "E072623",
+      "mail_id": "M000231",
+      "mail_subject": "Correo · recommendations@discover.pinterest.com · Hadilene, sorpresaa que te van a encantar",
+      "time_local": "2026-09-20T23:07:38.000000-06:00",
+      "window_seconds": 300,
+      "app_usage_event_ids": [],
+      "app_usage_observations": 0,
+      "meaning": "Contexto temporal ±5 minutos, sin demostrar que un correo provocó un uso ni que todas las apps pasaron a primer plano."
+    },
+    {
+      "mail_event": "E072702",
+      "mail_id": "M000253",
+      "mail_subject": "Correo · info@account.netflix.com · El pago se procesó con éxito",
+      "time_local": "2026-09-21T03:46:21.000000-06:00",
+      "window_seconds": 300,
+      "app_usage_event_ids": [
+        "E072700"
+      ],
+      "app_usage_observations": 1,
+      "meaning": "Contexto temporal ±5 minutos, sin demostrar que un correo provocó un uso ni que todas las apps pasaron a primer plano."
+    },
+    {
+      "mail_event": "E072703",
+      "mail_id": "M000262",
+      "mail_subject": "Correo · noreply@email.apple.com · Tu cuenta de Apple se usó para iniciar sesión en iCloud desde un navegador web",
+      "time_local": "2026-09-21T03:53:35.000000-06:00",
+      "window_seconds": 300,
+      "app_usage_event_ids": [],
+      "app_usage_observations": 0,
+      "meaning": "Contexto temporal ±5 minutos, sin demostrar que un correo provocó un uso ni que todas las apps pasaron a primer plano."
+    },
+    {
+      "mail_event": "E072772",
+      "mail_id": "M000275",
+      "mail_subject": "Correo · noreply@notice.xiaomi.com · Xiaomi Account verification",
+      "time_local": "2026-09-21T05:25:56.000000-06:00",
+      "window_seconds": 300,
+      "app_usage_event_ids": [],
+      "app_usage_observations": 0,
+      "meaning": "Contexto temporal ±5 minutos, sin demostrar que un correo provocó un uso ni que todas las apps pasaron a primer plano."
+    },
+    {
+      "mail_event": "E072773",
+      "mail_id": "M000296",
+      "mail_subject": "Correo · Noticuento@ciudadseva.com · \"Seva\" - Novela corta de Luis López Nieves",
+      "time_local": "2026-09-21T05:28:17.000000-06:00",
+      "window_seconds": 300,
+      "app_usage_event_ids": [],
+      "app_usage_observations": 0,
+      "meaning": "Contexto temporal ±5 minutos, sin demostrar que un correo provocó un uso ni que todas las apps pasaron a primer plano."
+    },
+    {
+      "mail_event": "E072878",
+      "mail_id": "M000268",
+      "mail_subject": "Correo · no-reply@dropbox.com · Hola, Adilene, notamos un nuevo inicio de sesión en tu cuenta de Dropbox",
+      "time_local": "2026-09-21T07:04:25.000000-06:00",
+      "window_seconds": 300,
+      "app_usage_event_ids": [
+        "E072880",
+        "E072886"
+      ],
+      "app_usage_observations": 2,
+      "meaning": "Contexto temporal ±5 minutos, sin demostrar que un correo provocó un uso ni que todas las apps pasaron a primer plano."
+    },
+    {
+      "mail_event": "E072879",
+      "mail_id": "M000267",
+      "mail_subject": "Correo · no-reply@dropbox.com · Hola, Adilene, notamos un nuevo inicio de sesión en tu cuenta de Dropbox",
+      "time_local": "2026-09-21T07:04:26.000000-06:00",
+      "window_seconds": 300,
+      "app_usage_event_ids": [
+        "E072880",
+        "E072886"
+      ],
+      "app_usage_observations": 2,
+      "meaning": "Contexto temporal ±5 minutos, sin demostrar que un correo provocó un uso ni que todas las apps pasaron a primer plano."
+    },
+    {
+      "mail_event": "E072885",
+      "mail_id": "M000235",
+      "mail_subject": "Correo · noreply-accounts@google.com · Compartiste algunos datos de tu Cuenta de Google con WPS Office",
+      "time_local": "2026-09-21T07:05:45.000000-06:00",
+      "window_seconds": 300,
+      "app_usage_event_ids": [
+        "E072880",
+        "E072886"
+      ],
+      "app_usage_observations": 2,
+      "meaning": "Contexto temporal ±5 minutos, sin demostrar que un correo provocó un uso ni que todas las apps pasaron a primer plano."
+    },
+    {
+      "mail_event": "E072935",
+      "mail_id": "M000261",
+      "mail_subject": "Correo · noreply@email.apple.com · Tu cuenta de Apple se usó para iniciar sesión en iCloud desde un navegador web",
+      "time_local": "2026-09-21T08:28:18.000000-06:00",
+      "window_seconds": 300,
+      "app_usage_event_ids": [],
+      "app_usage_observations": 0,
+      "meaning": "Contexto temporal ±5 minutos, sin demostrar que un correo provocó un uso ni que todas las apps pasaron a primer plano."
+    },
+    {
+      "mail_event": "E072948",
+      "mail_id": "M000284",
+      "mail_subject": "Correo · families-noreply@google.com · Borraste tu grupo familiar",
+      "time_local": "2026-09-21T09:42:07.000000-06:00",
+      "window_seconds": 300,
+      "app_usage_event_ids": [],
+      "app_usage_observations": 0,
+      "meaning": "Contexto temporal ±5 minutos, sin demostrar que un correo provocó un uso ni que todas las apps pasaron a primer plano."
+    },
+    {
+      "mail_event": "E072960",
+      "mail_id": "M000287",
+      "mail_subject": "Correo · notification@service.tiktok.com · 👤 ¿Conoces a Shamlech?",
+      "time_local": "2026-09-21T10:06:51.000000-06:00",
+      "window_seconds": 300,
+      "app_usage_event_ids": [],
+      "app_usage_observations": 0,
+      "meaning": "Contexto temporal ±5 minutos, sin demostrar que un correo provocó un uso ni que todas las apps pasaron a primer plano."
+    },
+    {
+      "mail_event": "E072979",
+      "mail_id": "M000260",
+      "mail_subject": "Correo · noreply@email.apple.com · Tu cuenta de Apple se usó para iniciar sesión en iCloud desde un navegador web",
+      "time_local": "2026-09-21T10:40:31.000000-06:00",
+      "window_seconds": 300,
+      "app_usage_event_ids": [],
+      "app_usage_observations": 0,
+      "meaning": "Contexto temporal ±5 minutos, sin demostrar que un correo provocó un uso ni que todas las apps pasaron a primer plano."
+    },
+    {
+      "mail_event": "E072980",
+      "mail_id": "M000200",
+      "mail_subject": "Correo · notifications-noreply@linkedin.com · Adilene, mejora tu perfil añadiendo un puesto",
+      "time_local": "2026-09-21T10:41:46.000000-06:00",
+      "window_seconds": 300,
+      "app_usage_event_ids": [],
+      "app_usage_observations": 0,
+      "meaning": "Contexto temporal ±5 minutos, sin demostrar que un correo provocó un uso ni que todas las apps pasaron a primer plano."
+    },
+    {
+      "mail_event": "E072988",
+      "mail_id": "M000219",
+      "mail_subject": "Correo · recommendations@inspire.pinterest.com · Símbolos de Lilith para Hadilene",
+      "time_local": "2026-09-21T11:07:48.000000-06:00",
+      "window_seconds": 300,
+      "app_usage_event_ids": [],
+      "app_usage_observations": 0,
+      "meaning": "Contexto temporal ±5 minutos, sin demostrar que un correo provocó un uso ni que todas las apps pasaron a primer plano."
+    },
+    {
+      "mail_event": "E073014",
+      "mail_id": "M000141",
+      "mail_subject": "Correo · uber@uber.com · 🔥 Enciende tu Ki con el Super Saiyan Whopper en Burger King",
+      "time_local": "2026-09-21T12:19:04.000000-06:00",
+      "window_seconds": 300,
+      "app_usage_event_ids": [
+        "E073015"
+      ],
+      "app_usage_observations": 1,
+      "meaning": "Contexto temporal ±5 minutos, sin demostrar que un correo provocó un uso ni que todas las apps pasaron a primer plano."
+    },
+    {
+      "mail_event": "E074149",
+      "mail_id": "M000145",
+      "mail_subject": "Correo · clientes@envios.santander.com.mx · Un respaldo extra cuando lo necesites",
+      "time_local": "2026-09-21T13:11:01.000000-06:00",
+      "window_seconds": 300,
+      "app_usage_event_ids": [],
+      "app_usage_observations": 0,
+      "meaning": "Contexto temporal ±5 minutos, sin demostrar que un correo provocó un uso ni que todas las apps pasaron a primer plano."
+    },
+    {
+      "mail_event": "E075041",
+      "mail_id": "M000173",
+      "mail_subject": "Correo · no-reply@accounts.google.com · Alerta de seguridad",
+      "time_local": "2026-09-21T13:45:32.000000-06:00",
+      "window_seconds": 300,
+      "app_usage_event_ids": [],
+      "app_usage_observations": 0,
+      "meaning": "Contexto temporal ±5 minutos, sin demostrar que un correo provocó un uso ni que todas las apps pasaron a primer plano."
+    },
+    {
+      "mail_event": "E075332",
+      "mail_id": "M000130",
+      "mail_subject": "Correo · email@mex.temuemail.com · Recibiste una recompensa de bienvenida.",
+      "time_local": "2026-09-21T14:08:15.000000-06:00",
+      "window_seconds": 300,
+      "app_usage_event_ids": [],
+      "app_usage_observations": 0,
+      "meaning": "Contexto temporal ±5 minutos, sin demostrar que un correo provocó un uso ni que todas las apps pasaron a primer plano."
+    },
+    {
+      "mail_event": "E075333",
+      "mail_id": "M000138",
+      "mail_subject": "Correo · info@noticias.clarin.com · ¡Te damos la bienvenida aClarín, con una invitación exclusiva! 👋",
+      "time_local": "2026-09-21T15:00:17.000000-06:00",
+      "window_seconds": 300,
+      "app_usage_event_ids": [],
+      "app_usage_observations": 0,
+      "meaning": "Contexto temporal ±5 minutos, sin demostrar que un correo provocó un uso ni que todas las apps pasaron a primer plano."
+    },
+    {
+      "mail_event": "E075334",
+      "mail_id": "M000181",
+      "mail_subject": "Correo · noreply@uber.com · Tu pedido con Uber Eats del lunes por la tarde",
+      "time_local": "2026-09-21T15:00:47.000000-06:00",
+      "window_seconds": 300,
+      "app_usage_event_ids": [],
+      "app_usage_observations": 0,
+      "meaning": "Contexto temporal ±5 minutos, sin demostrar que un correo provocó un uso ni que todas las apps pasaron a primer plano."
+    },
+    {
+      "mail_event": "E075335",
+      "mail_id": "M000183",
+      "mail_subject": "Correo · notification@service.tiktok.com · Maria🌸: mi marido, mi hombre, mi machito jeje🙈😍 #mimarido #🤪",
+      "time_local": "2026-09-21T18:03:29.000000-06:00",
+      "window_seconds": 300,
+      "app_usage_event_ids": [],
+      "app_usage_observations": 0,
+      "meaning": "Contexto temporal ±5 minutos, sin demostrar que un correo provocó un uso ni que todas las apps pasaron a primer plano."
+    },
+    {
+      "mail_event": "E075336",
+      "mail_id": "M000142",
+      "mail_subject": "Correo · noreply@google.com · Código de verificación de Google",
+      "time_local": "2026-09-21T18:30:30.000000-06:00",
+      "window_seconds": 300,
+      "app_usage_event_ids": [],
+      "app_usage_observations": 0,
+      "meaning": "Contexto temporal ±5 minutos, sin demostrar que un correo provocó un uso ni que todas las apps pasaron a primer plano."
+    },
+    {
+      "mail_event": "E075337",
+      "mail_id": "M000158",
+      "mail_subject": "Correo · no-reply@accounts.google.com · Alerta de seguridad crítica",
+      "time_local": "2026-09-21T18:37:14.000000-06:00",
+      "window_seconds": 300,
+      "app_usage_event_ids": [],
+      "app_usage_observations": 0,
+      "meaning": "Contexto temporal ±5 minutos, sin demostrar que un correo provocó un uso ni que todas las apps pasaron a primer plano."
+    },
+    {
+      "mail_event": "E075338",
+      "mail_id": "M000157",
+      "mail_subject": "Correo · no-reply@accounts.google.com · Alerta de seguridad crítica",
+      "time_local": "2026-09-21T18:39:22.000000-06:00",
+      "window_seconds": 300,
+      "app_usage_event_ids": [],
+      "app_usage_observations": 0,
+      "meaning": "Contexto temporal ±5 minutos, sin demostrar que un correo provocó un uso ni que todas las apps pasaron a primer plano."
+    },
+    {
+      "mail_event": "E075339",
+      "mail_id": "M000176",
+      "mail_subject": "Correo · email@mex.temuemail.com · C.R.É.D.I.T.O. D.E. V.U.E.L.T.A. ya está aquí",
+      "time_local": "2026-09-21T20:08:14.000000-06:00",
+      "window_seconds": 300,
+      "app_usage_event_ids": [],
+      "app_usage_observations": 0,
+      "meaning": "Contexto temporal ±5 minutos, sin demostrar que un correo provocó un uso ni que todas las apps pasaron a primer plano."
+    },
+    {
+      "mail_event": "E075340",
+      "mail_id": "M000123",
+      "mail_subject": "Correo · english-quora-digest@quora.com · What are some good habits to practice to scare away narcissists?",
+      "time_local": "2026-09-21T21:04:23.000000-06:00",
+      "window_seconds": 300,
+      "app_usage_event_ids": [],
+      "app_usage_observations": 0,
+      "meaning": "Contexto temporal ±5 minutos, sin demostrar que un correo provocó un uso ni que todas las apps pasaron a primer plano."
+    },
+    {
+      "mail_event": "E075341",
+      "mail_id": "M000103",
+      "mail_subject": "Correo · access@workos-mail.com · Sign in to Nous Research",
+      "time_local": "2026-09-21T21:05:28.000000-06:00",
+      "window_seconds": 300,
+      "app_usage_event_ids": [],
+      "app_usage_observations": 0,
+      "meaning": "Contexto temporal ±5 minutos, sin demostrar que un correo provocó un uso ni que todas las apps pasaron a primer plano."
+    },
+    {
+      "mail_event": "E075342",
+      "mail_id": "M000170",
+      "mail_subject": "Correo · updates-noreply@linkedin.com · Jessica Cambray y otras personas comparten sus ideas en LinkedIn",
+      "time_local": "2026-09-21T21:43:58.000000-06:00",
+      "window_seconds": 300,
+      "app_usage_event_ids": [],
+      "app_usage_observations": 0,
+      "meaning": "Contexto temporal ±5 minutos, sin demostrar que un correo provocó un uso ni que todas las apps pasaron a primer plano."
+    },
+    {
+      "mail_event": "E075343",
+      "mail_id": "M000136",
+      "mail_subject": "Correo · security@mail.instagram.com · Verify your profile",
+      "time_local": "2026-09-21T22:07:23.000000-06:00",
+      "window_seconds": 300,
+      "app_usage_event_ids": [],
+      "app_usage_observations": 0,
+      "meaning": "Contexto temporal ±5 minutos, sin demostrar que un correo provocó un uso ni que todas las apps pasaron a primer plano."
+    },
+    {
+      "mail_event": "E075344",
+      "mail_id": "M000116",
+      "mail_subject": "Correo · recommendations@explore.pinterest.com · Hadilene, una vida hermosa te espera",
+      "time_local": "2026-09-21T23:07:35.000000-06:00",
+      "window_seconds": 300,
+      "app_usage_event_ids": [],
+      "app_usage_observations": 0,
+      "meaning": "Contexto temporal ±5 minutos, sin demostrar que un correo provocó un uso ni que todas las apps pasaron a primer plano."
+    }
+  ],
+  "specific_crosses": [
+    {
+      "type": "Uber soporte y correo: misma fecha UTC; contenido compatible conservado por separado",
+      "event_ids": [
+        "E062905",
+        "E062904"
+      ],
+      "mail_id": "M000239",
+      "seconds": 0
+    },
+    {
+      "type": "Uber soporte y correo: misma fecha UTC; contenido compatible conservado por separado",
+      "event_ids": [
+        "E050102",
+        "E050101"
+      ],
+      "mail_id": "M000320",
+      "seconds": 0
+    },
+    {
+      "type": "Correo Dropbox y actividad Google: mismo servicio; proximidad temporal",
+      "event_ids": [
+        "E072879",
+        "E072862"
+      ],
+      "mail_id": "M000267",
+      "seconds_signed_activity_minus_mail": -53.0,
+      "kind": "visita"
+    },
+    {
+      "type": "Correo Dropbox y actividad Google: mismo servicio; proximidad temporal",
+      "event_ids": [
+        "E072879",
+        "E072880"
+      ],
+      "mail_id": "M000267",
+      "seconds_signed_activity_minus_mail": 6.0,
+      "kind": "uso de app"
+    },
+    {
+      "type": "Correo Dropbox y actividad Google: mismo servicio; proximidad temporal",
+      "event_ids": [
+        "E072879",
+        "E072881"
+      ],
+      "mail_id": "M000267",
+      "seconds_signed_activity_minus_mail": 6.0,
+      "kind": "uso de app"
+    },
+    {
+      "type": "Correo Dropbox y actividad Google: mismo servicio; proximidad temporal",
+      "event_ids": [
+        "E072878",
+        "E072862"
+      ],
+      "mail_id": "M000268",
+      "seconds_signed_activity_minus_mail": -52.0,
+      "kind": "visita"
+    },
+    {
+      "type": "Correo Dropbox y actividad Google: mismo servicio; proximidad temporal",
+      "event_ids": [
+        "E072878",
+        "E072880"
+      ],
+      "mail_id": "M000268",
+      "seconds_signed_activity_minus_mail": 7.0,
+      "kind": "uso de app"
+    },
+    {
+      "type": "Correo Dropbox y actividad Google: mismo servicio; proximidad temporal",
+      "event_ids": [
+        "E072878",
+        "E072881"
+      ],
+      "mail_id": "M000268",
+      "seconds_signed_activity_minus_mail": 7.0,
+      "kind": "uso de app"
+    }
+  ],
+  "google_play_purchase_verification_mail_ids": [
+    "M000011",
+    "M000305"
+  ],
+  "game_notification_mail_ids": [
+    "M000166"
+  ],
+  "installation_update_events_separate": [
+    "E071299",
+    "E071300",
+    "E071301",
+    "E071302",
+    "E071303",
+    "E071304",
+    "E071305",
+    "E071306",
+    "E072454",
+    "E072570",
+    "E072571",
+    "E072572",
+    "E072699",
+    "E072722",
+    "E072723",
+    "E072724",
+    "E072725",
+    "E072788",
+    "E072789",
+    "E072790",
+    "E072791",
+    "E072792",
+    "E072793",
+    "E072794",
+    "E072795",
+    "E072796",
+    "E072797",
+    "E072798",
+    "E072799",
+    "E072800",
+    "E072801",
+    "E072802",
+    "E072803",
+    "E072804",
+    "E072805",
+    "E072806",
+    "E072807",
+    "E072808",
+    "E072809",
+    "E072810",
+    "E072811",
+    "E072812",
+    "E072813",
+    "E072814",
+    "E072815",
+    "E072816",
+    "E072817",
+    "E072818",
+    "E072819",
+    "E072820",
+    "E072821",
+    "E072822",
+    "E072823",
+    "E072824",
+    "E072825",
+    "E072826",
+    "E072827",
+    "E072828",
+    "E072829",
+    "E072830",
+    "E072831",
+    "E072832",
+    "E072833",
+    "E072834",
+    "E072835",
+    "E072836",
+    "E072837",
+    "E072838",
+    "E072839",
+    "E072840",
+    "E072841",
+    "E072842",
+    "E072843",
+    "E072850",
+    "E072864",
+    "E072865",
+    "E072866",
+    "E072867",
+    "E072868",
+    "E072869",
+    "E072870",
+    "E072871",
+    "E072872",
+    "E072873",
+    "E072874",
+    "E072875",
+    "E072876"
+  ],
+  "limits": [
+    "Date es una cabecera declarada con zona, no un registro de lectura.",
+    "Los remitentes se describen según cabeceras sin verificación criptográfica.",
+    "Uso registrado, primer plano, instalación y actualización son conceptos distintos.",
+    "La cercanía de correo y apps no determina causalidad.",
+    "La aclaración del usuario sobre Uber es que no hubo clonación.",
+    "El MBOX original íntegro y los adjuntos internos se conservan para la subida completa."
+  ]
+}

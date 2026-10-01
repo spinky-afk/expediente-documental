@@ -1,0 +1,824 @@
+{
+  "generated_at_utc": "2026-10-01T18:41:31.267814+00:00",
+  "timezone": "America/Mexico_City",
+  "dated_observations": 84642,
+  "undated_observations": 54,
+  "earliest": "2022-08-15T18:50:51.000000-05:00",
+  "latest": "2026-09-27T17:35:30.739000-06:00",
+  "source_files": 508,
+  "source_counts": [
+    {
+      "family": "Correo",
+      "channel": "MBOX · Cabeceras Date",
+      "count": 1527
+    },
+    {
+      "family": "Facebook",
+      "channel": "Accesos directos eliminados de la barra de navegación de Facebook",
+      "count": 9
+    },
+    {
+      "family": "Facebook",
+      "channel": "Actividad en direcciones IP",
+      "count": 9
+    },
+    {
+      "family": "Facebook",
+      "channel": "Actividad fuera de Meta",
+      "count": 600
+    },
+    {
+      "family": "Facebook",
+      "channel": "Ad preferences",
+      "count": 1
+    },
+    {
+      "family": "Facebook",
+      "channel": "Amigos eliminados",
+      "count": 87
+    },
+    {
+      "family": "Facebook",
+      "channel": "Anunciantes con los que interactuaste",
+      "count": 50
+    },
+    {
+      "family": "Facebook",
+      "channel": "Apps detectadas a partir de tu actividad",
+      "count": 3
+    },
+    {
+      "family": "Facebook",
+      "channel": "Archivos de IA",
+      "count": 179
+    },
+    {
+      "family": "Facebook",
+      "channel": "Artículos vistos",
+      "count": 165
+    },
+    {
+      "family": "Facebook",
+      "channel": "Clics recientes en el navegador de audio",
+      "count": 11
+    },
+    {
+      "family": "Facebook",
+      "channel": "Comentarios",
+      "count": 135
+    },
+    {
+      "family": "Facebook",
+      "channel": "Configuración",
+      "count": 1
+    },
+    {
+      "family": "Facebook",
+      "channel": "Configuración de tu actividad fuera de las tecnologías de Meta",
+      "count": 1
+    },
+    {
+      "family": "Facebook",
+      "channel": "Configuración de tu historial de enlaces",
+      "count": 2
+    },
+    {
+      "family": "Facebook",
+      "channel": "Consentimientos",
+      "count": 1
+    },
+    {
+      "family": "Facebook",
+      "channel": "Conversaciones que tuviste como comprador",
+      "count": 24
+    },
+    {
+      "family": "Facebook",
+      "channel": "Correos electrónicos que te enviamos",
+      "count": 12
+    },
+    {
+      "family": "Facebook",
+      "channel": "Datos de protección de inicio de sesión",
+      "count": 19
+    },
+    {
+      "family": "Facebook",
+      "channel": "Direcciones de pago",
+      "count": 1
+    },
+    {
+      "family": "Facebook",
+      "channel": "Encuestas",
+      "count": 5
+    },
+    {
+      "family": "Facebook",
+      "channel": "Fotos de tu galería",
+      "count": 1
+    },
+    {
+      "family": "Facebook",
+      "channel": "Grupos y eventos que visitaste",
+      "count": 79
+    },
+    {
+      "family": "Facebook",
+      "channel": "Historial de accesos directos de la barra de navegación",
+      "count": 38
+    },
+    {
+      "family": "Facebook",
+      "channel": "Historial de actividad de tu cuenta de pago",
+      "count": 33
+    },
+    {
+      "family": "Facebook",
+      "channel": "Historial de actualizaciones del perfil",
+      "count": 47
+    },
+    {
+      "family": "Facebook",
+      "channel": "Historial de consentimiento",
+      "count": 2
+    },
+    {
+      "family": "Facebook",
+      "channel": "Historial de enlaces",
+      "count": 11
+    },
+    {
+      "family": "Facebook",
+      "channel": "Historias archivadas",
+      "count": 11
+    },
+    {
+      "family": "Facebook",
+      "channel": "Información de contacto",
+      "count": 1
+    },
+    {
+      "family": "Facebook",
+      "channel": "Información de la confirmación de tu perfil",
+      "count": 1
+    },
+    {
+      "family": "Facebook",
+      "channel": "Información de registro",
+      "count": 1
+    },
+    {
+      "family": "Facebook",
+      "channel": "Información de tu carrito en Marketplace",
+      "count": 1
+    },
+    {
+      "family": "Facebook",
+      "channel": "Insignias de fan destacado que recibiste",
+      "count": 30
+    },
+    {
+      "family": "Facebook",
+      "channel": "Interacciones en Marketplace",
+      "count": 1
+    },
+    {
+      "family": "Facebook",
+      "channel": "Invitaciones a chats recibidas",
+      "count": 6
+    },
+    {
+      "family": "Facebook",
+      "channel": "Invitaciones a grupos que enviaste",
+      "count": 2
+    },
+    {
+      "family": "Facebook",
+      "channel": "Invitaciones a grupos que recibiste",
+      "count": 1
+    },
+    {
+      "family": "Facebook",
+      "channel": "Juegos instantáneos",
+      "count": 9
+    },
+    {
+      "family": "Facebook",
+      "channel": "Marcador y configuración de la app",
+      "count": 1
+    },
+    {
+      "family": "Facebook",
+      "channel": "Me gusta y reacciones",
+      "count": 869
+    },
+    {
+      "family": "Facebook",
+      "channel": "Mensajes de asistencia",
+      "count": 5
+    },
+    {
+      "family": "Facebook",
+      "channel": "Mensajes recibidos en una conversación",
+      "count": 6
+    },
+    {
+      "family": "Facebook",
+      "channel": "Messenger",
+      "count": 1755
+    },
+    {
+      "family": "Facebook",
+      "channel": "Meta AI",
+      "count": 1
+    },
+    {
+      "family": "Facebook",
+      "channel": "Perfil de juego",
+      "count": 1
+    },
+    {
+      "family": "Facebook",
+      "channel": "Personas que empezaste a seguir",
+      "count": 29
+    },
+    {
+      "family": "Facebook",
+      "channel": "Personas que quizá conozcas",
+      "count": 1
+    },
+    {
+      "family": "Facebook",
+      "channel": "Personas y amigos",
+      "count": 10
+    },
+    {
+      "family": "Facebook",
+      "channel": "Predicción de idiomas",
+      "count": 1
+    },
+    {
+      "family": "Facebook",
+      "channel": "Páginas que te gustaron",
+      "count": 29
+    },
+    {
+      "family": "Facebook",
+      "channel": "Páginas y perfiles que dejaste de seguir",
+      "count": 14
+    },
+    {
+      "family": "Facebook",
+      "channel": "Páginas y perfiles que sigues",
+      "count": 12
+    },
+    {
+      "family": "Facebook",
+      "channel": "Reacciones a historias",
+      "count": 219
+    },
+    {
+      "family": "Facebook",
+      "channel": "Reacciones a historias anteriores",
+      "count": 13
+    },
+    {
+      "family": "Facebook",
+      "channel": "Reducir",
+      "count": 1
+    },
+    {
+      "family": "Facebook",
+      "channel": "Solicitudes de amistad enviadas",
+      "count": 28
+    },
+    {
+      "family": "Facebook",
+      "channel": "Solicitudes de amistad rechazadas",
+      "count": 358
+    },
+    {
+      "family": "Facebook",
+      "channel": "Solicitudes de amistad recibidas",
+      "count": 29
+    },
+    {
+      "family": "Facebook",
+      "channel": "Tiempo en Facebook",
+      "count": 1
+    },
+    {
+      "family": "Facebook",
+      "channel": "Toques",
+      "count": 4
+    },
+    {
+      "family": "Facebook",
+      "channel": "Tu actividad como miembro de grupos",
+      "count": 25
+    },
+    {
+      "family": "Facebook",
+      "channel": "Tu audio original",
+      "count": 1
+    },
+    {
+      "family": "Facebook",
+      "channel": "Tu comunicación estructurada",
+      "count": 19
+    },
+    {
+      "family": "Facebook",
+      "channel": "Tu configuración de menciones",
+      "count": 1
+    },
+    {
+      "family": "Facebook",
+      "channel": "Tu historial de búsqueda",
+      "count": 407
+    },
+    {
+      "family": "Facebook",
+      "channel": "Tus amigos",
+      "count": 111
+    },
+    {
+      "family": "Facebook",
+      "channel": "Tus comentarios en grupos",
+      "count": 11
+    },
+    {
+      "family": "Facebook",
+      "channel": "Tus contactos importados",
+      "count": 233
+    },
+    {
+      "family": "Facebook",
+      "channel": "Tus interacciones con mensajes en la app",
+      "count": 38
+    },
+    {
+      "family": "Facebook",
+      "channel": "Tus rachas",
+      "count": 1
+    },
+    {
+      "family": "Facebook",
+      "channel": "Tus recuperaciones de perfiles exitosas recientes",
+      "count": 5
+    },
+    {
+      "family": "Facebook",
+      "channel": "Tus ubicaciones de muestra",
+      "count": 2
+    },
+    {
+      "family": "Facebook",
+      "channel": "Verificaciones de la dirección de correo electrónico",
+      "count": 1
+    },
+    {
+      "family": "Facebook",
+      "channel": "Video",
+      "count": 1
+    },
+    {
+      "family": "Facebook",
+      "channel": "Visitas a perfiles",
+      "count": 277
+    },
+    {
+      "family": "Facebook",
+      "channel": "Your professional dashboard level progression",
+      "count": 1
+    },
+    {
+      "family": "Facebook",
+      "channel": "Última ubicación",
+      "count": 1
+    },
+    {
+      "family": "Google",
+      "channel": "Actividad del registro de acceso",
+      "count": 54
+    },
+    {
+      "family": "Google",
+      "channel": "Aplicaciones de Gemini",
+      "count": 11
+    },
+    {
+      "family": "Google",
+      "channel": "Ayuda",
+      "count": 814
+    },
+    {
+      "family": "Google",
+      "channel": "Ayuda de Google",
+      "count": 3
+    },
+    {
+      "family": "Google",
+      "channel": "Búsqueda",
+      "count": 874
+    },
+    {
+      "family": "Google",
+      "channel": "Búsqueda de imágenes",
+      "count": 50
+    },
+    {
+      "family": "Google",
+      "channel": "Búsqueda de vídeos",
+      "count": 4
+    },
+    {
+      "family": "Google",
+      "channel": "Chat",
+      "count": 16
+    },
+    {
+      "family": "Google",
+      "channel": "Chrome",
+      "count": 359
+    },
+    {
+      "family": "Google",
+      "channel": "Chrome · información de dispositivos",
+      "count": 4
+    },
+    {
+      "family": "Google",
+      "channel": "Configuración de dispositivos Android",
+      "count": 161
+    },
+    {
+      "family": "Google",
+      "channel": "Discover",
+      "count": 151
+    },
+    {
+      "family": "Google",
+      "channel": "Drive",
+      "count": 53
+    },
+    {
+      "family": "Google",
+      "channel": "Encuestas sobre productos de Google · HaTS_Surveys_16d7iFfLKrJUcJCkaH7ipz",
+      "count": 1
+    },
+    {
+      "family": "Google",
+      "channel": "Encuestas sobre productos de Google · HaTS_Surveys_2DWcXbRmsF9QtYaogGkzQj",
+      "count": 1
+    },
+    {
+      "family": "Google",
+      "channel": "Encuestas sobre productos de Google · HaTS_Surveys_3KKx4isY7aEWS98MBCywq2",
+      "count": 1
+    },
+    {
+      "family": "Google",
+      "channel": "Encuestas sobre productos de Google · HaTS_Surveys_NSBff7qfcW1TRVCqfV83CE",
+      "count": 1
+    },
+    {
+      "family": "Google",
+      "channel": "Encuestas sobre productos de Google · HaTS_Surveys_SsENhPt7nJLUCy7jyhpsfG",
+      "count": 1
+    },
+    {
+      "family": "Google",
+      "channel": "Encuestas sobre productos de Google · HaTS_Surveys_axwm5Kf5u82ToHD4CPjHdN",
+      "count": 1
+    },
+    {
+      "family": "Google",
+      "channel": "Gemini en Workspace · conversation_1789110882",
+      "count": 4
+    },
+    {
+      "family": "Google",
+      "channel": "Gemini en Workspace · conversation_1789153704",
+      "count": 4
+    },
+    {
+      "family": "Google",
+      "channel": "Gemini en Workspace · conversation_1789934534",
+      "count": 4
+    },
+    {
+      "family": "Google",
+      "channel": "Gmail",
+      "count": 290
+    },
+    {
+      "family": "Google",
+      "channel": "Google Analytics",
+      "count": 866
+    },
+    {
+      "family": "Google",
+      "channel": "Google Developers · Badge Data",
+      "count": 1
+    },
+    {
+      "family": "Google",
+      "channel": "Google Developers · Profile Data",
+      "count": 1
+    },
+    {
+      "family": "Google",
+      "channel": "Google Lens",
+      "count": 14
+    },
+    {
+      "family": "Google",
+      "channel": "Google Meet",
+      "count": 12
+    },
+    {
+      "family": "Google",
+      "channel": "Google News",
+      "count": 66
+    },
+    {
+      "family": "Google",
+      "channel": "Google Pay",
+      "count": 2
+    },
+    {
+      "family": "Google",
+      "channel": "Google Play Películas",
+      "count": 4
+    },
+    {
+      "family": "Google",
+      "channel": "Google Play Store",
+      "count": 8603
+    },
+    {
+      "family": "Google",
+      "channel": "Google Play Store · Devices",
+      "count": 33
+    },
+    {
+      "family": "Google",
+      "channel": "Google Play Store · Installs",
+      "count": 980
+    },
+    {
+      "family": "Google",
+      "channel": "Google Play Store · Library",
+      "count": 26
+    },
+    {
+      "family": "Google",
+      "channel": "Google Play Store · Order History",
+      "count": 3
+    },
+    {
+      "family": "Google",
+      "channel": "Google Play Store · Purchase History",
+      "count": 27
+    },
+    {
+      "family": "Google",
+      "channel": "Google Play Store · Subscriptions",
+      "count": 4
+    },
+    {
+      "family": "Google",
+      "channel": "Google Store",
+      "count": 25
+    },
+    {
+      "family": "Google",
+      "channel": "Google Pay",
+      "count": 8
+    },
+    {
+      "family": "Google",
+      "channel": "Historial de Chrome",
+      "count": 1182
+    },
+    {
+      "family": "Google",
+      "channel": "Keep · 16-02_",
+      "count": 2
+    },
+    {
+      "family": "Google",
+      "channel": "Keep · 17-02",
+      "count": 2
+    },
+    {
+      "family": "Google",
+      "channel": "Maps",
+      "count": 42
+    },
+    {
+      "family": "Google",
+      "channel": "Mi centro de anuncios",
+      "count": 130
+    },
+    {
+      "family": "Google",
+      "channel": "Modo IA",
+      "count": 16
+    },
+    {
+      "family": "Google",
+      "channel": "NotebookLM ·  metadata",
+      "count": 4
+    },
+    {
+      "family": "Google",
+      "channel": "Perfil de Empresa en Google",
+      "count": 1
+    },
+    {
+      "family": "Google",
+      "channel": "Programadores",
+      "count": 15
+    },
+    {
+      "family": "Google",
+      "channel": "Publicidad",
+      "count": 2168
+    },
+    {
+      "family": "Google",
+      "channel": "Rutas · Settings",
+      "count": 31
+    },
+    {
+      "family": "Google",
+      "channel": "Search Contributions · Proveedores de video en streaming",
+      "count": 2
+    },
+    {
+      "family": "Google",
+      "channel": "Servicios de juego de Google Play",
+      "count": 8
+    },
+    {
+      "family": "Google",
+      "channel": "Takeout",
+      "count": 88
+    },
+    {
+      "family": "Google",
+      "channel": "Tareas · Tasks",
+      "count": 7
+    },
+    {
+      "family": "Google",
+      "channel": "Traductor de Google",
+      "count": 1
+    },
+    {
+      "family": "Google",
+      "channel": "YouTube",
+      "count": 3696
+    },
+    {
+      "family": "Uber",
+      "channel": "Eats · Analytics",
+      "count": 45178
+    },
+    {
+      "family": "Uber",
+      "channel": "Eats · Pedidos",
+      "count": 46
+    },
+    {
+      "family": "Uber",
+      "channel": "Métodos de pago",
+      "count": 1
+    },
+    {
+      "family": "Uber",
+      "channel": "Rider · Analytics",
+      "count": 10833
+    },
+    {
+      "family": "Uber",
+      "channel": "Rider · Viajes",
+      "count": 4
+    },
+    {
+      "family": "Uber",
+      "channel": "Soporte",
+      "count": 9
+    }
+  ],
+  "conversation_files": 37,
+  "conversation_distinct_titles": 36,
+  "messages_dated": 1755,
+  "message_sections_undated": 38,
+  "businesses": 87,
+  "business_event_id_matches_in_messages": 0,
+  "files": 181,
+  "files_linked_from_ai": 179,
+  "files_formats": {
+    "PNG": 180,
+    "JPEG": 1
+  },
+  "correlations": 705,
+  "google_mentions_facebook": [
+    {
+      "source_path": "/home/deep-logic/Documentos/facebook/ads_information/advertisers_you've_interacted_with.html",
+      "source_code": "S101",
+      "title": "Anunciantes con los que interactuaste",
+      "snippets": [
+        "BUVtKkfdTAFTHiXuhBRYJjql\nago 03, 2026 9:10:20 pm\nAcción\nClic\nTítulo\nhttp://play.google.com/store/apps/details?id=com.coppel.coppelapp\nURL pública de la biblioteca de anuncios\nhttps://www.facebook.com/ads/library/?id=2475207562964622\nURL\nhttps://w"
+      ]
+    },
+    {
+      "source_path": "/home/deep-logic/Documentos/facebook/logged_information/other_logged_information/detected_hardware.html",
+      "source_code": "S312",
+      "title": "Hardware detectado",
+      "snippets": [
+        "hora de detección parcial\nsep 21, 2026 11:51:21 am\nInformación de la GPU\nvendor\nGoogle Inc. (AMD)\nrenderer\nANGLE (AMD, AMD Radeon 660M (radeonsi rembrandt LLVM 20.1.2), OpenGL ES 3.2)\nProveedor de GPU\nGoogle Inc. (AMD)\nProcesador de GPU\nANGLE (AM",
+        "D Radeon 660M (radeonsi rembrandt LLVM 20.1.2), OpenGL ES 3.2)\nProveedor de GPU\nGoogle Inc. (AMD)\nProcesador de GPU\nANGLE (AMD, AMD Radeon 660M (radeonsi rembrandt LLVM 20.1.2), OpenGL ES 3.2)\nRAM (GB)\n16\nNúmero de núcleos de la CPU\n12\nFecha y ho",
+        " hora de detección parcial\nago 23, 2026 3:51:26 pm\nInformación de la GPU\nvendor\nGoogle Inc. (Qualcomm)\nrenderer\nANGLE (Qualcomm, Adreno (TM) 610, OpenGL ES 3.2)\nProveedor de GPU\nGoogle Inc. (Qualcomm)\nProcesador de GPU\nANGLE (Qualcomm, Adreno (TM",
+        "omm)\nrenderer\nANGLE (Qualcomm, Adreno (TM) 610, OpenGL ES 3.2)\nProveedor de GPU\nGoogle Inc. (Qualcomm)\nProcesador de GPU\nANGLE (Qualcomm, Adreno (TM) 610, OpenGL ES 3.2)\nRAM (GB)\n4\nNúmero de núcleos de la CPU\n2\nFecha y hora de la última detección",
+        " hora de detección parcial\nago 07, 2026 6:42:11 am\nInformación de la GPU\nvendor\nGoogle Inc. (Qualcomm)\nrenderer\nANGLE (Qualcomm, Adreno (TM) 610, OpenGL ES 3.2)\nProveedor de GPU\nGoogle Inc. (Qualcomm)\nProcesador de GPU\nANGLE (Qualcomm, Adreno (TM",
+        "omm)\nrenderer\nANGLE (Qualcomm, Adreno (TM) 610, OpenGL ES 3.2)\nProveedor de GPU\nGoogle Inc. (Qualcomm)\nProcesador de GPU\nANGLE (Qualcomm, Adreno (TM) 610, OpenGL ES 3.2)\nRAM (GB)\n4\nNúmero de núcleos de la CPU\n8\nFecha y hora de la última detección",
+        " hora de detección parcial\nago 27, 2026 6:55:42 pm\nInformación de la GPU\nvendor\nGoogle Inc. (AMD)\nrenderer\nANGLE (AMD, AMD Radeon 660M (radeonsi rembrandt LLVM 20.1.2), OpenGL 4.6)\nProveedor de GPU\nGoogle Inc. (AMD)\nProcesador de GPU\nANGLE (AMD, ",
+        " AMD Radeon 660M (radeonsi rembrandt LLVM 20.1.2), OpenGL 4.6)\nProveedor de GPU\nGoogle Inc. (AMD)\nProcesador de GPU\nANGLE (AMD, AMD Radeon 660M (radeonsi rembrandt LLVM 20.1.2), OpenGL 4.6)\nRAM (GB)\n16\nNúmero de núcleos de la CPU\n12\nFecha y hora "
+      ]
+    },
+    {
+      "source_path": "/home/deep-logic/Documentos/facebook/personal_information/profile_information/your_devices.html",
+      "source_code": "S334",
+      "title": "Tus dispositivos",
+      "snippets": [
+        "icación del dispositivo\n2016\nNúmero de núcleos de la CPU\n8\nNúmero de cuentas de Google\n0\nDetalles de Google Play Store\ninstallation_status\nSERVICE_ENABLED\npackage_name\ncom.android.vending\nversion\n85322340\nEstado de instalación de los servicios de",
+        "vo\n2016\nNúmero de núcleos de la CPU\n8\nNúmero de cuentas de Google\n0\nDetalles de Google Play Store\ninstallation_status\nSERVICE_ENABLED\npackage_name\ncom.android.vending\nversion\n85322340\nEstado de instalación de los servicios de Google\ninstallation_",
+        "\ncom.android.vending\nversion\n85322340\nEstado de instalación de los servicios de Google\ninstallation_status\nSERVICE_ENABLED\npackage_name\ncom.google.android.gsf\nversion\n35\nFabricante\nXiaomi\nEstado actual de la conexión\n187.187.206.235\nÚltimo agente",
+        "de los servicios de Google\ninstallation_status\nSERVICE_ENABLED\npackage_name\ncom.google.android.gsf\nversion\n35\nFabricante\nXiaomi\nEstado actual de la conexión\n187.187.206.235\nÚltimo agente de usuario\nDalvik/2.1.0 (Linux; U; Android 15; 23129RA5FL B",
+        "icación del dispositivo\n2016\nNúmero de núcleos de la CPU\n8\nNúmero de cuentas de Google\n0\nFabricante\nXiaomi\nÚltimo agente de usuario\nDalvik/2.1.0 (Linux; U; Android 15; 23129RA5FL Build/AQ3A.240829.003) [FBAN/Orca-Android;FBAV/579.0.0.61.91;FBPN/c",
+        "icación del dispositivo\n2016\nNúmero de núcleos de la CPU\n8\nNúmero de cuentas de Google\n0\nFabricante\nXiaomi\nIdentificador de dispositivo de la familia al momento de la creación\n67D30893-BA85-4AA5-87D1-996E32C23E5C\nIdentificador del dispositivo\n67D",
+        "icación del dispositivo\n2016\nNúmero de núcleos de la CPU\n8\nNúmero de cuentas de Google\n0\nDetalles de Google Play Store\ninstallation_status\nSERVICE_ENABLED\npackage_name\ncom.android.vending\nversion\n85322340\nEstado de instalación de los servicios de",
+        "vo\n2016\nNúmero de núcleos de la CPU\n8\nNúmero de cuentas de Google\n0\nDetalles de Google Play Store\ninstallation_status\nSERVICE_ENABLED\npackage_name\ncom.android.vending\nversion\n85322340\nEstado de instalación de los servicios de Google\ninstallation_",
+        "\ncom.android.vending\nversion\n85322340\nEstado de instalación de los servicios de Google\ninstallation_status\nSERVICE_ENABLED\npackage_name\ncom.google.android.gsf\nversion\n35\nFabricante\nXiaomi\nEstado actual de la conexión\n200.63.43.130\nÚltimo agente d",
+        "de los servicios de Google\ninstallation_status\nSERVICE_ENABLED\npackage_name\ncom.google.android.gsf\nversion\n35\nFabricante\nXiaomi\nEstado actual de la conexión\n200.63.43.130\nÚltimo agente de usuario\nDalvik/2.1.0 (Linux; U; Android 15; 23129RA5FL Bui",
+        "icación del dispositivo\n2016\nNúmero de núcleos de la CPU\n8\nNúmero de cuentas de Google\n0\nFabricante\nXiaomi\nÚltimo agente de usuario\nDalvik/2.1.0 (Linux; U; Android 15; 23129RA5FL Build/AQ3A.240829.003) [FBAN/Orca-Android;FBAV/580.0.0.49.91;FBPN/c",
+        "icación del dispositivo\n2016\nNúmero de núcleos de la CPU\n8\nNúmero de cuentas de Google\n0\nFabricante\nXiaomi\nIdentificador de dispositivo de la familia al momento de la creación\n31085C62-AF67-47CB-9B62-73EFAE425444\nIdentificador del dispositivo\n310"
+      ]
+    },
+    {
+      "source_path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/messages/inbox/epazotetulancingo_1514670583749704/message_1.html",
+      "source_code": "S438",
+      "title": "Epazote Tulancingo",
+      "snippets": [
+        "isar que llegaríamos a las 9 pero decía que cerraban a esa hora y después ví en Google maps que era a las 10 y como ya se realizó el pago pues para que la reservación sea para el día de mañana\nago 27, 2026 9:57:22 pm\nAdilenee Razo\nago 27, 2026 9:",
+        "m\nEpazote Tulancingo\nHola\nago 27, 2026 9:30:13 pm\nAdilenee Razo\nEn su página de Google maps dice que el día de hoy está cerrado\nago 27, 2026 9:25:17 pm\nAdilenee Razo\n??\nago 27, 2026 9:24:08 pm\nAdilenee Razo\nMe gustaría preguntar por una reservaci"
+      ]
+    }
+  ],
+  "page_ids": [
+    {
+      "thread": "Epazote Tulancingo",
+      "page_id": "107881590544962",
+      "time_local": "2026-08-28T17:29:03-06:00",
+      "source_path": "/home/deep-logic/Documentos/facebook/your_facebook_activity/messages/inbox/epazotetulancingo_1514670583749704/message_1.html",
+      "source_code": "S438",
+      "locator": {
+        "message_index_1based": 14,
+        "html_line_1based": 13,
+        "html_column_0based": 5030
+      },
+      "text": "Empezaste a seguir a Epazote Tulancingo en Facebook. Dejar de seguir(fb-messenger://p2b_thread_event_async_controller/?event_type=unfollow_page&extra_params=%7B%22page_id%22%3A%22107881590544962%22%7D)"
+    }
+  ],
+  "coppel_event_ids": [
+    "E017779",
+    "E018004",
+    "E018364",
+    "E018513",
+    "E019004",
+    "E019024",
+    "E030474",
+    "E030475",
+    "E030513"
+  ],
+  "epazote_event_ids": [
+    "E020331",
+    "E020318",
+    "E020306"
+  ],
+  "google_business_event_ids": [
+    "E084292",
+    "E084293",
+    "E084294",
+    "E084295",
+    "E084296",
+    "E084297",
+    "E084298",
+    "E084299",
+    "E084300"
+  ]
+}

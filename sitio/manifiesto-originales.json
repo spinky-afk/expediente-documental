@@ -5913,5 +5913,96 @@
     "bytes": 29,
     "sha256": "ae6b79180fb687dada5a18e11e5496ecc440195740bea812bfd102d21085bd4c",
     "encrypted_only": false
+  },
+  {
+    "origin_path": "/home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Account and Profile/communications_sent-0.csv",
+    "archive_path": "originales/uber/Account and Profile/communications_sent-0.csv",
+    "bytes": 389,
+    "sha256": "c97d756ea5341ebc7ce19657865aadd5e952908f07f050e8f0d076c1b65aa3fa",
+    "encrypted_only": false
+  },
+  {
+    "origin_path": "/home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Account and Profile/customer_support_tickets-0.csv",
+    "archive_path": "originales/uber/Account and Profile/customer_support_tickets-0.csv",
+    "bytes": 2691,
+    "sha256": "c9acb7ef27c24560ef7897eadeeb3d9881ec5b04470e760a776477b3cead5a8b",
+    "encrypted_only": false
+  },
+  {
+    "origin_path": "/home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Account and Profile/driver_profile-0.csv",
+    "archive_path": "originales/uber/Account and Profile/driver_profile-0.csv",
+    "bytes": 476,
+    "sha256": "875f40f290cb77f16a28ee0a64ef27f7bfe084e54458a3e256077d1a171f4d3e",
+    "encrypted_only": false
+  },
+  {
+    "origin_path": "/home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Account and Profile/payment_methods-0.csv",
+    "archive_path": "originales/uber/Account and Profile/payment_methods-0.csv",
+    "bytes": 746,
+    "sha256": "cdfaedf1fbbd789e4e9b6193c973095e2075b406e3b820ec5d922fbf2003fd1d",
+    "encrypted_only": false
+  },
+  {
+    "origin_path": "/home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Account and Profile/rider_eater_saved_locations.csv",
+    "archive_path": "originales/uber/Account and Profile/rider_eater_saved_locations.csv",
+    "bytes": 155,
+    "sha256": "1003eb0bfb2a65f8490515a3c126483dfd44b82589186afa720c7b3a49576f4d",
+    "encrypted_only": false
+  },
+  {
+    "origin_path": "/home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Account and Profile/user_profile-0.csv",
+    "archive_path": "originales/uber/Account and Profile/user_profile-0.csv",
+    "bytes": 441,
+    "sha256": "3ff5c80b819be98f0af75a518b86a2d8b143857c09bf45521e9ceeb3f700b255",
+    "encrypted_only": false
+  },
+  {
+    "origin_path": "/home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Eats/eats_app_analytics-0.csv",
+    "archive_path": "originales/uber/Eats/eats_app_analytics-0.csv",
+    "bytes": 6289342,
+    "sha256": "2efd4662b503ed13aa3508f5216d40c7cfca8b054928fc8cc7608661ef9f7a4a",
+    "encrypted_only": false
+  },
+  {
+    "origin_path": "/home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Eats/user_orders-0.csv",
+    "archive_path": "originales/uber/Eats/user_orders-0.csv",
+    "bytes": 4295,
+    "sha256": "545a36db0fead5835f51b0a44a323c3a897ec4a5a3c15ae606caa272e7657dd3",
+    "encrypted_only": false
+  },
+  {
+    "origin_path": "/home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Rider/rider_app_analytics-0.csv",
+    "archive_path": "originales/uber/Rider/rider_app_analytics-0.csv",
+    "bytes": 2384633,
+    "sha256": "7a17993c9f38183a805a4d416bead302e4277d9dd0ea4499d1c30697bd8c4be9",
+    "encrypted_only": false
+  },
+  {
+    "origin_path": "/home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Rider/rider_lifetime_ratings_received-0.csv",
+    "archive_path": "originales/uber/Rider/rider_lifetime_ratings_received-0.csv",
+    "bytes": 19,
+    "sha256": "78f459c3dcf4dbbd8851d28e1ab4016f2875335bf39094c586a8e521b81253e8",
+    "encrypted_only": false
+  },
+  {
+    "origin_path": "/home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/Rider/rider_lifetime_trips-0.csv",
+    "archive_path": "originales/uber/Rider/rider_lifetime_trips-0.csv",
+    "bytes": 3062,
+    "sha256": "d190f60e8be8a48ee153e1fa6bbae59adaa901780ea61c72c38fea52c95b0a23",
+    "encrypted_only": false
+  },
+  {
+    "origin_path": "/home/deep-logic/Documentos/Uber Data Request 5A426B63/Uber Data/readme.html",
+    "archive_path": "originales/uber/readme.html",
+    "bytes": 2910,
+    "sha256": "a6b491bf7cd30e9623327723a7c3406d4b1a60294a667f1e29f97b408ac3ca9d",
+    "encrypted_only": false
+  },
+  {
+    "origin_path": "/home/deep-logic/Documentos/Todo el correo, con Spam y Papelera incluidos.mbox",
+    "archive_path": "originales/mail/Todo el correo, con Spam y Papelera incluidos.mbox",
+    "bytes": 104855969,
+    "sha256": "a2c0b40d481a02e6829c9aba9f61d7874c1da23bf3e3d8bca83e1474d58f674d",
+    "encrypted_only": false
   }
 ]
