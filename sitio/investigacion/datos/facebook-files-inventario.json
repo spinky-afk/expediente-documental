@@ -1,0 +1,3421 @@
+[
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/1079358437649748",
+    "name": "1079358437649748",
+    "format": "PNG",
+    "bytes": 2163,
+    "sha256": "cee9da4f90d8ccfba0ba4dd5280f4b18bcf9401c1af4c7f5e5b80ac8ced200d6",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/1079358437649748",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 79,
+        "html_line_1based": 13,
+        "html_column_0based": 42541
+      },
+      "time_local": "2026-01-22T18:46:58.000000-06:00",
+      "asset_id": "1079358437649748"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/1112271417578486",
+    "name": "1112271417578486",
+    "format": "PNG",
+    "bytes": 2405,
+    "sha256": "933974b95e98a59e2e9ca55b9fb9aba7c03338c34cb768bf7644097fa1cec531",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/1112271417578486",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 134,
+        "html_line_1based": 13,
+        "html_column_0based": 71946
+      },
+      "time_local": "2026-01-22T18:41:58.000000-06:00",
+      "asset_id": "1112271417578486"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/1128927159194059",
+    "name": "1128927159194059",
+    "format": "PNG",
+    "bytes": 1410,
+    "sha256": "cb7c04460f2c6dfa7e58c5d694b1a0a98c3f98034759226e38df7d55e3e18707",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/1128927159194059",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 25,
+        "html_line_1based": 13,
+        "html_column_0based": 13675
+      },
+      "time_local": "2026-01-22T18:52:09.000000-06:00",
+      "asset_id": "1128927159194059"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/1157675989888852",
+    "name": "1157675989888852",
+    "format": "PNG",
+    "bytes": 5954,
+    "sha256": "38118e8573003899a4df83849487b5925bab8bc23052611aac2b239d5b12d9bf",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/1157675989888852",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 52,
+        "html_line_1based": 13,
+        "html_column_0based": 28098
+      },
+      "time_local": "2026-01-22T18:49:16.000000-06:00",
+      "asset_id": "1157675989888852"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/1157737912868616",
+    "name": "1157737912868616",
+    "format": "PNG",
+    "bytes": 2002,
+    "sha256": "9b69c07df316c9bde69307bb0ef47caaff1c0163bb16a7ccc4594047a010b850",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/1157737912868616",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 133,
+        "html_line_1based": 13,
+        "html_column_0based": 71411
+      },
+      "time_local": "2026-01-22T18:41:58.000000-06:00",
+      "asset_id": "1157737912868616"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/1159520319388788",
+    "name": "1159520319388788",
+    "format": "PNG",
+    "bytes": 5969,
+    "sha256": "fb1738b46c64c0b5941d610624184a6e18acb9f4ca70a53e1b552efde9b44ec3",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/1159520319388788",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 51,
+        "html_line_1based": 13,
+        "html_column_0based": 27563
+      },
+      "time_local": "2026-01-22T18:49:16.000000-06:00",
+      "asset_id": "1159520319388788"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/1174203798216882",
+    "name": "1174203798216882",
+    "format": "PNG",
+    "bytes": 2211,
+    "sha256": "6540a01c2beb39907beabb50e6a00122a157742da80aa69a2a04de60140ee068",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/1174203798216882",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 72,
+        "html_line_1based": 13,
+        "html_column_0based": 38796
+      },
+      "time_local": "2026-01-22T18:47:23.000000-06:00",
+      "asset_id": "1174203798216882"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/1178164374076666",
+    "name": "1178164374076666",
+    "format": "PNG",
+    "bytes": 3708,
+    "sha256": "ec04a99df98a4f6f7d6a3b359a2b4aec9d2c752f62625cd1b0a2bff5f52050aa",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/1178164374076666",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 85,
+        "html_line_1based": 13,
+        "html_column_0based": 45747
+      },
+      "time_local": "2026-01-22T18:45:11.000000-06:00",
+      "asset_id": "1178164374076666"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/1185652157017386",
+    "name": "1185652157017386",
+    "format": "PNG",
+    "bytes": 3708,
+    "sha256": "ec04a99df98a4f6f7d6a3b359a2b4aec9d2c752f62625cd1b0a2bff5f52050aa",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/1185652157017386",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 172,
+        "html_line_1based": 13,
+        "html_column_0based": 92266
+      },
+      "time_local": "2026-01-22T18:41:47.000000-06:00",
+      "asset_id": "1185652157017386"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/1186002233696541",
+    "name": "1186002233696541",
+    "format": "PNG",
+    "bytes": 3385,
+    "sha256": "e9c550c61cb8252d98525eaea1e87e145c2d73d16ce8a8b5a3e285c7a611bf71",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/1186002233696541",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 116,
+        "html_line_1based": 13,
+        "html_column_0based": 62322
+      },
+      "time_local": "2026-01-22T18:42:02.000000-06:00",
+      "asset_id": "1186002233696541"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/1192646836373969",
+    "name": "1192646836373969",
+    "format": "PNG",
+    "bytes": 2973,
+    "sha256": "9b161091153193e938367d1dab1375021dab3e677734f4355b0f5c4b9ecc3d53",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/1192646836373969",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 89,
+        "html_line_1based": 13,
+        "html_column_0based": 47889
+      },
+      "time_local": "2026-01-22T18:45:09.000000-06:00",
+      "asset_id": "1192646836373969"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/1194368069449118",
+    "name": "1194368069449118",
+    "format": "PNG",
+    "bytes": 2712,
+    "sha256": "37b0a38f64ab5f0d81610156778db450dc4f227641a6f75b83a3eb16e8c29680",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/1194368069449118",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 143,
+        "html_line_1based": 13,
+        "html_column_0based": 76755
+      },
+      "time_local": "2026-01-22T18:41:54.000000-06:00",
+      "asset_id": "1194368069449118"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/1198803571908961",
+    "name": "1198803571908961",
+    "format": "PNG",
+    "bytes": 4196,
+    "sha256": "662dcea2b9afe94aa0ba36da153c73d60490c837863f4c0920e5b8a3c9b0b094",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/1198803571908961",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 171,
+        "html_line_1based": 13,
+        "html_column_0based": 91731
+      },
+      "time_local": "2026-01-22T18:41:47.000000-06:00",
+      "asset_id": "1198803571908961"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/1198882812351286",
+    "name": "1198882812351286",
+    "format": "PNG",
+    "bytes": 2002,
+    "sha256": "9b69c07df316c9bde69307bb0ef47caaff1c0163bb16a7ccc4594047a010b850",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/1198882812351286",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 17,
+        "html_line_1based": 13,
+        "html_column_0based": 9397
+      },
+      "time_local": "2026-01-22T18:52:47.000000-06:00",
+      "asset_id": "1198882812351286"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/1202708322071326",
+    "name": "1202708322071326",
+    "format": "PNG",
+    "bytes": 5525,
+    "sha256": "849e63bc8a61cc4157237a43a6e9bc468976d460af0d49a2a2b08ba74b5db095",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/1202708322071326",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 127,
+        "html_line_1based": 13,
+        "html_column_0based": 68201
+      },
+      "time_local": "2026-01-22T18:42:00.000000-06:00",
+      "asset_id": "1202708322071326"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/1208451014775124",
+    "name": "1208451014775124",
+    "format": "PNG",
+    "bytes": 3161,
+    "sha256": "5bd28b7f54646a32706e6074588ba4916c09ddb74044f93c526a135dadb0749b",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/1208451014775124",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 94,
+        "html_line_1based": 13,
+        "html_column_0based": 50562
+      },
+      "time_local": "2026-01-22T18:44:41.000000-06:00",
+      "asset_id": "1208451014775124"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/1208648657504033",
+    "name": "1208648657504033",
+    "format": "PNG",
+    "bytes": 6773,
+    "sha256": "3fd6f51d4fe4640aa631959eb8bf40f7adbaeea26dd95f2fec0497329f428c2a",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/1208648657504033",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 71,
+        "html_line_1based": 13,
+        "html_column_0based": 38261
+      },
+      "time_local": "2026-01-22T18:47:23.000000-06:00",
+      "asset_id": "1208648657504033"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/1209866937778331",
+    "name": "1209866937778331",
+    "format": "PNG",
+    "bytes": 6027,
+    "sha256": "31c399808e5c40c9ac999555d525a3f9fe016a210996431ca2b65c2781dd9a01",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/1209866937778331",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 58,
+        "html_line_1based": 13,
+        "html_column_0based": 31308
+      },
+      "time_local": "2026-01-22T18:49:13.000000-06:00",
+      "asset_id": "1209866937778331"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/1212522360984844",
+    "name": "1212522360984844",
+    "format": "PNG",
+    "bytes": 6471,
+    "sha256": "429c012175fe5f5bd9e9c78b95b1cbcab720e03223d1fdcd6d3739d52f431bfe",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/1212522360984844",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 104,
+        "html_line_1based": 13,
+        "html_column_0based": 55906
+      },
+      "time_local": "2026-01-22T18:44:14.000000-06:00",
+      "asset_id": "1212522360984844"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/1214264933494266",
+    "name": "1214264933494266",
+    "format": "PNG",
+    "bytes": 4688,
+    "sha256": "affa43cc6c8d46c8aff897132d166733954d63b3fb3b6de6ec82ca8c47266bec",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/1214264933494266",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 170,
+        "html_line_1based": 13,
+        "html_column_0based": 91196
+      },
+      "time_local": "2026-01-22T18:41:47.000000-06:00",
+      "asset_id": "1214264933494266"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/1215087620206613",
+    "name": "1215087620206613",
+    "format": "PNG",
+    "bytes": 6027,
+    "sha256": "31c399808e5c40c9ac999555d525a3f9fe016a210996431ca2b65c2781dd9a01",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/1215087620206613",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 151,
+        "html_line_1based": 13,
+        "html_column_0based": 81033
+      },
+      "time_local": "2026-01-22T18:41:52.000000-06:00",
+      "asset_id": "1215087620206613"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/1216402210684910",
+    "name": "1216402210684910",
+    "format": "PNG",
+    "bytes": 6208,
+    "sha256": "5b2be6ef3d000b7917d8b919d27a484ce183d0b1d5b67d67118720a262df4669",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/1216402210684910",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 161,
+        "html_line_1based": 13,
+        "html_column_0based": 86385
+      },
+      "time_local": "2026-01-22T18:41:50.000000-06:00",
+      "asset_id": "1216402210684910"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/1218741982973468",
+    "name": "1218741982973468",
+    "format": "PNG",
+    "bytes": 4688,
+    "sha256": "affa43cc6c8d46c8aff897132d166733954d63b3fb3b6de6ec82ca8c47266bec",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/1218741982973468",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 84,
+        "html_line_1based": 13,
+        "html_column_0based": 45212
+      },
+      "time_local": "2026-01-22T18:45:11.000000-06:00",
+      "asset_id": "1218741982973468"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/1222202869834729",
+    "name": "1222202869834729",
+    "format": "PNG",
+    "bytes": 2340,
+    "sha256": "a38a628167ef85b38b156032d4bea705efe06d09617b8c30cc4b57e7514008e3",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/1222202869834729",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 63,
+        "html_line_1based": 13,
+        "html_column_0based": 33983
+      },
+      "time_local": "2026-01-22T18:48:07.000000-06:00",
+      "asset_id": "1222202869834729"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/1234149925476765",
+    "name": "1234149925476765",
+    "format": "PNG",
+    "bytes": 6027,
+    "sha256": "31c399808e5c40c9ac999555d525a3f9fe016a210996431ca2b65c2781dd9a01",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/1234149925476765",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 23,
+        "html_line_1based": 13,
+        "html_column_0based": 12605
+      },
+      "time_local": "2026-01-22T18:52:12.000000-06:00",
+      "asset_id": "1234149925476765"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/1238525761067206",
+    "name": "1238525761067206",
+    "format": "PNG",
+    "bytes": 2354,
+    "sha256": "74de269e7234e860ea0fb4251d4b2a1d0891409e6a2eb702fb5fda9c6f0ef2b2",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/1238525761067206",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 62,
+        "html_line_1based": 13,
+        "html_column_0based": 33448
+      },
+      "time_local": "2026-01-22T18:48:07.000000-06:00",
+      "asset_id": "1238525761067206"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/1239824751577626",
+    "name": "1239824751577626",
+    "format": "PNG",
+    "bytes": 3861,
+    "sha256": "712324387088414c9935fb5a61b1abe41600537e97ef150449c47f6978ed4d25",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/1239824751577626",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 78,
+        "html_line_1based": 13,
+        "html_column_0based": 42006
+      },
+      "time_local": "2026-01-22T18:46:58.000000-06:00",
+      "asset_id": "1239824751577626"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/1241060824841022",
+    "name": "1241060824841022",
+    "format": "PNG",
+    "bytes": 4084,
+    "sha256": "236d168edcfe9eebbc55304ab9525bb0c56eee08c08a870c74fd36802a05299a",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/1241060824841022",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 115,
+        "html_line_1based": 13,
+        "html_column_0based": 61787
+      },
+      "time_local": "2026-01-22T18:42:02.000000-06:00",
+      "asset_id": "1241060824841022"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/1243270431058703",
+    "name": "1243270431058703",
+    "format": "PNG",
+    "bytes": 2354,
+    "sha256": "74de269e7234e860ea0fb4251d4b2a1d0891409e6a2eb702fb5fda9c6f0ef2b2",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/1243270431058703",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 57,
+        "html_line_1based": 13,
+        "html_column_0based": 30773
+      },
+      "time_local": "2026-01-22T18:49:13.000000-06:00",
+      "asset_id": "1243270431058703"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/1244180177629571",
+    "name": "1244180177629571",
+    "format": "PNG",
+    "bytes": 2064,
+    "sha256": "0fd0407985d7f7069b64d63f5c6887cffedac78e4b0e982f6cb429ede8f94ca0",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/1244180177629571",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 177,
+        "html_line_1based": 13,
+        "html_column_0based": 94935
+      },
+      "time_local": "2026-01-22T18:41:46.000000-06:00",
+      "asset_id": "1244180177629571"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/1246402840709358",
+    "name": "1246402840709358",
+    "format": "PNG",
+    "bytes": 5954,
+    "sha256": "38118e8573003899a4df83849487b5925bab8bc23052611aac2b239d5b12d9bf",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/1246402840709358",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 150,
+        "html_line_1based": 13,
+        "html_column_0based": 80498
+      },
+      "time_local": "2026-01-22T18:41:52.000000-06:00",
+      "asset_id": "1246402840709358"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/1248334563883762",
+    "name": "1248334563883762",
+    "format": "PNG",
+    "bytes": 5565,
+    "sha256": "2113c882264e18b74debccd363faaa6291810ef6986fe7301962a53d5cb08112",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/1248334563883762",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 34,
+        "html_line_1based": 13,
+        "html_column_0based": 18482
+      },
+      "time_local": "2026-01-22T18:51:30.000000-06:00",
+      "asset_id": "1248334563883762"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/1251743236806521",
+    "name": "1251743236806521",
+    "format": "PNG",
+    "bytes": 2454,
+    "sha256": "abf3c592b27e4d55b2c9075ac8ccf2e10574093e7e7431cde99019f251094f1f",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/1251743236806521",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 114,
+        "html_line_1based": 13,
+        "html_column_0based": 61252
+      },
+      "time_local": "2026-01-22T18:42:02.000000-06:00",
+      "asset_id": "1251743236806521"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/1274879134465951",
+    "name": "1274879134465951",
+    "format": "PNG",
+    "bytes": 7481,
+    "sha256": "7c11f9d87da6425e2e60771d2a72e7aa4886382b4c2d82415b21640a84ee03a6",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/1274879134465951",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 179,
+        "html_line_1based": 13,
+        "html_column_0based": 96003
+      },
+      "time_local": "2026-01-22T18:41:44.000000-06:00",
+      "asset_id": "1274879134465951"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/1317040873803105",
+    "name": "1317040873803105",
+    "format": "PNG",
+    "bytes": 5951,
+    "sha256": "933b1471e295624d6730b0c65c4288001e746f27abea08d715d016b7b5356251",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/1317040873803105",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 132,
+        "html_line_1based": 13,
+        "html_column_0based": 70876
+      },
+      "time_local": "2026-01-22T18:41:58.000000-06:00",
+      "asset_id": "1317040873803105"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/1339846637898875",
+    "name": "1339846637898875",
+    "format": "PNG",
+    "bytes": 2328,
+    "sha256": "e529a59ff747322ecb12d8a493da387ea7fc794137298275dd41912553abcab4",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/1339846637898875",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 70,
+        "html_line_1based": 13,
+        "html_column_0based": 37726
+      },
+      "time_local": "2026-01-22T18:47:23.000000-06:00",
+      "asset_id": "1339846637898875"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/1367669657982171",
+    "name": "1367669657982171",
+    "format": "PNG",
+    "bytes": 11551,
+    "sha256": "b47e0a53ac1d4d92c1b2d3f5fb862a24bdab3695bfea3202ef3feb86b7187b0e",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/1367669657982171",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 42,
+        "html_line_1based": 13,
+        "html_column_0based": 22756
+      },
+      "time_local": "2026-01-22T18:50:48.000000-06:00",
+      "asset_id": "1367669657982171"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/1368734645292613",
+    "name": "1368734645292613",
+    "format": "PNG",
+    "bytes": 3825,
+    "sha256": "a475eb37c02b2cb42a78b2251f6faad95cfc48cc3e0cb7766276a937f9a9751f",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/1368734645292613",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 131,
+        "html_line_1based": 13,
+        "html_column_0based": 70341
+      },
+      "time_local": "2026-01-22T18:41:58.000000-06:00",
+      "asset_id": "1368734645292613"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/1379784919982229",
+    "name": "1379784919982229",
+    "format": "PNG",
+    "bytes": 8689,
+    "sha256": "50ae8e065c34a41b0832f7c919ca0f972fea06b54c0e19a12a6e4259be4055de",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/1379784919982229",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 113,
+        "html_line_1based": 13,
+        "html_column_0based": 60717
+      },
+      "time_local": "2026-01-22T18:42:02.000000-06:00",
+      "asset_id": "1379784919982229"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/1382435112982925",
+    "name": "1382435112982925",
+    "format": "PNG",
+    "bytes": 3377,
+    "sha256": "1dcd0a8e4a673890d9db0cba3ec51743a7af823cf28caa49e6418d043fc269ea",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/1382435112982925",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 142,
+        "html_line_1based": 13,
+        "html_column_0based": 76220
+      },
+      "time_local": "2026-01-22T18:41:54.000000-06:00",
+      "asset_id": "1382435112982925"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/1386010926660150",
+    "name": "1386010926660150",
+    "format": "PNG",
+    "bytes": 11555,
+    "sha256": "840efd5c71808eaa52b72059e80002e51110b7370c1b9954ed9708f716ce23b5",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/1386010926660150",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 101,
+        "html_line_1based": 13,
+        "html_column_0based": 54305
+      },
+      "time_local": "2026-01-22T18:44:16.000000-06:00",
+      "asset_id": "1386010926660150"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/1393292975827741",
+    "name": "1393292975827741",
+    "format": "PNG",
+    "bytes": 2354,
+    "sha256": "74de269e7234e860ea0fb4251d4b2a1d0891409e6a2eb702fb5fda9c6f0ef2b2",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/1393292975827741",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 160,
+        "html_line_1based": 13,
+        "html_column_0based": 85850
+      },
+      "time_local": "2026-01-22T18:41:50.000000-06:00",
+      "asset_id": "1393292975827741"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/1394154892503740",
+    "name": "1394154892503740",
+    "format": "PNG",
+    "bytes": 8143,
+    "sha256": "04e34fc29d93b8ca7df9aa31629993401808d55c7b2ea2e26e90dcebb47761cd",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/1394154892503740",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 137,
+        "html_line_1based": 13,
+        "html_column_0based": 73547
+      },
+      "time_local": "2026-01-22T18:41:56.000000-06:00",
+      "asset_id": "1394154892503740"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/1398158785141723",
+    "name": "1398158785141723",
+    "format": "PNG",
+    "bytes": 10287,
+    "sha256": "62229517543cec491617db11db7953d3bac12cba49f54642244744e73f263d54",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/1398158785141723",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 33,
+        "html_line_1based": 13,
+        "html_column_0based": 17947
+      },
+      "time_local": "2026-01-22T18:51:30.000000-06:00",
+      "asset_id": "1398158785141723"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/1399161208613348",
+    "name": "1399161208613348",
+    "format": "PNG",
+    "bytes": 1410,
+    "sha256": "cb7c04460f2c6dfa7e58c5d694b1a0a98c3f98034759226e38df7d55e3e18707",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/1399161208613348",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 56,
+        "html_line_1based": 13,
+        "html_column_0based": 30238
+      },
+      "time_local": "2026-01-22T18:49:13.000000-06:00",
+      "asset_id": "1399161208613348"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/1404164994693292",
+    "name": "1404164994693292",
+    "format": "PNG",
+    "bytes": 4132,
+    "sha256": "79fb48cf940e873ff82180317ddd42143c8cf1a9138051ce6438006d85070216",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/1404164994693292",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 93,
+        "html_line_1based": 13,
+        "html_column_0based": 50027
+      },
+      "time_local": "2026-01-22T18:44:41.000000-06:00",
+      "asset_id": "1404164994693292"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/1407215390911476",
+    "name": "1407215390911476",
+    "format": "PNG",
+    "bytes": 4132,
+    "sha256": "79fb48cf940e873ff82180317ddd42143c8cf1a9138051ce6438006d85070216",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/1407215390911476",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 169,
+        "html_line_1based": 13,
+        "html_column_0based": 90661
+      },
+      "time_local": "2026-01-22T18:41:47.000000-06:00",
+      "asset_id": "1407215390911476"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/1407231548279097",
+    "name": "1407231548279097",
+    "format": "PNG",
+    "bytes": 2757,
+    "sha256": "a1e5097d86ae41da8b40c727505dec938ced74d11494bc394171d0f93f9d8e65",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/1407231548279097",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 112,
+        "html_line_1based": 13,
+        "html_column_0based": 60182
+      },
+      "time_local": "2026-01-22T18:42:02.000000-06:00",
+      "asset_id": "1407231548279097"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/1408255047437654",
+    "name": "1408255047437654",
+    "format": "PNG",
+    "bytes": 4788,
+    "sha256": "92d97f88fff4521792ecc4aa50a51fafedf7f5a1eae0819cebdeb00e9ea94766",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/1408255047437654",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 159,
+        "html_line_1based": 13,
+        "html_column_0based": 85315
+      },
+      "time_local": "2026-01-22T18:41:50.000000-06:00",
+      "asset_id": "1408255047437654"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/1411052407340596",
+    "name": "1411052407340596",
+    "format": "PNG",
+    "bytes": 3094,
+    "sha256": "c85f972c207479e3cd6ad4b6ef0bfb8c88d7e15ca7b1c8e93002efdb120ae347",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/1411052407340596",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 130,
+        "html_line_1based": 13,
+        "html_column_0based": 69806
+      },
+      "time_local": "2026-01-22T18:41:58.000000-06:00",
+      "asset_id": "1411052407340596"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/1411375273987362",
+    "name": "1411375273987362",
+    "format": "PNG",
+    "bytes": 1879,
+    "sha256": "b0bc420df0f0a776475abe82a2f328f1e86d390987b240bca38f1107ffbb4bd6",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/1411375273987362",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 16,
+        "html_line_1based": 13,
+        "html_column_0based": 8862
+      },
+      "time_local": "2026-01-22T18:52:47.000000-06:00",
+      "asset_id": "1411375273987362"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/1412827100394431",
+    "name": "1412827100394431",
+    "format": "PNG",
+    "bytes": 1526,
+    "sha256": "daaf5d6c14563c9ac0470baa1b57c6a26a99682b7abbd2ef1ff16d6988463682",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/1412827100394431",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 69,
+        "html_line_1based": 13,
+        "html_column_0based": 37191
+      },
+      "time_local": "2026-01-22T18:47:23.000000-06:00",
+      "asset_id": "1412827100394431"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/1413067437166766",
+    "name": "1413067437166766",
+    "format": "PNG",
+    "bytes": 6039,
+    "sha256": "b8f8815a78360271febf9945b5a778cf094db1b06500aaa52c7befc792bef854",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/1413067437166766",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 55,
+        "html_line_1based": 13,
+        "html_column_0based": 29703
+      },
+      "time_local": "2026-01-22T18:49:13.000000-06:00",
+      "asset_id": "1413067437166766"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/1414286020489600",
+    "name": "1414286020489600",
+    "format": "PNG",
+    "bytes": 4692,
+    "sha256": "7c5db1b009998de04cc787f66987e0d525269b62884755d9ea42d589ced59e2e",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/1414286020489600",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 126,
+        "html_line_1based": 13,
+        "html_column_0based": 67666
+      },
+      "time_local": "2026-01-22T18:42:00.000000-06:00",
+      "asset_id": "1414286020489600"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/1415646226717186",
+    "name": "1415646226717186",
+    "format": "PNG",
+    "bytes": 3490,
+    "sha256": "df2b453aae945a827a1bba332f80686325797cb8cece7613fbba333c89f91ac7",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/1415646226717186",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 141,
+        "html_line_1based": 13,
+        "html_column_0based": 75685
+      },
+      "time_local": "2026-01-22T18:41:54.000000-06:00",
+      "asset_id": "1415646226717186"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/1415802466788385",
+    "name": "1415802466788385",
+    "format": "PNG",
+    "bytes": 2311,
+    "sha256": "b0a113b3e4cf7aea0ce227d782d11c41195713cd967ef481ce1ac5a6874f4e15",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/1415802466788385",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 68,
+        "html_line_1based": 13,
+        "html_column_0based": 36656
+      },
+      "time_local": "2026-01-22T18:47:23.000000-06:00",
+      "asset_id": "1415802466788385"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/1416917272668262",
+    "name": "1416917272668262",
+    "format": "PNG",
+    "bytes": 2503,
+    "sha256": "a33b878a76eb007bc79368c3a6e6712edb872dc94a8d499029da301bc74c1ddc",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/1416917272668262",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 129,
+        "html_line_1based": 13,
+        "html_column_0based": 69271
+      },
+      "time_local": "2026-01-22T18:41:58.000000-06:00",
+      "asset_id": "1416917272668262"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/1417589243326447",
+    "name": "1417589243326447",
+    "format": "PNG",
+    "bytes": 2211,
+    "sha256": "6540a01c2beb39907beabb50e6a00122a157742da80aa69a2a04de60140ee068",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/1417589243326447",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 65,
+        "html_line_1based": 13,
+        "html_column_0based": 35051
+      },
+      "time_local": "2026-01-22T18:48:05.000000-06:00",
+      "asset_id": "1417589243326447"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/1420229116266986",
+    "name": "1420229116266986",
+    "format": "PNG",
+    "bytes": 4196,
+    "sha256": "662dcea2b9afe94aa0ba36da153c73d60490c837863f4c0920e5b8a3c9b0b094",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/1420229116266986",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 44,
+        "html_line_1based": 13,
+        "html_column_0based": 23824
+      },
+      "time_local": "2026-01-22T18:50:46.000000-06:00",
+      "asset_id": "1420229116266986"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/1421653792648709",
+    "name": "1421653792648709",
+    "format": "PNG",
+    "bytes": 4196,
+    "sha256": "662dcea2b9afe94aa0ba36da153c73d60490c837863f4c0920e5b8a3c9b0b094",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/1421653792648709",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 92,
+        "html_line_1based": 13,
+        "html_column_0based": 49492
+      },
+      "time_local": "2026-01-22T18:44:41.000000-06:00",
+      "asset_id": "1421653792648709"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/1431611905001746",
+    "name": "1431611905001746",
+    "format": "PNG",
+    "bytes": 2712,
+    "sha256": "37b0a38f64ab5f0d81610156778db450dc4f227641a6f75b83a3eb16e8c29680",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/1431611905001746",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 32,
+        "html_line_1based": 13,
+        "html_column_0based": 17412
+      },
+      "time_local": "2026-01-22T18:51:30.000000-06:00",
+      "asset_id": "1431611905001746"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/1433808644768137",
+    "name": "1433808644768137",
+    "format": "PNG",
+    "bytes": 2789,
+    "sha256": "240b853a01128ec66ba91c1403d117be0e4221e9d565db18796b6536e4756416",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/1433808644768137",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 168,
+        "html_line_1based": 13,
+        "html_column_0based": 90126
+      },
+      "time_local": "2026-01-22T18:41:47.000000-06:00",
+      "asset_id": "1433808644768137"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/1448372216703850",
+    "name": "1448372216703850",
+    "format": "PNG",
+    "bytes": 5565,
+    "sha256": "2113c882264e18b74debccd363faaa6291810ef6986fe7301962a53d5cb08112",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/1448372216703850",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 41,
+        "html_line_1based": 13,
+        "html_column_0based": 22221
+      },
+      "time_local": "2026-01-22T18:50:48.000000-06:00",
+      "asset_id": "1448372216703850"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/1450412173759418",
+    "name": "1450412173759418",
+    "format": "PNG",
+    "bytes": 10334,
+    "sha256": "fe809a7b1d26ce348cc5f3639780b18b24ebee0f3ef7e150abfbd6c24806d8fc",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/1450412173759418",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 54,
+        "html_line_1based": 13,
+        "html_column_0based": 29168
+      },
+      "time_local": "2026-01-22T18:49:14.000000-06:00",
+      "asset_id": "1450412173759418"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/1487120876116670",
+    "name": "1487120876116670",
+    "format": "PNG",
+    "bytes": 4195,
+    "sha256": "c5990a813e80f432b1b987ff352148fbc04a4c3e182b580d90fde3b68429c304",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/1487120876116670",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 149,
+        "html_line_1based": 13,
+        "html_column_0based": 79963
+      },
+      "time_local": "2026-01-22T18:41:52.000000-06:00",
+      "asset_id": "1487120876116670"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/1540445583912440",
+    "name": "1540445583912440",
+    "format": "PNG",
+    "bytes": 2340,
+    "sha256": "a38a628167ef85b38b156032d4bea705efe06d09617b8c30cc4b57e7514008e3",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/1540445583912440",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 158,
+        "html_line_1based": 13,
+        "html_column_0based": 84780
+      },
+      "time_local": "2026-01-22T18:41:50.000000-06:00",
+      "asset_id": "1540445583912440"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/1540823043882543",
+    "name": "1540823043882543",
+    "format": "PNG",
+    "bytes": 2942,
+    "sha256": "9e27b71fdd507400e0e493f7b619d2199e233722e1d0b635b10714adc923db16",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/1540823043882543",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 39,
+        "html_line_1based": 13,
+        "html_column_0based": 21153
+      },
+      "time_local": "2026-01-22T18:50:49.000000-06:00",
+      "asset_id": "1540823043882543"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/1541803987045936",
+    "name": "1541803987045936",
+    "format": "PNG",
+    "bytes": 3612,
+    "sha256": "32599b0e875a2b1a2b6c682980b5110be4604c4ab14b10b8bdc11be5b0685b5e",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/1541803987045936",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 157,
+        "html_line_1based": 13,
+        "html_column_0based": 84245
+      },
+      "time_local": "2026-01-22T18:41:50.000000-06:00",
+      "asset_id": "1541803987045936"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/1544099026870216",
+    "name": "1544099026870216",
+    "format": "PNG",
+    "bytes": 4132,
+    "sha256": "79fb48cf940e873ff82180317ddd42143c8cf1a9138051ce6438006d85070216",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/1544099026870216",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 91,
+        "html_line_1based": 13,
+        "html_column_0based": 48957
+      },
+      "time_local": "2026-01-22T18:45:07.000000-06:00",
+      "asset_id": "1544099026870216"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/1549342919677886",
+    "name": "1549342919677886",
+    "format": "PNG",
+    "bytes": 3825,
+    "sha256": "a475eb37c02b2cb42a78b2251f6faad95cfc48cc3e0cb7766276a937f9a9751f",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/1549342919677886",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 6,
+        "html_line_1based": 13,
+        "html_column_0based": 3524
+      },
+      "time_local": "2026-01-22T18:53:54.000000-06:00",
+      "asset_id": "1549342919677886"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/1561958158388373",
+    "name": "1561958158388373",
+    "format": "PNG",
+    "bytes": 4688,
+    "sha256": "affa43cc6c8d46c8aff897132d166733954d63b3fb3b6de6ec82ca8c47266bec",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/1561958158388373",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 77,
+        "html_line_1based": 13,
+        "html_column_0based": 41471
+      },
+      "time_local": "2026-01-22T18:46:58.000000-06:00",
+      "asset_id": "1561958158388373"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/1562144281703675",
+    "name": "1562144281703675",
+    "format": "PNG",
+    "bytes": 3243,
+    "sha256": "d3f3b475b7cbebf28853c4dce7e48da606bd01e0524031a6ed62ffbdeca0939f",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/1562144281703675",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 76,
+        "html_line_1based": 13,
+        "html_column_0based": 40936
+      },
+      "time_local": "2026-01-22T18:46:58.000000-06:00",
+      "asset_id": "1562144281703675"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/1564554291576072",
+    "name": "1564554291576072",
+    "format": "PNG",
+    "bytes": 7481,
+    "sha256": "7c11f9d87da6425e2e60771d2a72e7aa4886382b4c2d82415b21640a84ee03a6",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/1564554291576072",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 109,
+        "html_line_1based": 13,
+        "html_column_0based": 58577
+      },
+      "time_local": "2026-01-22T18:42:53.000000-06:00",
+      "asset_id": "1564554291576072"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/1565853204724831",
+    "name": "1565853204724831",
+    "format": "PNG",
+    "bytes": 3490,
+    "sha256": "df2b453aae945a827a1bba332f80686325797cb8cece7613fbba333c89f91ac7",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/1565853204724831",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 38,
+        "html_line_1based": 13,
+        "html_column_0based": 20618
+      },
+      "time_local": "2026-01-22T18:50:49.000000-06:00",
+      "asset_id": "1565853204724831"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/1566064694720662",
+    "name": "1566064694720662",
+    "format": "PNG",
+    "bytes": 5831,
+    "sha256": "dbbdb3138c951b9a5faafecb171d5cb0860fccff577e1391e411621dda949ae3",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/1566064694720662",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 125,
+        "html_line_1based": 13,
+        "html_column_0based": 67131
+      },
+      "time_local": "2026-01-22T18:42:00.000000-06:00",
+      "asset_id": "1566064694720662"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/1576385093563965",
+    "name": "1576385093563965",
+    "format": "PNG",
+    "bytes": 3019,
+    "sha256": "edfd44ae2365ac4eebbb84fe07aaae9b913bc7ab0082520ae8732cea84d1f1af",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/1576385093563965",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 167,
+        "html_line_1based": 13,
+        "html_column_0based": 89591
+      },
+      "time_local": "2026-01-22T18:41:47.000000-06:00",
+      "asset_id": "1576385093563965"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/1585159712727524",
+    "name": "1585159712727524",
+    "format": "PNG",
+    "bytes": 2709,
+    "sha256": "5664ff182b5a1fb8639627bec7cc945cf69201f488aa74f565d5f8332c27312f",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/1585159712727524",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 67,
+        "html_line_1based": 13,
+        "html_column_0based": 36121
+      },
+      "time_local": "2026-01-22T18:47:23.000000-06:00",
+      "asset_id": "1585159712727524"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/1586915565793261",
+    "name": "1586915565793261",
+    "format": "PNG",
+    "bytes": 3161,
+    "sha256": "5bd28b7f54646a32706e6074588ba4916c09ddb74044f93c526a135dadb0749b",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/1586915565793261",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 31,
+        "html_line_1based": 13,
+        "html_column_0based": 16877
+      },
+      "time_local": "2026-01-22T18:51:30.000000-06:00",
+      "asset_id": "1586915565793261"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/1588336235738910",
+    "name": "1588336235738910",
+    "format": "PNG",
+    "bytes": 2728,
+    "sha256": "3161c19440a4869d83b7d9a8e5d126a807ad5077ff77c28523d8e639113b94cc",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/1588336235738910",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 106,
+        "html_line_1based": 13,
+        "html_column_0based": 56976
+      },
+      "time_local": "2026-01-22T18:43:25.000000-06:00",
+      "asset_id": "1588336235738910"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/1590566782146271",
+    "name": "1590566782146271",
+    "format": "PNG",
+    "bytes": 6452,
+    "sha256": "6488c676245e987eb3e2d47e4e420b314793497900edfdff0a8ec8d347e57d99",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/1590566782146271",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 111,
+        "html_line_1based": 13,
+        "html_column_0based": 59647
+      },
+      "time_local": "2026-01-22T18:42:02.000000-06:00",
+      "asset_id": "1590566782146271"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/1595284381899049",
+    "name": "1595284381899049",
+    "format": "PNG",
+    "bytes": 2064,
+    "sha256": "0fd0407985d7f7069b64d63f5c6887cffedac78e4b0e982f6cb429ede8f94ca0",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/1595284381899049",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 100,
+        "html_line_1based": 13,
+        "html_column_0based": 53770
+      },
+      "time_local": "2026-01-22T18:44:16.000000-06:00",
+      "asset_id": "1595284381899049"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/1599048548212623",
+    "name": "1599048548212623",
+    "format": "PNG",
+    "bytes": 2064,
+    "sha256": "0fd0407985d7f7069b64d63f5c6887cffedac78e4b0e982f6cb429ede8f94ca0",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/1599048548212623",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 96,
+        "html_line_1based": 13,
+        "html_column_0based": 51630
+      },
+      "time_local": "2026-01-22T18:44:39.000000-06:00",
+      "asset_id": "1599048548212623"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/1602443187443963",
+    "name": "1602443187443963",
+    "format": "PNG",
+    "bytes": 5565,
+    "sha256": "2113c882264e18b74debccd363faaa6291810ef6986fe7301962a53d5cb08112",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/1602443187443963",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 140,
+        "html_line_1based": 13,
+        "html_column_0based": 75150
+      },
+      "time_local": "2026-01-22T18:41:54.000000-06:00",
+      "asset_id": "1602443187443963"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/1610016810132679",
+    "name": "1610016810132679",
+    "format": "PNG",
+    "bytes": 5969,
+    "sha256": "fb1738b46c64c0b5941d610624184a6e18acb9f4ca70a53e1b552efde9b44ec3",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/1610016810132679",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 22,
+        "html_line_1based": 13,
+        "html_column_0based": 12070
+      },
+      "time_local": "2026-01-22T18:52:12.000000-06:00",
+      "asset_id": "1610016810132679"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/1625030858658467",
+    "name": "1625030858658467",
+    "format": "PNG",
+    "bytes": 5954,
+    "sha256": "38118e8573003899a4df83849487b5925bab8bc23052611aac2b239d5b12d9bf",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/1625030858658467",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 21,
+        "html_line_1based": 13,
+        "html_column_0based": 11535
+      },
+      "time_local": "2026-01-22T18:52:12.000000-06:00",
+      "asset_id": "1625030858658467"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/1626424805029987",
+    "name": "1626424805029987",
+    "format": "PNG",
+    "bytes": 7158,
+    "sha256": "ede1de1f68275ca2be6b1f5dacac73723e1f483054f36d5ed1f47b1ff8275ff2",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/1626424805029987",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 166,
+        "html_line_1based": 13,
+        "html_column_0based": 89056
+      },
+      "time_local": "2026-01-22T18:41:47.000000-06:00",
+      "asset_id": "1626424805029987"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/1656567642356614",
+    "name": "1656567642356614",
+    "format": "PNG",
+    "bytes": 3861,
+    "sha256": "712324387088414c9935fb5a61b1abe41600537e97ef150449c47f6978ed4d25",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/1656567642356614",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 88,
+        "html_line_1based": 13,
+        "html_column_0based": 47354
+      },
+      "time_local": "2026-01-22T18:45:09.000000-06:00",
+      "asset_id": "1656567642356614"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/1661411941904084",
+    "name": "1661411941904084",
+    "format": "PNG",
+    "bytes": 4779,
+    "sha256": "771ceff9f9a803ba705ed7070754f90fe82db79471209795c46a00d54cafde20",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/1661411941904084",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 47,
+        "html_line_1based": 13,
+        "html_column_0based": 25429
+      },
+      "time_local": "2026-01-22T18:50:00.000000-06:00",
+      "asset_id": "1661411941904084"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/1661836604784460",
+    "name": "1661836604784460",
+    "format": "PNG",
+    "bytes": 6039,
+    "sha256": "b8f8815a78360271febf9945b5a778cf094db1b06500aaa52c7befc792bef854",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/1661836604784460",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 20,
+        "html_line_1based": 13,
+        "html_column_0based": 11000
+      },
+      "time_local": "2026-01-22T18:52:12.000000-06:00",
+      "asset_id": "1661836604784460"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/1729167981377275",
+    "name": "1729167981377275",
+    "format": "PNG",
+    "bytes": 4779,
+    "sha256": "771ceff9f9a803ba705ed7070754f90fe82db79471209795c46a00d54cafde20",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/1729167981377275",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 148,
+        "html_line_1based": 13,
+        "html_column_0based": 79428
+      },
+      "time_local": "2026-01-22T18:41:52.000000-06:00",
+      "asset_id": "1729167981377275"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/1783551372311098",
+    "name": "1783551372311098",
+    "format": "PNG",
+    "bytes": 6611,
+    "sha256": "caae53f60ebe677a0e7b5360705a18b4589d0d93945496491356d415de10f92b",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/1783551372311098",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 128,
+        "html_line_1based": 13,
+        "html_column_0based": 68736
+      },
+      "time_local": "2026-01-22T18:41:58.000000-06:00",
+      "asset_id": "1783551372311098"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/1788573085168322",
+    "name": "1788573085168322",
+    "format": "PNG",
+    "bytes": 2340,
+    "sha256": "a38a628167ef85b38b156032d4bea705efe06d09617b8c30cc4b57e7514008e3",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/1788573085168322",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 59,
+        "html_line_1based": 13,
+        "html_column_0based": 31843
+      },
+      "time_local": "2026-01-22T18:49:12.000000-06:00",
+      "asset_id": "1788573085168322"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/1805020310207982",
+    "name": "1805020310207982",
+    "format": "PNG",
+    "bytes": 2789,
+    "sha256": "240b853a01128ec66ba91c1403d117be0e4221e9d565db18796b6536e4756416",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/1805020310207982",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 99,
+        "html_line_1based": 13,
+        "html_column_0based": 53235
+      },
+      "time_local": "2026-01-22T18:44:16.000000-06:00",
+      "asset_id": "1805020310207982"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/1809083186312948",
+    "name": "1809083186312948",
+    "format": "PNG",
+    "bytes": 10334,
+    "sha256": "fe809a7b1d26ce348cc5f3639780b18b24ebee0f3ef7e150abfbd6c24806d8fc",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/1809083186312948",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 61,
+        "html_line_1based": 13,
+        "html_column_0based": 32913
+      },
+      "time_local": "2026-01-22T18:48:07.000000-06:00",
+      "asset_id": "1809083186312948"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/1819278752101981",
+    "name": "1819278752101981",
+    "format": "PNG",
+    "bytes": 5931,
+    "sha256": "fc48f04bbb394c667a1c9e12a774b7637e2b9d05002c639846ae97a519197bfc",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/1819278752101981",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 105,
+        "html_line_1based": 13,
+        "html_column_0based": 56441
+      },
+      "time_local": "2026-01-22T18:43:25.000000-06:00",
+      "asset_id": "1819278752101981"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/1825697391474934",
+    "name": "1825697391474934",
+    "format": "PNG",
+    "bytes": 1524,
+    "sha256": "6d527e1f5bbf0cfe95fa69fd063e0cdf08bc5bfaa89963be6ba94efeddf75a10",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/1825697391474934",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 37,
+        "html_line_1based": 13,
+        "html_column_0based": 20083
+      },
+      "time_local": "2026-01-22T18:50:49.000000-06:00",
+      "asset_id": "1825697391474934"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/1832627617438784",
+    "name": "1832627617438784",
+    "format": "PNG",
+    "bytes": 5931,
+    "sha256": "fc48f04bbb394c667a1c9e12a774b7637e2b9d05002c639846ae97a519197bfc",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/1832627617438784",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 176,
+        "html_line_1based": 13,
+        "html_column_0based": 94400
+      },
+      "time_local": "2026-01-22T18:41:46.000000-06:00",
+      "asset_id": "1832627617438784"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/1838832753197681",
+    "name": "1838832753197681",
+    "format": "PNG",
+    "bytes": 2927,
+    "sha256": "53b31973ec9a3d07f83bae353862bc3d64d5751eb7867d3280bba6e8cd220554",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/1838832753197681",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 110,
+        "html_line_1based": 13,
+        "html_column_0based": 59112
+      },
+      "time_local": "2026-01-22T18:42:02.000000-06:00",
+      "asset_id": "1838832753197681"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/1935095807218376",
+    "name": "1935095807218376",
+    "format": "PNG",
+    "bytes": 2311,
+    "sha256": "b0a113b3e4cf7aea0ce227d782d11c41195713cd967ef481ce1ac5a6874f4e15",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/1935095807218376",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 156,
+        "html_line_1based": 13,
+        "html_column_0based": 83710
+      },
+      "time_local": "2026-01-22T18:41:50.000000-06:00",
+      "asset_id": "1935095807218376"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/1951262289127163",
+    "name": "1951262289127163",
+    "format": "PNG",
+    "bytes": 4543,
+    "sha256": "736390314cef44cb1e49dbc55c510b17c1cbb86d00fc2bf379538839e3e9a8e2",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/1951262289127163",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 75,
+        "html_line_1based": 13,
+        "html_column_0based": 40401
+      },
+      "time_local": "2026-01-22T18:46:58.000000-06:00",
+      "asset_id": "1951262289127163"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/1984180712506110",
+    "name": "1984180712506110",
+    "format": "PNG",
+    "bytes": 5536,
+    "sha256": "d9da4561a9b566632ca560f1c05dd311cfb44e7b737b875e64cfd9c6a199efa8",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/1984180712506110",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 124,
+        "html_line_1based": 13,
+        "html_column_0based": 66596
+      },
+      "time_local": "2026-01-22T18:42:00.000000-06:00",
+      "asset_id": "1984180712506110"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/2000843287447007",
+    "name": "2000843287447007",
+    "format": "PNG",
+    "bytes": 3825,
+    "sha256": "a475eb37c02b2cb42a78b2251f6faad95cfc48cc3e0cb7766276a937f9a9751f",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/2000843287447007",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 9,
+        "html_line_1based": 13,
+        "html_column_0based": 5127
+      },
+      "time_local": "2026-01-22T18:53:23.000000-06:00",
+      "asset_id": "2000843287447007"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/2057683125072446",
+    "name": "2057683125072446",
+    "format": "PNG",
+    "bytes": 9331,
+    "sha256": "b02b44c3c37d4d18fc88f80b31aa66e0eb0b571dd325722a9d952d08bdd8d30a",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/2057683125072446",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 123,
+        "html_line_1based": 13,
+        "html_column_0based": 66061
+      },
+      "time_local": "2026-01-22T18:42:00.000000-06:00",
+      "asset_id": "2057683125072446"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/2137197337050924",
+    "name": "2137197337050924",
+    "format": "PNG",
+    "bytes": 3377,
+    "sha256": "1dcd0a8e4a673890d9db0cba3ec51743a7af823cf28caa49e6418d043fc269ea",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/2137197337050924",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 30,
+        "html_line_1based": 13,
+        "html_column_0based": 16342
+      },
+      "time_local": "2026-01-22T18:51:30.000000-06:00",
+      "asset_id": "2137197337050924"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/2190595411344118",
+    "name": "2190595411344118",
+    "format": "PNG",
+    "bytes": 6039,
+    "sha256": "b8f8815a78360271febf9945b5a778cf094db1b06500aaa52c7befc792bef854",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/2190595411344118",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 147,
+        "html_line_1based": 13,
+        "html_column_0based": 78893
+      },
+      "time_local": "2026-01-22T18:41:52.000000-06:00",
+      "asset_id": "2190595411344118"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/2204634966731582",
+    "name": "2204634966731582",
+    "format": "PNG",
+    "bytes": 3612,
+    "sha256": "32599b0e875a2b1a2b6c682980b5110be4604c4ab14b10b8bdc11be5b0685b5e",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/2204634966731582",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 83,
+        "html_line_1based": 13,
+        "html_column_0based": 44677
+      },
+      "time_local": "2026-01-22T18:45:11.000000-06:00",
+      "asset_id": "2204634966731582"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/2207127873154341",
+    "name": "2207127873154341",
+    "format": "PNG",
+    "bytes": 1524,
+    "sha256": "6d527e1f5bbf0cfe95fa69fd063e0cdf08bc5bfaa89963be6ba94efeddf75a10",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/2207127873154341",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 139,
+        "html_line_1based": 13,
+        "html_column_0based": 74615
+      },
+      "time_local": "2026-01-22T18:41:54.000000-06:00",
+      "asset_id": "2207127873154341"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/2232822257208638",
+    "name": "2232822257208638",
+    "format": "PNG",
+    "bytes": 3345,
+    "sha256": "5d64209f16fc2c505525ce5aeaaf170cf146ad7ef76c07d026590a8a278a25a0",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/2232822257208638",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 122,
+        "html_line_1based": 13,
+        "html_column_0based": 65526
+      },
+      "time_local": "2026-01-22T18:42:00.000000-06:00",
+      "asset_id": "2232822257208638"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/2240317063128880",
+    "name": "2240317063128880",
+    "format": "PNG",
+    "bytes": 8143,
+    "sha256": "04e34fc29d93b8ca7df9aa31629993401808d55c7b2ea2e26e90dcebb47761cd",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/2240317063128880",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 19,
+        "html_line_1based": 13,
+        "html_column_0based": 10465
+      },
+      "time_local": "2026-01-22T18:52:46.000000-06:00",
+      "asset_id": "2240317063128880"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/2332152627290104",
+    "name": "2332152627290104",
+    "format": "PNG",
+    "bytes": 3137,
+    "sha256": "7b16702bf23bb0a13611794938b0dfdb25ea74e7e526d720512790a8ca532443",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/2332152627290104",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 8,
+        "html_line_1based": 13,
+        "html_column_0based": 4592
+      },
+      "time_local": "2026-01-22T18:53:23.000000-06:00",
+      "asset_id": "2332152627290104"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/2337834616731153",
+    "name": "2337834616731153",
+    "format": "PNG",
+    "bytes": 1279,
+    "sha256": "e8e3e72504294eb265141e68790ad07ccfb91d046fd40961b4a5980c9da2f1d0",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/2337834616731153",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 60,
+        "html_line_1based": 13,
+        "html_column_0based": 32378
+      },
+      "time_local": "2026-01-22T18:48:07.000000-06:00",
+      "asset_id": "2337834616731153"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/2393448161112971",
+    "name": "2393448161112971",
+    "format": "PNG",
+    "bytes": 2263,
+    "sha256": "2cf4d7c9218c3a253e6e65621fc2f8bd5426690b5d855942f1a837dcc94623f3",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/2393448161112971",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 98,
+        "html_line_1based": 13,
+        "html_column_0based": 52700
+      },
+      "time_local": "2026-01-22T18:44:16.000000-06:00",
+      "asset_id": "2393448161112971"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/2419063078549646",
+    "name": "2419063078549646",
+    "format": "PNG",
+    "bytes": 7158,
+    "sha256": "ede1de1f68275ca2be6b1f5dacac73723e1f483054f36d5ed1f47b1ff8275ff2",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/2419063078549646",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 87,
+        "html_line_1based": 13,
+        "html_column_0based": 46819
+      },
+      "time_local": "2026-01-22T18:45:09.000000-06:00",
+      "asset_id": "2419063078549646"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/25101226489557250",
+    "name": "25101226489557250",
+    "format": "PNG",
+    "bytes": 5969,
+    "sha256": "fb1738b46c64c0b5941d610624184a6e18acb9f4ca70a53e1b552efde9b44ec3",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/25101226489557250",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 146,
+        "html_line_1based": 13,
+        "html_column_0based": 78356
+      },
+      "time_local": "2026-01-22T18:41:52.000000-06:00",
+      "asset_id": "25101226489557250"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/2523911441342964",
+    "name": "2523911441342964",
+    "format": "PNG",
+    "bytes": 4195,
+    "sha256": "c5990a813e80f432b1b987ff352148fbc04a4c3e182b580d90fde3b68429c304",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/2523911441342964",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 46,
+        "html_line_1based": 13,
+        "html_column_0based": 24894
+      },
+      "time_local": "2026-01-22T18:50:01.000000-06:00",
+      "asset_id": "2523911441342964"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/25468660066151192",
+    "name": "25468660066151192",
+    "format": "PNG",
+    "bytes": 4196,
+    "sha256": "662dcea2b9afe94aa0ba36da153c73d60490c837863f4c0920e5b8a3c9b0b094",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/25468660066151192",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 86,
+        "html_line_1based": 13,
+        "html_column_0based": 46282
+      },
+      "time_local": "2026-01-22T18:45:09.000000-06:00",
+      "asset_id": "25468660066151192"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/25790187820668338",
+    "name": "25790187820668338",
+    "format": "PNG",
+    "bytes": 2328,
+    "sha256": "e529a59ff747322ecb12d8a493da387ea7fc794137298275dd41912553abcab4",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/25790187820668338",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 154,
+        "html_line_1based": 13,
+        "html_column_0based": 82638
+      },
+      "time_local": "2026-01-22T18:41:50.000000-06:00",
+      "asset_id": "25790187820668338"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/25917563744571178",
+    "name": "25917563744571178",
+    "format": "PNG",
+    "bytes": 6611,
+    "sha256": "caae53f60ebe677a0e7b5360705a18b4589d0d93945496491356d415de10f92b",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/25917563744571178",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 3,
+        "html_line_1based": 13,
+        "html_column_0based": 1921
+      },
+      "time_local": "2026-01-22T18:53:55.000000-06:00",
+      "asset_id": "25917563744571178"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/26141041972181193",
+    "name": "26141041972181193",
+    "format": "PNG",
+    "bytes": 2263,
+    "sha256": "2cf4d7c9218c3a253e6e65621fc2f8bd5426690b5d855942f1a837dcc94623f3",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/26141041972181193",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 165,
+        "html_line_1based": 13,
+        "html_column_0based": 88519
+      },
+      "time_local": "2026-01-22T18:41:47.000000-06:00",
+      "asset_id": "26141041972181193"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/2640889919623712",
+    "name": "2640889919623712",
+    "format": "PNG",
+    "bytes": 2405,
+    "sha256": "933974b95e98a59e2e9ca55b9fb9aba7c03338c34cb768bf7644097fa1cec531",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/2640889919623712",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 15,
+        "html_line_1based": 13,
+        "html_column_0based": 8327
+      },
+      "time_local": "2026-01-22T18:52:47.000000-06:00",
+      "asset_id": "2640889919623712"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/2697331350614827",
+    "name": "2697331350614827",
+    "format": "PNG",
+    "bytes": 6208,
+    "sha256": "5b2be6ef3d000b7917d8b919d27a484ce183d0b1d5b67d67118720a262df4669",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/2697331350614827",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 66,
+        "html_line_1based": 13,
+        "html_column_0based": 35586
+      },
+      "time_local": "2026-01-22T18:47:23.000000-06:00",
+      "asset_id": "2697331350614827"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/2706440746371521",
+    "name": "2706440746371521",
+    "format": "PNG",
+    "bytes": 4084,
+    "sha256": "236d168edcfe9eebbc55304ab9525bb0c56eee08c08a870c74fd36802a05299a",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/2706440746371521",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 24,
+        "html_line_1based": 13,
+        "html_column_0based": 13140
+      },
+      "time_local": "2026-01-22T18:52:09.000000-06:00",
+      "asset_id": "2706440746371521"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/2753893391447525",
+    "name": "2753893391447525",
+    "format": "PNG",
+    "bytes": 5760,
+    "sha256": "aee2ab3a4b6dd4e7090a86e690fa6d9577d23dfb710f73497497b3e6d5c38437",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/2753893391447525",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 73,
+        "html_line_1based": 13,
+        "html_column_0based": 39331
+      },
+      "time_local": "2026-01-22T18:47:21.000000-06:00",
+      "asset_id": "2753893391447525"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/2770637606613202",
+    "name": "2770637606613202",
+    "format": "PNG",
+    "bytes": 4788,
+    "sha256": "92d97f88fff4521792ecc4aa50a51fafedf7f5a1eae0819cebdeb00e9ea94766",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/2770637606613202",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 82,
+        "html_line_1based": 13,
+        "html_column_0based": 44142
+      },
+      "time_local": "2026-01-22T18:45:11.000000-06:00",
+      "asset_id": "2770637606613202"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/33626569973655541",
+    "name": "33626569973655541",
+    "format": "PNG",
+    "bytes": 2211,
+    "sha256": "6540a01c2beb39907beabb50e6a00122a157742da80aa69a2a04de60140ee068",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/33626569973655541",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 153,
+        "html_line_1based": 13,
+        "html_column_0based": 82101
+      },
+      "time_local": "2026-01-22T18:41:50.000000-06:00",
+      "asset_id": "33626569973655541"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/3369146739904155",
+    "name": "3369146739904155",
+    "format": "PNG",
+    "bytes": 1410,
+    "sha256": "cb7c04460f2c6dfa7e58c5d694b1a0a98c3f98034759226e38df7d55e3e18707",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/3369146739904155",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 45,
+        "html_line_1based": 13,
+        "html_column_0based": 24359
+      },
+      "time_local": "2026-01-22T18:50:00.000000-06:00",
+      "asset_id": "3369146739904155"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/3863014463996119",
+    "name": "3863014463996119",
+    "format": "PNG",
+    "bytes": 5820,
+    "sha256": "ebe93ff9951bb30347106f27790b3fa11592e8e58770f54727db73089d1d2704",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/3863014463996119",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 121,
+        "html_line_1based": 13,
+        "html_column_0based": 64991
+      },
+      "time_local": "2026-01-22T18:42:00.000000-06:00",
+      "asset_id": "3863014463996119"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/4150692688517708",
+    "name": "4150692688517708",
+    "format": "PNG",
+    "bytes": 1279,
+    "sha256": "e8e3e72504294eb265141e68790ad07ccfb91d046fd40961b4a5980c9da2f1d0",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/4150692688517708",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 155,
+        "html_line_1based": 13,
+        "html_column_0based": 83175
+      },
+      "time_local": "2026-01-22T18:41:50.000000-06:00",
+      "asset_id": "4150692688517708"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/4225599851039510",
+    "name": "4225599851039510",
+    "format": "PNG",
+    "bytes": 6789,
+    "sha256": "5a13bc2d13bddc20fa6fc7542f9f38b0b7e62162ceced0929958b212512b914f",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/4225599851039510",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 74,
+        "html_line_1based": 13,
+        "html_column_0based": 39866
+      },
+      "time_local": "2026-01-22T18:46:58.000000-06:00",
+      "asset_id": "4225599851039510"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/4273247996276884",
+    "name": "4273247996276884",
+    "format": "PNG",
+    "bytes": 18428,
+    "sha256": "7a682a39892093e94d5b23c79689f222d5f1b47df461a4ad5183d0e79258e3ac",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/4273247996276884",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 1,
+        "html_line_1based": 13,
+        "html_column_0based": 853
+      },
+      "time_local": "2026-01-22T18:55:02.000000-06:00",
+      "asset_id": "4273247996276884"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/4280519258902201",
+    "name": "4280519258902201",
+    "format": "PNG",
+    "bytes": 4779,
+    "sha256": "771ceff9f9a803ba705ed7070754f90fe82db79471209795c46a00d54cafde20",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/4280519258902201",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 53,
+        "html_line_1based": 13,
+        "html_column_0based": 28633
+      },
+      "time_local": "2026-01-22T18:49:13.000000-06:00",
+      "asset_id": "4280519258902201"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/4283631561893822",
+    "name": "4283631561893822",
+    "format": "PNG",
+    "bytes": 1959,
+    "sha256": "34fb2876d9896c05734e032e134e17207ac6424ba1264e85c1ee964e4cb3705e",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/4283631561893822",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 120,
+        "html_line_1based": 13,
+        "html_column_0based": 64456
+      },
+      "time_local": "2026-01-22T18:42:00.000000-06:00",
+      "asset_id": "4283631561893822"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/4803228433281129",
+    "name": "4803228433281129",
+    "format": "PNG",
+    "bytes": 3019,
+    "sha256": "edfd44ae2365ac4eebbb84fe07aaae9b913bc7ab0082520ae8732cea84d1f1af",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/4803228433281129",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 97,
+        "html_line_1based": 13,
+        "html_column_0based": 52165
+      },
+      "time_local": "2026-01-22T18:44:16.000000-06:00",
+      "asset_id": "4803228433281129"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/676462852128667",
+    "name": "676462852128667",
+    "format": "PNG",
+    "bytes": 5951,
+    "sha256": "933b1471e295624d6730b0c65c4288001e746f27abea08d715d016b7b5356251",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/676462852128667",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 5,
+        "html_line_1based": 13,
+        "html_column_0based": 2991
+      },
+      "time_local": "2026-01-22T18:53:55.000000-06:00",
+      "asset_id": "676462852128667"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/729395726679882",
+    "name": "729395726679882",
+    "format": "PNG",
+    "bytes": 1879,
+    "sha256": "b0bc420df0f0a776475abe82a2f328f1e86d390987b240bca38f1107ffbb4bd6",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/729395726679882",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 14,
+        "html_line_1based": 13,
+        "html_column_0based": 7794
+      },
+      "time_local": "2026-01-22T18:53:21.000000-06:00",
+      "asset_id": "729395726679882"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/729546426616273",
+    "name": "729546426616273",
+    "format": "PNG",
+    "bytes": 1879,
+    "sha256": "b0bc420df0f0a776475abe82a2f328f1e86d390987b240bca38f1107ffbb4bd6",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/729546426616273",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 138,
+        "html_line_1based": 13,
+        "html_column_0based": 74082
+      },
+      "time_local": "2026-01-22T18:41:56.000000-06:00",
+      "asset_id": "729546426616273"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/732805069587368",
+    "name": "732805069587368",
+    "format": "PNG",
+    "bytes": 3225,
+    "sha256": "f191694a7431480a7ce95992c0f4553df6b731c5ad232ff6b8f591dda1381246",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/732805069587368",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 119,
+        "html_line_1based": 13,
+        "html_column_0based": 63923
+      },
+      "time_local": "2026-01-22T18:42:02.000000-06:00",
+      "asset_id": "732805069587368"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/733607133140533",
+    "name": "733607133140533",
+    "format": "PNG",
+    "bytes": 3137,
+    "sha256": "7b16702bf23bb0a13611794938b0dfdb25ea74e7e526d720512790a8ca532443",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/733607133140533",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 4,
+        "html_line_1based": 13,
+        "html_column_0based": 2458
+      },
+      "time_local": "2026-01-22T18:53:55.000000-06:00",
+      "asset_id": "733607133140533"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/737915862728760",
+    "name": "737915862728760",
+    "format": "PNG",
+    "bytes": 6151,
+    "sha256": "7226e8d53be0e1412d5d9a911ef943d81c4af9168a0baaa2f163b2109ae505bf",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/737915862728760",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 103,
+        "html_line_1based": 13,
+        "html_column_0based": 55373
+      },
+      "time_local": "2026-01-22T18:44:16.000000-06:00",
+      "asset_id": "737915862728760"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/738572699311147",
+    "name": "738572699311147",
+    "format": "PNG",
+    "bytes": 2306,
+    "sha256": "cd6b559b2af602b2c6d6a156e7dce9c9bd05e67b838d853dde316ff9bb925d38",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/738572699311147",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 118,
+        "html_line_1based": 13,
+        "html_column_0based": 63390
+      },
+      "time_local": "2026-01-22T18:42:02.000000-06:00",
+      "asset_id": "738572699311147"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/738860402253460",
+    "name": "738860402253460",
+    "format": "PNG",
+    "bytes": 14252,
+    "sha256": "ecfab6b03aae001ec943c3fd4b7dbe392d6703e9b83c2c1c9bda51b32937c35f",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/738860402253460",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 43,
+        "html_line_1based": 13,
+        "html_column_0based": 23291
+      },
+      "time_local": "2026-01-22T18:50:48.000000-06:00",
+      "asset_id": "738860402253460"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/741193658655076",
+    "name": "741193658655076",
+    "format": "PNG",
+    "bytes": 8143,
+    "sha256": "04e34fc29d93b8ca7df9aa31629993401808d55c7b2ea2e26e90dcebb47761cd",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/741193658655076",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 13,
+        "html_line_1based": 13,
+        "html_column_0based": 7261
+      },
+      "time_local": "2026-01-22T18:53:23.000000-06:00",
+      "asset_id": "741193658655076"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/748044121251736",
+    "name": "748044121251736",
+    "format": "PNG",
+    "bytes": 3826,
+    "sha256": "986a9b353df41a3e767cbacd22c7fb2ddfe39fa0cabb927caa33848f8d002798",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/748044121251736",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 117,
+        "html_line_1based": 13,
+        "html_column_0based": 62857
+      },
+      "time_local": "2026-01-22T18:42:02.000000-06:00",
+      "asset_id": "748044121251736"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/756725680818179",
+    "name": "756725680818179",
+    "format": "PNG",
+    "bytes": 26318,
+    "sha256": "60a87484c985a5b1896daaed18d71a5614731775589d6afc0f2bdbfbd9412b56",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/756725680818179",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 28,
+        "html_line_1based": 13,
+        "html_column_0based": 15276
+      },
+      "time_local": "2026-01-22T18:52:09.000000-06:00",
+      "asset_id": "756725680818179"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/763328509572965",
+    "name": "763328509572965",
+    "format": "PNG",
+    "bytes": 3243,
+    "sha256": "d3f3b475b7cbebf28853c4dce7e48da606bd01e0524031a6ed62ffbdeca0939f",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/763328509572965",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 164,
+        "html_line_1based": 13,
+        "html_column_0based": 87986
+      },
+      "time_local": "2026-01-22T18:41:50.000000-06:00",
+      "asset_id": "763328509572965"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/774792362319781",
+    "name": "774792362319781",
+    "format": "PNG",
+    "bytes": 2503,
+    "sha256": "a33b878a76eb007bc79368c3a6e6712edb872dc94a8d499029da301bc74c1ddc",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/774792362319781",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 18,
+        "html_line_1based": 13,
+        "html_column_0based": 9932
+      },
+      "time_local": "2026-01-22T18:52:47.000000-06:00",
+      "asset_id": "774792362319781"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/809299462257235",
+    "name": "809299462257235",
+    "format": "PNG",
+    "bytes": 2582,
+    "sha256": "43cf2ee7a6ce922c2fa325151b8acdc7bc00e3b77fab5fa6d02bb9094de883f2",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/809299462257235",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 12,
+        "html_line_1based": 13,
+        "html_column_0based": 6728
+      },
+      "time_local": "2026-01-22T18:53:23.000000-06:00",
+      "asset_id": "809299462257235"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/827378860282840",
+    "name": "827378860282840",
+    "format": "PNG",
+    "bytes": 6039,
+    "sha256": "b8f8815a78360271febf9945b5a778cf094db1b06500aaa52c7befc792bef854",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/827378860282840",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 49,
+        "html_line_1based": 13,
+        "html_column_0based": 26497
+      },
+      "time_local": "2026-01-22T18:50:00.000000-06:00",
+      "asset_id": "827378860282840"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/848060121381111",
+    "name": "848060121381111",
+    "format": "PNG",
+    "bytes": 2582,
+    "sha256": "43cf2ee7a6ce922c2fa325151b8acdc7bc00e3b77fab5fa6d02bb9094de883f2",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/848060121381111",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 136,
+        "html_line_1based": 13,
+        "html_column_0based": 73014
+      },
+      "time_local": "2026-01-22T18:41:58.000000-06:00",
+      "asset_id": "848060121381111"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/856156100616503",
+    "name": "856156100616503",
+    "format": "PNG",
+    "bytes": 1410,
+    "sha256": "cb7c04460f2c6dfa7e58c5d694b1a0a98c3f98034759226e38df7d55e3e18707",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/856156100616503",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 152,
+        "html_line_1based": 13,
+        "html_column_0based": 81568
+      },
+      "time_local": "2026-01-22T18:41:52.000000-06:00",
+      "asset_id": "856156100616503"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/859086470339439",
+    "name": "859086470339439",
+    "format": "PNG",
+    "bytes": 10287,
+    "sha256": "62229517543cec491617db11db7953d3bac12cba49f54642244744e73f263d54",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/859086470339439",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 145,
+        "html_line_1based": 13,
+        "html_column_0based": 77823
+      },
+      "time_local": "2026-01-22T18:41:55.000000-06:00",
+      "asset_id": "859086470339439"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/862706726390146",
+    "name": "862706726390146",
+    "format": "PNG",
+    "bytes": 3861,
+    "sha256": "712324387088414c9935fb5a61b1abe41600537e97ef150449c47f6978ed4d25",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/862706726390146",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 175,
+        "html_line_1based": 13,
+        "html_column_0based": 93867
+      },
+      "time_local": "2026-01-22T18:41:47.000000-06:00",
+      "asset_id": "862706726390146"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/863355043145104",
+    "name": "863355043145104",
+    "format": "PNG",
+    "bytes": 13797,
+    "sha256": "33c78894a23442f1d80d54f05043fb04167d69b54d1e26412b1c5709ecb73bdc",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/863355043145104",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 2,
+        "html_line_1based": 13,
+        "html_column_0based": 1388
+      },
+      "time_local": "2026-01-22T18:54:59.000000-06:00",
+      "asset_id": "863355043145104"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/868748629470756",
+    "name": "868748629470756",
+    "format": "PNG",
+    "bytes": 4821,
+    "sha256": "411ba9509023b5e1b5c6131889179d53bcc3ccb4cba181a4ec9f5a2ad536eaf9",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/868748629470756",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 48,
+        "html_line_1based": 13,
+        "html_column_0based": 25964
+      },
+      "time_local": "2026-01-22T18:50:00.000000-06:00",
+      "asset_id": "868748629470756"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/876350831680980",
+    "name": "876350831680980",
+    "format": "PNG",
+    "bytes": 2709,
+    "sha256": "5664ff182b5a1fb8639627bec7cc945cf69201f488aa74f565d5f8332c27312f",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/876350831680980",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 163,
+        "html_line_1based": 13,
+        "html_column_0based": 87453
+      },
+      "time_local": "2026-01-22T18:41:50.000000-06:00",
+      "asset_id": "876350831680980"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/881322414682007",
+    "name": "881322414682007",
+    "format": "PNG",
+    "bytes": 2273,
+    "sha256": "f802e43c2d864b042fd86512eef867536403dde8d2f6b07bc28c38733f34d7e1",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/881322414682007",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 108,
+        "html_line_1based": 13,
+        "html_column_0based": 58044
+      },
+      "time_local": "2026-01-22T18:43:23.000000-06:00",
+      "asset_id": "881322414682007"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/882156997761802",
+    "name": "882156997761802",
+    "format": "PNG",
+    "bytes": 2942,
+    "sha256": "9e27b71fdd507400e0e493f7b619d2199e233722e1d0b635b10714adc923db16",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/882156997761802",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 36,
+        "html_line_1based": 13,
+        "html_column_0based": 19550
+      },
+      "time_local": "2026-01-22T18:51:28.000000-06:00",
+      "asset_id": "882156997761802"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/882284621077495",
+    "name": "882284621077495",
+    "format": "PNG",
+    "bytes": 3225,
+    "sha256": "f191694a7431480a7ce95992c0f4553df6b731c5ad232ff6b8f591dda1381246",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/882284621077495",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 27,
+        "html_line_1based": 13,
+        "html_column_0based": 14743
+      },
+      "time_local": "2026-01-22T18:52:09.000000-06:00",
+      "asset_id": "882284621077495"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/883717971089135",
+    "name": "883717971089135",
+    "format": "PNG",
+    "bytes": 6027,
+    "sha256": "31c399808e5c40c9ac999555d525a3f9fe016a210996431ca2b65c2781dd9a01",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/883717971089135",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 50,
+        "html_line_1based": 13,
+        "html_column_0based": 27030
+      },
+      "time_local": "2026-01-22T18:49:59.000000-06:00",
+      "asset_id": "883717971089135"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/888182887341319",
+    "name": "888182887341319",
+    "format": "PNG",
+    "bytes": 3250,
+    "sha256": "f5d20d8acb9d429dee51c41b41e4f8e71edf771099e8f1c4e0add41e1e3b2b6f",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/888182887341319",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 11,
+        "html_line_1based": 13,
+        "html_column_0based": 6195
+      },
+      "time_local": "2026-01-22T18:53:23.000000-06:00",
+      "asset_id": "888182887341319"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/888922950558476",
+    "name": "888922950558476",
+    "format": "PNG",
+    "bytes": 7158,
+    "sha256": "ede1de1f68275ca2be6b1f5dacac73723e1f483054f36d5ed1f47b1ff8275ff2",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/888922950558476",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 95,
+        "html_line_1based": 13,
+        "html_column_0based": 51097
+      },
+      "time_local": "2026-01-22T18:44:41.000000-06:00",
+      "asset_id": "888922950558476"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/890355283374801",
+    "name": "890355283374801",
+    "format": "PNG",
+    "bytes": 3161,
+    "sha256": "5bd28b7f54646a32706e6074588ba4916c09ddb74044f93c526a135dadb0749b",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/890355283374801",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 29,
+        "html_line_1based": 13,
+        "html_column_0based": 15809
+      },
+      "time_local": "2026-01-22T18:52:07.000000-06:00",
+      "asset_id": "890355283374801"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/891047813504158",
+    "name": "891047813504158",
+    "format": "PNG",
+    "bytes": 3094,
+    "sha256": "c85f972c207479e3cd6ad4b6ef0bfb8c88d7e15ca7b1c8e93002efdb120ae347",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/891047813504158",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 7,
+        "html_line_1based": 13,
+        "html_column_0based": 4059
+      },
+      "time_local": "2026-01-22T18:53:25.000000-06:00",
+      "asset_id": "891047813504158"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/894491559834056",
+    "name": "894491559834056",
+    "format": "PNG",
+    "bytes": 14555,
+    "sha256": "47a2e8492c6dc31f1265f85b7e6e88a2d0758bd21cf45401166dc14c8853fcc2",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/894491559834056",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 107,
+        "html_line_1based": 13,
+        "html_column_0based": 57511
+      },
+      "time_local": "2026-01-22T18:43:25.000000-06:00",
+      "asset_id": "894491559834056"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/895435149736961",
+    "name": "895435149736961",
+    "format": "PNG",
+    "bytes": 2973,
+    "sha256": "9b161091153193e938367d1dab1375021dab3e677734f4355b0f5c4b9ecc3d53",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/895435149736961",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 174,
+        "html_line_1based": 13,
+        "html_column_0based": 93334
+      },
+      "time_local": "2026-01-22T18:41:47.000000-06:00",
+      "asset_id": "895435149736961"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/895509296273759",
+    "name": "895509296273759",
+    "format": "PNG",
+    "bytes": 2569,
+    "sha256": "74a53223471e8d3bbc625b7dec5b5dbbee4ae60bcaa6802ea700d02c3a6b4d1b",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/895509296273759",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 90,
+        "html_line_1based": 13,
+        "html_column_0based": 48424
+      },
+      "time_local": "2026-01-22T18:45:09.000000-06:00",
+      "asset_id": "895509296273759"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/896372993358858",
+    "name": "896372993358858",
+    "format": "PNG",
+    "bytes": 2712,
+    "sha256": "37b0a38f64ab5f0d81610156778db450dc4f227641a6f75b83a3eb16e8c29680",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/896372993358858",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 40,
+        "html_line_1based": 13,
+        "html_column_0based": 21688
+      },
+      "time_local": "2026-01-22T18:50:49.000000-06:00",
+      "asset_id": "896372993358858"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/897909072727758",
+    "name": "897909072727758",
+    "format": "PNG",
+    "bytes": 4788,
+    "sha256": "92d97f88fff4521792ecc4aa50a51fafedf7f5a1eae0819cebdeb00e9ea94766",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/897909072727758",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 81,
+        "html_line_1based": 13,
+        "html_column_0based": 43609
+      },
+      "time_local": "2026-01-22T18:46:56.000000-06:00",
+      "asset_id": "897909072727758"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/899184585858583",
+    "name": "899184585858583",
+    "format": "PNG",
+    "bytes": 10334,
+    "sha256": "fe809a7b1d26ce348cc5f3639780b18b24ebee0f3ef7e150abfbd6c24806d8fc",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/899184585858583",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 162,
+        "html_line_1based": 13,
+        "html_column_0based": 86920
+      },
+      "time_local": "2026-01-22T18:41:50.000000-06:00",
+      "asset_id": "899184585858583"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/900666822418570",
+    "name": "900666822418570",
+    "format": "PNG",
+    "bytes": 6208,
+    "sha256": "5b2be6ef3d000b7917d8b919d27a484ce183d0b1d5b67d67118720a262df4669",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/900666822418570",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 64,
+        "html_line_1based": 13,
+        "html_column_0based": 34518
+      },
+      "time_local": "2026-01-22T18:48:07.000000-06:00",
+      "asset_id": "900666822418570"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/906946945055601",
+    "name": "906946945055601",
+    "format": "PNG",
+    "bytes": 4122,
+    "sha256": "a4dcec6ee794898a8b910056bcbc6c0cdfc40f11cc9b34c0e66635cb74103379",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/906946945055601",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 102,
+        "html_line_1based": 13,
+        "html_column_0based": 54840
+      },
+      "time_local": "2026-01-22T18:44:16.000000-06:00",
+      "asset_id": "906946945055601"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/911558414645946",
+    "name": "911558414645946",
+    "format": "PNG",
+    "bytes": 6151,
+    "sha256": "7226e8d53be0e1412d5d9a911ef943d81c4af9168a0baaa2f163b2109ae505bf",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/911558414645946",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 178,
+        "html_line_1based": 13,
+        "html_column_0based": 95470
+      },
+      "time_local": "2026-01-22T18:41:46.000000-06:00",
+      "asset_id": "911558414645946"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/914117351271272",
+    "name": "914117351271272",
+    "format": "PNG",
+    "bytes": 3137,
+    "sha256": "7b16702bf23bb0a13611794938b0dfdb25ea74e7e526d720512790a8ca532443",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/914117351271272",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 135,
+        "html_line_1based": 13,
+        "html_column_0based": 72481
+      },
+      "time_local": "2026-01-22T18:41:58.000000-06:00",
+      "asset_id": "914117351271272"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/915045738141108",
+    "name": "915045738141108",
+    "format": "PNG",
+    "bytes": 4088,
+    "sha256": "0735a4a577e0a6d27f739710e882faa05886993027a774bb914e4c9f5b9beca9",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/915045738141108",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 80,
+        "html_line_1based": 13,
+        "html_column_0based": 43076
+      },
+      "time_local": "2026-01-22T18:46:58.000000-06:00",
+      "asset_id": "915045738141108"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/915818937793155",
+    "name": "915818937793155",
+    "format": "PNG",
+    "bytes": 4779,
+    "sha256": "771ceff9f9a803ba705ed7070754f90fe82db79471209795c46a00d54cafde20",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/915818937793155",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 26,
+        "html_line_1based": 13,
+        "html_column_0based": 14210
+      },
+      "time_local": "2026-01-22T18:52:09.000000-06:00",
+      "asset_id": "915818937793155"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/917223494082747",
+    "name": "917223494082747",
+    "format": "PNG",
+    "bytes": 5980,
+    "sha256": "5261a73129c8961ccfa92c00ce89d0e3843223ef181590879dc95ba873745eff",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/917223494082747",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 35,
+        "html_line_1based": 13,
+        "html_column_0based": 19017
+      },
+      "time_local": "2026-01-22T18:51:30.000000-06:00",
+      "asset_id": "917223494082747"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/919199813777726",
+    "name": "919199813777726",
+    "format": "PNG",
+    "bytes": 2942,
+    "sha256": "9e27b71fdd507400e0e493f7b619d2199e233722e1d0b635b10714adc923db16",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/919199813777726",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 144,
+        "html_line_1based": 13,
+        "html_column_0based": 77290
+      },
+      "time_local": "2026-01-22T18:41:54.000000-06:00",
+      "asset_id": "919199813777726"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/919255150771022",
+    "name": "919255150771022",
+    "format": "PNG",
+    "bytes": 6611,
+    "sha256": "caae53f60ebe677a0e7b5360705a18b4589d0d93945496491356d415de10f92b",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/919255150771022",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 10,
+        "html_line_1based": 13,
+        "html_column_0based": 5662
+      },
+      "time_local": "2026-01-22T18:53:23.000000-06:00",
+      "asset_id": "919255150771022"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/940579998544516",
+    "name": "940579998544516",
+    "format": "PNG",
+    "bytes": 3161,
+    "sha256": "5bd28b7f54646a32706e6074588ba4916c09ddb74044f93c526a135dadb0749b",
+    "matplotlib_metadata": true,
+    "reference": {
+      "path": "/home/deep-logic/Documentos/facebook/files/940579998544516",
+      "reference_source": "/home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html",
+      "locator": {
+        "table_index_1based": 173,
+        "html_line_1based": 13,
+        "html_column_0based": 92801
+      },
+      "time_local": "2026-01-22T18:41:47.000000-06:00",
+      "asset_id": "940579998544516"
+    }
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/fb_logo.png",
+    "name": "fb_logo.png",
+    "format": "PNG",
+    "bytes": 4209,
+    "sha256": "75717c998b22175261b016e787001dea6117d8a69cd9e905366f1d14b4ee142b",
+    "matplotlib_metadata": false,
+    "reference": null
+  },
+  {
+    "path": "/home/deep-logic/Documentos/facebook/files/profile_pic.jpg",
+    "name": "profile_pic.jpg",
+    "format": "JPEG",
+    "bytes": 1460,
+    "sha256": "2c788a3f1d26f9dff865bd6cec538d1a2ec394dc945b6b39c128118d4f45be81",
+    "matplotlib_metadata": false,
+    "reference": null
+  }
+]

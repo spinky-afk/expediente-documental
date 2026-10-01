@@ -1,0 +1,742 @@
+[
+  {
+    "source": "Mi actividad/Ayuda/MiActividad.html",
+    "record_index_1based": 530,
+    "html_line_1based": 33,
+    "html_column_0based": 698176,
+    "links": [
+      {
+        "url_original": "https://support.google.com/accounts/answer/7026266?hl=es-419&origin_ehc=accounts&authuser=0&js_request_id=render_api257509591&api_client=help_panel&render_inapp=1&authuser=0&ec=LEARN_MORE_TWO_STEP_VERIFICATION_SCREEN&supportContentUrl=https://support.google.com/accounts/answer/7026266%3Fhl%3Des_419",
+        "text": "Accede a tu cuenta con los mensajes de Google - Android - Ayuda de Cuenta de Google"
+      },
+      {
+        "url_original": "https://myaccount.google.com/activitycontrols",
+        "text": "aquí"
+      }
+    ],
+    "text_original": "Ayuda\nHas visitado Accede a tu cuenta con los mensajes de Google - Android - Ayuda de Cuenta de Google\n11 sept 2026, 9:35:33 a.m. CST\nProductos:\nAyuda\n¿Por qué se grabó esta actividad?\nSe guardó esta actividad en tu cuenta de Google porque estaban habilitadas las siguientes opciones de configuración: Actividad en la Web y en Aplicaciones. Puedes controlar estas opciones de configuración aquí.",
+    "date_original": "11 sept 2026, 9:35:33 a.m. CST",
+    "time_local": "2026-09-11T09:35:33-06:00",
+    "time_utc": "2026-09-11T15:35:33+00:00",
+    "action": "Has visitado Accede a tu cuenta con los mensajes de Google - Android - Ayuda de Cuenta de Google",
+    "url_original": "https://support.google.com/accounts/answer/7026266?hl=es-419&origin_ehc=accounts&authuser=0&js_request_id=render_api257509591&api_client=help_panel&render_inapp=1&authuser=0&ec=LEARN_MORE_TWO_STEP_VERIFICATION_SCREEN&supportContentUrl=https://support.google.com/accounts/answer/7026266%3Fhl%3Des_419",
+    "url": "https://support.google.com/accounts/answer/7026266?hl=es-419&origin_ehc=accounts&authuser=0&js_request_id=render_api257509591&api_client=help_panel&render_inapp=1&authuser=0&ec=LEARN_MORE_TWO_STEP_VERIFICATION_SCREEN&supportContentUrl=https://support.google.com/accounts/answer/7026266%3Fhl%3Des_419",
+    "kind": "visita",
+    "title_or_query": "Accede a tu cuenta con los mensajes de Google - Android - Ayuda de Cuenta de Google",
+    "classification_note": "Visita sobre confirmar acceso con mensajes de Google; candidata por tema de verificación, no por imágenes."
+  },
+  {
+    "source": "Mi actividad/Ayuda/MiActividad.html",
+    "record_index_1based": 707,
+    "html_line_1based": 33,
+    "html_column_0based": 923192,
+    "links": [
+      {
+        "url_original": "https://support.google.com/accounts/answer/7162782?visit_id=639235900841717060-565576160&p=login_chal&rd=1",
+        "text": "Verifica tu identidad cuando completes una acción sensible - Android - Ayuda de Cuenta de Google"
+      },
+      {
+        "url_original": "https://myaccount.google.com/activitycontrols",
+        "text": "aquí"
+      }
+    ],
+    "text_original": "Ayuda\nHas visitado Verifica tu identidad cuando completes una acción sensible - Android - Ayuda de Cuenta de Google\n29 ago 2026, 3:06:47 a.m. CST\nProductos:\nAyuda\n¿Por qué se grabó esta actividad?\nSe guardó esta actividad en tu cuenta de Google porque estaban habilitadas las siguientes opciones de configuración: Actividad en la Web y en Aplicaciones. Puedes controlar estas opciones de configuración aquí.",
+    "date_original": "29 ago 2026, 3:06:47 a.m. CST",
+    "time_local": "2026-08-29T03:06:47-06:00",
+    "time_utc": "2026-08-29T09:06:47+00:00",
+    "action": "Has visitado Verifica tu identidad cuando completes una acción sensible - Android - Ayuda de Cuenta de Google",
+    "url_original": "https://support.google.com/accounts/answer/7162782?visit_id=639235900841717060-565576160&p=login_chal&rd=1",
+    "url": "https://support.google.com/accounts/answer/7162782?visit_id=639235900841717060-565576160&p=login_chal&rd=1",
+    "kind": "visita",
+    "title_or_query": "Verifica tu identidad cuando completes una acción sensible - Android - Ayuda de Cuenta de Google",
+    "classification_note": "Visita sobre verificar identidad; candidata temática, sin prueba de validación con una imagen."
+  },
+  {
+    "source": "Mi actividad/Búsqueda/MiActividad.html",
+    "record_index_1based": 627,
+    "html_line_1based": 43,
+    "html_column_0based": 130240,
+    "links": [
+      {
+        "url_original": "https://myaccount.google.com/activitycontrols",
+        "text": "aquí"
+      }
+    ],
+    "text_original": "Búsqueda\nHiciste una búsqueda con una imagen\n6 ago 2026, 1:26:25 p.m. CST\nProductos:\nBúsqueda\n¿Por qué se grabó esta actividad?\nSe guardó esta actividad en tu cuenta de Google porque estaban habilitadas las siguientes opciones de configuración: Historial de los servicios de la Búsqueda. Puedes controlar estas opciones de configuración aquí.",
+    "date_original": "6 ago 2026, 1:26:25 p.m. CST",
+    "time_local": "2026-08-06T13:26:25-06:00",
+    "time_utc": "2026-08-06T19:26:25+00:00",
+    "action": "Hiciste una búsqueda con una imagen",
+    "url_original": null,
+    "url": null,
+    "kind": "visita",
+    "title_or_query": "Hiciste una búsqueda con una imagen",
+    "classification_note": "Búsqueda mediante imagen; no conserva pregunta o enlace de resultado ni identifica una validación."
+  },
+  {
+    "source": "Mi actividad/Búsqueda/MiActividad.html",
+    "record_index_1based": 628,
+    "html_line_1based": 43,
+    "html_column_0based": 131159,
+    "links": [
+      {
+        "url_original": "https://myaccount.google.com/activitycontrols",
+        "text": "aquí"
+      }
+    ],
+    "text_original": "Búsqueda\nHiciste una búsqueda con una imagen\n6 ago 2026, 1:26:25 p.m. CST\nProductos:\nBúsqueda\n¿Por qué se grabó esta actividad?\nSe guardó esta actividad en tu cuenta de Google porque estaban habilitadas las siguientes opciones de configuración: Historial de los servicios de la Búsqueda. Puedes controlar estas opciones de configuración aquí.",
+    "date_original": "6 ago 2026, 1:26:25 p.m. CST",
+    "time_local": "2026-08-06T13:26:25-06:00",
+    "time_utc": "2026-08-06T19:26:25+00:00",
+    "action": "Hiciste una búsqueda con una imagen",
+    "url_original": null,
+    "url": null,
+    "kind": "visita",
+    "title_or_query": "Hiciste una búsqueda con una imagen",
+    "classification_note": "Búsqueda mediante imagen; no conserva pregunta o enlace de resultado ni identifica una validación."
+  },
+  {
+    "source": "Mi actividad/Búsqueda/MiActividad.html",
+    "record_index_1based": 629,
+    "html_line_1based": 43,
+    "html_column_0based": 132078,
+    "links": [
+      {
+        "url_original": "https://myaccount.google.com/activitycontrols",
+        "text": "aquí"
+      }
+    ],
+    "text_original": "Búsqueda\nHiciste una búsqueda con una imagen\n6 ago 2026, 1:26:25 p.m. CST\nProductos:\nBúsqueda\n¿Por qué se grabó esta actividad?\nSe guardó esta actividad en tu cuenta de Google porque estaban habilitadas las siguientes opciones de configuración: Historial de los servicios de la Búsqueda. Puedes controlar estas opciones de configuración aquí.",
+    "date_original": "6 ago 2026, 1:26:25 p.m. CST",
+    "time_local": "2026-08-06T13:26:25-06:00",
+    "time_utc": "2026-08-06T19:26:25+00:00",
+    "action": "Hiciste una búsqueda con una imagen",
+    "url_original": null,
+    "url": null,
+    "kind": "visita",
+    "title_or_query": "Hiciste una búsqueda con una imagen",
+    "classification_note": "Búsqueda mediante imagen; no conserva pregunta o enlace de resultado ni identifica una validación."
+  },
+  {
+    "source": "Mi actividad/Búsqueda/MiActividad.html",
+    "record_index_1based": 630,
+    "html_line_1based": 43,
+    "html_column_0based": 132997,
+    "links": [
+      {
+        "url_original": "https://myaccount.google.com/activitycontrols",
+        "text": "aquí"
+      }
+    ],
+    "text_original": "Búsqueda\nHiciste una búsqueda con una imagen\n6 ago 2026, 1:26:25 p.m. CST\nProductos:\nBúsqueda\n¿Por qué se grabó esta actividad?\nSe guardó esta actividad en tu cuenta de Google porque estaban habilitadas las siguientes opciones de configuración: Historial de los servicios de la Búsqueda. Puedes controlar estas opciones de configuración aquí.",
+    "date_original": "6 ago 2026, 1:26:25 p.m. CST",
+    "time_local": "2026-08-06T13:26:25-06:00",
+    "time_utc": "2026-08-06T19:26:25+00:00",
+    "action": "Hiciste una búsqueda con una imagen",
+    "url_original": null,
+    "url": null,
+    "kind": "visita",
+    "title_or_query": "Hiciste una búsqueda con una imagen",
+    "classification_note": "Búsqueda mediante imagen; no conserva pregunta o enlace de resultado ni identifica una validación."
+  },
+  {
+    "source": "Mi actividad/Búsqueda/MiActividad.html",
+    "record_index_1based": 631,
+    "html_line_1based": 43,
+    "html_column_0based": 133916,
+    "links": [
+      {
+        "url_original": "https://myaccount.google.com/activitycontrols",
+        "text": "aquí"
+      }
+    ],
+    "text_original": "Búsqueda\nHiciste una búsqueda con una imagen\n6 ago 2026, 1:26:25 p.m. CST\nProductos:\nBúsqueda\n¿Por qué se grabó esta actividad?\nSe guardó esta actividad en tu cuenta de Google porque estaban habilitadas las siguientes opciones de configuración: Historial de los servicios de la Búsqueda. Puedes controlar estas opciones de configuración aquí.",
+    "date_original": "6 ago 2026, 1:26:25 p.m. CST",
+    "time_local": "2026-08-06T13:26:25-06:00",
+    "time_utc": "2026-08-06T19:26:25+00:00",
+    "action": "Hiciste una búsqueda con una imagen",
+    "url_original": null,
+    "url": null,
+    "kind": "visita",
+    "title_or_query": "Hiciste una búsqueda con una imagen",
+    "classification_note": "Búsqueda mediante imagen; no conserva pregunta o enlace de resultado ni identifica una validación."
+  },
+  {
+    "source": "Mi actividad/Búsqueda/MiActividad.html",
+    "record_index_1based": 632,
+    "html_line_1based": 43,
+    "html_column_0based": 134835,
+    "links": [
+      {
+        "url_original": "https://myaccount.google.com/activitycontrols",
+        "text": "aquí"
+      }
+    ],
+    "text_original": "Búsqueda\nHiciste una búsqueda con una imagen\n6 ago 2026, 1:26:25 p.m. CST\nProductos:\nBúsqueda\n¿Por qué se grabó esta actividad?\nSe guardó esta actividad en tu cuenta de Google porque estaban habilitadas las siguientes opciones de configuración: Historial de los servicios de la Búsqueda. Puedes controlar estas opciones de configuración aquí.",
+    "date_original": "6 ago 2026, 1:26:25 p.m. CST",
+    "time_local": "2026-08-06T13:26:25-06:00",
+    "time_utc": "2026-08-06T19:26:25+00:00",
+    "action": "Hiciste una búsqueda con una imagen",
+    "url_original": null,
+    "url": null,
+    "kind": "visita",
+    "title_or_query": "Hiciste una búsqueda con una imagen",
+    "classification_note": "Búsqueda mediante imagen; no conserva pregunta o enlace de resultado ni identifica una validación."
+  },
+  {
+    "source": "Mi actividad/Búsqueda/MiActividad.html",
+    "record_index_1based": 633,
+    "html_line_1based": 43,
+    "html_column_0based": 135754,
+    "links": [
+      {
+        "url_original": "https://myaccount.google.com/activitycontrols",
+        "text": "aquí"
+      }
+    ],
+    "text_original": "Búsqueda\nHiciste una búsqueda con una imagen\n6 ago 2026, 1:26:25 p.m. CST\nProductos:\nBúsqueda\n¿Por qué se grabó esta actividad?\nSe guardó esta actividad en tu cuenta de Google porque estaban habilitadas las siguientes opciones de configuración: Historial de los servicios de la Búsqueda. Puedes controlar estas opciones de configuración aquí.",
+    "date_original": "6 ago 2026, 1:26:25 p.m. CST",
+    "time_local": "2026-08-06T13:26:25-06:00",
+    "time_utc": "2026-08-06T19:26:25+00:00",
+    "action": "Hiciste una búsqueda con una imagen",
+    "url_original": null,
+    "url": null,
+    "kind": "visita",
+    "title_or_query": "Hiciste una búsqueda con una imagen",
+    "classification_note": "Búsqueda mediante imagen; no conserva pregunta o enlace de resultado ni identifica una validación."
+  },
+  {
+    "source": "Mi actividad/Búsqueda/MiActividad.html",
+    "record_index_1based": 634,
+    "html_line_1based": 43,
+    "html_column_0based": 136673,
+    "links": [
+      {
+        "url_original": "https://myaccount.google.com/activitycontrols",
+        "text": "aquí"
+      }
+    ],
+    "text_original": "Búsqueda\nHiciste una búsqueda con una imagen\n6 ago 2026, 1:26:25 p.m. CST\nProductos:\nBúsqueda\n¿Por qué se grabó esta actividad?\nSe guardó esta actividad en tu cuenta de Google porque estaban habilitadas las siguientes opciones de configuración: Historial de los servicios de la Búsqueda. Puedes controlar estas opciones de configuración aquí.",
+    "date_original": "6 ago 2026, 1:26:25 p.m. CST",
+    "time_local": "2026-08-06T13:26:25-06:00",
+    "time_utc": "2026-08-06T19:26:25+00:00",
+    "action": "Hiciste una búsqueda con una imagen",
+    "url_original": null,
+    "url": null,
+    "kind": "visita",
+    "title_or_query": "Hiciste una búsqueda con una imagen",
+    "classification_note": "Búsqueda mediante imagen; no conserva pregunta o enlace de resultado ni identifica una validación."
+  },
+  {
+    "source": "Mi actividad/Búsqueda/MiActividad.html",
+    "record_index_1based": 635,
+    "html_line_1based": 43,
+    "html_column_0based": 137592,
+    "links": [
+      {
+        "url_original": "https://myaccount.google.com/activitycontrols",
+        "text": "aquí"
+      }
+    ],
+    "text_original": "Búsqueda\nHiciste una búsqueda con una imagen\n6 ago 2026, 1:26:25 p.m. CST\nProductos:\nBúsqueda\n¿Por qué se grabó esta actividad?\nSe guardó esta actividad en tu cuenta de Google porque estaban habilitadas las siguientes opciones de configuración: Historial de los servicios de la Búsqueda. Puedes controlar estas opciones de configuración aquí.",
+    "date_original": "6 ago 2026, 1:26:25 p.m. CST",
+    "time_local": "2026-08-06T13:26:25-06:00",
+    "time_utc": "2026-08-06T19:26:25+00:00",
+    "action": "Hiciste una búsqueda con una imagen",
+    "url_original": null,
+    "url": null,
+    "kind": "visita",
+    "title_or_query": "Hiciste una búsqueda con una imagen",
+    "classification_note": "Búsqueda mediante imagen; no conserva pregunta o enlace de resultado ni identifica una validación."
+  },
+  {
+    "source": "Mi actividad/Búsqueda/MiActividad.html",
+    "record_index_1based": 636,
+    "html_line_1based": 43,
+    "html_column_0based": 138511,
+    "links": [
+      {
+        "url_original": "https://myaccount.google.com/activitycontrols",
+        "text": "aquí"
+      }
+    ],
+    "text_original": "Búsqueda\nHiciste una búsqueda con una imagen\n6 ago 2026, 1:26:25 p.m. CST\nProductos:\nBúsqueda\n¿Por qué se grabó esta actividad?\nSe guardó esta actividad en tu cuenta de Google porque estaban habilitadas las siguientes opciones de configuración: Historial de los servicios de la Búsqueda. Puedes controlar estas opciones de configuración aquí.",
+    "date_original": "6 ago 2026, 1:26:25 p.m. CST",
+    "time_local": "2026-08-06T13:26:25-06:00",
+    "time_utc": "2026-08-06T19:26:25+00:00",
+    "action": "Hiciste una búsqueda con una imagen",
+    "url_original": null,
+    "url": null,
+    "kind": "visita",
+    "title_or_query": "Hiciste una búsqueda con una imagen",
+    "classification_note": "Búsqueda mediante imagen; no conserva pregunta o enlace de resultado ni identifica una validación."
+  },
+  {
+    "source": "Mi actividad/Búsqueda/MiActividad.html",
+    "record_index_1based": 637,
+    "html_line_1based": 43,
+    "html_column_0based": 139430,
+    "links": [
+      {
+        "url_original": "https://myaccount.google.com/activitycontrols",
+        "text": "aquí"
+      }
+    ],
+    "text_original": "Búsqueda\nHiciste una búsqueda con una imagen\n6 ago 2026, 1:26:25 p.m. CST\nProductos:\nBúsqueda\n¿Por qué se grabó esta actividad?\nSe guardó esta actividad en tu cuenta de Google porque estaban habilitadas las siguientes opciones de configuración: Historial de los servicios de la Búsqueda. Puedes controlar estas opciones de configuración aquí.",
+    "date_original": "6 ago 2026, 1:26:25 p.m. CST",
+    "time_local": "2026-08-06T13:26:25-06:00",
+    "time_utc": "2026-08-06T19:26:25+00:00",
+    "action": "Hiciste una búsqueda con una imagen",
+    "url_original": null,
+    "url": null,
+    "kind": "visita",
+    "title_or_query": "Hiciste una búsqueda con una imagen",
+    "classification_note": "Búsqueda mediante imagen; no conserva pregunta o enlace de resultado ni identifica una validación."
+  },
+  {
+    "source": "Mi actividad/Búsqueda/MiActividad.html",
+    "record_index_1based": 638,
+    "html_line_1based": 43,
+    "html_column_0based": 140349,
+    "links": [
+      {
+        "url_original": "https://myaccount.google.com/activitycontrols",
+        "text": "aquí"
+      }
+    ],
+    "text_original": "Búsqueda\nHiciste una búsqueda con una imagen\n6 ago 2026, 1:26:25 p.m. CST\nProductos:\nBúsqueda\n¿Por qué se grabó esta actividad?\nSe guardó esta actividad en tu cuenta de Google porque estaban habilitadas las siguientes opciones de configuración: Historial de los servicios de la Búsqueda. Puedes controlar estas opciones de configuración aquí.",
+    "date_original": "6 ago 2026, 1:26:25 p.m. CST",
+    "time_local": "2026-08-06T13:26:25-06:00",
+    "time_utc": "2026-08-06T19:26:25+00:00",
+    "action": "Hiciste una búsqueda con una imagen",
+    "url_original": null,
+    "url": null,
+    "kind": "visita",
+    "title_or_query": "Hiciste una búsqueda con una imagen",
+    "classification_note": "Búsqueda mediante imagen; no conserva pregunta o enlace de resultado ni identifica una validación."
+  },
+  {
+    "source": "Mi actividad/Búsqueda/MiActividad.html",
+    "record_index_1based": 639,
+    "html_line_1based": 43,
+    "html_column_0based": 141268,
+    "links": [
+      {
+        "url_original": "https://myaccount.google.com/activitycontrols",
+        "text": "aquí"
+      }
+    ],
+    "text_original": "Búsqueda\nHiciste una búsqueda con una imagen\n6 ago 2026, 1:26:25 p.m. CST\nProductos:\nBúsqueda\n¿Por qué se grabó esta actividad?\nSe guardó esta actividad en tu cuenta de Google porque estaban habilitadas las siguientes opciones de configuración: Historial de los servicios de la Búsqueda. Puedes controlar estas opciones de configuración aquí.",
+    "date_original": "6 ago 2026, 1:26:25 p.m. CST",
+    "time_local": "2026-08-06T13:26:25-06:00",
+    "time_utc": "2026-08-06T19:26:25+00:00",
+    "action": "Hiciste una búsqueda con una imagen",
+    "url_original": null,
+    "url": null,
+    "kind": "visita",
+    "title_or_query": "Hiciste una búsqueda con una imagen",
+    "classification_note": "Búsqueda mediante imagen; no conserva pregunta o enlace de resultado ni identifica una validación."
+  },
+  {
+    "source": "Mi actividad/Búsqueda/MiActividad.html",
+    "record_index_1based": 640,
+    "html_line_1based": 43,
+    "html_column_0based": 142187,
+    "links": [
+      {
+        "url_original": "https://myaccount.google.com/activitycontrols",
+        "text": "aquí"
+      }
+    ],
+    "text_original": "Búsqueda\nHiciste una búsqueda con una imagen\n6 ago 2026, 7:33:49 a.m. CST\nProductos:\nBúsqueda\n¿Por qué se grabó esta actividad?\nSe guardó esta actividad en tu cuenta de Google porque estaban habilitadas las siguientes opciones de configuración: Historial de los servicios de la Búsqueda. Puedes controlar estas opciones de configuración aquí.",
+    "date_original": "6 ago 2026, 7:33:49 a.m. CST",
+    "time_local": "2026-08-06T07:33:49-06:00",
+    "time_utc": "2026-08-06T13:33:49+00:00",
+    "action": "Hiciste una búsqueda con una imagen",
+    "url_original": null,
+    "url": null,
+    "kind": "visita",
+    "title_or_query": "Hiciste una búsqueda con una imagen",
+    "classification_note": "Búsqueda mediante imagen; no conserva pregunta o enlace de resultado ni identifica una validación."
+  },
+  {
+    "source": "Mi actividad/Búsqueda/MiActividad.html",
+    "record_index_1based": 641,
+    "html_line_1based": 43,
+    "html_column_0based": 143106,
+    "links": [
+      {
+        "url_original": "https://myaccount.google.com/activitycontrols",
+        "text": "aquí"
+      }
+    ],
+    "text_original": "Búsqueda\nHiciste una búsqueda con una imagen\n6 ago 2026, 7:33:49 a.m. CST\nProductos:\nBúsqueda\n¿Por qué se grabó esta actividad?\nSe guardó esta actividad en tu cuenta de Google porque estaban habilitadas las siguientes opciones de configuración: Historial de los servicios de la Búsqueda. Puedes controlar estas opciones de configuración aquí.",
+    "date_original": "6 ago 2026, 7:33:49 a.m. CST",
+    "time_local": "2026-08-06T07:33:49-06:00",
+    "time_utc": "2026-08-06T13:33:49+00:00",
+    "action": "Hiciste una búsqueda con una imagen",
+    "url_original": null,
+    "url": null,
+    "kind": "visita",
+    "title_or_query": "Hiciste una búsqueda con una imagen",
+    "classification_note": "Búsqueda mediante imagen; no conserva pregunta o enlace de resultado ni identifica una validación."
+  },
+  {
+    "source": "Mi actividad/Chrome/MiActividad.html",
+    "record_index_1based": 8,
+    "html_line_1based": 33,
+    "html_column_0based": 6855,
+    "links": [
+      {
+        "url_original": "https://accounts.google.com/v3/signin/challenge/pwd?TL=ADG-GRQEmaaYz_mrS5NmD6mjFObHewy9R_g4kcX3CKnwYJehYCajmbHv1D5O76UQ&authuser=0&cid=5&continue=https%3A%2F%2Fpasswords.google.com%2Fpassword%2F4CwTDiMnm7hNpLFmzRQQbdx1RSTWw9lIaRa5DTE7LJk%253D%3Fep%3D1%26f.sid%3D1196991881438944334%26bnt%3D1&dsh=S-1371773724%3A1790483587665110&flowName=GlifWebSignIn&hl=es-419&kdi=CAMiDAoKY2hyb21lc3luYw&rart=ANgoxcedmqnhgNUB7tbFlpGIJu7oSQwflseXNgwE9a9xBADIAWWnSa1LsDlAqvgjLGqLx0aGq75xd74poCTeypmyagSRv4pMfJG3s1SIB4g06UN66tBaiW8&sarp=1&scc=1",
+        "text": "Verifica que eres tú"
+      }
+    ],
+    "text_original": "accounts.google.com\nHas visitado Verifica que eres tú\n26 sept 2026, 10:33:14 p.m. CST\nProductos:\nChrome",
+    "date_original": "26 sept 2026, 10:33:14 p.m. CST",
+    "time_local": "2026-09-26T22:33:14-06:00",
+    "time_utc": "2026-09-27T04:33:14+00:00",
+    "action": "Has visitado Verifica que eres tú",
+    "url_original": "https://accounts.google.com/v3/signin/challenge/pwd?TL=ADG-GRQEmaaYz_mrS5NmD6mjFObHewy9R_g4kcX3CKnwYJehYCajmbHv1D5O76UQ&authuser=0&cid=5&continue=https%3A%2F%2Fpasswords.google.com%2Fpassword%2F4CwTDiMnm7hNpLFmzRQQbdx1RSTWw9lIaRa5DTE7LJk%253D%3Fep%3D1%26f.sid%3D1196991881438944334%26bnt%3D1&dsh=S-1371773724%3A1790483587665110&flowName=GlifWebSignIn&hl=es-419&kdi=CAMiDAoKY2hyb21lc3luYw&rart=ANgoxcedmqnhgNUB7tbFlpGIJu7oSQwflseXNgwE9a9xBADIAWWnSa1LsDlAqvgjLGqLx0aGq75xd74poCTeypmyagSRv4pMfJG3s1SIB4g06UN66tBaiW8&sarp=1&scc=1",
+    "url": "https://accounts.google.com/v3/signin/challenge/pwd?TL=ADG-GRQEmaaYz_mrS5NmD6mjFObHewy9R_g4kcX3CKnwYJehYCajmbHv1D5O76UQ&authuser=0&cid=5&continue=https%3A%2F%2Fpasswords.google.com%2Fpassword%2F4CwTDiMnm7hNpLFmzRQQbdx1RSTWw9lIaRa5DTE7LJk%253D%3Fep%3D1%26f.sid%3D1196991881438944334%26bnt%3D1&dsh=S-1371773724%3A1790483587665110&flowName=GlifWebSignIn&hl=es-419&kdi=CAMiDAoKY2hyb21lc3luYw&rart=ANgoxcedmqnhgNUB7tbFlpGIJu7oSQwflseXNgwE9a9xBADIAWWnSa1LsDlAqvgjLGqLx0aGq75xd74poCTeypmyagSRv4pMfJG3s1SIB4g06UN66tBaiW8&sarp=1&scc=1",
+    "kind": "visita",
+    "title_or_query": "Verifica que eres tú",
+    "classification_note": "Pantalla de verificación; ruta challenge/pwd. No identifica un procedimiento con imagen."
+  },
+  {
+    "source": "Mi actividad/Google Lens/MiActividad.html",
+    "record_index_1based": 1,
+    "html_line_1based": 33,
+    "html_column_0based": 43,
+    "links": [
+      {
+        "url_original": "https://myaccount.google.com/activitycontrols",
+        "text": "aquí"
+      }
+    ],
+    "text_original": "Google Lens\nHiciste una búsqueda con Google Lens\n26 sept 2026, 2:04:13 a.m. CST\nProductos:\nGoogle Lens\n¿Por qué se grabó esta actividad?\nSe guardó esta actividad en tu cuenta de Google porque estaban habilitadas las siguientes opciones de configuración: Historial de los servicios de la Búsqueda. Puedes controlar estas opciones de configuración aquí.",
+    "date_original": "26 sept 2026, 2:04:13 a.m. CST",
+    "time_local": "2026-09-26T02:04:13-06:00",
+    "time_utc": "2026-09-26T08:04:13+00:00",
+    "action": "Hiciste una búsqueda con Google Lens",
+    "url_original": null,
+    "url": null,
+    "kind": "visita",
+    "title_or_query": "Hiciste una búsqueda con Google Lens",
+    "classification_note": "Actividad de Lens; no demuestra verificación ni rapidez."
+  },
+  {
+    "source": "Mi actividad/Google Lens/MiActividad.html",
+    "record_index_1based": 2,
+    "html_line_1based": 33,
+    "html_column_0based": 971,
+    "links": [
+      {
+        "url_original": "https://myaccount.google.com/activitycontrols",
+        "text": "aquí"
+      }
+    ],
+    "text_original": "Google Lens\nHiciste una búsqueda con Google Lens\n26 sept 2026, 2:04:13 a.m. CST\nProductos:\nGoogle Lens\n¿Por qué se grabó esta actividad?\nSe guardó esta actividad en tu cuenta de Google porque estaban habilitadas las siguientes opciones de configuración: Historial de los servicios de la Búsqueda. Puedes controlar estas opciones de configuración aquí.",
+    "date_original": "26 sept 2026, 2:04:13 a.m. CST",
+    "time_local": "2026-09-26T02:04:13-06:00",
+    "time_utc": "2026-09-26T08:04:13+00:00",
+    "action": "Hiciste una búsqueda con Google Lens",
+    "url_original": null,
+    "url": null,
+    "kind": "visita",
+    "title_or_query": "Hiciste una búsqueda con Google Lens",
+    "classification_note": "Actividad de Lens; no demuestra verificación ni rapidez."
+  },
+  {
+    "source": "Mi actividad/Google Lens/MiActividad.html",
+    "record_index_1based": 3,
+    "html_line_1based": 33,
+    "html_column_0based": 1899,
+    "links": [
+      {
+        "url_original": "https://www.google.com/search?q=Melissa&lns_vert=1",
+        "text": "Melissa"
+      },
+      {
+        "url_original": "https://myaccount.google.com/activitycontrols",
+        "text": "aquí"
+      }
+    ],
+    "text_original": "Google Lens\nBuscaste Melissa\n27 ago 2026, 6:10:31 a.m. CST\nProductos:\nGoogle Lens\n¿Por qué se grabó esta actividad?\nSe guardó esta actividad en tu cuenta de Google porque estaban habilitadas las siguientes opciones de configuración: Historial de los servicios de la Búsqueda. Puedes controlar estas opciones de configuración aquí.",
+    "date_original": "27 ago 2026, 6:10:31 a.m. CST",
+    "time_local": "2026-08-27T06:10:31-06:00",
+    "time_utc": "2026-08-27T12:10:31+00:00",
+    "action": "Buscaste Melissa",
+    "url_original": "https://www.google.com/search?q=Melissa&lns_vert=1",
+    "url": "https://www.google.com/search?q=Melissa&lns_vert=1",
+    "kind": "consulta",
+    "title_or_query": "Melissa",
+    "classification_note": "Actividad de Lens; no demuestra verificación ni rapidez."
+  },
+  {
+    "source": "Mi actividad/Google Lens/MiActividad.html",
+    "record_index_1based": 4,
+    "html_line_1based": 33,
+    "html_column_0based": 2875,
+    "links": [
+      {
+        "url_original": "https://www.google.com/search?q=si&lns_vert=1",
+        "text": "si"
+      },
+      {
+        "url_original": "https://myaccount.google.com/activitycontrols",
+        "text": "aquí"
+      }
+    ],
+    "text_original": "Google Lens\nBuscaste si\n27 ago 2026, 6:10:20 a.m. CST\nProductos:\nGoogle Lens\n¿Por qué se grabó esta actividad?\nSe guardó esta actividad en tu cuenta de Google porque estaban habilitadas las siguientes opciones de configuración: Historial de los servicios de la Búsqueda. Puedes controlar estas opciones de configuración aquí.",
+    "date_original": "27 ago 2026, 6:10:20 a.m. CST",
+    "time_local": "2026-08-27T06:10:20-06:00",
+    "time_utc": "2026-08-27T12:10:20+00:00",
+    "action": "Buscaste si",
+    "url_original": "https://www.google.com/search?q=si&lns_vert=1",
+    "url": "https://www.google.com/search?q=si&lns_vert=1",
+    "kind": "consulta",
+    "title_or_query": "si",
+    "classification_note": "Actividad de Lens; no demuestra verificación ni rapidez."
+  },
+  {
+    "source": "Mi actividad/Google Lens/MiActividad.html",
+    "record_index_1based": 5,
+    "html_line_1based": 33,
+    "html_column_0based": 3841,
+    "links": [
+      {
+        "url_original": "https://www.google.com/search?q=repasaba&lns_vert=1",
+        "text": "repasaba"
+      },
+      {
+        "url_original": "https://myaccount.google.com/activitycontrols",
+        "text": "aquí"
+      }
+    ],
+    "text_original": "Google Lens\nBuscaste repasaba\n27 ago 2026, 6:10:12 a.m. CST\nProductos:\nGoogle Lens\n¿Por qué se grabó esta actividad?\nSe guardó esta actividad en tu cuenta de Google porque estaban habilitadas las siguientes opciones de configuración: Historial de los servicios de la Búsqueda. Puedes controlar estas opciones de configuración aquí.",
+    "date_original": "27 ago 2026, 6:10:12 a.m. CST",
+    "time_local": "2026-08-27T06:10:12-06:00",
+    "time_utc": "2026-08-27T12:10:12+00:00",
+    "action": "Buscaste repasaba",
+    "url_original": "https://www.google.com/search?q=repasaba&lns_vert=1",
+    "url": "https://www.google.com/search?q=repasaba&lns_vert=1",
+    "kind": "consulta",
+    "title_or_query": "repasaba",
+    "classification_note": "Actividad de Lens; no demuestra verificación ni rapidez."
+  },
+  {
+    "source": "Mi actividad/Google Lens/MiActividad.html",
+    "record_index_1based": 6,
+    "html_line_1based": 33,
+    "html_column_0based": 4819,
+    "links": [
+      {
+        "url_original": "https://www.google.com/search?q=hab%C3%ADa&lns_vert=1",
+        "text": "había"
+      },
+      {
+        "url_original": "https://myaccount.google.com/activitycontrols",
+        "text": "aquí"
+      }
+    ],
+    "text_original": "Google Lens\nBuscaste había\n27 ago 2026, 6:10:11 a.m. CST\nProductos:\nGoogle Lens\n¿Por qué se grabó esta actividad?\nSe guardó esta actividad en tu cuenta de Google porque estaban habilitadas las siguientes opciones de configuración: Historial de los servicios de la Búsqueda. Puedes controlar estas opciones de configuración aquí.",
+    "date_original": "27 ago 2026, 6:10:11 a.m. CST",
+    "time_local": "2026-08-27T06:10:11-06:00",
+    "time_utc": "2026-08-27T12:10:11+00:00",
+    "action": "Buscaste había",
+    "url_original": "https://www.google.com/search?q=hab%C3%ADa&lns_vert=1",
+    "url": "https://www.google.com/search?q=hab%C3%ADa&lns_vert=1",
+    "kind": "consulta",
+    "title_or_query": "había",
+    "classification_note": "Actividad de Lens; no demuestra verificación ni rapidez."
+  },
+  {
+    "source": "Mi actividad/Google Lens/MiActividad.html",
+    "record_index_1based": 7,
+    "html_line_1based": 33,
+    "html_column_0based": 5796,
+    "links": [
+      {
+        "url_original": "https://myaccount.google.com/activitycontrols",
+        "text": "aquí"
+      }
+    ],
+    "text_original": "Google Lens\nHiciste una búsqueda con Google Lens\n27 ago 2026, 6:10:04 a.m. CST\nProductos:\nGoogle Lens\n¿Por qué se grabó esta actividad?\nSe guardó esta actividad en tu cuenta de Google porque estaban habilitadas las siguientes opciones de configuración: Guardar contenido multimedia. Puedes controlar estas opciones de configuración aquí.",
+    "date_original": "27 ago 2026, 6:10:04 a.m. CST",
+    "time_local": "2026-08-27T06:10:04-06:00",
+    "time_utc": "2026-08-27T12:10:04+00:00",
+    "action": "Hiciste una búsqueda con Google Lens",
+    "url_original": null,
+    "url": null,
+    "kind": "visita",
+    "title_or_query": "Hiciste una búsqueda con Google Lens",
+    "classification_note": "Actividad de Lens; no demuestra verificación ni rapidez."
+  },
+  {
+    "source": "Mi actividad/Google Lens/MiActividad.html",
+    "record_index_1based": 8,
+    "html_line_1based": 33,
+    "html_column_0based": 6779,
+    "links": [
+      {
+        "url_original": "https://myaccount.google.com/activitycontrols",
+        "text": "aquí"
+      }
+    ],
+    "text_original": "Google Lens\nHiciste una búsqueda con Google Lens\n27 ago 2026, 6:09:47 a.m. CST\nProductos:\nGoogle Lens\n¿Por qué se grabó esta actividad?\nSe guardó esta actividad en tu cuenta de Google porque estaban habilitadas las siguientes opciones de configuración: Historial de los servicios de la Búsqueda. Puedes controlar estas opciones de configuración aquí.",
+    "date_original": "27 ago 2026, 6:09:47 a.m. CST",
+    "time_local": "2026-08-27T06:09:47-06:00",
+    "time_utc": "2026-08-27T12:09:47+00:00",
+    "action": "Hiciste una búsqueda con Google Lens",
+    "url_original": null,
+    "url": null,
+    "kind": "visita",
+    "title_or_query": "Hiciste una búsqueda con Google Lens",
+    "classification_note": "Actividad de Lens; no demuestra verificación ni rapidez."
+  },
+  {
+    "source": "Mi actividad/Google Lens/MiActividad.html",
+    "record_index_1based": 9,
+    "html_line_1based": 33,
+    "html_column_0based": 7706,
+    "links": [
+      {
+        "url_original": "https://myaccount.google.com/activitycontrols",
+        "text": "aquí"
+      }
+    ],
+    "text_original": "Google Lens\nHiciste una búsqueda con Google Lens\n27 ago 2026, 6:08:15 a.m. CST\nProductos:\nGoogle Lens\n¿Por qué se grabó esta actividad?\nSe guardó esta actividad en tu cuenta de Google porque estaban habilitadas las siguientes opciones de configuración: Guardar contenido multimedia. Puedes controlar estas opciones de configuración aquí.",
+    "date_original": "27 ago 2026, 6:08:15 a.m. CST",
+    "time_local": "2026-08-27T06:08:15-06:00",
+    "time_utc": "2026-08-27T12:08:15+00:00",
+    "action": "Hiciste una búsqueda con Google Lens",
+    "url_original": null,
+    "url": null,
+    "kind": "visita",
+    "title_or_query": "Hiciste una búsqueda con Google Lens",
+    "classification_note": "Actividad de Lens; no demuestra verificación ni rapidez."
+  },
+  {
+    "source": "Mi actividad/Google Lens/MiActividad.html",
+    "record_index_1based": 10,
+    "html_line_1based": 33,
+    "html_column_0based": 8689,
+    "links": [
+      {
+        "url_original": "https://myaccount.google.com/activitycontrols",
+        "text": "aquí"
+      }
+    ],
+    "text_original": "Google Lens\nHiciste una búsqueda con Google Lens\n27 ago 2026, 6:08:15 a.m. CST\nProductos:\nGoogle Lens\n¿Por qué se grabó esta actividad?\nSe guardó esta actividad en tu cuenta de Google porque estaban habilitadas las siguientes opciones de configuración: Historial de los servicios de la Búsqueda. Puedes controlar estas opciones de configuración aquí.",
+    "date_original": "27 ago 2026, 6:08:15 a.m. CST",
+    "time_local": "2026-08-27T06:08:15-06:00",
+    "time_utc": "2026-08-27T12:08:15+00:00",
+    "action": "Hiciste una búsqueda con Google Lens",
+    "url_original": null,
+    "url": null,
+    "kind": "visita",
+    "title_or_query": "Hiciste una búsqueda con Google Lens",
+    "classification_note": "Actividad de Lens; no demuestra verificación ni rapidez."
+  },
+  {
+    "source": "Mi actividad/Google Lens/MiActividad.html",
+    "record_index_1based": 11,
+    "html_line_1based": 33,
+    "html_column_0based": 9616,
+    "links": [
+      {
+        "url_original": "https://myaccount.google.com/activitycontrols",
+        "text": "aquí"
+      }
+    ],
+    "text_original": "Google Lens\nHiciste una búsqueda con Google Lens\n27 ago 2026, 6:08:15 a.m. CST\nProductos:\nGoogle Lens\n¿Por qué se grabó esta actividad?\nSe guardó esta actividad en tu cuenta de Google porque estaban habilitadas las siguientes opciones de configuración: Historial de los servicios de la Búsqueda. Puedes controlar estas opciones de configuración aquí.",
+    "date_original": "27 ago 2026, 6:08:15 a.m. CST",
+    "time_local": "2026-08-27T06:08:15-06:00",
+    "time_utc": "2026-08-27T12:08:15+00:00",
+    "action": "Hiciste una búsqueda con Google Lens",
+    "url_original": null,
+    "url": null,
+    "kind": "visita",
+    "title_or_query": "Hiciste una búsqueda con Google Lens",
+    "classification_note": "Actividad de Lens; no demuestra verificación ni rapidez."
+  },
+  {
+    "source": "Mi actividad/Google Lens/MiActividad.html",
+    "record_index_1based": 12,
+    "html_line_1based": 33,
+    "html_column_0based": 10543,
+    "links": [
+      {
+        "url_original": "https://myaccount.google.com/activitycontrols",
+        "text": "aquí"
+      }
+    ],
+    "text_original": "Google Lens\nHiciste una búsqueda con Google Lens\n27 ago 2026, 6:07:57 a.m. CST\nProductos:\nGoogle Lens\n¿Por qué se grabó esta actividad?\nSe guardó esta actividad en tu cuenta de Google porque estaban habilitadas las siguientes opciones de configuración: Guardar contenido multimedia. Puedes controlar estas opciones de configuración aquí.",
+    "date_original": "27 ago 2026, 6:07:57 a.m. CST",
+    "time_local": "2026-08-27T06:07:57-06:00",
+    "time_utc": "2026-08-27T12:07:57+00:00",
+    "action": "Hiciste una búsqueda con Google Lens",
+    "url_original": null,
+    "url": null,
+    "kind": "visita",
+    "title_or_query": "Hiciste una búsqueda con Google Lens",
+    "classification_note": "Actividad de Lens; no demuestra verificación ni rapidez."
+  },
+  {
+    "source": "Mi actividad/Google Lens/MiActividad.html",
+    "record_index_1based": 13,
+    "html_line_1based": 33,
+    "html_column_0based": 11526,
+    "links": [
+      {
+        "url_original": "https://myaccount.google.com/activitycontrols",
+        "text": "aquí"
+      }
+    ],
+    "text_original": "Google Lens\nHiciste una búsqueda con Google Lens\n27 ago 2026, 6:07:43 a.m. CST\nProductos:\nGoogle Lens\n¿Por qué se grabó esta actividad?\nSe guardó esta actividad en tu cuenta de Google porque estaban habilitadas las siguientes opciones de configuración: Historial de los servicios de la Búsqueda. Puedes controlar estas opciones de configuración aquí.",
+    "date_original": "27 ago 2026, 6:07:43 a.m. CST",
+    "time_local": "2026-08-27T06:07:43-06:00",
+    "time_utc": "2026-08-27T12:07:43+00:00",
+    "action": "Hiciste una búsqueda con Google Lens",
+    "url_original": null,
+    "url": null,
+    "kind": "visita",
+    "title_or_query": "Hiciste una búsqueda con Google Lens",
+    "classification_note": "Actividad de Lens; no demuestra verificación ni rapidez."
+  },
+  {
+    "source": "Mi actividad/Google Lens/MiActividad.html",
+    "record_index_1based": 14,
+    "html_line_1based": 33,
+    "html_column_0based": 12453,
+    "links": [
+      {
+        "url_original": "https://myaccount.google.com/activitycontrols",
+        "text": "aquí"
+      }
+    ],
+    "text_original": "Google Lens\nHiciste una búsqueda con Google Lens\n27 ago 2026, 6:07:43 a.m. CST\nProductos:\nGoogle Lens\n¿Por qué se grabó esta actividad?\nSe guardó esta actividad en tu cuenta de Google porque estaban habilitadas las siguientes opciones de configuración: Historial de los servicios de la Búsqueda. Puedes controlar estas opciones de configuración aquí.",
+    "date_original": "27 ago 2026, 6:07:43 a.m. CST",
+    "time_local": "2026-08-27T06:07:43-06:00",
+    "time_utc": "2026-08-27T12:07:43+00:00",
+    "action": "Hiciste una búsqueda con Google Lens",
+    "url_original": null,
+    "url": null,
+    "kind": "visita",
+    "title_or_query": "Hiciste una búsqueda con Google Lens",
+    "classification_note": "Actividad de Lens; no demuestra verificación ni rapidez."
+  },
+  {
+    "source": "Chrome/Historial.json",
+    "record_index_1based": 44,
+    "json_pointer": "/Browser History/43",
+    "kind": "visita",
+    "title_or_query": "Verifica que eres tú",
+    "time_local": "2026-09-26T22:33:14.214568-06:00",
+    "time_utc": "2026-09-27T04:33:14.214568+00:00",
+    "url": "https://accounts.google.com/v3/signin/challenge/pwd?TL=ADG-GRQEmaaYz_mrS5NmD6mjFObHewy9R_g4kcX3CKnwYJehYCajmbHv1D5O76UQ&authuser=0&cid=5&continue=https%3A%2F%2Fpasswords.google.com%2Fpassword%2F4CwTDiMnm7hNpLFmzRQQbdx1RSTWw9lIaRa5DTE7LJk%253D%3Fep%3D1%26f.sid%3D1196991881438944334%26bnt%3D1&dsh=S-1371773724%3A1790483587665110&flowName=GlifWebSignIn&hl=es-419&kdi=CAMiDAoKY2hyb21lc3luYw&rart=ANgoxcedmqnhgNUB7tbFlpGIJu7oSQwflseXNgwE9a9xBADIAWWnSa1LsDlAqvgjLGqLx0aGq75xd74poCTeypmyagSRv4pMfJG3s1SIB4g06UN66tBaiW8&sarp=1&scc=1",
+    "url_original": "https://accounts.google.com/v3/signin/challenge/pwd?TL=ADG-GRQEmaaYz_mrS5NmD6mjFObHewy9R_g4kcX3CKnwYJehYCajmbHv1D5O76UQ&authuser=0&cid=5&continue=https%3A%2F%2Fpasswords.google.com%2Fpassword%2F4CwTDiMnm7hNpLFmzRQQbdx1RSTWw9lIaRa5DTE7LJk%253D%3Fep%3D1%26f.sid%3D1196991881438944334%26bnt%3D1&dsh=S-1371773724%3A1790483587665110&flowName=GlifWebSignIn&hl=es-419&kdi=CAMiDAoKY2hyb21lc3luYw&rart=ANgoxcedmqnhgNUB7tbFlpGIJu7oSQwflseXNgwE9a9xBADIAWWnSa1LsDlAqvgjLGqLx0aGq75xd74poCTeypmyagSRv4pMfJG3s1SIB4g06UN66tBaiW8&sarp=1&scc=1",
+    "classification_note": "Corrobora la pantalla registrada en actividad Chrome, sin identificar una imagen."
+  }
+]

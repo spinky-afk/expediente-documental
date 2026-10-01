@@ -1,0 +1,566 @@
+{
+  "checked_at_utc": "2026-10-01T14:40:51.226683+00:00",
+  "root": "/home/deep-logic/Documentos",
+  "images_read": 289,
+  "formats": {
+    "JPEG": 76,
+    "PNG": 212,
+    "WEBP": 1
+  },
+  "images_with_exif": 1,
+  "google_images": 5,
+  "facebook_images": 284,
+  "google_photos_directory_found": false,
+  "google_photos_sidecars_found": [],
+  "identical_pixel_groups": [
+    {
+      "pixels_sha256": "9f632237cc4c395b2cc23416b3b77717423a67a969070dae9d3d9956b8ce981d",
+      "files": [
+        "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Google Lens/2026-08-27_12_07_57_875_UTC.jpg",
+        "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Google Lens/2026-08-27_12_08_15_873_UTC.jpg"
+      ],
+      "different_binary_hashes": false,
+      "different_exif": false
+    },
+    {
+      "pixels_sha256": "ba843daefec17835d1914057426ad9f30a9256f28776440ab579db48e7382f2b",
+      "files": [
+        "/home/deep-logic/Documentos/facebook/files/1112271417578486",
+        "/home/deep-logic/Documentos/facebook/files/2640889919623712"
+      ],
+      "different_binary_hashes": false,
+      "different_exif": false
+    },
+    {
+      "pixels_sha256": "50304c76526ee461c4fed96f06c649900dbfb4013b7ff9f563b0673ce3f1f589",
+      "files": [
+        "/home/deep-logic/Documentos/facebook/files/1128927159194059",
+        "/home/deep-logic/Documentos/facebook/files/1399161208613348",
+        "/home/deep-logic/Documentos/facebook/files/3369146739904155",
+        "/home/deep-logic/Documentos/facebook/files/856156100616503"
+      ],
+      "different_binary_hashes": false,
+      "different_exif": false
+    },
+    {
+      "pixels_sha256": "276de039537e115d6557c42d4301ff791dbf250b50020c78f604071d66321636",
+      "files": [
+        "/home/deep-logic/Documentos/facebook/files/1157675989888852",
+        "/home/deep-logic/Documentos/facebook/files/1246402840709358",
+        "/home/deep-logic/Documentos/facebook/files/1625030858658467"
+      ],
+      "different_binary_hashes": false,
+      "different_exif": false
+    },
+    {
+      "pixels_sha256": "312ff6e89aa00b91d7b2d469168348a3149f7a728a4ab02b598e248d87e9feb2",
+      "files": [
+        "/home/deep-logic/Documentos/facebook/files/1157737912868616",
+        "/home/deep-logic/Documentos/facebook/files/1198882812351286"
+      ],
+      "different_binary_hashes": false,
+      "different_exif": false
+    },
+    {
+      "pixels_sha256": "90a7ebe03a24a8bfe85f713d71494765400a9bebf04a2bb4eeec181afbff95b0",
+      "files": [
+        "/home/deep-logic/Documentos/facebook/files/1159520319388788",
+        "/home/deep-logic/Documentos/facebook/files/1610016810132679",
+        "/home/deep-logic/Documentos/facebook/files/25101226489557250"
+      ],
+      "different_binary_hashes": false,
+      "different_exif": false
+    },
+    {
+      "pixels_sha256": "253eea2040ae297f26e1fb09f90cb656914e4245f8d36b40a2c7585a8e7b70f4",
+      "files": [
+        "/home/deep-logic/Documentos/facebook/files/1174203798216882",
+        "/home/deep-logic/Documentos/facebook/files/1417589243326447",
+        "/home/deep-logic/Documentos/facebook/files/33626569973655541"
+      ],
+      "different_binary_hashes": false,
+      "different_exif": false
+    },
+    {
+      "pixels_sha256": "2c784e846dea7acee5ad64051e04d87e86d39acb897b032f678e8f463a214c00",
+      "files": [
+        "/home/deep-logic/Documentos/facebook/files/1178164374076666",
+        "/home/deep-logic/Documentos/facebook/files/1185652157017386"
+      ],
+      "different_binary_hashes": false,
+      "different_exif": false
+    },
+    {
+      "pixels_sha256": "e1aee12c9e11cef307030b91af39460d46bca5f02fe1ec05463676bcaf6589ef",
+      "files": [
+        "/home/deep-logic/Documentos/facebook/files/1192646836373969",
+        "/home/deep-logic/Documentos/facebook/files/895435149736961"
+      ],
+      "different_binary_hashes": false,
+      "different_exif": false
+    },
+    {
+      "pixels_sha256": "ccb9bfc1d5c53a1fb73f14a3a15af319fde3bb60bf1d44f038cc2ac8b4580d4a",
+      "files": [
+        "/home/deep-logic/Documentos/facebook/files/1194368069449118",
+        "/home/deep-logic/Documentos/facebook/files/1431611905001746",
+        "/home/deep-logic/Documentos/facebook/files/896372993358858"
+      ],
+      "different_binary_hashes": false,
+      "different_exif": false
+    },
+    {
+      "pixels_sha256": "059cff5d4228a78e349f8a9067c10a88b8a6dc5a7b3314b47e4e8dded7b7660f",
+      "files": [
+        "/home/deep-logic/Documentos/facebook/files/1198803571908961",
+        "/home/deep-logic/Documentos/facebook/files/1420229116266986",
+        "/home/deep-logic/Documentos/facebook/files/1421653792648709",
+        "/home/deep-logic/Documentos/facebook/files/25468660066151192"
+      ],
+      "different_binary_hashes": false,
+      "different_exif": false
+    },
+    {
+      "pixels_sha256": "34b5b29bb5982fb429e05927be0a679567669d9b69b8d5285fe33f843c5800ba",
+      "files": [
+        "/home/deep-logic/Documentos/facebook/files/1208451014775124",
+        "/home/deep-logic/Documentos/facebook/files/1586915565793261",
+        "/home/deep-logic/Documentos/facebook/files/890355283374801",
+        "/home/deep-logic/Documentos/facebook/files/940579998544516"
+      ],
+      "different_binary_hashes": false,
+      "different_exif": false
+    },
+    {
+      "pixels_sha256": "9643eb8b06b60b63d4817a22524d86e2e8e31dcbcaeca300abdd893fc17471ce",
+      "files": [
+        "/home/deep-logic/Documentos/facebook/files/1209866937778331",
+        "/home/deep-logic/Documentos/facebook/files/1215087620206613",
+        "/home/deep-logic/Documentos/facebook/files/1234149925476765",
+        "/home/deep-logic/Documentos/facebook/files/883717971089135"
+      ],
+      "different_binary_hashes": false,
+      "different_exif": false
+    },
+    {
+      "pixels_sha256": "0c190cca2e38d0047b22780ade5a4cb11dec5375c70d54a0f0210f0511863bc7",
+      "files": [
+        "/home/deep-logic/Documentos/facebook/files/1214264933494266",
+        "/home/deep-logic/Documentos/facebook/files/1218741982973468",
+        "/home/deep-logic/Documentos/facebook/files/1561958158388373"
+      ],
+      "different_binary_hashes": false,
+      "different_exif": false
+    },
+    {
+      "pixels_sha256": "9770b740fec0a9a93c5eb1955d20ee65b710b521831a9ff41cc2d76a2598461a",
+      "files": [
+        "/home/deep-logic/Documentos/facebook/files/1216402210684910",
+        "/home/deep-logic/Documentos/facebook/files/2697331350614827",
+        "/home/deep-logic/Documentos/facebook/files/900666822418570"
+      ],
+      "different_binary_hashes": false,
+      "different_exif": false
+    },
+    {
+      "pixels_sha256": "5ffe2b3c384f707244a27fc51d9b33be89d3c2c9204a8e910adba65fe64f8abc",
+      "files": [
+        "/home/deep-logic/Documentos/facebook/files/1222202869834729",
+        "/home/deep-logic/Documentos/facebook/files/1540445583912440",
+        "/home/deep-logic/Documentos/facebook/files/1788573085168322"
+      ],
+      "different_binary_hashes": false,
+      "different_exif": false
+    },
+    {
+      "pixels_sha256": "2fb974002e29a778b6850307eabcbacf209767f46424d873d34cc08a0da7a5e7",
+      "files": [
+        "/home/deep-logic/Documentos/facebook/files/1238525761067206",
+        "/home/deep-logic/Documentos/facebook/files/1243270431058703",
+        "/home/deep-logic/Documentos/facebook/files/1393292975827741"
+      ],
+      "different_binary_hashes": false,
+      "different_exif": false
+    },
+    {
+      "pixels_sha256": "3237f3fc79b62709702e3406f8f5b82fa06383a389452932220238cce9995d90",
+      "files": [
+        "/home/deep-logic/Documentos/facebook/files/1239824751577626",
+        "/home/deep-logic/Documentos/facebook/files/1656567642356614",
+        "/home/deep-logic/Documentos/facebook/files/862706726390146"
+      ],
+      "different_binary_hashes": false,
+      "different_exif": false
+    },
+    {
+      "pixels_sha256": "a6c318d029909929bcb92eb5f50e29f6419d2d8611507a6f44aac5c6ab4d386c",
+      "files": [
+        "/home/deep-logic/Documentos/facebook/files/1241060824841022",
+        "/home/deep-logic/Documentos/facebook/files/2706440746371521"
+      ],
+      "different_binary_hashes": false,
+      "different_exif": false
+    },
+    {
+      "pixels_sha256": "2e32770989485c744546177111a155c2039b13d206dd191d28faa20a9253b6a7",
+      "files": [
+        "/home/deep-logic/Documentos/facebook/files/1244180177629571",
+        "/home/deep-logic/Documentos/facebook/files/1595284381899049",
+        "/home/deep-logic/Documentos/facebook/files/1599048548212623"
+      ],
+      "different_binary_hashes": false,
+      "different_exif": false
+    },
+    {
+      "pixels_sha256": "82cedebffb829c4538eb4dc3cab2465aa038b88349c99bdd12c59aba6a7b0b87",
+      "files": [
+        "/home/deep-logic/Documentos/facebook/files/1248334563883762",
+        "/home/deep-logic/Documentos/facebook/files/1448372216703850",
+        "/home/deep-logic/Documentos/facebook/files/1602443187443963"
+      ],
+      "different_binary_hashes": false,
+      "different_exif": false
+    },
+    {
+      "pixels_sha256": "8dc0d4c0dd7c3306bd6e9349c4f9d919d1f26dae094aad1bf289ce744b5a41f8",
+      "files": [
+        "/home/deep-logic/Documentos/facebook/files/1274879134465951",
+        "/home/deep-logic/Documentos/facebook/files/1564554291576072"
+      ],
+      "different_binary_hashes": false,
+      "different_exif": false
+    },
+    {
+      "pixels_sha256": "11df8c6ae5575a8e6ccb63c6a150ef1ff58a0199dd3dd5e38c3b2c4402ea0046",
+      "files": [
+        "/home/deep-logic/Documentos/facebook/files/1317040873803105",
+        "/home/deep-logic/Documentos/facebook/files/676462852128667"
+      ],
+      "different_binary_hashes": false,
+      "different_exif": false
+    },
+    {
+      "pixels_sha256": "0ffca6e7b672970bbced6b968e5d289c93737ba3391492ce4554dfc838f7f7cc",
+      "files": [
+        "/home/deep-logic/Documentos/facebook/files/1339846637898875",
+        "/home/deep-logic/Documentos/facebook/files/25790187820668338"
+      ],
+      "different_binary_hashes": false,
+      "different_exif": false
+    },
+    {
+      "pixels_sha256": "476283824e9031a70fc0b4f2be2ff592a7507f81a99a151e364a495c90ebc666",
+      "files": [
+        "/home/deep-logic/Documentos/facebook/files/1368734645292613",
+        "/home/deep-logic/Documentos/facebook/files/1549342919677886",
+        "/home/deep-logic/Documentos/facebook/files/2000843287447007"
+      ],
+      "different_binary_hashes": false,
+      "different_exif": false
+    },
+    {
+      "pixels_sha256": "3e176e6bf02187b2815a92abd440ca0b4ab119dcded38f012a87534a21c9c248",
+      "files": [
+        "/home/deep-logic/Documentos/facebook/files/1382435112982925",
+        "/home/deep-logic/Documentos/facebook/files/2137197337050924"
+      ],
+      "different_binary_hashes": false,
+      "different_exif": false
+    },
+    {
+      "pixels_sha256": "5bbb7f6b2da960504ddd59a8f51ded8c537950dc606a8cb15028c384c3cf0050",
+      "files": [
+        "/home/deep-logic/Documentos/facebook/files/1394154892503740",
+        "/home/deep-logic/Documentos/facebook/files/2240317063128880",
+        "/home/deep-logic/Documentos/facebook/files/741193658655076"
+      ],
+      "different_binary_hashes": false,
+      "different_exif": false
+    },
+    {
+      "pixels_sha256": "ecd4a11a83b67bcd403f9c8c58239315532ca5922293e87479887869d2297e73",
+      "files": [
+        "/home/deep-logic/Documentos/facebook/files/1398158785141723",
+        "/home/deep-logic/Documentos/facebook/files/859086470339439"
+      ],
+      "different_binary_hashes": false,
+      "different_exif": false
+    },
+    {
+      "pixels_sha256": "90d83ba7bab2b6cb33a0b2d6af29a115ebdad609c9cacd02295ab46ff2134541",
+      "files": [
+        "/home/deep-logic/Documentos/facebook/files/1404164994693292",
+        "/home/deep-logic/Documentos/facebook/files/1407215390911476",
+        "/home/deep-logic/Documentos/facebook/files/1544099026870216"
+      ],
+      "different_binary_hashes": false,
+      "different_exif": false
+    },
+    {
+      "pixels_sha256": "b287ce987ce57290bb78e61f30d82c726ecc4a36a29f342a5695b644838aa626",
+      "files": [
+        "/home/deep-logic/Documentos/facebook/files/1408255047437654",
+        "/home/deep-logic/Documentos/facebook/files/2770637606613202",
+        "/home/deep-logic/Documentos/facebook/files/897909072727758"
+      ],
+      "different_binary_hashes": false,
+      "different_exif": false
+    },
+    {
+      "pixels_sha256": "38724bdf679e21081a843b22e03f0230e11128c61e6bfca8fec11573559f4afa",
+      "files": [
+        "/home/deep-logic/Documentos/facebook/files/1411052407340596",
+        "/home/deep-logic/Documentos/facebook/files/891047813504158"
+      ],
+      "different_binary_hashes": false,
+      "different_exif": false
+    },
+    {
+      "pixels_sha256": "75ee1e90353b2b6e5d43522ca6351f7b8bcaa32bb3875ae06430f4cf42c53675",
+      "files": [
+        "/home/deep-logic/Documentos/facebook/files/1411375273987362",
+        "/home/deep-logic/Documentos/facebook/files/729395726679882",
+        "/home/deep-logic/Documentos/facebook/files/729546426616273"
+      ],
+      "different_binary_hashes": false,
+      "different_exif": false
+    },
+    {
+      "pixels_sha256": "a5d5bbcdc7b291a31861325c843bfd059a54b2d7180a828ea323ac491c27d0a3",
+      "files": [
+        "/home/deep-logic/Documentos/facebook/files/1413067437166766",
+        "/home/deep-logic/Documentos/facebook/files/1661836604784460",
+        "/home/deep-logic/Documentos/facebook/files/2190595411344118",
+        "/home/deep-logic/Documentos/facebook/files/827378860282840"
+      ],
+      "different_binary_hashes": false,
+      "different_exif": false
+    },
+    {
+      "pixels_sha256": "04febad1f0f72cee35a8b7ba46e6c64130ee6f92e43a3e21f3f0c761e70174df",
+      "files": [
+        "/home/deep-logic/Documentos/facebook/files/1415646226717186",
+        "/home/deep-logic/Documentos/facebook/files/1565853204724831"
+      ],
+      "different_binary_hashes": false,
+      "different_exif": false
+    },
+    {
+      "pixels_sha256": "cc391197b6532be07b18c85aa4d8b9cd4e0aeb7122cdeca3e021562423d5d8d3",
+      "files": [
+        "/home/deep-logic/Documentos/facebook/files/1415802466788385",
+        "/home/deep-logic/Documentos/facebook/files/1935095807218376"
+      ],
+      "different_binary_hashes": false,
+      "different_exif": false
+    },
+    {
+      "pixels_sha256": "5a8867b6db4772d6f9fcf5f5b4dff3cf52817926c559d6f4f07ece7b759ef42a",
+      "files": [
+        "/home/deep-logic/Documentos/facebook/files/1416917272668262",
+        "/home/deep-logic/Documentos/facebook/files/774792362319781"
+      ],
+      "different_binary_hashes": false,
+      "different_exif": false
+    },
+    {
+      "pixels_sha256": "e6195c4c9b1cc27e686517788cf89bc7fc02703728357663fe488a7498ccf83d",
+      "files": [
+        "/home/deep-logic/Documentos/facebook/files/1433808644768137",
+        "/home/deep-logic/Documentos/facebook/files/1805020310207982"
+      ],
+      "different_binary_hashes": false,
+      "different_exif": false
+    },
+    {
+      "pixels_sha256": "b2af674e2531d5e46a849396f3674d6c268cbd4afae017b21c0ef1324e3b71b3",
+      "files": [
+        "/home/deep-logic/Documentos/facebook/files/1450412173759418",
+        "/home/deep-logic/Documentos/facebook/files/1809083186312948",
+        "/home/deep-logic/Documentos/facebook/files/899184585858583"
+      ],
+      "different_binary_hashes": false,
+      "different_exif": false
+    },
+    {
+      "pixels_sha256": "bc539c33f01fc0414f63519d092033d2fd510dfa5cd7efdd64222a1a06f97e01",
+      "files": [
+        "/home/deep-logic/Documentos/facebook/files/1487120876116670",
+        "/home/deep-logic/Documentos/facebook/files/2523911441342964"
+      ],
+      "different_binary_hashes": false,
+      "different_exif": false
+    },
+    {
+      "pixels_sha256": "486fac7eb9848fa7b04918d3e04a25f7ffc0f5cf8f11bf38a2b31a9a9cb82ad4",
+      "files": [
+        "/home/deep-logic/Documentos/facebook/files/1540823043882543",
+        "/home/deep-logic/Documentos/facebook/files/882156997761802",
+        "/home/deep-logic/Documentos/facebook/files/919199813777726"
+      ],
+      "different_binary_hashes": false,
+      "different_exif": false
+    },
+    {
+      "pixels_sha256": "4c7f20796fa45dc83499011f50f4a8ad2fdb40a79c24dfcb6ba097240ce27eda",
+      "files": [
+        "/home/deep-logic/Documentos/facebook/files/1541803987045936",
+        "/home/deep-logic/Documentos/facebook/files/2204634966731582"
+      ],
+      "different_binary_hashes": false,
+      "different_exif": false
+    },
+    {
+      "pixels_sha256": "3286611ba903936f48b57947188e0f11326f872899f7a34510f6a9426e675495",
+      "files": [
+        "/home/deep-logic/Documentos/facebook/files/1562144281703675",
+        "/home/deep-logic/Documentos/facebook/files/763328509572965"
+      ],
+      "different_binary_hashes": false,
+      "different_exif": false
+    },
+    {
+      "pixels_sha256": "501487f9b0c6bbdc1c1d95d99976c78d3532068a091c5be3af9473fd28b856c3",
+      "files": [
+        "/home/deep-logic/Documentos/facebook/files/1576385093563965",
+        "/home/deep-logic/Documentos/facebook/files/4803228433281129"
+      ],
+      "different_binary_hashes": false,
+      "different_exif": false
+    },
+    {
+      "pixels_sha256": "56dea15ac06436e9c3d70b60df6842d91a374df7ada77080485a2f60f18753db",
+      "files": [
+        "/home/deep-logic/Documentos/facebook/files/1585159712727524",
+        "/home/deep-logic/Documentos/facebook/files/876350831680980"
+      ],
+      "different_binary_hashes": false,
+      "different_exif": false
+    },
+    {
+      "pixels_sha256": "d167b0eb639ff356fdfa54694a56117eab3319be7031d855f3bd9f3ea5c87a48",
+      "files": [
+        "/home/deep-logic/Documentos/facebook/files/1626424805029987",
+        "/home/deep-logic/Documentos/facebook/files/2419063078549646",
+        "/home/deep-logic/Documentos/facebook/files/888922950558476"
+      ],
+      "different_binary_hashes": false,
+      "different_exif": false
+    },
+    {
+      "pixels_sha256": "3bee68d040611875b2c97343a5100ec5dedbfbb7ddea54d957131b5b619492b4",
+      "files": [
+        "/home/deep-logic/Documentos/facebook/files/1661411941904084",
+        "/home/deep-logic/Documentos/facebook/files/1729167981377275",
+        "/home/deep-logic/Documentos/facebook/files/4280519258902201",
+        "/home/deep-logic/Documentos/facebook/files/915818937793155"
+      ],
+      "different_binary_hashes": false,
+      "different_exif": false
+    },
+    {
+      "pixels_sha256": "09a0530aa88ea865da4a0a748e7d9e20dcf02bf6d46015742a6d3497eaef734d",
+      "files": [
+        "/home/deep-logic/Documentos/facebook/files/1783551372311098",
+        "/home/deep-logic/Documentos/facebook/files/25917563744571178",
+        "/home/deep-logic/Documentos/facebook/files/919255150771022"
+      ],
+      "different_binary_hashes": false,
+      "different_exif": false
+    },
+    {
+      "pixels_sha256": "30cb72e4206a13de2b575ca6e944ab52610bf2240536e787d4edebd7ae1a8c90",
+      "files": [
+        "/home/deep-logic/Documentos/facebook/files/1819278752101981",
+        "/home/deep-logic/Documentos/facebook/files/1832627617438784"
+      ],
+      "different_binary_hashes": false,
+      "different_exif": false
+    },
+    {
+      "pixels_sha256": "22c5afba977b5b52defcf87416dddf0d6012f0feff58e901f185fad9d8708e76",
+      "files": [
+        "/home/deep-logic/Documentos/facebook/files/1825697391474934",
+        "/home/deep-logic/Documentos/facebook/files/2207127873154341"
+      ],
+      "different_binary_hashes": false,
+      "different_exif": false
+    },
+    {
+      "pixels_sha256": "748f9af4b606714723d17ea34c8e563ef9b2e5c90b5e922875709aa4e73248c3",
+      "files": [
+        "/home/deep-logic/Documentos/facebook/files/2332152627290104",
+        "/home/deep-logic/Documentos/facebook/files/733607133140533",
+        "/home/deep-logic/Documentos/facebook/files/914117351271272"
+      ],
+      "different_binary_hashes": false,
+      "different_exif": false
+    },
+    {
+      "pixels_sha256": "4a122227c46a669fbf5368674ecf11906bf582abd53e05d3b7c8e2f9d1b64f26",
+      "files": [
+        "/home/deep-logic/Documentos/facebook/files/2337834616731153",
+        "/home/deep-logic/Documentos/facebook/files/4150692688517708"
+      ],
+      "different_binary_hashes": false,
+      "different_exif": false
+    },
+    {
+      "pixels_sha256": "f03709599f63cd4828ad92ddc08e3f40d83fcf47e75c2464017880aec71f73ac",
+      "files": [
+        "/home/deep-logic/Documentos/facebook/files/2393448161112971",
+        "/home/deep-logic/Documentos/facebook/files/26141041972181193"
+      ],
+      "different_binary_hashes": false,
+      "different_exif": false
+    },
+    {
+      "pixels_sha256": "915469a8bacd4d91c61eede6f935c0c48fc8dba7008fae6160790f41bc1bfe4c",
+      "files": [
+        "/home/deep-logic/Documentos/facebook/files/732805069587368",
+        "/home/deep-logic/Documentos/facebook/files/882284621077495"
+      ],
+      "different_binary_hashes": false,
+      "different_exif": false
+    },
+    {
+      "pixels_sha256": "f6831798f6e653d2decf202fb1c12bb99b2a11f8b22645f9ba2938e0d16fba6a",
+      "files": [
+        "/home/deep-logic/Documentos/facebook/files/737915862728760",
+        "/home/deep-logic/Documentos/facebook/files/911558414645946"
+      ],
+      "different_binary_hashes": false,
+      "different_exif": false
+    },
+    {
+      "pixels_sha256": "666e7e4f232603f5ce8cb7ef987044aff0635b8df0f1a306647d6857a891ca04",
+      "files": [
+        "/home/deep-logic/Documentos/facebook/files/809299462257235",
+        "/home/deep-logic/Documentos/facebook/files/848060121381111"
+      ],
+      "different_binary_hashes": false,
+      "different_exif": false
+    },
+    {
+      "pixels_sha256": "9f06ed7f1b579dd1d62b4fa9e72630f70ef4df279f67cd2969c5dd071b3b0c6a",
+      "files": [
+        "/home/deep-logic/Documentos/facebook/your_facebook_activity/messages/inbox/soymason_28808961795357693/photos/1502617170837992.png",
+        "/home/deep-logic/Documentos/facebook/your_facebook_activity/messages/inbox/uneternoaprendiz_9189181051139059/photos/874627608776550.png"
+      ],
+      "different_binary_hashes": false,
+      "different_exif": false
+    },
+    {
+      "pixels_sha256": "7a12094923532954cd0f25ce408ea4c762f997dfc2deb2cb525c7dfc72c8a982",
+      "files": [
+        "/home/deep-logic/Documentos/facebook/your_facebook_activity/messages/inbox/soymason_28808961795357693/photos/2078636742921937.png",
+        "/home/deep-logic/Documentos/facebook/your_facebook_activity/messages/inbox/uneternoaprendiz_9189181051139059/photos/1281392247169982.png"
+      ],
+      "different_binary_hashes": false,
+      "different_exif": false
+    }
+  ],
+  "errors": [],
+  "business_association": "No demostrada por cambios de metadatos. No hay pares originales/Google Fotos documentados para comparar.",
+  "originals_unchanged": true
+}

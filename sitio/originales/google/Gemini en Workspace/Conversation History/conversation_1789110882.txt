@@ -1,0 +1,25 @@
+{
+ "conversation_turns": [
+  {
+   "user_turn": {
+    "prompt": "No veo nada como se que estás ocutlot",
+    "turn_index": 0,
+    "turn_last_modified": "2026-09-11T07:14:42.585903+00:00"
+   }
+  },
+  {
+   "system_turn": {
+    "text": [
+     {
+      "data": "Aquí estoy para ayudarte. Soy Gemini, un asistente de inteligencia artificial integrado en Google Workspace diseñado para colaborar contigo en tus tareas diarias.  \n  \nSi no visualizas mi panel o mis funciones, puedes verificar mi presencia de la siguiente manera:\n\n  - **Busca el icono:** En la esquina superior derecha de tus aplicaciones (como Google Drive, Docs o Gmail), deberías ver el icono de Gemini (una estrella de cuatro puntas). Haz clic en él para abrir el panel de \"Pregunta a Gemini\".\n  - **Interacción directa:** Puedes escribirme instrucciones para que te ayude a resumir documentos, encontrar archivos específicos en tu Drive o redactar correos.\n\nSi el icono no aparece, es posible que necesites contactar al administrador de tu cuenta de Google Workspace para asegurarte de que las funciones de IA estén habilitadas para ti.  \n  \n¿Te gustaría que te ayude a encontrar algún archivo o a resumir el contenido de una carpeta en tu Drive?"
+     }
+    ],
+    "turn_index": 1,
+    "turn_last_modified": "2026-09-11T07:14:42.585903+00:00"
+   }
+  }
+ ],
+ "creation_time": "2026-09-11T07:14:42.585903+00:00",
+ "last_modification_time": "2026-09-11T07:14:42.585903+00:00",
+ "title": "No veo nada como se que estás ocutlot"
+}

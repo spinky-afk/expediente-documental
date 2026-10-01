@@ -1,0 +1,31 @@
+{
+  "original_copies_verified": 844,
+  "encrypted_files_restored_in_memory": 4,
+  "private_key_leaks": [],
+  "external_navigation_in_site_pages": [],
+  "missing_local_links": [],
+  "anchored_observations": 24480,
+  "missing_anchors_count": 0,
+  "missing_anchor_samples": [],
+  "javascript_blocks_checked": 3,
+  "pdf_link_annotations": 51674,
+  "pdf_external_or_machine_specific_links": [],
+  "account": {
+    "updated_at_utc": "2026-10-01T15:29:00.904637+00:00",
+    "preferred_account_name": "spinky-afk",
+    "account_created": true,
+    "github_connected": false,
+    "remote_repository": null,
+    "repository_required_visibility": "private",
+    "site_publication": "pending",
+    "pages_enabled": false,
+    "raw_originals": 845,
+    "plain_originals": 844,
+    "encrypted_originals": 1,
+    "timeline_observations": 26871,
+    "timeline_sources": 482,
+    "known_private_key_files_encrypted": 4
+  },
+  "pdf_timeline_complete_and_ordered": true,
+  "letter_text_complete_in_pdf": true
+}

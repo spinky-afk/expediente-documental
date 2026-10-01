@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Emergencias
+N:Emergencias;;;;
+NICKNAME:
+item1.TEL:911
+item1.X-ABLabel:Celular
+END:VCARD

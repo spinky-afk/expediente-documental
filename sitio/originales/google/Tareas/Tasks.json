@@ -1,0 +1,40 @@
+{
+  "kind": "tasks#taskLists",
+  "account_data": {
+    "starred_view_last_used_sort_order_on_web": "deadline",
+    "kind": "tasks#account_data"
+  },
+  "items": [{
+    "visibility_on_web_fullscreen": "VISIBLE",
+    "create_time": "2025-10-18T20:28:26.137178Z",
+    "kind": "tasks#tasks",
+    "last_used_sort_order_on_web": "manual",
+    "id": "MDA3NzcxNDM3NDcxNzQwODU2Mjk6MDow",
+    "title": "Mis tareas",
+    "updated": "2026-09-26T17:27:24.303679Z",
+    "items": [
+      {
+        "kind": "tasks#task",
+        "created": "2026-09-26T17:15:21.631224Z",
+        "id": "ZGJrb1FRZTVrQWZmNWZqYQ",
+        "title": "",
+        "task_type": "PERSONAL_TASK",
+        "updated": "2026-09-26T17:27:23.218607Z",
+        "selfLink": "https://www.googleapis.com/tasks/v1/lists/MDA3NzcxNDM3NDcxNzQwODU2Mjk6MDow/tasks/ZGJrb1FRZTVrQWZmNWZqYQ",
+        "status": "needsAction"
+      },
+      {
+        "kind": "tasks#task",
+        "created": "2026-09-26T17:12:14.947651Z",
+        "id": "V3V4NDZIVU5OR0todEh3MA",
+        "completed": "2026-09-26T17:12:47.294Z",
+        "title": "",
+        "task_type": "PERSONAL_TASK",
+        "updated": "2026-09-26T17:12:47.578223Z",
+        "selfLink": "https://www.googleapis.com/tasks/v1/lists/MDA3NzcxNDM3NDcxNzQwODU2Mjk6MDow/tasks/V3V4NDZIVU5OR0todEh3MA",
+        "status": "completed"
+      }
+    ],
+    "selfLink": "https://www.googleapis.com/tasks/v1/users/@me/lists/MDA3NzcxNDM3NDcxNzQwODU2Mjk6MDow"
+  }]
+}

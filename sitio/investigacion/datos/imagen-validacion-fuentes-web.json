@@ -1,0 +1,26 @@
+[
+  {
+    "url": "https://support.google.com/accounts/answer/7162782?hl=es-419",
+    "role": "Página cuyo destino aparece en la actividad del 29-08-2026. Se leyó su contenido actual.",
+    "summary": "Describe verificar identidad para acciones sensibles. El texto actual menciona documentos de identidad vinculados y, en otro apartado, acelerar la confianza en métodos con llaves de acceso o seguridad. No establece un método más rápido mediante una imagen.",
+    "consulted_on": "2026-10-01"
+  },
+  {
+    "url": "https://support.google.com/accounts/answer/7026266?hl=es-419",
+    "role": "Página cuyo destino aparece en la actividad del 11-09-2026. Se leyó su contenido actual.",
+    "summary": "Describe confirmar el acceso con notificaciones en el teléfono; no es un procedimiento de validación con imágenes.",
+    "consulted_on": "2026-10-01"
+  },
+  {
+    "url": "https://support.google.com/accounts/answer/16761564",
+    "role": "Enlace seguido desde el artículo sobre verificar identidad. No se encontró como visita en Búsqueda, Chrome o Ayuda.",
+    "summary": "El acceso redirigió al índice de información general de seguridad, topic/7189123; no permitió comprobar el artículo de documento de identidad.",
+    "consulted_on": "2026-10-01"
+  },
+  {
+    "url": "https://support.google.com/accounts/answer/7684753",
+    "role": "Enlace seguido desde el apartado de acelerar la confianza. No se encontró como visita en Búsqueda, Chrome o Ayuda.",
+    "summary": "La página actual explica acelerar la confianza con una llave previamente confiable y que los mensajes al teléfono son más rápidos que introducir un código. No describe una validación con una imagen.",
+    "consulted_on": "2026-10-01"
+  }
+]

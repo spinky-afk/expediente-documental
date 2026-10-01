@@ -1,0 +1,1035 @@
+[
+  {
+    "type": "heading",
+    "text": "Hallazgos: Facebook, Google y números de identificación"
+  },
+  {
+    "type": "paragraph",
+    "text": "Actualizado el 1 de octubre de 2026. La solicitud actual autoriza crear y actualizar el PDF desde ahora. Las indicaciones anteriores de esperar al final se conservan como historial de la investigación."
+  },
+  {
+    "type": "paragraph",
+    "text": "La cronología integra 26,871 observaciones fechadas de 482 archivos consultados, de 2022-08-15 a 2026-09-27. Google y Facebook se ordenan conjuntamente por instante UTC y se muestran en America/Mexico_City. Hay 38 secciones sin fecha, conservadas por separado."
+  },
+  {
+    "type": "heading",
+    "text": "Pista del 21 de septiembre: Etsy, Clarín, Hermès y Hermes Agent",
+    "pistas_extension": true
+  },
+  {
+    "type": "paragraph",
+    "text": "Se buscó ETSI/Etsy y Clarín/Hermes con variantes de acentos en los archivos HTML, JSON, CSV y TXT originales. La coincidencia relacionada con esa noche es Etsy (etsy.com). En México el recorrido es del 20 de septiembre, aproximadamente 21:13–23:12; en UTC corresponde al 21. Ejemplo: 20-09 21:13:29 UTC-06 equivale a 21-09 03:13:29 UTC. Se muestran ambas horas para que puedas comparar con tus recuerdos.",
+    "pistas_extension": true
+  },
+  {
+    "type": "heading",
+    "text": "Los números de Etsy y Clarín, con su campo exacto",
+    "pistas_extension": true
+  },
+  {
+    "type": "paragraph",
+    "text": "Etsy: Identificador en encabezado = 1594897960568214. Identificadores dentro de eventos = 114623403312281 y 297472060462208. Número de producto visitado en la URL /listing/ = 4303042674. Referencia de entidad: S229; encabezado de etsycom_105529809654844415.html.",
+    "pistas_extension": true
+  },
+  {
+    "type": "link",
+    "text": "Archivo original: etsy.com",
+    "url": "file:///home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/etsycom_105529809654844415.html",
+    "pistas_extension": true
+  },
+  {
+    "type": "paragraph",
+    "text": "Clarín: Identificador en encabezado = 1563990080334439. Identificador dentro de eventos = 455329408009530. Referencia: S214; encabezado de clarincom_105529809654844415.html.",
+    "pistas_extension": true
+  },
+  {
+    "type": "link",
+    "text": "Archivo original: clarin.com",
+    "url": "file:///home/deep-logic/Documentos/facebook/apps_and_websites_off_of_facebook/your_activity_off_meta_technologies/clarincom_105529809654844415.html",
+    "pistas_extension": true
+  },
+  {
+    "type": "paragraph",
+    "text": "Coincidencia comprobada: los dos nombres de archivo terminan en 105529809654844415. Sus campos de Identificador de entidad y de eventos son diferentes. El export no explica el significado del sufijo; se conserva como un sufijo compartido de archivo. La igualdad no permite concluir que sea un código de acceso, un identificador de persona compartido ni una cuenta unificada.",
+    "pistas_extension": true
+  },
+  {
+    "type": "heading",
+    "text": "Número buscado justo antes de Etsy: 6850175308",
+    "pistas_extension": true
+  },
+  {
+    "type": "paragraph",
+    "text": "A las 21:12:50 del 20 de septiembre (03:12:50 UTC del día 21) aparece la consulta 6850175308; 39 segundos después está la visita a Etsy. Referencia Búsqueda #170. También se buscó ese número en Google Chat a las 20:47:22 (Chat #1): ese registro es una búsqueda, no un mensaje enviado. Se había consultado repetidamente el 14 y 15 de septiembre y el día 20 a las 16:11:03.",
+    "pistas_extension": true
+  },
+  {
+    "type": "evidence",
+    "event_id": "E023172",
+    "text": "México 2026-09-14T11:00:51.000000-06:00 · UTC 2026-09-14T17:00:51.000000+00:00\nBúsqueda · 6850175308\nS004 · {\"record_index_1based\": 311, \"html_line_1based\": 34, \"html_column_0based\": 297861}",
+    "url": "https://www.google.com/search?q=6850175308",
+    "pistas_extension": true
+  },
+  {
+    "type": "evidence",
+    "event_id": "E023182",
+    "text": "México 2026-09-14T12:17:55.000000-06:00 · UTC 2026-09-14T18:17:55.000000+00:00\nBúsqueda · 6850175308\nS004 · {\"record_index_1based\": 310, \"html_line_1based\": 34, \"html_column_0based\": 296699}",
+    "url": "https://www.google.com/search?q=6850175308",
+    "pistas_extension": true
+  },
+  {
+    "type": "evidence",
+    "event_id": "E023230",
+    "text": "México 2026-09-14T20:13:32.000000-06:00 · UTC 2026-09-15T02:13:32.000000+00:00\nBúsqueda · 6850175308\nS004 · {\"record_index_1based\": 307, \"html_line_1based\": 34, \"html_column_0based\": 293182}",
+    "url": "https://www.google.com/search?q=6850175308",
+    "pistas_extension": true
+  },
+  {
+    "type": "evidence",
+    "event_id": "E023275",
+    "text": "México 2026-09-14T22:12:26.000000-06:00 · UTC 2026-09-15T04:12:26.000000+00:00\nBúsqueda · 6850175308\nS004 · {\"record_index_1based\": 293, \"html_line_1based\": 34, \"html_column_0based\": 276638}",
+    "url": "https://www.google.com/search?q=6850175308",
+    "pistas_extension": true
+  },
+  {
+    "type": "evidence",
+    "event_id": "E023311",
+    "text": "México 2026-09-14T23:04:27.000000-06:00 · UTC 2026-09-15T05:04:27.000000+00:00\nBúsqueda · 6850175308\nS004 · {\"record_index_1based\": 292, \"html_line_1based\": 34, \"html_column_0based\": 275476}",
+    "url": "https://www.google.com/search?q=6850175308",
+    "pistas_extension": true
+  },
+  {
+    "type": "evidence",
+    "event_id": "E023338",
+    "text": "México 2026-09-15T01:29:15.000000-06:00 · UTC 2026-09-15T07:29:15.000000+00:00\nBúsqueda · 6850175308\nS004 · {\"record_index_1based\": 290, \"html_line_1based\": 34, \"html_column_0based\": 273107}",
+    "url": "https://www.google.com/search?q=6850175308",
+    "pistas_extension": true
+  },
+  {
+    "type": "evidence",
+    "event_id": "E023476",
+    "text": "México 2026-09-15T11:18:48.000000-06:00 · UTC 2026-09-15T17:18:48.000000+00:00\nBúsqueda · 6850175308\nS004 · {\"record_index_1based\": 274, \"html_line_1based\": 34, \"html_column_0based\": 254324}",
+    "url": "https://www.google.com/search?q=6850175308",
+    "pistas_extension": true
+  },
+  {
+    "type": "evidence",
+    "event_id": "E023488",
+    "text": "México 2026-09-15T11:51:34.000000-06:00 · UTC 2026-09-15T17:51:34.000000+00:00\nBúsqueda · 6850175308\nS004 · {\"record_index_1based\": 270, \"html_line_1based\": 34, \"html_column_0based\": 249664}",
+    "url": "https://www.google.com/search?q=6850175308",
+    "pistas_extension": true
+  },
+  {
+    "type": "evidence",
+    "event_id": "E024466",
+    "text": "México 2026-09-20T16:11:03.000000-06:00 · UTC 2026-09-20T22:11:03.000000+00:00\nBúsqueda · 6850175308\nS004 · {\"record_index_1based\": 177, \"html_line_1based\": 34, \"html_column_0based\": 145791}",
+    "url": "https://www.google.com/search?q=6850175308",
+    "pistas_extension": true
+  },
+  {
+    "type": "evidence",
+    "event_id": "E024553",
+    "text": "México 2026-09-20T20:47:22.000000-06:00 · UTC 2026-09-21T02:47:22.000000+00:00\nChat · 6850175308\nS007 · {\"record_index_1based\": 1, \"html_line_1based\": 33, \"html_column_0based\": 43}",
+    "url": "https://mail.google.com/chat/#search/6850175308",
+    "pistas_extension": true
+  },
+  {
+    "type": "evidence",
+    "event_id": "E024567",
+    "text": "México 2026-09-20T21:12:50.000000-06:00 · UTC 2026-09-21T03:12:50.000000+00:00\nBúsqueda · 6850175308\nS004 · {\"record_index_1based\": 170, \"html_line_1based\": 34, \"html_column_0based\": 137950}",
+    "url": "https://www.google.com/search?q=6850175308",
+    "pistas_extension": true
+  },
+  {
+    "type": "evidence",
+    "event_id": "E025875",
+    "text": "México 2026-09-25T15:24:48.502037-06:00 · UTC 2026-09-25T21:24:48.502037+00:00\nHistorial de Chrome · Xiaomi Account\nS028 · {\"record_index_1based\": 146, \"json_pointer\": \"/Browser History/145\"}",
+    "url": "https://account.xiaomi.com/fe/service/account?cUserId=wAb6f4ntA20ZEJ6WDRaIbXk_M8I&userId=6850175308",
+    "pistas_extension": true
+  },
+  {
+    "type": "evidence",
+    "event_id": "E025876",
+    "text": "México 2026-09-25T15:24:49.124575-06:00 · UTC 2026-09-25T21:24:49.124575+00:00\nHistorial de Chrome · Xiaomi Account\nS028 · {\"record_index_1based\": 145, \"json_pointer\": \"/Browser History/144\"}",
+    "url": "https://account.xiaomi.com/fe/service/account?cUserId=wAb6f4ntA20ZEJ6WDRaIbXk_M8I&userId=6850175308&_locale=en_US",
+    "pistas_extension": true
+  },
+  {
+    "type": "evidence",
+    "event_id": "E025879",
+    "text": "México 2026-09-25T15:25:33.256443-06:00 · UTC 2026-09-25T21:25:33.256443+00:00\nHistorial de Chrome · Xiaomi Account\nS028 · {\"record_index_1based\": 142, \"json_pointer\": \"/Browser History/141\"}",
+    "url": "https://account.xiaomi.com/auth/jump?target=https%3A%2F%2Faccount.xiaomi.com%2Ffe%2Fservice%2Faccount%2Fprivacy%3FcUserId%3DwAb6f4ntA20ZEJ6WDRaIbXk_M8I%26userId%3D6850175308%26_locale%3Den_US&cUserId=wAb6f4ntA20ZEJ6WDRaIbXk_M8I&userId=6850175308",
+    "pistas_extension": true
+  },
+  {
+    "type": "evidence",
+    "event_id": "E025880",
+    "text": "México 2026-09-25T15:25:33.788076-06:00 · UTC 2026-09-25T21:25:33.788076+00:00\nHistorial de Chrome · Xiaomi Account\nS028 · {\"record_index_1based\": 141, \"json_pointer\": \"/Browser History/140\"}",
+    "url": "https://account.xiaomi.com/fe/service/account/privacy?cUserId=wAb6f4ntA20ZEJ6WDRaIbXk_M8I&_locale=en_US&userId=6850175308",
+    "pistas_extension": true
+  },
+  {
+    "type": "evidence",
+    "event_id": "E025881",
+    "text": "México 2026-09-25T15:25:38.000000-06:00 · UTC 2026-09-25T21:25:38.000000+00:00\nChrome · Xiaomi Account\nS008 · {\"record_index_1based\": 53, \"html_line_1based\": 33, \"html_column_0based\": 53412}",
+    "url": "https://account.xiaomi.com/fe/service/account/privacy/application?cUserId=wAb6f4ntA20ZEJ6WDRaIbXk_M8I&_locale=en_US&userId=6850175308",
+    "pistas_extension": true
+  },
+  {
+    "type": "evidence",
+    "event_id": "E025882",
+    "text": "México 2026-09-25T15:25:38.671916-06:00 · UTC 2026-09-25T21:25:38.671916+00:00\nHistorial de Chrome · Xiaomi Account\nS028 · {\"record_index_1based\": 140, \"json_pointer\": \"/Browser History/139\"}",
+    "url": "https://account.xiaomi.com/fe/service/account/privacy/application?cUserId=wAb6f4ntA20ZEJ6WDRaIbXk_M8I&_locale=en_US&userId=6850175308",
+    "pistas_extension": true
+  },
+  {
+    "type": "paragraph",
+    "text": "El 25 de septiembre aparece el mismo número en el parámetro userId=6850175308 de URLs de account.xiaomi.com. En los contactos figura TEL;TYPE=CELL:+526850175308. Estas son dos representaciones literales distintas; el export no verifica que sea un teléfono activo ni que las fichas identifiquen a un mismo titular. No coincide con los campos Identificador de entidad o de evento de Etsy/Clarín.",
+    "pistas_extension": true
+  },
+  {
+    "type": "paragraph",
+    "text": "V01 · tarjeta vCard #46 · FN:Amante Adilene ; N:;Amante Adilene;;; ; TEL;TYPE=CELL:+526850175308",
+    "pistas_extension": true
+  },
+  {
+    "type": "link",
+    "text": "Contacto original",
+    "url": "file:///home/deep-logic/Documentos/Registro/Takeout/Contactos/Mis%20contactos/Mis%20contactos.vcf",
+    "pistas_extension": true
+  },
+  {
+    "type": "paragraph",
+    "text": "V02 · tarjeta vCard #50 · FN:Amante Adilene ; N:;Amante Adilene;;; ; TEL;TYPE=CELL:+526850175308",
+    "pistas_extension": true
+  },
+  {
+    "type": "link",
+    "text": "Contacto original",
+    "url": "file:///home/deep-logic/Documentos/Registro/Takeout/Contactos/Todos%20los%20contactos/Todos%20los%20contactos.vcf",
+    "pistas_extension": true
+  },
+  {
+    "type": "paragraph",
+    "text": "V02 · tarjeta vCard #51 · FN:Amante Adilene Tu Juras ; N:;Amante Adilene Tu Juras;;; ; TEL;TYPE=CELL:+526850175308",
+    "pistas_extension": true
+  },
+  {
+    "type": "link",
+    "text": "Contacto original",
+    "url": "file:///home/deep-logic/Documentos/Registro/Takeout/Contactos/Todos%20los%20contactos/Todos%20los%20contactos.vcf",
+    "pistas_extension": true
+  },
+  {
+    "type": "paragraph",
+    "text": "La interpretación de que este número permite identificarse en Etsy, Clarín o Hermes queda sin comprobar. No se encontró el número en los archivos originales de Facebook. Las URLs de Xiaomi dan una referencia de cuenta mucho más explícita que la proximidad temporal con una visita a Etsy, sin demostrar un inicio de sesión exitoso.",
+    "pistas_extension": true
+  },
+  {
+    "type": "heading",
+    "text": "Qué se envió y qué se recibió",
+    "pistas_extension": true
+  },
+  {
+    "type": "paragraph",
+    "text": "El archivo de Etsy enumera nueve registros de actividad recibida con tipos PAGE_VIEW y VIEW_CONTENT, todos del 20 de septiembre. Un resumen reproduce los mismos nueve registros. A las 21:13 aparecen ambos tipos, y a las 21:50 otra PAGE_VIEW. El texto del export dice Recibida el y pertenece a actividad fuera de Meta: no contiene un mensaje enviado a Etsy, su texto, destinatario ni adjunto.",
+    "pistas_extension": true
+  },
+  {
+    "type": "paragraph",
+    "text": "Según Meta, esta sección recoge información que sitios y apps comparten con Meta, susceptible de asociarse a una cuenta para publicidad. Eso respalda la interpretación de un envío de actividad del sitio hacia Meta, sin demostrar que el usuario haya enviado manualmente algo al número de la empresa. [P03]",
+    "pistas_extension": true
+  },
+  {
+    "type": "link",
+    "text": "Meta: información de actividad compartida por apps y sitios",
+    "url": "https://about.fb.com/news/2019/08/off-facebook-activity/",
+    "pistas_extension": true
+  },
+  {
+    "type": "paragraph",
+    "text": "Las visitas a Clarín del 20 de septiembre sí aparecen en Google Analytics y Publicidad. En el detalle fuera de Meta de clarin.com, los eventos conservados son del 8 y 28 de agosto; no hay allí un evento del 20/21 de septiembre que una numéricamente Etsy con Clarín.",
+    "pistas_extension": true
+  },
+  {
+    "type": "heading",
+    "text": "Secuencia recuperada: visitas, consultas y páginas de cuenta",
+    "pistas_extension": true
+  },
+  {
+    "type": "evidence",
+    "event_id": "E024567",
+    "text": "México 2026-09-20T21:12:50.000000-06:00 · UTC 2026-09-21T03:12:50.000000+00:00\nBúsqueda · 6850175308\nS004 · {\"record_index_1based\": 170, \"html_line_1based\": 34, \"html_column_0based\": 137950}",
+    "url": "https://www.google.com/search?q=6850175308",
+    "pistas_extension": true
+  },
+  {
+    "type": "evidence",
+    "event_id": "E024572",
+    "text": "México 2026-09-20T21:13:29.000000-06:00 · UTC 2026-09-21T03:13:29.000000+00:00\nBúsqueda · Pendiente de sol en oro macizo, piercing para labio en oro macizo ...\nS004 · {\"record_index_1based\": 169, \"html_line_1based\": 34, \"html_column_0based\": 136819}",
+    "url": "https://www.etsy.com/es/listing/4303042674/pendiente-de-sol-en-oro-macizo-piercing",
+    "pistas_extension": true
+  },
+  {
+    "type": "evidence",
+    "event_id": "E024573",
+    "text": "México 2026-09-20T21:13:36.000000-06:00 · UTC 2026-09-21T03:13:36.000000+00:00\nGoogle Analytics · www.etsy.com/es/listing/4303042674/pendiente-de-sol-en-oro-macizo-piercing\nS012 · {\"record_index_1based\": 137, \"html_line_1based\": 33, \"html_column_0based\": 146988}",
+    "url": "http://www.etsy.com/es/listing/4303042674/pendiente-de-sol-en-oro-macizo-piercing",
+    "pistas_extension": true
+  },
+  {
+    "type": "evidence",
+    "event_id": "E024575",
+    "text": "México 2026-09-20T21:18:59.000000-06:00 · UTC 2026-09-21T03:18:59.000000+00:00\nBúsqueda · g.co/sc\nS004 · {\"record_index_1based\": 168, \"html_line_1based\": 34, \"html_column_0based\": 135664}",
+    "url": "https://www.google.com/search?q=g.co%2Fsc",
+    "pistas_extension": true
+  },
+  {
+    "type": "evidence",
+    "event_id": "E024578",
+    "text": "México 2026-09-20T21:32:10.000000-06:00 · UTC 2026-09-21T03:32:10.000000+00:00\nGoogle Analytics · miperfil.clarin.com/\nS012 · {\"record_index_1based\": 135, \"html_line_1based\": 33, \"html_column_0based\": 144822}",
+    "url": "http://miperfil.clarin.com/",
+    "pistas_extension": true
+  },
+  {
+    "type": "evidence",
+    "event_id": "E024579",
+    "text": "México 2026-09-20T21:36:31.000000-06:00 · UTC 2026-09-21T03:36:31.000000+00:00\nBúsqueda · clarin\nS004 · {\"record_index_1based\": 167, \"html_line_1based\": 34, \"html_column_0based\": 134335}",
+    "url": "https://www.google.com/search?q=clarin",
+    "pistas_extension": true
+  },
+  {
+    "type": "evidence",
+    "event_id": "E024584",
+    "text": "México 2026-09-20T21:40:31.000000-06:00 · UTC 2026-09-21T03:40:31.000000+00:00\nBúsqueda · inwebo authenticator\nS004 · {\"record_index_1based\": 164, \"html_line_1based\": 34, \"html_column_0based\": 130939}",
+    "url": "https://www.google.com/search?q=inwebo+authenticator",
+    "pistas_extension": true
+  },
+  {
+    "type": "evidence",
+    "event_id": "E024587",
+    "text": "México 2026-09-20T21:42:20.000000-06:00 · UTC 2026-09-21T03:42:20.000000+00:00\nGoogle Analytics · www.hermes.com/mx/es/\nS012 · {\"record_index_1based\": 131, \"html_line_1based\": 33, \"html_column_0based\": 140589}",
+    "url": "http://www.hermes.com/mx/es/",
+    "pistas_extension": true
+  },
+  {
+    "type": "evidence",
+    "event_id": "E024588",
+    "text": "México 2026-09-20T21:42:20.000000-06:00 · UTC 2026-09-21T03:42:20.000000+00:00\nGoogle Analytics · www.hermes.com/mx/es/login/\nS012 · {\"record_index_1based\": 132, \"html_line_1based\": 33, \"html_column_0based\": 141645}",
+    "url": "http://www.hermes.com/mx/es/login/",
+    "pistas_extension": true
+  },
+  {
+    "type": "evidence",
+    "event_id": "E024594",
+    "text": "México 2026-09-20T21:44:31.000000-06:00 · UTC 2026-09-21T03:44:31.000000+00:00\nTraductor de Google · el sitio web traducido https://hermes-agent.nousresearch.com/docs/user-guide/messaging\nS026 · {\"record_index_1based\": 1, \"html_line_1based\": 33, \"html_column_0based\": 43}",
+    "url": "https://hermes--agent-nousresearch-com.translate.goog/docs/user-guide/messaging?_x_tr_sl=auto&_x_tr_tl=es&_x_tr_hl=es-419&_x_tr_pto=tc",
+    "pistas_extension": true
+  },
+  {
+    "type": "evidence",
+    "event_id": "E024595",
+    "text": "México 2026-09-20T21:47:08.000000-06:00 · UTC 2026-09-21T03:47:08.000000+00:00\nGoogle Analytics · postlogin.clarin.com/post-login\nS012 · {\"record_index_1based\": 129, \"html_line_1based\": 33, \"html_column_0based\": 138369}",
+    "url": "http://postlogin.clarin.com/post-login",
+    "pistas_extension": true
+  },
+  {
+    "type": "evidence",
+    "event_id": "E024600",
+    "text": "México 2026-09-20T21:48:56.266751-06:00 · UTC 2026-09-21T03:48:56.266751+00:00\nGoogle Play Store · Installs · Installs · firstInstallationTime · TrustBuilder Authenticator\nS058 · {\"json_pointer\": \"/367/install/firstInstallationTime\"}",
+    "url": null,
+    "pistas_extension": true
+  },
+  {
+    "type": "evidence",
+    "event_id": "E024601",
+    "text": "México 2026-09-20T21:48:56.266751-06:00 · UTC 2026-09-21T03:48:56.266751+00:00\nGoogle Play Store · Installs · Installs · lastUpdateTime · TrustBuilder Authenticator\nS058 · {\"json_pointer\": \"/367/install/lastUpdateTime\"}",
+    "url": null,
+    "pistas_extension": true
+  },
+  {
+    "type": "evidence",
+    "event_id": "E024603",
+    "text": "México 2026-09-20T21:49:27.000000-06:00 · UTC 2026-09-21T03:49:27.000000+00:00\nGoogle Play Store · TrustBuilder Authenticator\nS016 · {\"record_index_1based\": 276, \"html_line_1based\": 33, \"html_column_0based\": 274049}",
+    "url": "https://play.google.com/store/apps/details?id=com.inwebo.near.prod",
+    "pistas_extension": true
+  },
+  {
+    "type": "evidence",
+    "event_id": "E024633",
+    "text": "México 2026-09-20T22:56:36.000000-06:00 · UTC 2026-09-21T04:56:36.000000+00:00\nGoogle Analytics · www.hermes.com/us/en/account/create/\nS012 · {\"record_index_1based\": 111, \"html_line_1based\": 33, \"html_column_0based\": 117884}",
+    "url": "http://www.hermes.com/us/en/account/create/",
+    "pistas_extension": true
+  },
+  {
+    "type": "evidence",
+    "event_id": "E024635",
+    "text": "México 2026-09-20T22:58:55.000000-06:00 · UTC 2026-09-21T04:58:55.000000+00:00\nBúsqueda · Hermes Agent — Open-Source AI Agent That Grows With You ...\nS004 · {\"record_index_1based\": 150, \"html_line_1based\": 34, \"html_column_0based\": 112759}",
+    "url": "https://hermes-agent.nousresearch.com/",
+    "pistas_extension": true
+  },
+  {
+    "type": "evidence",
+    "event_id": "E024636",
+    "text": "México 2026-09-20T22:59:59.000000-06:00 · UTC 2026-09-21T04:59:59.000000+00:00\nBúsqueda · hermes agent\nS004 · {\"record_index_1based\": 149, \"html_line_1based\": 34, \"html_column_0based\": 111593}",
+    "url": "https://www.google.com/search?q=hermes+agent",
+    "pistas_extension": true
+  },
+  {
+    "type": "evidence",
+    "event_id": "E024638",
+    "text": "México 2026-09-20T23:01:38.000000-06:00 · UTC 2026-09-21T05:01:38.000000+00:00\nGoogle Analytics · www.hermes.com/us/en/login/\nS012 · {\"record_index_1based\": 108, \"html_line_1based\": 33, \"html_column_0based\": 114671}",
+    "url": "http://www.hermes.com/us/en/login/",
+    "pistas_extension": true
+  },
+  {
+    "type": "evidence",
+    "event_id": "E024644",
+    "text": "México 2026-09-20T23:07:02.000000-06:00 · UTC 2026-09-21T05:07:02.000000+00:00\nGoogle Analytics · www.hermes.com/us/en/\nS012 · {\"record_index_1based\": 106, \"html_line_1based\": 33, \"html_column_0based\": 112548}",
+    "url": "http://www.hermes.com/us/en/",
+    "pistas_extension": true
+  },
+  {
+    "type": "evidence",
+    "event_id": "E024681",
+    "text": "México 2026-09-20T23:36:40.000000-06:00 · UTC 2026-09-21T05:36:40.000000+00:00\nGoogle Play Store · Se ha utilizado TrustBuilder Authenticator\nS016 · {\"record_index_1based\": 412, \"html_line_1based\": 33, \"html_column_0based\": 409776}",
+    "url": "https://play.google.com/store/apps/details?id=com.inwebo.near.prod",
+    "pistas_extension": true
+  },
+  {
+    "type": "evidence",
+    "event_id": "E024467",
+    "text": "México 2026-09-20T16:12:12.000000-06:00 · UTC 2026-09-20T22:12:12.000000+00:00\nGoogle Analytics · portal.nousresearch.com/cloud\nS012 · {\"record_index_1based\": 147, \"html_line_1based\": 33, \"html_column_0based\": 157875}",
+    "url": "http://portal.nousresearch.com/cloud",
+    "pistas_extension": true
+  },
+  {
+    "type": "evidence",
+    "event_id": "E024468",
+    "text": "México 2026-09-20T16:13:44.000000-06:00 · UTC 2026-09-20T22:13:44.000000+00:00\nGoogle Analytics · portal.nousresearch.com/orgs/3d6ba8ff/billing\nS012 · {\"record_index_1based\": 146, \"html_line_1based\": 33, \"html_column_0based\": 156747}",
+    "url": "http://portal.nousresearch.com/orgs/3d6ba8ff/billing",
+    "pistas_extension": true
+  },
+  {
+    "type": "evidence",
+    "event_id": "E024469",
+    "text": "México 2026-09-20T16:14:57.000000-06:00 · UTC 2026-09-20T22:14:57.000000+00:00\nGoogle Analytics · portal.nousresearch.com/\nS012 · {\"record_index_1based\": 145, \"html_line_1based\": 33, \"html_column_0based\": 155682}",
+    "url": "http://portal.nousresearch.com/",
+    "pistas_extension": true
+  },
+  {
+    "type": "evidence",
+    "event_id": "E024476",
+    "text": "México 2026-09-20T16:17:50.000000-06:00 · UTC 2026-09-20T22:17:50.000000+00:00\nGoogle Analytics · portal.nousresearch.com/login\nS012 · {\"record_index_1based\": 144, \"html_line_1based\": 33, \"html_column_0based\": 154602}",
+    "url": "http://portal.nousresearch.com/login",
+    "pistas_extension": true
+  },
+  {
+    "type": "evidence",
+    "event_id": "E024608",
+    "text": "México 2026-09-20T21:59:47.000000-06:00 · UTC 2026-09-21T03:59:47.000000+00:00\nGoogle Analytics · portal.nousresearch.com/manage-subscription\nS012 · {\"record_index_1based\": 124, \"html_line_1based\": 33, \"html_column_0based\": 132591}",
+    "url": "http://portal.nousresearch.com/manage-subscription",
+    "pistas_extension": true
+  },
+  {
+    "type": "evidence",
+    "event_id": "E024609",
+    "text": "México 2026-09-20T22:05:38.000000-06:00 · UTC 2026-09-21T04:05:38.000000+00:00\nGoogle Analytics · portal.nousresearch.com/orgs/3d6ba8ff/billing\nS012 · {\"record_index_1based\": 123, \"html_line_1based\": 33, \"html_column_0based\": 131462}",
+    "url": "http://portal.nousresearch.com/orgs/3d6ba8ff/billing",
+    "pistas_extension": true
+  },
+  {
+    "type": "evidence",
+    "event_id": "E024610",
+    "text": "México 2026-09-20T22:16:28.000000-06:00 · UTC 2026-09-21T04:16:28.000000+00:00\nGoogle Analytics · portal.nousresearch.com/orgs/3d6ba8ff/api-keys\nS012 · {\"record_index_1based\": 122, \"html_line_1based\": 33, \"html_column_0based\": 130330}",
+    "url": "http://portal.nousresearch.com/orgs/3d6ba8ff/api-keys",
+    "pistas_extension": true
+  },
+  {
+    "type": "evidence",
+    "event_id": "E024611",
+    "text": "México 2026-09-20T22:16:49.000000-06:00 · UTC 2026-09-21T04:16:49.000000+00:00\nGoogle Analytics · portal.nousresearch.com/cloud\nS012 · {\"record_index_1based\": 121, \"html_line_1based\": 33, \"html_column_0based\": 129249}",
+    "url": "http://portal.nousresearch.com/cloud",
+    "pistas_extension": true
+  },
+  {
+    "type": "evidence",
+    "event_id": "E024612",
+    "text": "México 2026-09-20T22:17:02.000000-06:00 · UTC 2026-09-21T04:17:02.000000+00:00\nGoogle Analytics · portal.nousresearch.com/orgs/3d6ba8ff/agents\nS012 · {\"record_index_1based\": 120, \"html_line_1based\": 33, \"html_column_0based\": 128123}",
+    "url": "http://portal.nousresearch.com/orgs/3d6ba8ff/agents",
+    "pistas_extension": true
+  },
+  {
+    "type": "evidence",
+    "event_id": "E024637",
+    "text": "México 2026-09-20T23:00:20.000000-06:00 · UTC 2026-09-21T05:00:20.000000+00:00\nGoogle Analytics · portal.nousresearch.com/cloud\nS012 · {\"record_index_1based\": 109, \"html_line_1based\": 33, \"html_column_0based\": 115746}",
+    "url": "http://portal.nousresearch.com/cloud",
+    "pistas_extension": true
+  },
+  {
+    "type": "evidence",
+    "event_id": "E024640",
+    "text": "México 2026-09-20T23:02:35.000000-06:00 · UTC 2026-09-21T05:02:35.000000+00:00\nBúsqueda · https://portal.nousresearch.com/\nS004 · {\"record_index_1based\": 147, \"html_line_1based\": 34, \"html_column_0based\": 108937}",
+    "url": "https://portal.nousresearch.com/",
+    "pistas_extension": true
+  },
+  {
+    "type": "evidence",
+    "event_id": "E024641",
+    "text": "México 2026-09-20T23:03:11.000000-06:00 · UTC 2026-09-21T05:03:11.000000+00:00\nGoogle Analytics · portal.nousresearch.com/\nS012 · {\"record_index_1based\": 107, \"html_line_1based\": 33, \"html_column_0based\": 113605}",
+    "url": "http://portal.nousresearch.com/",
+    "pistas_extension": true
+  },
+  {
+    "type": "evidence",
+    "event_id": "E024646",
+    "text": "México 2026-09-20T23:11:40.000000-06:00 · UTC 2026-09-21T05:11:40.000000+00:00\nGoogle Analytics · portal.nousresearch.com/orgs/3d6ba8ff/usage\nS012 · {\"record_index_1based\": 104, \"html_line_1based\": 33, \"html_column_0based\": 110353}",
+    "url": "http://portal.nousresearch.com/orgs/3d6ba8ff/usage",
+    "pistas_extension": true
+  },
+  {
+    "type": "paragraph",
+    "text": "La visita a postlogin.clarin.com/post-login y las rutas de Hermès /login/ y /account/create/ son hechos del historial. El historial no guarda los formularios enviados ni una confirmación de inicio de sesión o alta, por lo que no prueba qué credencial se introdujo o si funcionó. Tampoco se demuestra que Etsy haya entregado una credencial para esos sitios.",
+    "pistas_extension": true
+  },
+  {
+    "type": "paragraph",
+    "text": "Hermès de hermes.com es la tienda; Hermes Agent de hermes-agent.nousresearch.com es un proyecto de agente de IA. En el historial aparecen ambos. La documentación de mensajería de Hermes Agent fue visitada traducida a las 21:44:31. Su documentación actual usa autorización por usuarios/plataforma o emparejamiento; no describe que un ID empresarial de Etsy o Clarín dé acceso. [P04]",
+    "pistas_extension": true
+  },
+  {
+    "type": "link",
+    "text": "Hermes Agent: pasarela de mensajería y autorizaciones",
+    "url": "https://hermes-agent.nousresearch.com/docs/user-guide/messaging",
+    "pistas_extension": true
+  },
+  {
+    "type": "paragraph",
+    "text": "Ninguno de los seis números empresariales/de evento/sufijo enumerados aparece literalmente en los archivos de Google Takeout. Tampoco aparecen en el texto ni enlaces de los mensajes de Messenger. La hipótesis del usuario de identificarse con el mismo dato queda abierta, pendiente de precisar el número y la cuenta; no se convierte en conclusión. La secuencia cronológica se conserva como relación de navegación, no de autenticación.",
+    "pistas_extension": true
+  },
+  {
+    "type": "heading",
+    "text": "Pista adicional para validar con una imagen: inWebo / TrustBuilder",
+    "pistas_extension": true
+  },
+  {
+    "type": "paragraph",
+    "text": "La misma noche hubo búsquedas inwebo authenticator, acceso a myinwebo.com y una primera instalación de TrustBuilder Authenticator a las 21:48:56.266751. El registro de uso de Google Play es de las 23:36:40. Esta es una nueva pista concreta para la consulta anterior sobre validar con una imagen, aunque no se encontró la frase exacta ni un QR de activación personal.",
+    "pistas_extension": true
+  },
+  {
+    "type": "evidence",
+    "event_id": "E024470",
+    "text": "México 2026-09-20T16:15:48.000000-06:00 · UTC 2026-09-20T22:15:48.000000+00:00\nBúsqueda · inwebo authenticator\nS004 · {\"record_index_1based\": 176, \"html_line_1based\": 34, \"html_column_0based\": 144610}",
+    "url": "https://www.google.com/search?q=inwebo+authenticator",
+    "pistas_extension": true
+  },
+  {
+    "type": "evidence",
+    "event_id": "E024471",
+    "text": "México 2026-09-20T16:16:03.000000-06:00 · UTC 2026-09-20T22:16:03.000000+00:00\nBúsqueda · inWebo Authenticator 6 para Android - Descargar\nS004 · {\"record_index_1based\": 175, \"html_line_1based\": 34, \"html_column_0based\": 143532}",
+    "url": "https://inwebo-authenticator-6.softonic.com/android",
+    "pistas_extension": true
+  },
+  {
+    "type": "evidence",
+    "event_id": "E024472",
+    "text": "México 2026-09-20T16:16:08.000000-06:00 · UTC 2026-09-20T22:16:08.000000+00:00\nBúsqueda · my inwebo authenticator\nS004 · {\"record_index_1based\": 174, \"html_line_1based\": 34, \"html_column_0based\": 142345}",
+    "url": "https://www.google.com/search?q=my+inwebo+authenticator",
+    "pistas_extension": true
+  },
+  {
+    "type": "evidence",
+    "event_id": "E024473",
+    "text": "México 2026-09-20T16:16:11.000000-06:00 · UTC 2026-09-20T22:16:11.000000+00:00\nBúsqueda · MyinWebo.com\nS004 · {\"record_index_1based\": 173, \"html_line_1based\": 34, \"html_column_0based\": 141332}",
+    "url": "https://myinwebo.com/",
+    "pistas_extension": true
+  },
+  {
+    "type": "evidence",
+    "event_id": "E024474",
+    "text": "México 2026-09-20T16:16:37.000000-06:00 · UTC 2026-09-20T22:16:37.000000+00:00\nBúsqueda · inwebo admin\nS004 · {\"record_index_1based\": 172, \"html_line_1based\": 34, \"html_column_0based\": 140167}",
+    "url": "https://www.google.com/search?q=inwebo+admin",
+    "pistas_extension": true
+  },
+  {
+    "type": "evidence",
+    "event_id": "E024475",
+    "text": "México 2026-09-20T16:17:13.000000-06:00 · UTC 2026-09-20T22:17:13.000000+00:00\nBúsqueda · https://www.myinwebo.com/console/logon\nS004 · {\"record_index_1based\": 171, \"html_line_1based\": 34, \"html_column_0based\": 139111}",
+    "url": "https://www.myinwebo.com/console/logon",
+    "pistas_extension": true
+  },
+  {
+    "type": "evidence",
+    "event_id": "E024584",
+    "text": "México 2026-09-20T21:40:31.000000-06:00 · UTC 2026-09-21T03:40:31.000000+00:00\nBúsqueda · inwebo authenticator\nS004 · {\"record_index_1based\": 164, \"html_line_1based\": 34, \"html_column_0based\": 130939}",
+    "url": "https://www.google.com/search?q=inwebo+authenticator",
+    "pistas_extension": true
+  },
+  {
+    "type": "evidence",
+    "event_id": "E024585",
+    "text": "México 2026-09-20T21:40:35.000000-06:00 · UTC 2026-09-21T03:40:35.000000+00:00\nBúsqueda · https://www.myinwebo.com/\nS004 · {\"record_index_1based\": 163, \"html_line_1based\": 34, \"html_column_0based\": 129909}",
+    "url": "https://www.myinwebo.com/",
+    "pistas_extension": true
+  },
+  {
+    "type": "evidence",
+    "event_id": "E024600",
+    "text": "México 2026-09-20T21:48:56.266751-06:00 · UTC 2026-09-21T03:48:56.266751+00:00\nGoogle Play Store · Installs · Installs · firstInstallationTime · TrustBuilder Authenticator\nS058 · {\"json_pointer\": \"/367/install/firstInstallationTime\"}",
+    "url": null,
+    "pistas_extension": true
+  },
+  {
+    "type": "evidence",
+    "event_id": "E024601",
+    "text": "México 2026-09-20T21:48:56.266751-06:00 · UTC 2026-09-21T03:48:56.266751+00:00\nGoogle Play Store · Installs · Installs · lastUpdateTime · TrustBuilder Authenticator\nS058 · {\"json_pointer\": \"/367/install/lastUpdateTime\"}",
+    "url": null,
+    "pistas_extension": true
+  },
+  {
+    "type": "evidence",
+    "event_id": "E024603",
+    "text": "México 2026-09-20T21:49:27.000000-06:00 · UTC 2026-09-21T03:49:27.000000+00:00\nGoogle Play Store · TrustBuilder Authenticator\nS016 · {\"record_index_1based\": 276, \"html_line_1based\": 33, \"html_column_0based\": 274049}",
+    "url": "https://play.google.com/store/apps/details?id=com.inwebo.near.prod",
+    "pistas_extension": true
+  },
+  {
+    "type": "evidence",
+    "event_id": "E024681",
+    "text": "México 2026-09-20T23:36:40.000000-06:00 · UTC 2026-09-21T05:36:40.000000+00:00\nGoogle Play Store · Se ha utilizado TrustBuilder Authenticator\nS016 · {\"record_index_1based\": 412, \"html_line_1based\": 33, \"html_column_0based\": 409776}",
+    "url": "https://play.google.com/store/apps/details?id=com.inwebo.near.prod",
+    "pistas_extension": true
+  },
+  {
+    "type": "paragraph",
+    "text": "La documentación del fabricante describe autenticación mediante QR y activación con código o QR válido. Otra página distingue los parámetros sessionId, login y serviceId de la sesión de autenticación. No se recuperó ese serviceId personal ni se demostró una equivalencia con los números de Etsy. No se ha identificado el método como más rápido en tu caso. [P05, P06]",
+    "pistas_extension": true
+  },
+  {
+    "type": "link",
+    "text": "TrustBuilder Authenticator móvil: QR y activación",
+    "url": "https://docs.trustbuilder.com/mfa/trustbuilder-authenticator-mobile-app",
+    "pistas_extension": true
+  },
+  {
+    "type": "link",
+    "text": "TrustBuilder: parámetros de la autenticación con QR",
+    "url": "https://docs.trustbuilder.com/mfa/web-sdk-qr-code-authentication",
+    "pistas_extension": true
+  },
+  {
+    "type": "heading",
+    "text": "Google Fotos: metadatos diferentes y posible cuenta de negocios",
+    "pistas_extension": true
+  },
+  {
+    "type": "paragraph",
+    "text": "En /home/deep-logic/Documentos se leyeron los metadatos de 289 imágenes: 5 de Takeout y 284 de Facebook. No se encontró una carpeta Google Fotos/Google Photos ni archivos JSON complementarios de fotos. Solo una imagen tiene un campo EXIF: Orientation=1 en un sticker. Las demás pueden conservar otros campos de PNG/JPEG, como Software o perfiles de color. Se verificó que no se modificaron los originales.",
+    "pistas_extension": true
+  },
+  {
+    "type": "paragraph",
+    "text": "Se encontraron 57 grupos de imágenes con píxeles idénticos; en todos sus archivos el SHA-256 binario también coincide. En esta copia no se encontró un par con los mismos píxeles y bytes/metadatos distintos. Esto no descarta diferencias en fotos que no estén incluidas aquí. Los archivos de la muestra no permiten comparar un original con su descarga de Google Fotos.",
+    "pistas_extension": true
+  },
+  {
+    "type": "paragraph",
+    "text": "Google distingue tres capas: fecha del archivo que puede cambiar al descargar; metadatos originales dentro de la imagen; información adicional de Google Fotos exportada en JSON. Una diferencia entre esas capas no demuestra por sí sola una vinculación a un negocio. [P01]",
+    "pistas_extension": true
+  },
+  {
+    "type": "link",
+    "text": "Google Fotos: metadatos al exportar",
+    "url": "https://support.google.com/photos/answer/3024190?hl=es",
+    "pistas_extension": true
+  },
+  {
+    "type": "paragraph",
+    "text": "Como ejemplo de evidencia explícita de vinculación, la API de Perfil de Negocio representa medios mediante accounts/{accountId}/locations/{locationId}/media/{mediaKey}. Una ruta de ese tipo, un registro de publicación o el enlace verificable a la misma imagen en una ficha ayudaría a comprobar la asociación. No se encontró esa relación para las imágenes revisadas. La forma de ese recurso no garantiza que aparezca en EXIF o en un export de Google Fotos. [P02]",
+    "pistas_extension": true
+  },
+  {
+    "type": "link",
+    "text": "Google: medios de una ubicación de Perfil de Negocio",
+    "url": "https://developers.google.com/my-business/reference/rest/v4/accounts.locations.media",
+    "pistas_extension": true
+  },
+  {
+    "type": "paragraph",
+    "text": "La hipótesis de vincular fotos mediante metadatos queda registrada como no comprobada. La comparación futura requiere las dos versiones concretas y sus JSON complementarios, si existen. No se atribuye a negocios el nombre Software=Matplotlib de los archivos IA de Facebook ni un horario de descarga.",
+    "pistas_extension": true
+  },
+  {
+    "type": "heading",
+    "text": "Qué significan los números"
+  },
+  {
+    "type": "paragraph",
+    "text": "Se encontró una relación explícita entre una página y su conversación: Epazote Tulancingo. El catálogo contiene 87 entidades de actividad fuera de Meta. Ninguno de sus identificadores de empresa o de evento aparece en el texto ni en los enlaces de las conversaciones exportadas. Este resultado no cubre reconocimiento automático del texto de todas las fotos o videos ni mensajes ausentes de la exportación."
+  },
+  {
+    "type": "paragraph",
+    "text": "Los campos con nombre Identificador se conservan con su contexto: uno identifica la entidad en el encabezado del archivo y otro aparece dentro del bloque de eventos. No se ha demostrado que este último identifique de manera única un evento: se repite entre fechas y entre entidades. Tampoco se ha demostrado que el Identificador de entidad sea un Meta Business Manager ID."
+  },
+  {
+    "type": "paragraph",
+    "text": "Epazote Tulancingo: page_id=107881590544962. Aparece en el parámetro extra_params de un enlace interno de Messenger del 28-08-2026 a las 17:29:03, en el mensaje de sistema 'Empezaste a seguir'. No prueba que alguien escribiera o enviara ese número manualmente. Referencia: S438, mensaje #14, línea 13, columna 5030."
+  },
+  {
+    "type": "link",
+    "text": "Conversación original de Epazote Tulancingo",
+    "url": "file:///home/deep-logic/Documentos/facebook/your_facebook_activity/messages/inbox/epazotetulancingo_1514670583749704/message_1.html"
+  },
+  {
+    "type": "paragraph",
+    "text": "La carpeta epazotetulancingo_1514670583749704 tiene otro número: 1514670583749704. Se conserva como sufijo de carpeta/conversación, sin equipararlo al page_id. Ninguno de los dos coincide con los identificadores de las 87 entidades revisadas."
+  },
+  {
+    "type": "paragraph",
+    "text": "Ejemplo ChatGPT: Identificador de entidad 6558176734212414; Identificador dentro de eventos 562278416645613; sufijo de archivo 105529809654844465. Son tres campos distintos. El sufijo de archivo se repite en otros archivos y no se usa para identificar una empresa."
+  },
+  {
+    "type": "heading",
+    "text": "Relaciones entre entidades de actividad fuera de Meta"
+  },
+  {
+    "type": "paragraph",
+    "text": "Hay ocho valores del campo Identificador de evento compartidos por más de una entidad. Esto es una coincidencia literal documentada, no una prueba de que los nombres correspondan a una misma empresa o de que hayan intercambiado mensajes contigo."
+  },
+  {
+    "type": "paragraph",
+    "text": "Evento 169883356982592 → Coppel [entidad 10153514100232571]; coppel.com [entidad 1444276872316871]."
+  },
+  {
+    "type": "paragraph",
+    "text": "Evento 265290261046250 → caliente.mx [entidad 1519403778150555]; eshkol.one [entidad 9546301038777891]."
+  },
+  {
+    "type": "paragraph",
+    "text": "Evento 287682846389126 → Coppel [entidad 10153514100232571]; coppel.com [entidad 1444276872316871]."
+  },
+  {
+    "type": "paragraph",
+    "text": "Evento 337522080014293 → att.com.mx [entidad 1273743596085463]; e-planning.net [entidad 1943983615628893]."
+  },
+  {
+    "type": "paragraph",
+    "text": "Evento 524032566269295 → Different Technologies [entidad 949230206018406]; bancoplata.mx [entidad 33769818155997760]."
+  },
+  {
+    "type": "paragraph",
+    "text": "Evento 5435870899848740 → Coppel [entidad 10153514100232571]; coppel.com [entidad 1444276872316871]."
+  },
+  {
+    "type": "paragraph",
+    "text": "Evento 597615686992125 → TikTok - Videos, Shop & LIVE [entidad 695086290555235]; TikTok - Videos, Shop & LIVE [entidad 703679579689017]."
+  },
+  {
+    "type": "paragraph",
+    "text": "Evento 678263238969275 → Coppel [entidad 10153514100232571]; coppel.com [entidad 1444276872316871]."
+  },
+  {
+    "type": "heading",
+    "text": "Epazote: Messenger, una captura de WhatsApp y Google Maps"
+  },
+  {
+    "type": "evidence",
+    "event_id": "E019319",
+    "text": "2026-08-27T21:25:17.000000-06:00 · Messenger · Epazote Tulancingo · Adilenee Razo: En su página de Google maps dice que el día de hoy está cerrado\nS438 · message_index_1based=45; línea 13, columna 16063",
+    "url": null
+  },
+  {
+    "type": "evidence",
+    "event_id": "E019331",
+    "text": "2026-08-27T21:50:40.000000-06:00 · Messenger · Epazote Tulancingo · Adilenee Razo: Toca \"Confirmar pago\" para verificar el comprobante y avisar a Epazote Tulancingo que realizaste el pago. Confirmar pago\nS438 · message_index_1based=36; línea 13, columna 12726",
+    "url": null
+  },
+  {
+    "type": "evidence",
+    "event_id": "E019344",
+    "text": "2026-08-27T21:57:22.000000-06:00 · Messenger · Epazote Tulancingo · Adilenee Razo: Lo que pasa es sé no hizo tarde y queríamos avisar que llegaríamos a las 9 pero decía que cerraban a esa hora y después ví en Google maps que era a las 10 y como ya se realizó el pago pues para que la reservación sea para el día de mañana\nS438 · message_index_1based=23; línea 13, columna 8117",
+    "url": null
+  },
+  {
+    "type": "paragraph",
+    "text": "Se inspeccionó visualmente la foto adjunta enviada el 27-08-2026 a las 21:50:38 (E019330; S438 · message_index_1based=37; línea 13, columna 13153). Es una captura de una conversación de WhatsApp con 'Epazote / Restaurante Epazote', que incluye un comprobante por $650.00, concepto 'paquete', referencia 7116298, beneficiario visible Rafael Santos y cuentas bancarias parcialmente ocultas. La referencia 7116298 es bancaria, no un identificador de empresa de Facebook o de Google. No se atribuye al beneficiario la propiedad legal del restaurante. La captura no proporciona un historial completo de WhatsApp ni un enlace a su cuenta."
+  },
+  {
+    "type": "link",
+    "text": "Foto original: captura y comprobante",
+    "url": "file:///home/deep-logic/Documentos/facebook/your_facebook_activity/messages/inbox/epazotetulancingo_1514670583749704/photos/1395635869197307.jpg"
+  },
+  {
+    "type": "paragraph",
+    "text": "El texto de Messenger menciona el horario de Google Maps, pero no incluye un enlace a la ficha ni su ID. No se encontró una consulta de Epazote en los registros de Google que permita confirmar la misma visita. La relación con Maps proviene del texto de los mensajes. El botón Confirmar pago es una pista de verificación de comprobante con imagen; no demuestra que sea la búsqueda sobre validar más rápido que se recuerda."
+  },
+  {
+    "type": "heading",
+    "text": "Coppel: una relación comprobable entre Facebook y Google Play"
+  },
+  {
+    "type": "paragraph",
+    "text": "El 03-08-2026 a las 21:31:46 se registró un clic de anuncio cuyo título/destino indica com.coppel.coppelapp. El ID de biblioteca de anuncios es 2475207562964622. La misma cadena de paquete aparece en Google Play, Analytics y Publicidad. Es una relación por paquete de aplicación, sin afirmar que el anuncio causó los usos posteriores."
+  },
+  {
+    "type": "evidence",
+    "event_id": "E016950",
+    "text": "2026-08-03T21:31:46.000000-06:00 · Anunciantes con los que interactuaste · Acción\nClic\nTítulo\nhttp://play.google.com/store/apps/details?id=com.coppel.coppelapp\nURL pública de la biblioteca de anuncios\nhttps://www.facebook.com/ads/library/?id=2475207562964622\nURL\nhttps://www.facebook.com/tiendascoppel/posts/pfbid02zQM9YcGqykwunYPveL647kTsmMunxFa79qzhtE4oLGJQWHMFAKJRWX5gMRyZk9S8l\nS101 · section_index_1based=13; línea 13, columna 7125",
+    "url": "https://www.facebook.com/ads/library/?id=2475207562964622"
+  },
+  {
+    "type": "evidence",
+    "event_id": "E017165",
+    "text": "2026-08-04T18:33:20.000000-06:00 · Google Play Store · Se ha utilizado Coppel: compras en línea\nS016 · record_index_1based=4272; línea 33, columna 4245057",
+    "url": "https://play.google.com/store/apps/details?id=com.coppel.coppelapp"
+  },
+  {
+    "type": "evidence",
+    "event_id": "E017507",
+    "text": "2026-08-08T04:13:20.000000-06:00 · Google Play Store · Se ha utilizado Coppel: compras en línea\nS016 · record_index_1based=4055; línea 33, columna 4029793",
+    "url": "https://play.google.com/store/apps/details?id=com.coppel.coppelapp"
+  },
+  {
+    "type": "evidence",
+    "event_id": "E017653",
+    "text": "2026-08-08T20:36:40.000000-06:00 · Google Play Store · Se ha utilizado Coppel: compras en línea\nS016 · record_index_1based=4008; línea 33, columna 3982952",
+    "url": "https://play.google.com/store/apps/details?id=com.coppel.coppelapp"
+  },
+  {
+    "type": "evidence",
+    "event_id": "E018106",
+    "text": "2026-08-16T02:46:40.000000-06:00 · Google Play Store · Se ha utilizado Coppel: compras en línea\nS016 · record_index_1based=3835; línea 33, columna 3811772",
+    "url": "https://play.google.com/store/apps/details?id=com.coppel.coppelapp"
+  },
+  {
+    "type": "evidence",
+    "event_id": "E018122",
+    "text": "2026-08-16T10:16:40.000000-06:00 · Google Play Store · Se ha utilizado Coppel: compras en línea\nS016 · record_index_1based=3815; línea 33, columna 3791749",
+    "url": "https://play.google.com/store/apps/details?id=com.coppel.coppelapp"
+  },
+  {
+    "type": "evidence",
+    "event_id": "E021395",
+    "text": "2026-09-08T23:26:45.000000-06:00 · Google Analytics · Has utilizado Coppel: compras en línea\nS012 · record_index_1based=290; línea 33, columna 313990",
+    "url": "https://play.google.com/store/apps/details?id=com.coppel.coppelapp"
+  },
+  {
+    "type": "evidence",
+    "event_id": "E021396",
+    "text": "2026-09-08T23:26:45.000000-06:00 · Publicidad · Has utilizado Coppel: compras en línea\nS024 · record_index_1based=245; línea 33, columna 289523",
+    "url": "https://play.google.com/store/apps/details?id=com.coppel.coppelapp"
+  },
+  {
+    "type": "evidence",
+    "event_id": "E021434",
+    "text": "2026-09-09T02:36:40.000000-06:00 · Google Play Store · Se ha utilizado Coppel: compras en línea\nS016 · record_index_1based=2466; línea 33, columna 2452497",
+    "url": "https://play.google.com/store/apps/details?id=com.coppel.coppelapp"
+  },
+  {
+    "type": "link",
+    "text": "Aplicación Coppel en Google Play",
+    "url": "https://play.google.com/store/apps/details?id=com.coppel.coppelapp"
+  },
+  {
+    "type": "link",
+    "text": "Referencia de anuncio de Coppel",
+    "url": "https://www.facebook.com/ads/library/?id=2475207562964622"
+  },
+  {
+    "type": "paragraph",
+    "text": "En actividad fuera de Meta también figuran Coppel (entidad 10153514100232571) y coppel.com (entidad 1444276872316871), con cuatro valores de Identificador de evento compartidos. Este cruce se documenta por separado del ID de anuncio y del paquete Android; no existe una conversión demostrada entre esos números."
+  },
+  {
+    "type": "heading",
+    "text": "Qué es la carpeta files"
+  },
+  {
+    "type": "paragraph",
+    "text": "Contiene 181 archivos: 179 PNG sin extensión, un logo de Facebook llamado fb_logo.png y una imagen pequeña llamada profile_pic.jpg. Las 179 imágenes numeradas están enlazadas desde your_facebook_activity/ai/your_files.html, en la lista de archivos creados. Las 179 contienen metadatos Software de Matplotlib. La imagen 1079358437649748 se inspeccionó: es una representación de x=1. Su número identifica un archivo en el export, sin relación demostrada con las empresas."
+  },
+  {
+    "type": "link",
+    "text": "Listado original de archivos de IA",
+    "url": "file:///home/deep-logic/Documentos/facebook/your_facebook_activity/ai/your_files.html"
+  },
+  {
+    "type": "paragraph",
+    "text": "Se registraron las fechas de creación que da la lista de IA. El logo y la foto se inspeccionaron y se conservan sin inventarles una fecha. El inventario incluye formato por firma binaria, tamaño, SHA-256 y referencia de origen de cada imagen numerada."
+  },
+  {
+    "type": "heading",
+    "text": "Dos vías para consultar mensajes; límites de esta copia"
+  },
+  {
+    "type": "paragraph",
+    "text": "La copia local contiene 37 archivos de conversación y 1.755 mensajes fechados. Hay otros 38 bloques sin fecha: por ejemplo, foto del grupo y configuración del enlace de invitación. Se conservan fuera de la línea temporal para no asignarles horas inventadas."
+  },
+  {
+    "type": "link",
+    "text": "Índice local de tus mensajes",
+    "url": "file:///home/deep-logic/Documentos/facebook/your_facebook_activity/messages/your_messages.html"
+  },
+  {
+    "type": "paragraph",
+    "text": "El archivo Conversaciones secretas indica Sí tanto para mensajes enviados como recibidos, y lista dispositivos. Es información de uso, no el contenido descifrado de todas esas conversaciones. Este export no permite concluir que estén todos tus mensajes."
+  },
+  {
+    "type": "link",
+    "text": "Metadatos locales de conversaciones secretas",
+    "url": "file:///home/deep-logic/Documentos/facebook/your_facebook_activity/messages/secret_conversations.html"
+  },
+  {
+    "type": "paragraph",
+    "text": "Otra vía documentada por Meta es recuperar el historial cifrado mediante el almacenamiento seguro de Messenger, con PIN de seis dígitos o una clave conservada en Google Drive o iCloud. Esta es una explicación externa del mecanismo; no se recuperó un PIN o una clave de respaldo de Messenger en esta revisión. [F01]"
+  },
+  {
+    "type": "link",
+    "text": "Meta: historial cifrado y almacenamiento seguro de Messenger",
+    "url": "https://about.fb.com/news/2024/03/end-to-end-encryption-on-messenger-explained/"
+  },
+  {
+    "type": "paragraph",
+    "text": "La página de ayuda sobre descarga del historial cifrado no permitió verificar sus instrucciones. Se registró el intento fallido, sin presentar pasos no comprobados. [F04]"
+  },
+  {
+    "type": "heading",
+    "text": "Google: ver y administrar una empresa"
+  },
+  {
+    "type": "paragraph",
+    "text": "El 26-09-2026, después de las búsquedas VAPID, aparece la consulta perfil negocios google a las 22:29:46 y visitas a business.google.com, incluida la pantalla de creación y un registro de Perfil de Empresa en Google. Son visitas documentadas; no prueban que se haya creado o administrado una ficha."
+  },
+  {
+    "type": "evidence",
+    "event_id": "E026747",
+    "text": "2026-09-26T22:29:46.000000-06:00 · Búsqueda · perfil negocios google\nS004 · record_index_1based=4; línea 33, columna 3190",
+    "url": "https://www.google.com/search?q=perfil+negocios+google"
+  },
+  {
+    "type": "evidence",
+    "event_id": "E026748",
+    "text": "2026-09-26T22:29:51.142605-06:00 · Historial de Chrome · Muestra tu empresa en Google: Perfil de Negocio de Google\nS028 · record_index_1based=63",
+    "url": "https://business.google.com/es-all/business-profile/"
+  },
+  {
+    "type": "evidence",
+    "event_id": "E026749",
+    "text": "2026-09-26T22:30:02.753842-06:00 · Historial de Chrome · Muestra tu empresa en Google: Perfil de Negocio de Google\nS028 · record_index_1based=62",
+    "url": "https://business.google.com/es-all/business-profile/"
+  },
+  {
+    "type": "evidence",
+    "event_id": "E026750",
+    "text": "2026-09-26T22:30:06.000000-06:00 · Chrome · Haz que tu empresa aparezca en Google\nS008 · record_index_1based=18; línea 33, columna 14195",
+    "url": "https://business.google.com/create/new?gmbsrc=all-es-419-z-z-z-gmb-s-z-u~bgcmhp-hom_hr-u&hl=es-419&skipLandingPage=&skipPagesList=1&cbl=hr&cbp=hom&cbt=now&service=ome&original_intent=GMB"
+  },
+  {
+    "type": "evidence",
+    "event_id": "E026751",
+    "text": "2026-09-26T22:30:06.453130-06:00 · Historial de Chrome · Haz que tu empresa aparezca en Google\nS028 · record_index_1based=61",
+    "url": "https://business.google.com/create/new?gmbsrc=all-es-419-z-z-z-gmb-s-z-u~bgcmhp-hom_hr-u&hl=es-419&skipLandingPage=&skipPagesList=1&cbl=hr&cbp=hom&cbt=now&service=ome&original_intent=GMB"
+  },
+  {
+    "type": "evidence",
+    "event_id": "E026752",
+    "text": "2026-09-26T22:30:07.000000-06:00 · Perfil de Empresa en Google · Viste Registro\nS022 · record_index_1based=1; línea 33, columna 43",
+    "url": "https://business.google.com/"
+  },
+  {
+    "type": "evidence",
+    "event_id": "E026753",
+    "text": "2026-09-26T22:30:12.000000-06:00 · Búsqueda · Muestra tu empresa en Google: Perfil de Negocio de Google\nS004 · record_index_1based=3; línea 33, columna 2166",
+    "url": "https://business.google.com/es-all/business-profile/"
+  },
+  {
+    "type": "evidence",
+    "event_id": "E026754",
+    "text": "2026-09-26T22:30:12.000000-06:00 · Chrome · Muestra tu empresa en Google: Perfil de Negocio de Google\nS008 · record_index_1based=17; línea 33, columna 13496",
+    "url": "https://business.google.com/es-all/business-profile/"
+  },
+  {
+    "type": "evidence",
+    "event_id": "E026755",
+    "text": "2026-09-26T22:30:12.887103-06:00 · Historial de Chrome · Muestra tu empresa en Google: Perfil de Negocio de Google\nS028 · record_index_1based=60",
+    "url": "https://business.google.com/es-all/business-profile/"
+  },
+  {
+    "type": "paragraph",
+    "text": "La exportación específica del producto contiene name=accounts/118064871121168977834, accountName=Adilene Hernández Razo y type=PERSONAL. Referencia S076: data.json, /name, /accountName y /type. El número 118064871121168977834 identifica este recurso de cuenta, no una ficha individual. businessPersonalization.json está vacío. En esta carpeta no hay locations ni un ID de ficha de negocio."
+  },
+  {
+    "type": "link",
+    "text": "Cuenta exportada de Perfil de Negocio",
+    "url": "file:///home/deep-logic/Documentos/Registro/Takeout/Perfil%C2%A0de%C2%A0Negocio%C2%A0de%C2%A0Google/account-118064871121168977834/data.json"
+  },
+  {
+    "type": "paragraph",
+    "text": "La documentación de Google permite encontrar la empresa en Búsqueda o Maps con la cuenta asociada. Para consultar el ID de una ficha: abrir el Perfil de Negocio → Más → Configuración del Perfil de Negocio → Configuración avanzada. Ese ID pertenece a Google; no se ha encontrado una equivalencia con los números de Facebook. [F02, F03]"
+  },
+  {
+    "type": "link",
+    "text": "Google: configuración avanzada e ID del Perfil de Negocio",
+    "url": "https://support.google.com/business/answer/10737668?hl=es-419"
+  },
+  {
+    "type": "link",
+    "text": "Google: encontrar una empresa en Búsqueda y Maps",
+    "url": "https://support.google.com/business/answer/145585?hl=es-419"
+  },
+  {
+    "type": "paragraph",
+    "text": "Los 16 registros de Chat y 290 de Gmail dentro de Mi actividad son actividad del producto; esa carpeta no equivale al contenido de conversaciones o correos. Por separado se incorporaron tres conversaciones exportadas de Gemini en Workspace con preguntas, respuestas, fechas y enlaces de sus citas."
+  },
+  {
+    "type": "heading",
+    "text": "VAPID y la pista de validación con imagen: hallazgos anteriores"
+  },
+  {
+    "type": "paragraph",
+    "text": "Se mantienen las búsquedas vapid y vapid web push del 26-09-2026 a las 22:28:27 y 22:28:32 y los dos artículos visitados después. Ocho observaciones de Search, Chrome y Browser History corresponden a cuatro eventos en el cruce original, conservado en datos/cruce.json."
+  },
+  {
+    "type": "link",
+    "text": "Artículo visitado: VAPID en Medium",
+    "url": "https://medium.com/bawilabs/web-push-notifications-through-vapid-method-7d4d6927a006"
+  },
+  {
+    "type": "link",
+    "text": "Artículo visitado: protocolo Web Push",
+    "url": "https://web.dev/articles/push-notifications-web-push-protocol?hl=es-419"
+  },
+  {
+    "type": "paragraph",
+    "text": "Se recuperó una clave privada VAPID de sharing.vapid_key en Configuración.json. Se validó como EC P-256 y pertenece al componente sharing de Chrome; no se demostró que sea la clave de un servidor Web Push propio. Su valor permanece en privado/claves-recuperadas.md, privado/vapid-recuperada.json y privado/vapid-private.pem. No se encontraron contraseñas de acceso en los exportes revisados. El PDF presenta metadatos y referencias de la clave, sin copiar el valor privado."
+  },
+  {
+    "type": "paragraph",
+    "text": "La búsqueda aproximada sobre validar con una imagen más rápido sigue sin una consulta explícita coincidente. Se conservan candidatos de identidad, mensajes de Google y Lens, y ahora la captura de comprobante de Epazote como pista relacionada. Ninguno confirma todavía el método que se recuerda."
+  },
+  {
+    "type": "heading",
+    "text": "Cómo se construye y se actualiza la cronología"
+  },
+  {
+    "type": "paragraph",
+    "text": "Se conservan todas las observaciones extraídas: una visita puede aparecer en varios productos. No se eliminan registros por parecer duplicados. La igualdad de URL en fuentes Google distintas a hasta dos segundos se marca como posible misma visita. Los resúmenes y detalles de actividad fuera de Meta se relacionan por nombre, campo de identificador, tipo y minuto, sin sustituir sus tiempos originales."
+  },
+  {
+    "type": "paragraph",
+    "text": "Hay 684 relaciones automáticas propuestas en datos/actividad-correlaciones.json. Cada observación tiene ID de esta versión, fecha original, precisión, fuente y localizador de registro. El catálogo permite volver al HTML/JSON/CSV original y comprobar SHA-256. Los originales fueron verificados sin modificaciones."
+  },
+  {
+    "type": "paragraph",
+    "text": "Las horas de Facebook llevan UTC-06:00 según su encabezado. Se convierten a America/Mexico_City; para 2022 la hora local puede cambiar por el horario de verano histórico. Los registros con precisión de minuto conservan esa precisión aunque la representación ISO muestre segundos 00. Dos transacciones CSV de Google Pay no explicitan zona: se asume México y se marca la incertidumbre. No se deduce cuándo ocurrió un clic a partir de una actualización musical. Fechas de instalación, actualización, alta de dispositivo o vencimiento se etiquetan como tales, no como búsquedas ni usos de apps."
+  },
+  {
+    "type": "paragraph",
+    "text": "Alcance: los 27 HTML de Mi actividad y el historial JSON de Chrome; fechas explícitas de JSON de otros productos y CSV con fecha reconocible; conversaciones y secciones fechadas de los 386 HTML de Facebook; detalle y resumen de actividad fuera de Meta y archivos IA. Este PDF es una reconstrucción de las copias disponibles, no una garantía de que contengan todo lo sucedido en las cuentas. No se han integrado citas de calendario como navegación ni tratado preferencias sin fecha como acciones."
+  },
+  {
+    "type": "paragraph",
+    "text": "Los enlaces de acceso se depuran de parámetros privados en el PDF y visor; las URLs originales permanecen en privado/actividad-observaciones-originales.json. Las búsquedas y mensajes se muestran con su texto. El visor HTML funciona sin conexión y permite filtrar fecha, servicio, texto e identificador, alternar orden y abrir los archivos originales. El CSV incluye toda la cronología para consulta externa. El PDF conserva el orden global de más antiguo a más reciente."
+  }
+]

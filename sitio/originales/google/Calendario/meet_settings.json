@@ -1,0 +1,23 @@
+{"Meeting data": [
+  {
+    "Meeting code": "irg-qwmh-njm",
+    "Live stream access config": {
+      "Live stream access type": "ACCESS_TYPE_UNSPECIFIED",
+      "Allowlist": []
+    }
+  },
+  {
+    "Meeting code": "oew-gitq-dyv",
+    "Live stream access config": {
+      "Live stream access type": "ACCESS_TYPE_UNSPECIFIED",
+      "Allowlist": []
+    }
+  },
+  {
+    "Meeting code": "ftr-wujg-okh",
+    "Live stream access config": {
+      "Live stream access type": "ACCESS_TYPE_UNSPECIFIED",
+      "Allowlist": []
+    }
+  }
+]}

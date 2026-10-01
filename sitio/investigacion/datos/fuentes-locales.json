@@ -1,0 +1,26 @@
+[
+  {
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Chrome/Configuración.json",
+    "relative_path": "Chrome/Configuración.json",
+    "bytes": 4316,
+    "sha256": "3a6721130533dcc32dd90690298d29f1f1ce987401c498e23b35f146aa1042fd"
+  },
+  {
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Chrome/Historial.json",
+    "relative_path": "Chrome/Historial.json",
+    "bytes": 1192672,
+    "sha256": "b919cb5217d871480ef9dd3b76ce093f60e028cc14cc756b57a404dafac3b38f"
+  },
+  {
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Búsqueda/MiActividad.html",
+    "relative_path": "Mi actividad/Búsqueda/MiActividad.html",
+    "bytes": 1132089,
+    "sha256": "32c36ffc2742ba5c873784cf597e9a1ac56b518caf948df35b92c316792a5cbc"
+  },
+  {
+    "path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Chrome/MiActividad.html",
+    "relative_path": "Mi actividad/Chrome/MiActividad.html",
+    "bytes": 532082,
+    "sha256": "5052f54fdd5cb57d369b1fe1f246a82735e22f404470256644223cd697023bb2"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "kind": "consulta",
+    "url": "https://www.google.com/search?q=vapid",
+    "title_or_query": "vapid",
+    "time_first_local": "2026-09-26T22:28:27-06:00",
+    "time_last_local": "2026-09-26T22:28:27-06:00",
+    "observations": [
+      {
+        "source": "Mi actividad/Búsqueda/MiActividad.html",
+        "record_index_1based": 8,
+        "json_pointer": null,
+        "time_local": "2026-09-26T22:28:27-06:00",
+        "url_original": "https://www.google.com/search?q=vapid"
+      }
+    ],
+    "correlation_basis": "Consulta explícita registrada en Mi actividad/Búsqueda; no aparece como consulta en Browser History."
+  },
+  {
+    "kind": "consulta",
+    "url": "https://www.google.com/search?q=vapid+web+push",
+    "title_or_query": "vapid web push",
+    "time_first_local": "2026-09-26T22:28:32-06:00",
+    "time_last_local": "2026-09-26T22:28:32-06:00",
+    "observations": [
+      {
+        "source": "Mi actividad/Búsqueda/MiActividad.html",
+        "record_index_1based": 7,
+        "json_pointer": null,
+        "time_local": "2026-09-26T22:28:32-06:00",
+        "url_original": "https://www.google.com/search?q=vapid+web+push"
+      }
+    ],
+    "correlation_basis": "Consulta explícita registrada en Mi actividad/Búsqueda; no aparece como consulta en Browser History."
+  },
+  {
+    "kind": "visita",
+    "url": "https://medium.com/bawilabs/web-push-notifications-through-vapid-method-7d4d6927a006",
+    "title_or_query": "Notificaciones push web mediante el método VAPID | por Carlos Ribeiro | bawilabs | Medium",
+    "time_first_local": "2026-09-26T22:28:39-06:00",
+    "time_last_local": "2026-09-26T22:28:40.163036-06:00",
+    "observations": [
+      {
+        "source": "Mi actividad/Búsqueda/MiActividad.html",
+        "record_index_1based": 6,
+        "json_pointer": null,
+        "time_local": "2026-09-26T22:28:39-06:00",
+        "url_original": "https://translate.google.com/translate?u=https://medium.com/bawilabs/web-push-notifications-through-vapid-method-7d4d6927a006&hl=es&sl=en&tl=es&client=srp"
+      },
+      {
+        "source": "Mi actividad/Chrome/MiActividad.html",
+        "record_index_1based": 20,
+        "json_pointer": null,
+        "time_local": "2026-09-26T22:28:40-06:00",
+        "url_original": "https://www.google.com/url?q=https://medium.com/bawilabs/web-push-notifications-through-vapid-method-7d4d6927a006&usg=AOvVaw2bGST1qoKtGFVuq83G8XQ9"
+      },
+      {
+        "source": "Chrome/Historial.json",
+        "record_index_1based": 65,
+        "json_pointer": "/Browser History/64",
+        "time_local": "2026-09-26T22:28:40.163036-06:00",
+        "url_original": "https://medium.com/bawilabs/web-push-notifications-through-vapid-method-7d4d6927a006"
+      }
+    ],
+    "correlation_basis": "Misma URL de destino sin envoltorios de Google ni parámetro de idioma; intervalo menor de dos segundos."
+  },
+  {
+    "kind": "visita",
+    "url": "https://web.dev/articles/push-notifications-web-push-protocol?hl=es-419",
+    "title_or_query": "El protocolo de envío web  |  Articles  |  web.dev",
+    "time_first_local": "2026-09-26T22:28:55-06:00",
+    "time_last_local": "2026-09-26T22:28:56.599891-06:00",
+    "observations": [
+      {
+        "source": "Mi actividad/Búsqueda/MiActividad.html",
+        "record_index_1based": 5,
+        "json_pointer": null,
+        "time_local": "2026-09-26T22:28:55-06:00",
+        "url_original": "https://translate.google.com/translate?u=https://web.dev/articles/push-notifications-web-push-protocol&hl=es&sl=en&tl=es&client=srp"
+      },
+      {
+        "source": "Mi actividad/Chrome/MiActividad.html",
+        "record_index_1based": 19,
+        "json_pointer": null,
+        "time_local": "2026-09-26T22:28:56-06:00",
+        "url_original": "https://www.google.com/url?q=https://web.dev/articles/push-notifications-web-push-protocol%3Fhl%3Des-419&usg=AOvVaw2ksaW6shERcPgc7gOT75zi"
+      },
+      {
+        "source": "Chrome/Historial.json",
+        "record_index_1based": 64,
+        "json_pointer": "/Browser History/63",
+        "time_local": "2026-09-26T22:28:56.599891-06:00",
+        "url_original": "https://web.dev/articles/push-notifications-web-push-protocol?hl=es-419"
+      }
+    ],
+    "correlation_basis": "Misma URL de destino sin envoltorios de Google ni parámetro de idioma; intervalo menor de dos segundos."
+  }
+]

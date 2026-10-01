@@ -1,0 +1,483 @@
+{
+  "request": "Ahora en las busquedas busca algo sobre como se puede validar con una imagen mas rapido o algo asi",
+  "activity_files_scanned": 27,
+  "activity_audit": [
+    {
+      "source": "Mi actividad/Aplicaciones de Gemini/MiActividad.html",
+      "records": 11,
+      "classification_counts": {
+        "visita": 11
+      },
+      "query_keyword_counts": {}
+    },
+    {
+      "source": "Mi actividad/Ayuda/MiActividad.html",
+      "records": 814,
+      "classification_counts": {
+        "visita": 684,
+        "consulta": 130
+      },
+      "query_keyword_counts": {
+        "verification_or_validation": 1,
+        "image_or_photo": 10,
+        "speed_or_ease": 0
+      }
+    },
+    {
+      "source": "Mi actividad/Ayuda de Google/MiActividad.html",
+      "records": 3,
+      "classification_counts": {
+        "visita": 3
+      },
+      "query_keyword_counts": {}
+    },
+    {
+      "source": "Mi actividad/Búsqueda/MiActividad.html",
+      "records": 874,
+      "classification_counts": {
+        "visita": 492,
+        "consulta": 382
+      },
+      "query_keyword_counts": {
+        "verification_or_validation": 1,
+        "image_or_photo": 4,
+        "speed_or_ease": 0
+      }
+    },
+    {
+      "source": "Mi actividad/Búsqueda de imágenes/MiActividad.html",
+      "records": 50,
+      "classification_counts": {
+        "consulta": 19,
+        "visita": 31
+      },
+      "query_keyword_counts": {
+        "verification_or_validation": 0,
+        "image_or_photo": 0,
+        "speed_or_ease": 0
+      }
+    },
+    {
+      "source": "Mi actividad/Búsqueda de vídeos/MiActividad.html",
+      "records": 4,
+      "classification_counts": {
+        "visita": 4
+      },
+      "query_keyword_counts": {}
+    },
+    {
+      "source": "Mi actividad/Chat/MiActividad.html",
+      "records": 16,
+      "classification_counts": {
+        "consulta": 16
+      },
+      "query_keyword_counts": {
+        "verification_or_validation": 0,
+        "image_or_photo": 0,
+        "speed_or_ease": 0
+      }
+    },
+    {
+      "source": "Mi actividad/Chrome/MiActividad.html",
+      "records": 359,
+      "classification_counts": {
+        "visita": 359
+      },
+      "query_keyword_counts": {}
+    },
+    {
+      "source": "Mi actividad/Discover/MiActividad.html",
+      "records": 151,
+      "classification_counts": {
+        "visita": 151
+      },
+      "query_keyword_counts": {}
+    },
+    {
+      "source": "Mi actividad/Drive/MiActividad.html",
+      "records": 53,
+      "classification_counts": {
+        "consulta": 51,
+        "visita": 2
+      },
+      "query_keyword_counts": {
+        "verification_or_validation": 0,
+        "image_or_photo": 0,
+        "speed_or_ease": 0
+      }
+    },
+    {
+      "source": "Mi actividad/Gmail/MiActividad.html",
+      "records": 290,
+      "classification_counts": {
+        "consulta": 133,
+        "visita": 157
+      },
+      "query_keyword_counts": {
+        "verification_or_validation": 0,
+        "image_or_photo": 4,
+        "speed_or_ease": 0
+      }
+    },
+    {
+      "source": "Mi actividad/Google Analytics/MiActividad.html",
+      "records": 866,
+      "classification_counts": {
+        "visita": 866
+      },
+      "query_keyword_counts": {}
+    },
+    {
+      "source": "Mi actividad/Google Lens/MiActividad.html",
+      "records": 14,
+      "classification_counts": {
+        "visita": 10,
+        "consulta": 4
+      },
+      "query_keyword_counts": {
+        "verification_or_validation": 0,
+        "image_or_photo": 0,
+        "speed_or_ease": 0
+      }
+    },
+    {
+      "source": "Mi actividad/Google News/MiActividad.html",
+      "records": 66,
+      "classification_counts": {
+        "visita": 66
+      },
+      "query_keyword_counts": {}
+    },
+    {
+      "source": "Mi actividad/Google Play Películas/MiActividad.html",
+      "records": 4,
+      "classification_counts": {
+        "visita": 4
+      },
+      "query_keyword_counts": {}
+    },
+    {
+      "source": "Mi actividad/Google Play Store/MiActividad.html",
+      "records": 8603,
+      "classification_counts": {
+        "visita": 8442,
+        "consulta": 161
+      },
+      "query_keyword_counts": {
+        "verification_or_validation": 0,
+        "image_or_photo": 4,
+        "speed_or_ease": 0
+      }
+    },
+    {
+      "source": "Mi actividad/Google Store/MiActividad.html",
+      "records": 25,
+      "classification_counts": {
+        "visita": 24,
+        "consulta": 1
+      },
+      "query_keyword_counts": {
+        "verification_or_validation": 0,
+        "image_or_photo": 0,
+        "speed_or_ease": 0
+      }
+    },
+    {
+      "source": "Mi actividad/Google Pay/MiActividad.html",
+      "records": 8,
+      "classification_counts": {
+        "visita": 8
+      },
+      "query_keyword_counts": {}
+    },
+    {
+      "source": "Mi actividad/Maps/MiActividad.html",
+      "records": 42,
+      "classification_counts": {
+        "visita": 38,
+        "consulta": 4
+      },
+      "query_keyword_counts": {
+        "verification_or_validation": 0,
+        "image_or_photo": 0,
+        "speed_or_ease": 0
+      }
+    },
+    {
+      "source": "Mi actividad/Mi centro de anuncios/MiActividad.html",
+      "records": 130,
+      "classification_counts": {
+        "visita": 130
+      },
+      "query_keyword_counts": {}
+    },
+    {
+      "source": "Mi actividad/Modo IA/MiActividad.html",
+      "records": 16,
+      "classification_counts": {
+        "consulta": 16
+      },
+      "query_keyword_counts": {
+        "verification_or_validation": 0,
+        "image_or_photo": 0,
+        "speed_or_ease": 0
+      }
+    },
+    {
+      "source": "Mi actividad/Perfil de Empresa en Google/MiActividad.html",
+      "records": 1,
+      "classification_counts": {
+        "visita": 1
+      },
+      "query_keyword_counts": {}
+    },
+    {
+      "source": "Mi actividad/Programadores/MiActividad.html",
+      "records": 15,
+      "classification_counts": {
+        "visita": 15
+      },
+      "query_keyword_counts": {}
+    },
+    {
+      "source": "Mi actividad/Publicidad/MiActividad.html",
+      "records": 2168,
+      "classification_counts": {
+        "visita": 2168
+      },
+      "query_keyword_counts": {}
+    },
+    {
+      "source": "Mi actividad/Takeout/MiActividad.html",
+      "records": 88,
+      "classification_counts": {
+        "visita": 88
+      },
+      "query_keyword_counts": {}
+    },
+    {
+      "source": "Mi actividad/Traductor de Google/MiActividad.html",
+      "records": 1,
+      "classification_counts": {
+        "visita": 1
+      },
+      "query_keyword_counts": {}
+    },
+    {
+      "source": "Mi actividad/YouTube/MiActividad.html",
+      "records": 3696,
+      "classification_counts": {
+        "visita": 3316,
+        "consulta": 380
+      },
+      "query_keyword_counts": {
+        "verification_or_validation": 0,
+        "image_or_photo": 0,
+        "speed_or_ease": 0
+      }
+    }
+  ],
+  "explicit_search_queries_combining_validation_and_image": 0,
+  "combined_matches": [],
+  "original_source_manifest": [
+    {
+      "path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Aplicaciones de Gemini/MiActividad.html",
+      "relative_path": "Mi actividad/Aplicaciones de Gemini/MiActividad.html",
+      "bytes": 171486,
+      "sha256": "fd57e12bfe814c74955cc8566f5db711999b25df02ea4a15d23c7d18657be3af"
+    },
+    {
+      "path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Ayuda/MiActividad.html",
+      "relative_path": "Mi actividad/Ayuda/MiActividad.html",
+      "bytes": 1228169,
+      "sha256": "db5c0e59003f68750e23690780c769e29eede7e3d54b08c184c5193514e19d86"
+    },
+    {
+      "path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Ayuda de Google/MiActividad.html",
+      "relative_path": "Mi actividad/Ayuda de Google/MiActividad.html",
+      "bytes": 145336,
+      "sha256": "9829fe38369bcd4396d4f315d4da81ae29db3d5de58c3e6d4088ef7c31cd53a1"
+    },
+    {
+      "path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Búsqueda/MiActividad.html",
+      "relative_path": "Mi actividad/Búsqueda/MiActividad.html",
+      "bytes": 1132089,
+      "sha256": "32c36ffc2742ba5c873784cf597e9a1ac56b518caf948df35b92c316792a5cbc"
+    },
+    {
+      "path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Búsqueda de imágenes/MiActividad.html",
+      "relative_path": "Mi actividad/Búsqueda de imágenes/MiActividad.html",
+      "bytes": 198464,
+      "sha256": "9d618e18e3c8c8240ea9df3e5d14cd31a0d9210f8d7be13c0ff089b0e74e0666"
+    },
+    {
+      "path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Búsqueda de vídeos/MiActividad.html",
+      "relative_path": "Mi actividad/Búsqueda de vídeos/MiActividad.html",
+      "bytes": 146444,
+      "sha256": "539cd6e6f08deb96d4a768b41c29197a33a89d46807e7f504d2e6df3de871dad"
+    },
+    {
+      "path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Chat/MiActividad.html",
+      "relative_path": "Mi actividad/Chat/MiActividad.html",
+      "bytes": 157129,
+      "sha256": "dea4374c56e52a38dcaf36973f25faab2a507d049e8242bd835de93e789ca304"
+    },
+    {
+      "path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Chrome/MiActividad.html",
+      "relative_path": "Mi actividad/Chrome/MiActividad.html",
+      "bytes": 532082,
+      "sha256": "5052f54fdd5cb57d369b1fe1f246a82735e22f404470256644223cd697023bb2"
+    },
+    {
+      "path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Discover/MiActividad.html",
+      "relative_path": "Mi actividad/Discover/MiActividad.html",
+      "bytes": 302521,
+      "sha256": "ac3214d2bd6e26faa4050e8910cc741eaf3cc33ec02205522ea84d140659aa0a"
+    },
+    {
+      "path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Drive/MiActividad.html",
+      "relative_path": "Mi actividad/Drive/MiActividad.html",
+      "bytes": 196740,
+      "sha256": "1b9da4efa816b1145a7415bf48de4f0ec817c1920658a64369ebd6303e80c42c"
+    },
+    {
+      "path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Gmail/MiActividad.html",
+      "relative_path": "Mi actividad/Gmail/MiActividad.html",
+      "bytes": 422686,
+      "sha256": "eb87de8eb76427c1aa26a71267cdc12cae0a09df3f17d1faa4925f41c185ff03"
+    },
+    {
+      "path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Google Analytics/MiActividad.html",
+      "relative_path": "Mi actividad/Google Analytics/MiActividad.html",
+      "bytes": 1087779,
+      "sha256": "a2c33c0032ea02f1b0d42f560949bc9e63400aa3c6bb29a0ebb41478bf064747"
+    },
+    {
+      "path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Google Lens/MiActividad.html",
+      "relative_path": "Mi actividad/Google Lens/MiActividad.html",
+      "bytes": 155267,
+      "sha256": "94bdb0fb6f17bdf1b63c44dcc0c03b24b47211f53881bcd500222482d52cb21a"
+    },
+    {
+      "path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Google News/MiActividad.html",
+      "relative_path": "Mi actividad/Google News/MiActividad.html",
+      "bytes": 209391,
+      "sha256": "0ac35667fff60a4dddecc30b2a33e4a22e260eeecb32d72252dfa3e742397b80"
+    },
+    {
+      "path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Google Play Películas/MiActividad.html",
+      "relative_path": "Mi actividad/Google Play Películas/MiActividad.html",
+      "bytes": 145764,
+      "sha256": "0148adf6fca2e3b37f97f8da0856799a6724376610636d62b3ea81fbd13e5637"
+    },
+    {
+      "path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Google Play Store/MiActividad.html",
+      "relative_path": "Mi actividad/Google Play Store/MiActividad.html",
+      "bytes": 8778863,
+      "sha256": "a8cbb598783753a6bb1aa2f1f8decd6cc46dbadf08dcac1f0d195d164b3457a9"
+    },
+    {
+      "path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Google Store/MiActividad.html",
+      "relative_path": "Mi actividad/Google Store/MiActividad.html",
+      "bytes": 166712,
+      "sha256": "fef7b99ea1501d49cc31cafce39c84e5c052df59403d06463ef6e40abf2cc67f"
+    },
+    {
+      "path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Google Pay/MiActividad.html",
+      "relative_path": "Mi actividad/Google Pay/MiActividad.html",
+      "bytes": 149122,
+      "sha256": "b195cb0339dc3af3d17d7beceff6416b58cc2686692c947629eb93761e081dd8"
+    },
+    {
+      "path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Maps/MiActividad.html",
+      "relative_path": "Mi actividad/Maps/MiActividad.html",
+      "bytes": 186253,
+      "sha256": "452fdfbb3f8afaec63ec6a66efa43852fa6b0b0ea3da1251b27640da0856fc32"
+    },
+    {
+      "path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Mi centro de anuncios/MiActividad.html",
+      "relative_path": "Mi actividad/Mi centro de anuncios/MiActividad.html",
+      "bytes": 223020,
+      "sha256": "102143491d2079a01f401703f1dc4ca697f23a581b8bcc162be95e68f81c2373"
+    },
+    {
+      "path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Modo IA/MiActividad.html",
+      "relative_path": "Mi actividad/Modo IA/MiActividad.html",
+      "bytes": 397160,
+      "sha256": "9abb168353000a0d2d56dbb5d0484fcffcca6454097fe683eb7a04895fc23b19"
+    },
+    {
+      "path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Perfil de Empresa en Google/MiActividad.html",
+      "relative_path": "Mi actividad/Perfil de Empresa en Google/MiActividad.html",
+      "bytes": 142758,
+      "sha256": "a37cfec12d620bf0d71e606b86ba56cfaabb2be19eea2f154e4c763758e603bc"
+    },
+    {
+      "path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Programadores/MiActividad.html",
+      "relative_path": "Mi actividad/Programadores/MiActividad.html",
+      "bytes": 157782,
+      "sha256": "3d38a84570f16d2ddb26a0563bf9ddd5cb905adc5887cee864f55aa950634906"
+    },
+    {
+      "path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Publicidad/MiActividad.html",
+      "relative_path": "Mi actividad/Publicidad/MiActividad.html",
+      "bytes": 2593674,
+      "sha256": "6e0e118db108af513065b658e44a04c33842ea3a952e3f02611bc017ec076dd1"
+    },
+    {
+      "path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Takeout/MiActividad.html",
+      "relative_path": "Mi actividad/Takeout/MiActividad.html",
+      "bytes": 212535,
+      "sha256": "4f61d23149c85d45cdc56da0229518e929c6a975e6e104cf270a779fa03064a1"
+    },
+    {
+      "path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Traductor de Google/MiActividad.html",
+      "relative_path": "Mi actividad/Traductor de Google/MiActividad.html",
+      "bytes": 142944,
+      "sha256": "1cd2e09e382caedfb44b8c5f4ec5b7857ee9d0e4c01175466db4d86b6973013a"
+    },
+    {
+      "path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/YouTube/MiActividad.html",
+      "relative_path": "Mi actividad/YouTube/MiActividad.html",
+      "bytes": 3780817,
+      "sha256": "38d8057958ff1185ccfc6ce08683749dc440cea2bb4d2d9daa9762c574b4be12"
+    },
+    {
+      "path": "/home/deep-logic/Documentos/Registro/Takeout/Chrome/Historial.json",
+      "relative_path": "Chrome/Historial.json",
+      "bytes": 1192672,
+      "sha256": "b919cb5217d871480ef9dd3b76ce093f60e028cc14cc756b57a404dafac3b38f"
+    }
+  ],
+  "lens_image_assets_reviewed": [
+    {
+      "path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Google Lens/2026-08-27_12_07_57_875_UTC.jpg",
+      "relative_path": "Mi actividad/Google Lens/2026-08-27_12_07_57_875_UTC.jpg",
+      "bytes": 111570,
+      "sha256": "f1875486d23526fa1c7a909a93955cc4fe9a884267d57ef80036e24dbd031ab1",
+      "review": "Inspección visual: página de lectura literaria en inglés; no contiene instrucciones de validación de cuenta, CAPTCHA ni documentos de identidad."
+    },
+    {
+      "path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Google Lens/2026-08-27_12_08_15_873_UTC.jpg",
+      "relative_path": "Mi actividad/Google Lens/2026-08-27_12_08_15_873_UTC.jpg",
+      "bytes": 111570,
+      "sha256": "f1875486d23526fa1c7a909a93955cc4fe9a884267d57ef80036e24dbd031ab1",
+      "review": "Inspección visual: página de lectura literaria en inglés; no contiene instrucciones de validación de cuenta, CAPTCHA ni documentos de identidad."
+    },
+    {
+      "path": "/home/deep-logic/Documentos/Registro/Takeout/Mi actividad/Google Lens/2026-08-27_12_10_04_956_UTC.jpg",
+      "relative_path": "Mi actividad/Google Lens/2026-08-27_12_10_04_956_UTC.jpg",
+      "bytes": 137613,
+      "sha256": "22c2cac36708f05fe7f09a61cfb93a4365ced488ed9844cb6966e1c7fe227bfb",
+      "review": "Inspección visual: página de lectura literaria en inglés; no contiene instrucciones de validación de cuenta, CAPTCHA ni documentos de identidad."
+    }
+  ],
+  "history_records_scanned": 1182,
+  "result": "No se identificó la consulta recordada. Se conservaron candidatos temáticos y búsquedas por imagen como pistas sin confirmar.",
+  "user_followups": [
+    "OK",
+    "OK"
+  ],
+  "clarification": "Se preguntó qué se quería validar: identidad/cuenta, CAPTCHA o información/objetos. El usuario no especificó una opción.",
+  "pdf_created": false
+}

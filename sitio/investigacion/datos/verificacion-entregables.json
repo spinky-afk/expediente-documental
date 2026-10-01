@@ -1,0 +1,15 @@
+{
+  "pdf_timeline_count": 26871,
+  "expected": 26871,
+  "pdf_ids_exact_and_chronological": true,
+  "pdf_all_unique_ids": 26871,
+  "pdf_etsy_present": true,
+  "pdf_clarin_present": true,
+  "pdf_preceding_number_present": true,
+  "pdf_trustbuilder_present": true,
+  "recovered_private_key_values_checked": 2,
+  "private_key_absent_in_deliverables": true,
+  "pdf_link_annotations": 51674,
+  "pdf_outline_exists": true,
+  "pdf_sha256_matches_manifest": true
+}

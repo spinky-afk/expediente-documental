@@ -1,0 +1,38 @@
+[
+  {
+    "id": "F01",
+    "title": "Meta: historial cifrado y almacenamiento seguro de Messenger",
+    "url": "https://about.fb.com/news/2024/03/end-to-end-encryption-on-messenger-explained/",
+    "status": "contenido verificado",
+    "relationship": "Referencia consultada ahora; no es una visita recuperada del historial.",
+    "notes": "El almacenamiento seguro permite recuperar conversaciones cifradas en otros dispositivos mediante un PIN de seis dígitos o una clave guardada en Google Drive o iCloud.",
+    "consulted_on": "2026-10-01"
+  },
+  {
+    "id": "F02",
+    "title": "Google: configuración avanzada e ID del Perfil de Negocio",
+    "url": "https://support.google.com/business/answer/10737668?hl=es-419",
+    "status": "contenido verificado",
+    "relationship": "Referencia consultada ahora; no es una visita recuperada del historial.",
+    "notes": "El ID identifica una ficha de negocio en Google. Se consulta en Más, Configuración del Perfil de Negocio, Configuración avanzada.",
+    "consulted_on": "2026-10-01"
+  },
+  {
+    "id": "F03",
+    "title": "Google: encontrar una empresa en Búsqueda y Maps",
+    "url": "https://support.google.com/business/answer/145585?hl=es-419",
+    "status": "contenido verificado",
+    "relationship": "Referencia consultada ahora; no es una visita recuperada del historial.",
+    "notes": "Con la cuenta asociada se puede encontrar el perfil buscando el nombre y ciudad o mi negocio; también mediante Maps.",
+    "consulted_on": "2026-10-01"
+  },
+  {
+    "id": "F04",
+    "title": "Messenger: ayuda sobre descarga del historial cifrado",
+    "url": "https://www.facebook.com/help/messenger-app/677912386869109",
+    "status": "acceso bloqueado o redirigido a inicio de sesión; contenido no verificado",
+    "relationship": "Intento de consulta actual, no utilizado para afirmar instrucciones de descarga.",
+    "notes": "No se inventa una secuencia de menús a partir de esta página inaccesible.",
+    "consulted_on": "2026-10-01"
+  }
+]

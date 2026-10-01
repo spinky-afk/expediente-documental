@@ -1,0 +1,117 @@
+{
+  "consulted_sources": [
+    {
+      "id": "W01",
+      "title": "El protocolo de envío web — web.dev",
+      "url": "https://web.dev/articles/push-notifications-web-push-protocol?hl=es-419",
+      "relationship": "Visita histórica encontrada y lectura actual realizada.",
+      "notes": "Explica claves del servidor, JWT, suscripciones y cifrado. Algunos ejemplos usan encabezados y aesgcm de una versión anterior; contrastarlos con W03 y W04.",
+      "consulted_on": "2026-10-01"
+    },
+    {
+      "id": "W02",
+      "title": "Web Push Notifications through VAPID method — Carlos Ribeiro, bawilabs",
+      "url": "https://medium.com/bawilabs/web-push-notifications-through-vapid-method-7d4d6927a006",
+      "relationship": "Visita histórica encontrada; se confirmó título, autor y fecha de publicación.",
+      "notes": "Publicado el 20 de noviembre de 2018. Referencia histórica del recorrido del usuario; las explicaciones técnicas de este registro se fundamentan en fuentes primarias.",
+      "consulted_on": "2026-10-01"
+    },
+    {
+      "id": "W03",
+      "title": "RFC 8292 — Voluntary Application Server Identification (VAPID) for Web Push",
+      "url": "https://www.rfc-editor.org/rfc/rfc8292.html",
+      "relationship": "Referencia primaria adicional consultada durante esta investigación; no es una visita recuperada del historial.",
+      "notes": "Define identificación del servidor con JWT y ECDSA P-256/ES256, aud/exp y el esquema Authorization: vapid con parámetros t y k.",
+      "consulted_on": "2026-10-01"
+    },
+    {
+      "id": "W04",
+      "title": "RFC 8291 — Message Encryption for Web Push",
+      "url": "https://www.rfc-editor.org/rfc/rfc8291.html",
+      "relationship": "Referencia primaria adicional consultada durante esta investigación.",
+      "notes": "Explica cifrado de extremo a extremo, ECDH, secreto de autenticación de suscripción y aes128gcm. Separa el cifrado de la identificación VAPID.",
+      "consulted_on": "2026-10-01"
+    },
+    {
+      "id": "W05",
+      "title": "Chromium — SharingSyncPreference, versión 137.0.7151.130",
+      "url": "https://chromium.googlesource.com/chromium/src/%2B/refs/tags/137.0.7151.130/components/sharing_message/sharing_sync_preference.cc",
+      "relationship": "Código primario consultado para interpretar el campo encontrado; no procede del historial personal.",
+      "notes": "GetVapidKey decodifica vapid_private_key desde Base64; SetVapidKey guarda esa clave y vapid_creation_timestamp. El componente administra preferencias sharing, datos FCM y dispositivos sincronizados.",
+      "consulted_on": "2026-10-01"
+    },
+    {
+      "id": "W06",
+      "title": "Chromium — nombre de preferencia sharing.vapid_key",
+      "url": "https://chromium.googlesource.com/chromium/src/%2B/a73140559ea8872c19acf6d190aacf1a46eef99b/chrome/common/pref_names.h",
+      "relationship": "Resultado de búsqueda primaria revisado para identificar el nombre de preferencia.",
+      "notes": "Declara kSharingVapidKey con el nombre sharing.vapid_key; la interpretación detallada se apoya en W05.",
+      "consulted_on": "2026-10-01"
+    },
+    {
+      "id": "W07",
+      "title": "Chromium — SharingSyncPreference, revisión c18a333f",
+      "url": "https://chromium.googlesource.com/chromium/src/%2B/c18a333f058a6f3a60dfc635b08f29fa6b4e7f81/chrome/browser/sharing/sharing_sync_preference.cc",
+      "relationship": "Resultado de búsqueda primaria revisado; posteriormente se abrió W05.",
+      "notes": "El fragmento encontrado relaciona vapid_private_key y vapid_creation_timestamp con preferencias sharing.",
+      "consulted_on": "2026-10-01"
+    },
+    {
+      "id": "W08",
+      "title": "Chromium — SharingSyncPreference, revisión cd9d08a4",
+      "url": "https://chromium.googlesource.com/chromium/src/%2B/cd9d08a4c4086bdac4d36c313e2b785776e8377d/chrome/browser/sharing/sharing_sync_preference.cc",
+      "relationship": "Resultado de búsqueda primaria revisado.",
+      "notes": "Implementación adicional de las funciones de almacenamiento de VAPID.",
+      "consulted_on": "2026-10-01"
+    },
+    {
+      "id": "W09",
+      "title": "Chromium experimental — SharingSyncPreference, versión 82.0.4053.0",
+      "url": "https://chromium.googlesource.com/experimental/chromium/src/%2B/refs/tags/82.0.4053.0/chrome/browser/sharing/sharing_sync_preference.cc",
+      "relationship": "Resultado de búsqueda primaria revisado.",
+      "notes": "Referencia histórica; no se utiliza para afirmar la versión de Chrome de esta cuenta.",
+      "consulted_on": "2026-10-01"
+    }
+  ],
+  "research_search_queries": [
+    "site:chromium.googlesource.com \"sharing.vapid_key\"",
+    "site:chromium.googlesource.com \"vapid_private_key\" sharing",
+    "site:chromium.googlesource.com/chromium/src \"vapid_private_key\"",
+    "site:chromium.googlesource.com/chromium/src \"SharingVapidKeyManager\"",
+    "site:chromium.googlesource.com/chromium/src \"kVapidCreationTimestamp\""
+  ],
+  "unavailable_attempts": [
+    {
+      "url": "https://chromium.googlesource.com/chromium/src/+/refs/heads/main/chrome/browser/sharing/sharing_vapid_key_manager.cc",
+      "status": "La herramienta web no pudo acceder; no se usa como evidencia."
+    },
+    {
+      "url": "https://chromium.googlesource.com/chromium/src/+/refs/heads/main/chrome/browser/sharing/sharing_sync_preference.cc",
+      "status": "La herramienta web no pudo acceder; no se usa como evidencia."
+    },
+    {
+      "url": "https://chromium.googlesource.com/chromium/src/+/refs/heads/main/components/sharing_message/sharing_vapid_key_manager.h",
+      "status": "La herramienta web no pudo acceder; no se usa como evidencia."
+    },
+    {
+      "url": "https://chromium.googlesource.com/chromium/src/+/refs/heads/main/components/sharing_message/sharing_sync_preference.cc",
+      "status": "La herramienta web no pudo acceder; no se usa como evidencia."
+    },
+    {
+      "url": "https://chromium.googlesource.com/chromium/src/+/refs/heads/main/components/sharing_message/sharing_vapid_key_manager.cc",
+      "status": "La herramienta web no pudo acceder; no se usa como evidencia."
+    },
+    {
+      "url": "https://chromium.googlesource.com/chromium/src/+/refs/tags/137.0.7151.130/components/sharing_message/sharing_vapid_key_manager.h",
+      "status": "La herramienta web no pudo acceder; no se usa como evidencia."
+    },
+    {
+      "url": "https://chromium.googlesource.com/chromium/src/+/refs/tags/137.0.7151.130/components/sharing_message/sharing_vapid_key_manager.cc",
+      "status": "La herramienta web no pudo acceder; no se usa como evidencia."
+    },
+    {
+      "url": "https://chromium.googlesource.com/chromium/src/+/refs/tags/137.0.7151.130/base/json/values_util.cc",
+      "status": "La herramienta web no pudo acceder; no se usa como evidencia."
+    }
+  ]
+}

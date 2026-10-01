@@ -1,0 +1,58 @@
+[{
+  "subscription": {
+    "doc": {
+      "documentType": "Subscription",
+      "title": "Facebook Plus (Facebook)"
+    },
+    "expirationDate": "2026-07-03T04:44:57.785Z",
+    "pricing": [{
+      "period": {
+        "unit": "MONTH",
+        "count": 1
+      },
+      "price": "MXN 0.00",
+      "repeatedPricing": false
+    }, {
+      "period": {
+        "unit": "MONTH",
+        "count": 1
+      },
+      "price": "MXN 39.00",
+      "repeatedPricing": true
+    }],
+    "userChangeRecord": [{
+      "date": "2026-07-15T17:02:09.068Z",
+      "type": "Cancel"
+    }],
+    "state": "Canceled"
+  }
+},
+{
+  "subscription": {
+    "doc": {
+      "documentType": "Subscription",
+      "title": "Facebook Plus (Facebook)"
+    },
+    "expirationDate": "2026-07-03T04:44:57.785Z",
+    "pricing": [{
+      "period": {
+        "unit": "MONTH",
+        "count": 1
+      },
+      "price": "MXN 0.00",
+      "repeatedPricing": false
+    }, {
+      "period": {
+        "unit": "MONTH",
+        "count": 1
+      },
+      "price": "MXN 39.00",
+      "repeatedPricing": true
+    }],
+    "userChangeRecord": [{
+      "date": "2026-07-15T17:02:09.068Z",
+      "type": "Cancel"
+    }],
+    "state": "Canceled"
+  }
+}]

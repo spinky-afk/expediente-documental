@@ -1,0 +1,25 @@
+{
+  "consulted_on": "2026-10-01",
+  "sources": [
+    {
+      "id": "G01",
+      "title": "GitHub: creación de cuenta",
+      "url": "https://docs.github.com/en/account-and-profile/how-tos/account-management/creating-an-account-on-github",
+      "notes": "Una cuenta personal requiere correo verificado. No se ha creado una cuenta desde este entorno.",
+      "consulted_on": "2026-10-01"
+    },
+    {
+      "id": "G02",
+      "title": "GitHub Pages: visibilidad y control de acceso",
+      "url": "https://docs.github.com/en/enterprise-cloud%40latest/pages/getting-started-with-github-pages/changing-the-visibility-of-your-github-pages-site",
+      "notes": "Pages privado requiere un sitio de proyecto de una organización con GitHub Enterprise Cloud; un repositorio privado por sí solo no restringe el sitio.",
+      "consulted_on": "2026-10-01"
+    }
+  ],
+  "queries": [
+    "site.docs.github.com GitHub Pages private publishing access control organization Enterprise Cloud",
+    "site.docs.github.com creating an account on GitHub verifying email"
+  ],
+  "account_reported_by_user": "spinky-afk",
+  "remote_changes": []
+}

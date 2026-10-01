@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.clave*
+*clave-respaldo-github-local*
+*.pem
+.env
+.env.*

@@ -1,0 +1,228 @@
+[
+  {
+    "id": "W01",
+    "title": "El protocolo de envío web — web.dev",
+    "url": "https://web.dev/articles/push-notifications-web-push-protocol?hl=es-419",
+    "relationship": "Visita histórica encontrada y lectura actual realizada.",
+    "notes": "Explica claves del servidor, JWT, suscripciones y cifrado. Algunos ejemplos usan encabezados y aesgcm de una versión anterior; contrastarlos con W03 y W04.",
+    "consulted_on": "2026-10-01"
+  },
+  {
+    "id": "W02",
+    "title": "Web Push Notifications through VAPID method — Carlos Ribeiro, bawilabs",
+    "url": "https://medium.com/bawilabs/web-push-notifications-through-vapid-method-7d4d6927a006",
+    "relationship": "Visita histórica encontrada; se confirmó título, autor y fecha de publicación.",
+    "notes": "Publicado el 20 de noviembre de 2018. Referencia histórica del recorrido del usuario; las explicaciones técnicas de este registro se fundamentan en fuentes primarias.",
+    "consulted_on": "2026-10-01"
+  },
+  {
+    "id": "W03",
+    "title": "RFC 8292 — Voluntary Application Server Identification (VAPID) for Web Push",
+    "url": "https://www.rfc-editor.org/rfc/rfc8292.html",
+    "relationship": "Referencia primaria adicional consultada durante esta investigación; no es una visita recuperada del historial.",
+    "notes": "Define identificación del servidor con JWT y ECDSA P-256/ES256, aud/exp y el esquema Authorization: vapid con parámetros t y k.",
+    "consulted_on": "2026-10-01"
+  },
+  {
+    "id": "W04",
+    "title": "RFC 8291 — Message Encryption for Web Push",
+    "url": "https://www.rfc-editor.org/rfc/rfc8291.html",
+    "relationship": "Referencia primaria adicional consultada durante esta investigación.",
+    "notes": "Explica cifrado de extremo a extremo, ECDH, secreto de autenticación de suscripción y aes128gcm. Separa el cifrado de la identificación VAPID.",
+    "consulted_on": "2026-10-01"
+  },
+  {
+    "id": "W05",
+    "title": "Chromium — SharingSyncPreference, versión 137.0.7151.130",
+    "url": "https://chromium.googlesource.com/chromium/src/%2B/refs/tags/137.0.7151.130/components/sharing_message/sharing_sync_preference.cc",
+    "relationship": "Código primario consultado para interpretar el campo encontrado; no procede del historial personal.",
+    "notes": "GetVapidKey decodifica vapid_private_key desde Base64; SetVapidKey guarda esa clave y vapid_creation_timestamp. El componente administra preferencias sharing, datos FCM y dispositivos sincronizados.",
+    "consulted_on": "2026-10-01"
+  },
+  {
+    "id": "W06",
+    "title": "Chromium — nombre de preferencia sharing.vapid_key",
+    "url": "https://chromium.googlesource.com/chromium/src/%2B/a73140559ea8872c19acf6d190aacf1a46eef99b/chrome/common/pref_names.h",
+    "relationship": "Resultado de búsqueda primaria revisado para identificar el nombre de preferencia.",
+    "notes": "Declara kSharingVapidKey con el nombre sharing.vapid_key; la interpretación detallada se apoya en W05.",
+    "consulted_on": "2026-10-01"
+  },
+  {
+    "id": "W07",
+    "title": "Chromium — SharingSyncPreference, revisión c18a333f",
+    "url": "https://chromium.googlesource.com/chromium/src/%2B/c18a333f058a6f3a60dfc635b08f29fa6b4e7f81/chrome/browser/sharing/sharing_sync_preference.cc",
+    "relationship": "Resultado de búsqueda primaria revisado; posteriormente se abrió W05.",
+    "notes": "El fragmento encontrado relaciona vapid_private_key y vapid_creation_timestamp con preferencias sharing.",
+    "consulted_on": "2026-10-01"
+  },
+  {
+    "id": "W08",
+    "title": "Chromium — SharingSyncPreference, revisión cd9d08a4",
+    "url": "https://chromium.googlesource.com/chromium/src/%2B/cd9d08a4c4086bdac4d36c313e2b785776e8377d/chrome/browser/sharing/sharing_sync_preference.cc",
+    "relationship": "Resultado de búsqueda primaria revisado.",
+    "notes": "Implementación adicional de las funciones de almacenamiento de VAPID.",
+    "consulted_on": "2026-10-01"
+  },
+  {
+    "id": "W09",
+    "title": "Chromium experimental — SharingSyncPreference, versión 82.0.4053.0",
+    "url": "https://chromium.googlesource.com/experimental/chromium/src/%2B/refs/tags/82.0.4053.0/chrome/browser/sharing/sharing_sync_preference.cc",
+    "relationship": "Resultado de búsqueda primaria revisado.",
+    "notes": "Referencia histórica; no se utiliza para afirmar la versión de Chrome de esta cuenta.",
+    "consulted_on": "2026-10-01"
+  },
+  {
+    "url": "https://support.google.com/accounts/answer/7162782?hl=es-419",
+    "role": "Página cuyo destino aparece en la actividad del 29-08-2026. Se leyó su contenido actual.",
+    "summary": "Describe verificar identidad para acciones sensibles. El texto actual menciona documentos de identidad vinculados y, en otro apartado, acelerar la confianza en métodos con llaves de acceso o seguridad. No establece un método más rápido mediante una imagen.",
+    "consulted_on": "2026-10-01",
+    "id": "I01",
+    "title": "Página cuyo destino aparece en la actividad del 29-08-2026. Se leyó su contenido actual."
+  },
+  {
+    "url": "https://support.google.com/accounts/answer/7026266?hl=es-419",
+    "role": "Página cuyo destino aparece en la actividad del 11-09-2026. Se leyó su contenido actual.",
+    "summary": "Describe confirmar el acceso con notificaciones en el teléfono; no es un procedimiento de validación con imágenes.",
+    "consulted_on": "2026-10-01",
+    "id": "I02",
+    "title": "Página cuyo destino aparece en la actividad del 11-09-2026. Se leyó su contenido actual."
+  },
+  {
+    "url": "https://support.google.com/accounts/answer/16761564",
+    "role": "Enlace seguido desde el artículo sobre verificar identidad. No se encontró como visita en Búsqueda, Chrome o Ayuda.",
+    "summary": "El acceso redirigió al índice de información general de seguridad, topic/7189123; no permitió comprobar el artículo de documento de identidad.",
+    "consulted_on": "2026-10-01",
+    "id": "I03",
+    "title": "Enlace seguido desde el artículo sobre verificar identidad. No se encontró como visita en Búsqueda, Chrome o Ayuda."
+  },
+  {
+    "url": "https://support.google.com/accounts/answer/7684753",
+    "role": "Enlace seguido desde el apartado de acelerar la confianza. No se encontró como visita en Búsqueda, Chrome o Ayuda.",
+    "summary": "La página actual explica acelerar la confianza con una llave previamente confiable y que los mensajes al teléfono son más rápidos que introducir un código. No describe una validación con una imagen.",
+    "consulted_on": "2026-10-01",
+    "id": "I04",
+    "title": "Enlace seguido desde el apartado de acelerar la confianza. No se encontró como visita en Búsqueda, Chrome o Ayuda."
+  },
+  {
+    "id": "F01",
+    "title": "Meta: historial cifrado y almacenamiento seguro de Messenger",
+    "url": "https://about.fb.com/news/2024/03/end-to-end-encryption-on-messenger-explained/",
+    "status": "contenido verificado",
+    "relationship": "Referencia consultada ahora; no es una visita recuperada del historial.",
+    "notes": "El almacenamiento seguro permite recuperar conversaciones cifradas en otros dispositivos mediante un PIN de seis dígitos o una clave guardada en Google Drive o iCloud.",
+    "consulted_on": "2026-10-01"
+  },
+  {
+    "id": "F02",
+    "title": "Google: configuración avanzada e ID del Perfil de Negocio",
+    "url": "https://support.google.com/business/answer/10737668?hl=es-419",
+    "status": "contenido verificado",
+    "relationship": "Referencia consultada ahora; no es una visita recuperada del historial.",
+    "notes": "El ID identifica una ficha de negocio en Google. Se consulta en Más, Configuración del Perfil de Negocio, Configuración avanzada.",
+    "consulted_on": "2026-10-01"
+  },
+  {
+    "id": "F03",
+    "title": "Google: encontrar una empresa en Búsqueda y Maps",
+    "url": "https://support.google.com/business/answer/145585?hl=es-419",
+    "status": "contenido verificado",
+    "relationship": "Referencia consultada ahora; no es una visita recuperada del historial.",
+    "notes": "Con la cuenta asociada se puede encontrar el perfil buscando el nombre y ciudad o mi negocio; también mediante Maps.",
+    "consulted_on": "2026-10-01"
+  },
+  {
+    "id": "F04",
+    "title": "Messenger: ayuda sobre descarga del historial cifrado",
+    "url": "https://www.facebook.com/help/messenger-app/677912386869109",
+    "status": "acceso bloqueado o redirigido a inicio de sesión; contenido no verificado",
+    "relationship": "Intento de consulta actual, no utilizado para afirmar instrucciones de descarga.",
+    "notes": "No se inventa una secuencia de menús a partir de esta página inaccesible.",
+    "consulted_on": "2026-10-01"
+  },
+  {
+    "id": "P01",
+    "title": "Google Fotos: metadatos al exportar",
+    "url": "https://support.google.com/photos/answer/3024190?hl=es",
+    "status": "contenido verificado",
+    "relationship": "Consulta actual; no visita recuperada del historial.",
+    "notes": "Distingue la fecha de archivo que puede asignar el sistema al descargar, metadatos originales insertados y datos adicionales en un JSON secundario.",
+    "consulted_on": "2026-10-01"
+  },
+  {
+    "id": "P02",
+    "title": "Google: medios de una ubicación de Perfil de Negocio",
+    "url": "https://developers.google.com/my-business/reference/rest/v4/accounts.locations.media",
+    "status": "contenido verificado",
+    "relationship": "Consulta actual de API oficial; no prueba una vinculación particular del usuario.",
+    "notes": "El recurso MediaItem tiene un nombre con accountId, locationId y mediaKey; la asociación de medios a una ubicación se representa explícitamente.",
+    "consulted_on": "2026-10-01"
+  },
+  {
+    "id": "P03",
+    "title": "Meta: información de actividad compartida por apps y sitios",
+    "url": "https://about.fb.com/news/2019/08/off-facebook-activity/",
+    "status": "contenido verificado",
+    "relationship": "Consulta actual para interpretar actividad fuera de Meta.",
+    "notes": "Los sitios y apps envían información de interacción a Meta mediante herramientas empresariales, que puede asociarse a una cuenta para publicidad. No equivale al texto de un mensaje al comercio.",
+    "consulted_on": "2026-10-01"
+  },
+  {
+    "id": "P04",
+    "title": "Hermes Agent: pasarela de mensajería y autorizaciones",
+    "url": "https://hermes-agent.nousresearch.com/docs/user-guide/messaging",
+    "status": "contenido verificado",
+    "relationship": "El destino sí aparece en el historial del 20-09-2026 21:44:31; se leyó el contenido actual.",
+    "notes": "La pasarela utiliza listas de usuarios autorizados o emparejamiento. Los IDs se interpretan dentro de cada plataforma, sin una equivalencia documentada con IDs de Etsy o Clarín.",
+    "consulted_on": "2026-10-01"
+  },
+  {
+    "id": "P05",
+    "title": "TrustBuilder Authenticator móvil: QR y activación",
+    "url": "https://docs.trustbuilder.com/mfa/trustbuilder-authenticator-mobile-app",
+    "status": "contenido verificado",
+    "relationship": "Referencia adicional actual; la aplicación y myinwebo.com sí figuran en el historial.",
+    "notes": "Permite autenticación mediante QR, notificación u OTP según configuración; para añadir una cuenta requiere un código o QR de activación válido.",
+    "consulted_on": "2026-10-01"
+  },
+  {
+    "id": "P06",
+    "title": "TrustBuilder: parámetros de la autenticación con QR",
+    "url": "https://docs.trustbuilder.com/mfa/web-sdk-qr-code-authentication",
+    "status": "contenido verificado",
+    "relationship": "Referencia adicional actual; no visita recuperada del historial.",
+    "notes": "El SDK usa sessionId, login y serviceId. Son parámetros propios del servicio de autenticación; no se ha encontrado un serviceId del usuario en esta exportación.",
+    "consulted_on": "2026-10-01"
+  },
+  {
+    "id": "P07",
+    "title": "Google Fotos: información IPTC/IA",
+    "url": "https://support.google.com/photos/answer/15532903?hl=en",
+    "status": "resultado de búsqueda oficial revisado; apertura en español fallida",
+    "relationship": "Consulta adicional; no usada para confirmar asociaciones a negocios.",
+    "notes": "El resultado oficial menciona información IPTC editable. La apertura de la variante española devolvió error.",
+    "consulted_on": "2026-10-01"
+  },
+  {
+    "id": "P08",
+    "title": "Meta: ayuda sobre actividad fuera de Meta",
+    "url": "https://www.facebook.com/help/2207256696182627",
+    "status": "redirección a inicio de sesión; sin contenido verificado",
+    "relationship": "Intento actual; la interpretación se apoya en P03.",
+    "notes": "No se usa como evidencia del funcionamiento interno de los identificadores.",
+    "consulted_on": "2026-10-01"
+  },
+  {
+    "id": "G01",
+    "title": "GitHub: creación de cuenta",
+    "url": "https://docs.github.com/en/account-and-profile/how-tos/account-management/creating-an-account-on-github",
+    "notes": "Una cuenta personal requiere correo verificado. No se ha creado una cuenta desde este entorno.",
+    "consulted_on": "2026-10-01"
+  },
+  {
+    "id": "G02",
+    "title": "GitHub Pages: visibilidad y control de acceso",
+    "url": "https://docs.github.com/en/enterprise-cloud%40latest/pages/getting-started-with-github-pages/changing-the-visibility-of-your-github-pages-site",
+    "notes": "Pages privado requiere un sitio de proyecto de una organización con GitHub Enterprise Cloud; un repositorio privado por sí solo no restringe el sitio.",
+    "consulted_on": "2026-10-01"
+  }
+]

@@ -1,0 +1,246 @@
+[{
+  "device": {
+    "mostRecentData": {
+      "advertisedMemoryBytes": "8000000000",
+      "carrierName": "WALMART",
+      "playStoreClientVersion": 85322340,
+      "manufacturer": "Xiaomi",
+      "modelName": "23129RA5FL",
+      "deviceName": "sapphire",
+      "productName": "sapphire_global",
+      "retailBrand": "Redmi",
+      "totalMemoryBytes": "5878398976",
+      "nativePlatform": ["arm64-v8a", "armeabi-v7a", "armeabi"],
+      "deviceIpCountry": "MX",
+      "userLocale": "es_US",
+      "buildFingerprint": "Redmi/sapphire_global/sapphire:15/AQ3A.240829.003/OS2.0.212.0.VNGMIXM:user/release-keys",
+      "androidSdkVersion": "35"
+    },
+    "deviceRegistrationTime": "2026-09-26T06:18:08.106Z",
+    "userAddedOnDeviceTime": "2026-09-26T22:33:57.750Z",
+    "lastTimeDeviceActive": "2026-09-27T01:49:39.217989Z"
+  }
+},
+{
+  "device": {
+    "mostRecentData": {
+      "advertisedMemoryBytes": "8000000000",
+      "carrierName": "WALMART",
+      "playStoreClientVersion": 85322340,
+      "manufacturer": "Xiaomi",
+      "modelName": "23129RA5FL",
+      "deviceName": "sapphire",
+      "productName": "sapphire_global",
+      "retailBrand": "Redmi",
+      "totalMemoryBytes": "5878398976",
+      "nativePlatform": ["arm64-v8a", "armeabi-v7a", "armeabi"],
+      "deviceIpCountry": "MX",
+      "userLocale": "es_US",
+      "buildFingerprint": "Redmi/sapphire_global/sapphire:15/AQ3A.240829.003/OS2.0.212.0.VNGMIXM:user/release-keys",
+      "androidSdkVersion": "35"
+    },
+    "deviceRegistrationTime": "2026-09-24T23:43:22.477Z",
+    "userAddedOnDeviceTime": "2026-09-24T23:43:22.478Z",
+    "lastTimeDeviceActive": "2026-09-24T23:43:22.600587Z"
+  }
+},
+{
+  "device": {
+    "mostRecentData": {
+      "advertisedMemoryBytes": "8000000000",
+      "carrierName": "WALMART",
+      "playStoreClientVersion": 85302740,
+      "manufacturer": "Xiaomi",
+      "modelName": "23129RA5FL",
+      "deviceName": "sapphire",
+      "productName": "sapphire_global",
+      "retailBrand": "Redmi",
+      "totalMemoryBytes": "5878398976",
+      "nativePlatform": ["arm64-v8a", "armeabi-v7a", "armeabi"],
+      "deviceIpCountry": "MX",
+      "userLocale": "es_US",
+      "buildFingerprint": "Redmi/sapphire_global/sapphire:15/AQ3A.240829.003/OS2.0.212.0.VNGMIXM:user/release-keys",
+      "androidSdkVersion": "35"
+    },
+    "deviceRegistrationTime": "2026-09-12T15:42:29.032Z",
+    "userAddedOnDeviceTime": "2026-09-12T15:42:29.032Z",
+    "lastTimeDeviceActive": "2026-09-20T23:43:38.882849Z"
+  }
+},
+{
+  "device": {
+    "mostRecentData": {
+      "advertisedMemoryBytes": "8000000000",
+      "carrierName": "WALMART",
+      "playStoreClientVersion": 85302740,
+      "manufacturer": "Xiaomi",
+      "modelName": "23129RA5FL",
+      "deviceName": "sapphire",
+      "productName": "sapphire_global",
+      "retailBrand": "Redmi",
+      "totalMemoryBytes": "5878394880",
+      "nativePlatform": ["arm64-v8a", "armeabi-v7a", "armeabi"],
+      "deviceIpCountry": "MX",
+      "userLocale": "es_US",
+      "buildFingerprint": "Redmi/sapphire_global/sapphire:15/AQ3A.240829.003/OS2.0.212.0.VNGMIXM:user/release-keys",
+      "androidSdkVersion": "35"
+    },
+    "deviceRegistrationTime": "2025-01-18T08:47:11.737Z",
+    "userAddedOnDeviceTime": "2026-05-18T08:47:27.936Z",
+    "lastTimeDeviceActive": "2026-09-12T14:53:12.132411Z"
+  }
+},
+{
+  "device": {
+    "mostRecentData": {
+      "carrierName": "Telcel",
+      "playStoreClientVersion": 85013330,
+      "manufacturer": "TEM",
+      "modelName": "X5",
+      "deviceName": "X5",
+      "productName": "X5",
+      "retailBrand": "LANIX",
+      "totalMemoryBytes": "2026123264",
+      "nativePlatform": ["armeabi-v7a", "armeabi"],
+      "deviceIpCountry": "MX",
+      "userLocale": "es_US",
+      "buildFingerprint": "LANIX/X5/X5:13/TP1A.220624.014/X5_OPEN_SW_06:user/release-keys",
+      "androidSdkVersion": "33"
+    },
+    "deviceRegistrationTime": "2026-01-12T22:55:26.453Z",
+    "userAddedOnDeviceTime": "2026-01-12T22:55:26.453Z",
+    "lastTimeDeviceActive": "2026-02-21T18:42:38.184764Z"
+  }
+},
+{
+  "device": {
+    "mostRecentData": {
+      "carrierName": "WALMART",
+      "playStoreClientVersion": 85002330,
+      "manufacturer": "Xiaomi",
+      "modelName": "220733SFG",
+      "deviceName": "snow",
+      "productName": "snow_global",
+      "retailBrand": "Redmi",
+      "totalMemoryBytes": "1920684032",
+      "nativePlatform": ["armeabi-v7a", "armeabi"],
+      "deviceIpCountry": "MX",
+      "userLocale": "es_US",
+      "buildFingerprint": "Redmi/snow_global/snow:12/SP1A.210812.016/V13.0.23.0.SGMMIXM:user/release-keys",
+      "androidSdkVersion": "31"
+    },
+    "deviceRegistrationTime": "2026-01-12T21:59:37.897Z",
+    "userAddedOnDeviceTime": "2026-01-12T21:59:37.897Z",
+    "lastTimeDeviceActive": "2026-02-07T07:53:43.460983Z"
+  }
+},
+{
+  "device": {
+    "mostRecentData": {
+      "carrierName": "WALMART",
+      "playStoreClientVersion": 84924930,
+      "manufacturer": "Xiaomi",
+      "modelName": "220733SFG",
+      "deviceName": "snow",
+      "productName": "snow_global",
+      "retailBrand": "Redmi",
+      "totalMemoryBytes": "1920684032",
+      "nativePlatform": ["armeabi-v7a", "armeabi"],
+      "deviceIpCountry": "MX",
+      "userLocale": "es_US",
+      "buildFingerprint": "Redmi/snow_global/snow:12/SP1A.210812.016/V13.0.23.0.SGMMIXM:user/release-keys",
+      "androidSdkVersion": "31"
+    },
+    "deviceRegistrationTime": "2026-01-12T14:00:38.067Z",
+    "userAddedOnDeviceTime": "2026-01-12T14:00:38.067Z",
+    "lastTimeDeviceActive": "2026-01-12T14:07:03.601470Z"
+  }
+},
+{
+  "device": {
+    "mostRecentData": {
+      "carrierName": "Telcel",
+      "playStoreClientVersion": 84924730,
+      "manufacturer": "TEM",
+      "modelName": "X5",
+      "deviceName": "X5",
+      "productName": "X5",
+      "retailBrand": "LANIX",
+      "totalMemoryBytes": "2026123264",
+      "nativePlatform": ["armeabi-v7a", "armeabi"],
+      "deviceIpCountry": "MX",
+      "userLocale": "es_US",
+      "buildFingerprint": "LANIX/X5/X5:13/TP1A.220624.014/X5_OPEN_SW_06:user/release-keys",
+      "androidSdkVersion": "33"
+    },
+    "deviceRegistrationTime": "2026-01-12T13:43:24.975Z",
+    "userAddedOnDeviceTime": "2026-01-12T13:43:24.975Z",
+    "lastTimeDeviceActive": "2026-01-12T13:43:29.908366Z"
+  }
+},
+{
+  "device": {
+    "mostRecentData": {
+      "carrierName": "Telcel",
+      "playStoreClientVersion": 84924730,
+      "manufacturer": "TEM",
+      "modelName": "X5",
+      "deviceName": "X5",
+      "productName": "X5",
+      "retailBrand": "LANIX",
+      "totalMemoryBytes": "2026123264",
+      "nativePlatform": ["armeabi-v7a", "armeabi"],
+      "deviceIpCountry": "MX",
+      "userLocale": "es_US",
+      "buildFingerprint": "LANIX/X5/X5:13/TP1A.220624.014/X5_OPEN_SW_06:user/release-keys",
+      "androidSdkVersion": "33"
+    },
+    "deviceRegistrationTime": "2026-01-12T10:29:59.660Z",
+    "userAddedOnDeviceTime": "2026-01-12T10:29:59.660Z",
+    "lastTimeDeviceActive": "2026-01-12T10:29:59.792128Z"
+  }
+},
+{
+  "device": {
+    "mostRecentData": {
+      "carrierName": "WALMART",
+      "playStoreClientVersion": 84961930,
+      "manufacturer": "Xiaomi",
+      "modelName": "220733SFG",
+      "deviceName": "snow",
+      "productName": "snow_global",
+      "retailBrand": "Redmi",
+      "totalMemoryBytes": "1920684032",
+      "nativePlatform": ["armeabi-v7a", "armeabi"],
+      "deviceIpCountry": "MX",
+      "userLocale": "es_419",
+      "buildFingerprint": "Redmi/snow_global/snow:12/SP1A.210812.016/V13.0.23.0.SGMMIXM:user/release-keys",
+      "androidSdkVersion": "31"
+    },
+    "deviceRegistrationTime": "2025-10-18T20:28:26.541Z",
+    "userAddedOnDeviceTime": "2025-10-18T20:28:26.541Z",
+    "lastTimeDeviceActive": "2026-01-12T00:04:18.569233Z"
+  }
+},
+{
+  "device": {
+    "mostRecentData": {
+      "carrierName": "Telcel",
+      "playStoreClientVersion": 84924730,
+      "manufacturer": "TEM",
+      "modelName": "X5",
+      "deviceName": "X5",
+      "productName": "X5",
+      "retailBrand": "LANIX",
+      "totalMemoryBytes": "2026123264",
+      "nativePlatform": ["armeabi-v7a", "armeabi"],
+      "deviceIpCountry": "MX",
+      "userLocale": "es_US",
+      "buildFingerprint": "LANIX/X5/X5:13/TP1A.220624.014/X5_OPEN_SW_06:user/release-keys",
+      "androidSdkVersion": "33"
+    },
+    "deviceRegistrationTime": "2025-11-22T20:55:56.994Z",
+    "userAddedOnDeviceTime": "2025-11-22T20:55:56.994Z",
+    "lastTimeDeviceActive": "2026-01-10T17:43:36.869245Z"
+  }
+}]

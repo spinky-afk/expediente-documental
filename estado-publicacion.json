@@ -1,0 +1,16 @@
+{
+  "updated_at_utc": "2026-10-01T15:29:00.904637+00:00",
+  "preferred_account_name": "spinky-afk",
+  "account_created": true,
+  "github_connected": false,
+  "remote_repository": null,
+  "repository_required_visibility": "private",
+  "site_publication": "pending",
+  "pages_enabled": false,
+  "raw_originals": 845,
+  "plain_originals": 844,
+  "encrypted_originals": 1,
+  "timeline_observations": 26871,
+  "timeline_sources": 482,
+  "known_private_key_files_encrypted": 4
+}
