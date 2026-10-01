@@ -1,5 +1,4 @@
 {
-  "observed_at_utc": "2026-10-01T19:12:00+00:00",
   "method": "lsusb e idevice_id/ideviceinfo mediante USB; acceso de lectura a metadatos, sin crear ni restaurar una copia",
   "usb_vendor_product": "05ac:12a8",
   "device_udid": "0e9514aadce17f56954e9453e6fd8e88dc88d0c6",
@@ -16,5 +15,9 @@
   "shortcuts_extracted": false,
   "icloud_backup_downloaded": false,
   "local_Manifest_db_found_in_searched_paths": false,
-  "backup_date_interpretation": "2026-09-30T16:56:23-06:00, usando CFAbsoluteTime (referencia 2001-01-01 UTC); inferencia de formato a confirmar en el teléfono. El valor no prueba disponibilidad actual del respaldo."
+  "backup_date_interpretation": "2026-09-30T16:56:23-06:00, usando CFAbsoluteTime (referencia 2001-01-01 UTC); inferencia de formato a confirmar en el teléfono. El valor no prueba disponibilidad actual del respaldo.",
+  "observed_on": "2026-10-01",
+  "observation_time_precision": "date_only",
+  "user_clarification": "No tengo copia local; creo que al dar respaldo se actualiza.",
+  "backup_started": false
 }

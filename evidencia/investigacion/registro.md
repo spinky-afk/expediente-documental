@@ -1942,3 +1942,6 @@ El estado remoto verificado y la hora de publicación se registran en estado-pub
 
 
 Publicación GitHub comprobada: https://github.com/spinky-afk/expediente-documental · privado · 2026-10-01T19:46:08.573148+00:00 · commit 60c2b1c5ec861583068127ac9871910d853b3f04. Git y LFS terminaron correctamente; la referencia remota main coincide.
+
+
+Aclaración posterior del propietario: no tiene copia local del iPhone y teme actualizar el respaldo existente. Se explicó la diferencia entre copia local e iCloud y cómo consultar Safari en iOS 16. No se inició copia, restauración ni borrado. La hora exacta de la lectura USB no quedó capturada; su fecha se conserva con precisión de día para evitar una hora inventada.

@@ -4,7 +4,7 @@
   "private_data_exclusions": [],
   "original_files": 858,
   "research_files": 1633,
-  "bytes": 643708556,
+  "bytes": 643709240,
   "files": [
     {
       "source_path": "/home/deep-logic/Documentos/Registro/Takeout/Actividad del registro de acceso/Dispositivos_ Una lista de los dispositivos (p. ej., Nest, Pixel, iPhone, Galaxy, etc.) que accedieron a tu Cuenta de Google durante los últimos 270 días.csv",
@@ -17020,8 +17020,8 @@
       "source_path": "/home/deep-logic/ai-lab/research/vapid-webpush/datos/iphone-usb-y-respaldo.json",
       "repository_path": "evidencia/investigacion/datos/iphone-usb-y-respaldo.json",
       "kind": "research",
-      "bytes": 918,
-      "sha256": "57d3a456e3045a7669c35d96ace9e8e6ba9ce535a63bb72c2448acc38d78f757"
+      "bytes": 1059,
+      "sha256": "df6f9c8c8ed37f5c7314a057484393a4c4109af1fc769651d1f1d17c77f4e96a"
     },
     {
       "source_path": "/home/deep-logic/ai-lab/research/vapid-webpush/datos/juegos-perfiles-respaldo.json",
@@ -17244,8 +17244,8 @@
       "source_path": "/home/deep-logic/ai-lab/research/vapid-webpush/privado/iphone-usb-observacion-original.json",
       "repository_path": "evidencia/investigacion/privado/iphone-usb-observacion-original.json",
       "kind": "research",
-      "bytes": 979,
-      "sha256": "a6ff881243cc4413e6cbc48b2f8df6ea9ed1dd9dc9341459bfa0eec30b6423c7"
+      "bytes": 1120,
+      "sha256": "092468bdf8b55d7350bbed2bbe9efb515096d1b6701f1fd1985a80939b055926"
     },
     {
       "source_path": "/home/deep-logic/ai-lab/research/vapid-webpush/privado/vapid-private.pem",
@@ -17265,8 +17265,8 @@
       "source_path": "/home/deep-logic/ai-lab/research/vapid-webpush/registro.md",
       "repository_path": "evidencia/investigacion/registro.md",
       "kind": "research",
-      "bytes": 158120,
-      "sha256": "574f746a785b4854b509900a3fbcf150a0b6a5ba0933cae0807647e0c9681360"
+      "bytes": 158500,
+      "sha256": "6edd636f884e7455b9ddd42120e7bf3ad1169d21c513e0c9f41501633dd2f810"
     },
     {
       "source_path": "/home/deep-logic/ai-lab/research/vapid-webpush/scripts/actualizar.py",
@@ -17300,8 +17300,8 @@
       "source_path": "/home/deep-logic/ai-lab/research/vapid-webpush/scripts/ampliar_iphone.py",
       "repository_path": "evidencia/investigacion/scripts/ampliar_iphone.py",
       "kind": "research",
-      "bytes": 5293,
-      "sha256": "b85f6268e98b8a036da198009e000532063ff9db2eb2b811734926ee423362ae"
+      "bytes": 5315,
+      "sha256": "01a0f97d67898250286bd0685e495666648fb1ce04cf3ed4dead489595cfef39"
     },
     {
       "source_path": "/home/deep-logic/ai-lab/research/vapid-webpush/scripts/ampliar_noche_dispositivos.py",
